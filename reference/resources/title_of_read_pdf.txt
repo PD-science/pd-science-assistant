@@ -1,0 +1,126 @@
+PD参考文献列表
+
+
+1. Singleton, A. et al. Parkinson’s disease: emerging opportunities through global collaboration. The Lancet S0140673625019105 (2025) doi:10.1016/S0140-6736(25)01910-5.
+2. Diaz-Galvan, P. et al. Association of Physical Exercise With Structural Brain Changes and Cognitive Decline in Patients With Early Parkinson Disease. Neurology 105, e213932 (2025).
+3. Quattrone, A. et al. Brain Atrophy Does Not Predict Clinical Progression in Progressive Supranuclear Palsy. Movement Disorders mds.70026 (2025) doi:10.1002/mds.70026.
+4. Peña-Bautista, C. et al. The association between plasma and MRI biomarkers in dementia with lewy bodies. Alz Res Therapy 17, 197 (2025).
+5. Schon, E., Matheoud, D. & Przedborski, S. The Mitochondrial Connection in Parkinson’s Disease. Cold Spring Harb Perspect Med a041891 (2025) doi:10.1101/cshperspect.a041891.
+6. Dixon, T. C. et al. Movement-responsive deep brain stimulation for Parkinson’s Disease using a remotely optimized neural decoder. Nat. Biomed. Eng https://doi.org/10.1101/2024.08.14.24312002 (2025) doi:10.1101/2024.08.14.24312002.
+7. Lee, S. J., Wang, C. & Hooker, J. Microglia matters: visualizing the immune battle in Parkinson’s disease. Journal of Clinical Investigation 135, e192919 (2025).
+8. Hswen, Y. & Anderer, S. A Large Proportion of Parkinson Disease Diagnoses Are Wrong—Here’s How AI Could Help. JAMA https://doi.org/10.1001/jama.2025.3276 (2025) doi:10.1001/jama.2025.3276.
+9. Zhao, H. et al. A Fully Integrated Wearable Sweat Sensing Patch for Online Analysis of Multiple Parkinson’s Disease‐Related Biomarkers. Advanced Materials 2504534 (2025) doi:10.1002/adma.202504534.
+10. Erro, R., Sorrentino, C. & Barone, P. Plastamination: A Rising Concern for Parkinson’s Disease. Movement Disorders mds.30253 (2025) doi:10.1002/mds.30253.
+11. Wong, J. K., Horn, A., Middlebrooks, E. H., Burns, M. R. & Okun, M. S. A Convergent Pathway for Stimulation‐Induced Dyskinesia Following Deep Brain Stimulation. Movement Disorders mds.30251 (2025) doi:10.1002/mds.30251.
+12. Lange, F. et al. Computer vision uncovers three fundamental dimensions of levodopa-responsive motor improvement in Parkinson’s disease. npj Parkinsons Dis. 11, 140 (2025).
+13. Dagum, P. et al. A wireless device for continuous measurement of brain parenchymal resistance tracks glymphatic function in humans. Nat. Biomed. Eng https://doi.org/10.1038/s41551-025-01394-9 (2025) doi:10.1038/s41551-025-01394-9.
+14. Tinazzi, M. et al. Advances in diagnosis, classification, and management of pain in Parkinson’s disease. The Lancet Neurology 24, 331–347 (2025).
+15. Lim, S.-Y. et al. The Genetic Epidemiology of Parkinson’s Disease view – Authors’ reply. The Lancet Neurology 24, 285–286 (2025).
+16. Koss, D. J. et al. A reciprocal relationship between markers of genomic DNA damage and alpha-synuclein pathology in dementia with Lewy bodies. Mol Neurodegeneration 20, 34 (2025).
+17. Darmani, G. et al. Individualized non-invasive deep brain stimulation of the basal ganglia using transcranial ultrasound stimulation. Nat Commun 16, 2693 (2025).
+18. Vaillancourt, D. E. et al. Automated Imaging Differentiation for Parkinsonism. JAMA Neurol https://doi.org/10.1001/jamaneurol.2025.0112 (2025) doi:10.1001/jamaneurol.2025.0112.
+19. Szunyogh, S., Carroll, E. & Wade-Martins, R. Recent developments in gene therapy for Parkinson’s disease. Molecular Therapy S1525001625002047 (2025) doi:10.1016/j.ymthe.2025.03.030.
+20. Petschner, T. et al. Chronic subthalamic nucleus deep brain stimulation reduces pathological TrkB aggregates in a Parkinson’s disease rat model. Transl Neurodegener 14, 11 (2025).
+21. Gan, Y.-H. et al. Large-scale proteomic analyses of incident Parkinson’s disease reveal new pathophysiological insights and potential biomarkers. Nat Aging https://doi.org/10.1038/s43587-025-00818-0 (2025) doi:10.1038/s43587-025-00818-0.
+22. Subramanian, I. Why advocates for Parkinson’s disease prevention are cheering a US ban on a dry cleaning solvent. BMJ r202 (2025) doi:10.1136/bmj.r202.
+23. Kiani, L. Parkinson disease pathology can originate in the kidney. Nat Rev Neurol https://doi.org/10.1038/s41582-025-01066-x (2025) doi:10.1038/s41582-025-01066-x.
+24. Acevedo, G. et al. VisionMD: an open-source tool for video-based analysis of motor function in movement disorders. npj Parkinsons Dis. 11, 27 (2025).
+25. Vijiaratnam, N. et al. Exenatide once a week versus placebo as a potential disease-modifying treatment for people with Parkinson’s disease in the UK: a phase 3, multicentre, double-blind, parallel-group, randomised, placebo-controlled trial. The Lancet S0140673624028083 (2025) doi:10.1016/S0140-6736(24)02808-3.
+26. Yuan, X. et al. Propagation of pathologic α-synuclein from kidney to brain may contribute to Parkinson’s disease. Nat Neurosci https://doi.org/10.1038/s41593-024-01866-2 (2025) doi:10.1038/s41593-024-01866-2.
+27. Wei, K. et al. The effect of L-dopa and DBS on cortical oscillations in Parkinson’s disease analyzed by hidden Markov model algorithm. NeuroImage 305, 120992 (2025).
+28. Cho, N., Kalia, L. V. & Kalia, S. K. Re-examining the pathobiological basis of gait dysfunction in Parkinson’s disease. Trends in Neurosciences S0166223625000165 (2025) doi:10.1016/j.tins.2025.01.002.
+29. Wu, K.-M. et al. Neuronal FAM171A2 mediates a-synuclein fibril uptake and drives Parkinson’s disease. Science (2025).
+30. MartÃ, R. Focused ultrasound therapy for movement disorders. The Lancet Neurol 24, (2025).
+31. Stocchi, F., Bravi, D., Emmi, A. & Antonini, A. Parkinson disease therapy: current strategies and future research priorities. Nat Rev Neurol 20, 695–707 (2024).
+32. Verma, A. & Goyal, A. Beyond insulin: The Intriguing role of GLP-1 in Parkinson’s disease. European Journal of Pharmacology 982, 176936 (2024).
+33. Tanner, C. M. & Ostrem, J. L. Parkinson’s Disease. N Engl J Med 391, 442–452 (2024).
+34. Zhu, J. et al. Temporal trends in the prevalence of Parkinson’s disease from 1980 to 2023: a systematic review and meta-analysis. The Lancet Healthy Longevity 5, e464–e479 (2024).
+35. Liu, Z. et al. Anionic nanoplastic contaminants promote Parkinson’s disease–associated α-synuclein aggregation. Science Advances 9, eadi8716 (2023).
+36. Jost, S. T. et al. Levodopa Dose Equivalency in Parkinson’s Disease: Updated Systematic Review and Proposals. Movement Disorders 38, 1236–1252 (2023).
+37. Zhang, W. et al. Efficacy of repetitive transcranial magnetic stimulation in Parkinson’s disease: A systematic review and meta-analysis of randomised controlled trials. eClinicalMedicine 52, 101589 (2022).
+38. Sharabi, Y., Vatine, G. D. & Ashkenazi, A. Parkinson’s disease outside the brain: targeting the autonomic nervous system. The Lancet Neurology 20, 868–876 (2021).
+39. Saranza, G. & Lang, A. E. Levodopa challenge test: indications, protocol, and guide. J Neurol 268, 3135–3143 (2021).
+40. Aarsland, D. et al. Parkinson disease-associated cognitive impairment. Nat Rev Dis Primers 7, 47 (2021).
+41. Xu, W. et al. The FAM171A2 gene is a key regulator of progranulin expression and modifies the risk of multiple neurodegenerative diseases. Sci. Adv. 6, eabb3063 (2020).
+42. Armstrong, M. J. & Okun, M. S. Diagnosis and Treatment of Parkinson Disease: A Review. JAMA 323, 548 (2020).
+43. Weiss, D. et al. Freezing of gait: understanding the complexity of an enigmatic phenomenon. Brain 143, 14–30 (2020).
+44. Horn, A. et al. Deep brain stimulation induced normalization of the human functional connectome in Parkinson’s disease. Brain 142, 3129–3143 (2019).
+45. Arkinson, C. & Walden, H. Parkin function in Parkinson’s disease. Science 360, 267–268 (2018).
+46. Ashkan, K., Rogers, P., Bergman, H. & Ughratdar, I. Insights into the mechanisms of deep brain stimulation. Nat Rev Neurol 13, 548–554 (2017).
+47. Przedborski, S. The two-century journey of Parkinson disease research. Nat Rev Neurosci 18, 251–259 (2017).
+48. Sampson, T. R. et al. Gut Microbiota Regulate Motor Deficits and Neuroinflammation in a Model of Parkinson’s Disease. Cell 167, 1469-1480.e12 (2016).
+49. Postuma, R. B. et al. MDS clinical diagnostic criteria for Parkinson’s disease: MDS-PD Clinical Diagnostic Criteria. Mov Disord. 30, 1591–1601 (2015).
+50. Chaudhuri, K. R. et al. King’s Parkinson’s disease pain scale, the first scale for pain in PD: An international validation: King’s PD Pain Scale Validation. Mov Disord. 30, 1623–1631 (2015).
+51. Kalia, L. V. & Lang, A. E. Parkinson’s disease. The Lancet 386, 896–912 (2015).
+52. Thenganatt, M. A. & Jankovic, J. Parkinson Disease Subtypes. JAMA Neurol 71, 499 (2014).
+53. Tomlinson, C. L. et al. Systematic review of levodopa dose equivalency reporting in Parkinson’s disease. Movement Disorders 25, 2649–2653 (2010).
+54. Deuschl, G. et al. A Randomized Trial of Deep-Brain Stimulation for Parkinson’s Disease. n engl j med (2006).
+55. Movement Disorder Society Task Force on Rating Scales for Parkinson’s Disease. The Unified Parkinson’s Disease Rating Scale (UPDRS): Status and recommendations. Movement Disorders 18, 738–750 (2003).
+56. Defer, G.-L. et al. Core assessment program for surgical interventional therapies in Parkinson’s disease (CAPSIT-PD). Mov. Disord. 14, 572–584 (1999).
+57. Graybiel, A. M. Surprises From the Basal Ganglia: Stop and Go Have New Meaning.
+
+
+
+2026年参考文献列表：
+
+1. Ninham, B., Battye, M. & Carlin, M. Gut, brain and the Glycocalyx: A portrait of Parkinsons disease. Advances in Colloid and Interface Science 353, 103880 (2026).
+2. Yang, C. et al. Transcranial temporal interference stimulation targeting the subthalamic region for motor symptoms in Parkinson’s disease: a pilot, randomised, double-blind, sham-controlled crossover study. eBioMedicine 127, 106245 (2026).
+3. Zhang, S. et al. Parkinson’s disease: pathogenesis and therapeutic strategies. Mol Biomed 7, 46 (2026).
+4. Zhang, L. et al. Genetically encoded fluorescent reporters to visualize α-synuclein pathology in live brain. Cell 189, 2108-2127.e21 (2026).
+5. Trinh, J., De Vries, N. M., Helmich, R. C. & Bloem, B. R. Lifestyle interventions for Parkinson’s disease – Authors’ reply. The Lancet Neurology 25, 337–338 (2026).
+6. McLellan, F. Miratul Muqit: leading an alliance to decode Parkinson’s disease. The Lancet Neurology 25, 343 (2026).
+7. Fyfe, I. Gut macrophages involved in Parkinson disease pathogenesis. Nat Rev Neurol 22, 207–207 (2026).
+8. Alibudbud, R. Lifestyle interventions for Parkinson’s disease. The Lancet Neurology 25, 336–337 (2026).
+9. Wise, J. Scientists turn plastic waste into Parkinson’s drug. BMJ 392, s616 (2026).
+10. Shao, Y. et al. Distinct metabolomic and proteomic signatures in Parkinson’s disease patients with REM sleep behavior disorder. Sig Transduct Target Ther 11, 115 (2026).
+11. Sanchez-Mico, M. V., Calvo-Rodriguez, M. & Bacskai, B. J. Role of dysregulated calcium homeostasis in astrocytes in neurodegenerative disorders. Nat. Rev. Neurosci. https://doi.org/10.1038/s41583-026-01032-6 (2026) doi:10.1038/s41583-026-01032-6.
+12. Ren, J. et al. Parkinson’s disease as a somato-cognitive action network disorder. Nature 651, 1030–1038 (2026).
+13. Eraifej, J. et al. Suppression of pathological oscillations with transcranial focused ultrasound in Parkinson’s disease. Nat Commun https://doi.org/10.1038/s41467-026-70714-7 (2026) doi:10.1038/s41467-026-70714-7.
+14. Pahwa, R. et al. Fixed-Dose Tavapadon for Early Parkinson Disease: A Randomized Clinical Trial. JAMA Neurol https://doi.org/10.1001/jamaneurol.2026.0590 (2026) doi:10.1001/jamaneurol.2026.0590.
+15. Zhang, R. et al. Gut microbiota modulation via repeated donor fecal transplantation improves motor and gastrointestinal symptoms in drug-naïve Parkinson’s disease: a randomized phase 2 trial. Sig Transduct Target Ther 11, 94 (2026).
+16. Dautan, D. et al. Gut-initiated alpha synuclein fibrils drive parkinsonism phenotypes: temporal mapping of REM sleep behavior disorder-like and other non-motor symptoms. Transl Neurodegener 15, 10 (2026).
+17. De Schepper, S. et al. Intestinal macrophages modulate synucleinopathy along the gut–brain axis. Nature 651, 174–184 (2026).
+18. De Schepper, S. et al. Intestinal macrophages modulate synucleinopathy along the gut–brain axis. Nature 651, 174–184 (2026).
+19. Palushaj, B. & Voigt, R. M. The Parkinson’s pandemic: prioritizing environmental policy and biological resilience via the gut. Journal of Clinical Investigation 136, e205275 (2026).
+20. Tolosa, E. et al. Towards biomarker-based diagnosis of Parkinson disease. Nat Rev Neurol 22, 139–151 (2026).
+21. Simões, M. et al. Incidence and spatial variation of Parkinson’s disease in the Netherlands (2017–2022): a population-based study. The Lancet Regional Health - Europe 62, 101565 (2026).
+22. Du, S. et al. Transplantation of encapsulated mitochondria alleviates dysfunction in mitochondrial and Parkinson’s disease models. Cell S0092867426002308 (2026) doi:10.1016/j.cell.2026.02.023.
+23. Lian, J. et al. Subtyping Alzheimer’s disease and Parkinson’s disease using longitudinal electronic health records. Nat Aging 6, 612–625 (2026).
+24. Highsmith, J. For my 80th birthday, I bought myself a new brain: my experiences with adaptive deep brain stimulation to assist my Parkinson’s disease. Br J Sports Med bjsports-2026-111598 (2026) doi:10.1136/bjsports-2026-111598.
+25. Tzfoni, T., Tauman, R., Hausdorff, J. M., Hanein, Y. & Mirelman, A. Detecting isolated REM sleep behavior disorder at home using a lower-back wearable sensor. npj Digit. Med. 9, 210 (2026).
+26. Li, Z. et al. Simultaneous Brain Iron and α-Synuclein Detection in Patients with Synucleinopathies via Quantitative Susceptibility Mapping MRI. Radiology 318, e251189 (2026).
+27. Wijeratne, T. Fighting Parkinson’s disease: a neurologist–patient journey. The Lancet Neurology 25, 133 (2026).
+28. Kumar, M. et al. Molecular features of human pathological tau distinguish tauopathy-associated dementias. Cell 189, 956-968.e13 (2026).
+29. Park, G. et al. Associations between contralesional neuroplasticity and motor impairment through deep learning-derived MRI regional brain age in chronic stroke (ENIGMA): a multicohort, retrospective, observational study. The Lancet Digital Health 8, 100942 (2026).
+30. Luo, R. Next questions of autophagy in neurodegenerative diseases: From mechanisms to therapeutics. The Innovation 7, 100989 (2026).
+31. Shomali, T. Targeting of kinases to treat neurodegenerative diseases. Pharmacological Reviews (2026).
+32. Beudel, M. & Brown, P. Adaptive deep brain stimulation in Parkinson’s disease. Parkinsonism & Related Disorders 22, S123–S126 (2016).
+33. Zhu, X., Liu, J. & Krassioukov, A. Orthostatic hypotension in Parkinson disease. CMAJ.
+34. Bahners, B. H. The deep brain stimulation response network in Parkinson’s disease operates in the high beta band. Brain.
+
+
+
+
+PD脑功能连接文献列表：
+1. Nakano, Y., Niethammer, M. & Eidelberg, D. Imaging of Disease-Related Networks in Parkinson’s Disease. Cold Spring Harb Perspect Med a041841 (2025) doi:10.1101/cshperspect.a041841.
+2. Vo, A. et al. Convergent large-scale network and local vulnerabilities underlie brain atrophy across Parkinson’s disease stages: a worldwide ENIGMA study. https://doi.org/10.1101/2025.05.25.25326586 (2025) doi:https://doi.org/10.1101/2025.05.25.25326586.
+3. Endo, M. et al. Data-driven discovery of movement-linked heterogeneity in neurodegenerative diseases. Nat Mach Intell 6, 1034–1045 (2024).
+4. Basaia, S. et al. Brain Connectivity Networks Constructed Using MRI for Predicting Patterns of Atrophy Progression in Parkinson Disease. Radiology 311, e232454 (2024).
+5. Chen, Z. et al. Abnormal cerebellum connectivity patterns related to motor subtypes of Parkinson’s disease. J Neural Transm 130, 549–560 (2023).
+6. Basaia, S. et al. Cerebro-cerebellar motor networks in clinical subtypes of Parkinson’s disease. npj Parkinsons Dis. 8, 113 (2022).
+7. Maiti, B. et al. Cognitive correlates of cerebellar resting-state functional connectivity in Parkinson disease. Neurology 94, (2020).
+8. Fiorenzato, E. et al. Dynamic functional connectivity changes associated with dementia in Parkinson’s disease. Brain 142, 2860–2872 (2019).
+9. Ji, G.-J. et al. Functional Connectivity of the Corticobasal Ganglia–Thalamocortical Network in Parkinson Disease: A Systematic Review and Meta-Analysis with Cross-Validation. Radiology 287, 973–982 (2018).
+10. Horn, A. et al. Connectivity Predicts deep brain stimulation outcome in P arkinson disease. Annals of Neurology 82, 67–78 (2017).
+11. Gao, L. & Wu, T. The study of brain functional connectivity in Parkinson’s disease. Transl Neurodegener 5, 18 (2016).
+12. Vervoort, G. et al. Functional connectivity alterations in the motor and fronto-parietal network relate to behavioral heterogeneity in Parkinson’s disease. Parkinsonism & Related Disorders 24, 48–55 (2016).
+13. O’Callaghan, C. et al. Cerebellar atrophy in Parkinson’s disease and its implication for network connectivity. Brain 139, 845–855 (2016).
+14. Stoessl, A. J., Lehericy, S. & Strafella, A. P. Imaging insights into basal ganglia function, Parkinson’s disease, and dystonia. The Lancet 384, 532–544 (2014).
+15. Thenganatt, M. A. & Jankovic, J. Parkinson Disease Subtypes. JAMA Neurol 71, 499 (2014).
+16. Shepherd, G. M. G. Corticostriatal connectivity and its role in disease. Nat Rev Neurosci 14, 278–291 (2013).
+17. Esposito, F. et al. Rhythm-specific modulation of the sensorimotor network in drug-naïve patients with Parkinson’s disease by levodopa. Brain 136, 710–725 (2013).
+18. Hacker, C. D., Perlmutter, J. S., Criswell, S. R., Ances, B. M. & Snyder, A. Z. Resting state functional connectivity of the striatum in Parkinson’s disease. Brain 135, 3699–3711 (2012).
+19. Niethammer, M., Feigin, A. & Eidelberg, D. Functional Neuroimaging in Parkinson’s Disease. Cold Spring Harbor Perspectives in Medicine 2, a009274–a009274 (2012).
+20. Helmich, R. C., Janssen, M. J. R., Oyen, W. J. G., Bloem, B. R. & Toni, I. Pallidal dysfunction drives a cerebellothalamic circuit into Parkinson tremor. Annals of Neurology 69, 269–281 (2011).
+21. Andrews-Hanna, J. R. et al. Disruption of Large-Scale Brain Systems in Advanced Aging. Neuron 56, 924–935 (2007).
+22. Williams, D. Dopamine-dependent changes in the functional connectivity between basal ganglia and cerebral cortex in humans. Brain 125, 1558–1569 (2002).

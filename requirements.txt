@@ -1,0 +1,14 @@
+streamlit
+openai
+pypdf
+biopython
+pandas
+protobuf==3.20.3
+paperscraper
+openpyxl
+requests
+beautifulsoup4
+lxml
+chromadb
+sentence-transformers
+schedule

@@ -1,0 +1,352 @@
+[
+  {
+    "title_en": "Genetic Testing by Age at Onset in Parkinson Disease.",
+    "title_zh": "基于发病年龄的帕金森病基因检测研究。",
+    "journal": "JAMA neurology",
+    "impact_factor": 21.3,
+    "abstract": "暂无摘要",
+    "date": "2026 May 11",
+    "pmid": "42113543",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42113543/"
+  },
+  {
+    "title_en": "Integrated clinical and computational data-based repurposing of econazole as a novel autophagic activator in ULK1-related Parkinson disease.",
+    "title_zh": "基于整合临床与计算数据的依康唑作为ULK1相关帕金森病新型自噬激活剂的药物重定位研究。",
+    "journal": "Autophagy",
+    "impact_factor": 14.3,
+    "abstract": "Parkinson disease (PD), the second most common neurodegenerative disorder, is pathologically linked to dysregulated autophagy, a conserved lysosomal degradation pathway. Current conventional PD therapies are often limited by significant side effects, underscoring the demand for alternative treatment strategies. Drug repurposing of FDA-approved compounds represents a promising approach to address this unmet clinical need. Here, by integrating clinical data analysis, we identified an association between autophagy impairment and specific PD patient subtypes, suggesting that ULK1-dependent autophagy activation may offer therapeutic benefit. Through systematic screening for autophagy induction and neuroprotective activity, we identified econazole, a known imidazole antifungal, as a promising candidate. Econazole exhibited robust therapeutic effects across multiple PD models, including MPTP-induced zebrafish and mouse models, as well as SNCA(A53T) mutant mouse models. Notably, its efficacy was dependent on functional autophagy, as autophagy inhibition abrogated its beneficial effects. Mechanistically, econazole activated ULK1, enhanced autolysosome formation, and promoted clearance of SNCA aggregates. Mouse brain microarray analysis indicated that econazole-activated ULK1 suppresses MAP3K12/DLK-MAPK8/JNK-MAPK9/JNK2-mediated neuronal apoptosis. Further phosphoproteomic profiling uncovered a novel ULK1-HSPA8/Hsc70 interaction that promotes LAMP1 and LAMP2 activation and enhances lysosomal function. This ULK1-HSPA8 complex additionally activated the BECN1 (beclin 1) complex to facilitate autophagosome formation. Together, our findings highlight a clinical data-guided drug repurposing approach that identifies econazole as a potent autophagy activator with therapeutic efficacy in ULK1-linked PD models, opening new avenues for PD treatment.",
+    "date": "2026 May 11",
+    "pmid": "42112758",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42112758/"
+  },
+  {
+    "title_en": "In Vivo Electrochemical Monitoring of Safinamide Pharmacokinetics in the Brain Explores Its Correlation With Vision-Related Neuronal Activity.",
+    "title_zh": "体内电化学监测沙芬酰胺在大脑中的药代动力学，探究其与视觉相关神经元活动的关联。",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "Understanding drug pharmacokinetics (PK) at its site of action, particularly in the brain, is essential for accurately evaluating therapeutic efficacy and safety. However, conventional PK assessment based on blood measurements often fails to reflect drug dynamics in the central nervous system (CNS). Here, taking the anti-Parkinson's drug safinamide (SAF) as an example, we introduce a real-time in vivo electrochemical sensing strategy with high spatiotemporal resolution, operational simplicity, and excellent reproducibility. Our results reveal that the PK profile of SAF in the substantia nigra (SN) differs markedly from that in plasma, characterized by enhanced brain accumulation and distinct clearance kinetics. By simultaneously monitoring SAF and neuronal activity in the superficial gray layer (SuG) of the superior colliculus (SC), we observed pronounced suppression of neuronal firing at peak SAF levels, followed by gradual recovery during SAF elimination. This tight temporal correlation suggests that transient inhibition of vision-related neuronal activity may be directly associated with SAF concentration at the site. Overall, our study establishes an electrochemical approach enabling rapid, selective, and real-time drug monitoring in the living brain, offering a powerful tool to promote mechanistic studies of CNS drug action and safety.",
+    "date": "2026 May 10",
+    "pmid": "42107072",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42107072/"
+  },
+  {
+    "title_en": "Lipid Dysregulation as a Central Contributor of Neurodegenerative Diseases: Emerging Therapeutic Targets and Strategies.",
+    "title_zh": "脂质失调作为神经退行性疾病的核心因素：新兴治疗靶点与策略",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Lipid homeostasis is essential for preserving the structural integrity and functional capacity of the brain. A diverse array of lipids, including cholesterol, phospholipids, and sphingolipids, has been identified as playing pivotal roles. Dysregulation of lipid metabolism is increasingly recognized as a central pathological mechanism in neurodegenerative diseases, including Alzheimer's Disease, Parkinson's Disease, Amyotrophic Lateral Sclerosis, Huntington's Disease, and Cerebrotendinous Xanthomatosis, though much of the existing evidence comes from associative studies, and causal relationships still need to be further validated through interventional studies. Here we systematically review the metabolic pathways and regulatory networks of major brain lipids, with a focus on delineating disease-specific alterations and summarizing emerging therapeutic strategies targeting lipid metabolism. These strategies encompass the modulation of cholesterol homeostasis, sphingolipid metabolism, phospholipid signaling, and fatty acid oxidation, alongside approaches that enhance lipid clearance and neural repair. Preclinical advances and ongoing clinical trials underscore the translational potential of lipid-targeted interventions. In conclusion, we emphasize the potential of lipid metabolism as a promising avenue for developing novel treatments, offering insights to guide future research and therapeutic innovation in neurodegeneration.",
+    "date": "2026 May 6",
+    "pmid": "42102977",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102977/"
+  },
+  {
+    "title_en": "The Role of Neurogenesis in Neurodegenerative Diseases: Mechanisms and Interventions.",
+    "title_zh": "神经发生在神经退行性疾病中的作用：机制与干预",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Neurogenesis is the process by which new neurons are generated from neural stem cells (NSCs) and neural progenitor cells (NPCs). Impairment in this process can lead to cognitive and memory deficits, among other issues. Research indicates that defective neurogenesis is closely associated with neurodegenerative diseases such as Alzheimer's disease (AD), Parkinson's disease (PD), and Huntington's disease (HD). These conditions not only affect a significant global population but also exert profound societal and economic impacts. However, the precise mechanisms underlying neurodegenerative diseases remain incompletely understood, and the relationship between neurogenesis and these disorders requires further exploration. This review examines the role of neurogenesis in major neurodegenerative diseases, emphasizing the importance of early diagnosis and precision therapy. The findings aim to provide a foundation for developing novel treatments, thereby alleviating the burden on patients and their families.",
+    "date": "2026 May 5",
+    "pmid": "42097313",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42097313/"
+  },
+  {
+    "title_en": "Nervonic Acid from Malania oleifera Reverses Parkinson's Disease by Regulating Oxidative Stress, Neuroinflammation, and Gut Microbiota.",
+    "title_zh": "从蒜头果中提取的神经酸通过调节氧化应激、神经炎症和肠道微生物群逆转帕金森病。",
+    "journal": "Biomaterials research",
+    "impact_factor": 9.6,
+    "abstract": "Parkinson's disease (PD) is a neurodegenerative disease characterized by the progressive loss of dopaminergic neurons in the substantia nigra, accompanied by oxidative stress and neuroinflammation. While nervonic acid (NA) is recognized as an essential component of myelin sphingolipids, its specific therapeutic mechanisms in PD have not been thoroughly elucidated. In this study, we investigated the neuroprotective potential of NA derived from Malania oleifera and elucidated its underlying multimechanistic effect. We demonstrated that NA targets the core drivers of neuronal injury by restoring PTEN-induced kinase 1-Parkin-mediated mitophagy to alleviate mitochondrial dysfunction and oxidative stress. Concurrently, NA reprograms microglia from the pro-inflammatory M1 to the anti-inflammatory M2 phenotype, thereby inhibiting cytokine secretion and resolving neuroinflammation. Beyond these central protective effects, metabolomics analysis revealed that NA serves as a direct biosynthetic precursor for long-chain ceramides, facilitating myelin regeneration. In 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-induced PD mice, these synergistic mechanisms collectively preserved dopaminergic neurons and improved motor function substantially. Furthermore, 16S ribosomal RNA amplicon sequencing revealed an associative remodeling of the gut microbiota, specifically enriching beneficial genera such as Akkermansia. Collectively, this study establishes NA as a potent multitarget therapeutic that concurrently regulates oxidative stress, neuroinflammation, and myelin regeneration to alleviate PD pathology.",
+    "date": "2026",
+    "pmid": "42109892",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42109892/"
+  },
+  {
+    "title_en": "Aggregation in gut: on the link between neurodegeneration and bacterial functional amyloids.",
+    "title_zh": "肠道中的聚集：神经退行性变与细菌功能性淀粉样蛋白之间的关联",
+    "journal": "NPJ biofilms and microbiomes",
+    "impact_factor": 9.2,
+    "abstract": "Amyloids are insoluble protein aggregates with a cross-beta structure, which are traditionally associated with neurodegeneration. Similar structures, named functional amyloids, expressed mostly by microorganisms, play important physiological roles, e.g., bacterial biofilm stabilization. Using a bioinformatics approach, we identify gut microbiome functional amyloids and analyze their potential impact on human health via the gut-brain axis. The results point to taxonomically diverse sources of functional amyloids and their frequent presence in the extracellular space. The retrieved interactions between gut microbiome functional amyloids and human proteins indicate their potential to trigger inflammation, affect transport and signaling processes; pathways typically affected by host-microbiome interactions. We also find a greater relative abundance of bacterial functional amyloids in patients diagnosed with Parkinson's disease in two out of three analyzed datasets. Our results generate hypotheses on a tentative link between neurodegeneration and gut bacterial functional amyloids, which require further experimental validation.",
+    "date": "2026 May 11",
+    "pmid": "42115189",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42115189/"
+  },
+  {
+    "title_en": "Choice of anesthesia in microelectrode recording-guided deep brain stimulation surgery for Parkinson's disease (CHAMPION): A noninferiority randomized controlled trial.",
+    "title_zh": "帕金森病微电极记录引导下脑深部电刺激术的麻醉选择（CHAMPION）：一项非劣效性随机对照试验。",
+    "journal": "Anesthesiology",
+    "impact_factor": 9.1,
+    "abstract": "BACKGROUND: Deep brain stimulation for Parkinson's disease is often performed under conscious sedation or general anesthesia. However, anesthetic agents may influence intraoperative microelectrode recording, and the optimal anesthesia method for microelectrode recording remains unclear. This study compared general anesthesia and conscious sedation in preserving microelectrode recording signal intensity during deep brain stimulation. METHODS: In this prospective, noninferiority randomized controlled trial, patients with Parkinson's disease (UK Brain Bank criteria) undergoing elective bilateral surgery were randomized 1:1 to the conscious sedation or the general anesthesia group. During surgery, a desflurane anesthetic titrated against the quality of the electrophysiologic signal was applied in the general anesthesia group, whereas patients in the conscious sedation group received dexmedetomidine anesthesia. The primary outcome was the proportion of patients with high-quality microelectrode recording (normalized root mean square, nRMS >2.0), assessed postoperatively off-line. Secondary outcomes included operation and recording duration, 6-month clinical efficacy, and complication rates. RESULTS: Of 188 randomized patients (94 general anesthesia, 93 conscious sedation), desflurane anesthesia was noninferior for high nRMS proportion (89.4% vs. 90.3%; difference, -0.96%; 95% CI, -9.62 to 7.70). The general anesthesia group had shorter operative time (difference, -9.07 minutes; 95% CI, -13.99 to -4.14; P<0.001). At 6 months, changes in Unified Parkinson's Disease Rating Scale score (difference, -2.50; 95% CI, -7.20 to 2.20; P=0.297), levodopa equivalent daily dose (difference, -58.4 mg; 95% CI, -133.56 to 16.75; P=0.128) and the complication rates (general anesthesia: 10.9% vs. conscious sedation: 8.9%; p=0.655) were comparable between the groups. CONCLUSION: General anesthesia is noninferior to conscious sedation for microelectrode-guided subthalamic nucleus deep brain stimulation, providing equivalent signal intensity and clinical outcomes while improving procedural efficiency, supporting its use as a valid clinical option.",
+    "date": "2026 May 8",
+    "pmid": "42102350",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102350/"
+  },
+  {
+    "title_en": "Focused Ultrasound Ablation for Neurological Disorders.",
+    "title_zh": "聚焦超声消融治疗神经系统疾病",
+    "journal": "Biological psychiatry",
+    "impact_factor": 9.0,
+    "abstract": "Focused ultrasound (FUS) was explored for neurological indications more than half a century ago, but only recent technological advances have enabled its practical transcranial use for movement and neuropsychiatric disorders. FUS can produce stereotactic thermal lesions via focused ultrasound ablation (FUSA), while non-thermal lesioning (e.g., FUS histotripsy) and non-ablative approaches such as neuromodulation and blood-brain barrier opening are under active clinical investigation. FUSA is FDA-approved for essential tremor and Parkinson's disease, and is now being evaluated for additional syndromes, including epilepsy, dystonia, and treatment-resistant psychiatric disorders. Neuroimaging, particularly magnetic resonance (MR) imaging and MR thermometry, is central to feasibility, targeting, intraprocedural monitoring, and post-treatment assessment. Clinical studies demonstrate substantial and durable motor symptom reduction in essential tremor and Parkinson's disease, with growing evidence for emerging indications. The goal of this review is to integrate mechanistic concepts with the current clinical evidence for FUSA, and to define priorities that can improve patient selection, optimize targeting, and guide expansion across neurological and neuropsychiatric disorders.",
+    "date": "2026 May 8",
+    "pmid": "42107848",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42107848/"
+  },
+  {
+    "title_en": "Striatal Dopamine Transporter and Rest Tremor in Parkinson Disease: A Clinical Validation.",
+    "title_zh": "帕金森病中的纹状体多巴胺转运蛋白与静止性震颤：一项临床验证。",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 9",
+    "pmid": "42102339",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102339/"
+  },
+  {
+    "title_en": "Clinical Reasoning: A Woman With Parkinson Disease, Dyskinesia, Rhabdomyolysis, Subcutaneous Emphysema, and Pneumomediastinum.",
+    "title_zh": "临床推理：一例伴帕金森病、运动障碍、横纹肌溶解症、皮下气肿及纵隔气肿的女性患者",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "A 47-year-old woman with Parkinson disease (PD) complicated by severe motor fluctuations had been treated with deep brain stimulation (DBS) for 11 years and intestinal carbidopa/levodopa infusion for 5 years. Three months after her most recent clinic visit, at which both the DBS and infusion pump systems were confirmed to be functioning appropriately, she presented to the emergency department with abnormal movements. On examination, she had continuous, generalized, involuntary hyperkinetic movements with an erratic, dance-like quality, consistent with levodopa-associated dyskinesia. Evaluation revealed rhabdomyolysis, subcutaneous emphysema, and pneumomediastinum. She required admission to the intensive care unit for sedation and airway protection. After a key surgical intervention, she rapidly returned to her previous neurologic status and was discharged home. This case highlights the approach to acute dyskinesia and underscores the challenges of managing severe motor fluctuations in patients with PD.",
+    "date": "2026 Jun 9",
+    "pmid": "42102337",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42102337/"
+  },
+  {
+    "title_en": "A multi-modal parcellation of human globus pallidus and its implications for symptom prediction and stratification in Parkinson's disease.",
+    "title_zh": "人类苍白球的多模态分区及其对帕金森病症状预测与分层的启示。",
+    "journal": "BMC medicine",
+    "impact_factor": 8.3,
+    "abstract": "BACKGROUND: The globus pallidus (GP) is a critical basal ganglia nucleus for motor and cognitive control. However, traditional single-modality parcellations provide an incomplete understanding of its internal organization, thereby increasing the risk of imprecision and side effects during therapeutic targeting of its subregions. METHODS: In this study, we developed a multi-modal approach that combines structural and functional connectivity, termed hybrid pallidum parcellation (HPP), to parcellate the GP into anterior (aGP), middle (mGP), and posterior (pGP) subregions. This approach was rigorously evaluated for reproducibility and homogeneity in healthy individuals and behavioral prediction accuracy in healthy individuals and patients with Parkinson's disease (PD). Connectivity and behavioral prediction analyses were further used to explore the structural and functional differences in the GP subregions. RESULTS: Compared with unimodal (structural or functional connectivity-based) and two public parcellations, HPP demonstrated superior reproducibility and homogeneity. In addition, the HPP-based subregions revealed a posterior-to-anterior structural and functional connectivity gradient in GP, reflecting a transition from primary to higher-order networks. Specifically, the pGP dominated in sensorimotor function prediction and the aGP in emotional processing, while the mGP exhibited a more flexible pattern in cognition and higher-order motor control. Furthermore, the HPP parcellation demonstrated generalizability and superiority in better predicting behavioral measures than other parcellations in both healthy individuals and patients with PD. CONCLUSIONS: Overall, HPP provides new insights into the GP's hierarchical functional organization and its subregional roles in PD motor and non-motor symptoms, offering potential to improve patient stratification for PD and related disorders.",
+    "date": "2026 May 9",
+    "pmid": "42106795",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42106795/"
+  },
+  {
+    "title_en": "Driving motor cortex oscillations restores plasticity and improves bradykinesia features in Parkinson's disease.",
+    "title_zh": "驱动运动皮层振荡可恢复帕金森病患者的可塑性并改善运动迟缓特征。",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "In Parkinson's disease (PD), impaired plasticity of the primary motor cortex (M1) contributes to bradykinesia. Enhancing cortical gamma oscillations through transcranial alternating current stimulation (tACS) restores M1 plasticity, but whether this translates into bradykinesia improvement remains unclear. We conducted a double-blind, sham-controlled study to determine whether M1 gamma-tACS improves intermittent theta burst stimulation (iTBS)-induced plasticity and alleviates bradykinesia in PD. Forty participants (20 patients and 20 healthy controls - HCs) underwent two randomized sessions: iTBS-gamma tACS and iTBS-sham tACS. We assessed corticospinal excitability and GABA-A-ergic-related intracortical inhibition using transcranial magnetic stimulation, and bradykinesia features through finger-tapping kinematic analysis before and 5, 15, and 30 min after iTBS-tACS. iTBS-sham tACS failed to induce M1 plasticity in PD, whereas iTBS-gamma tACS elicited M1 plasticity (p = 0.006) and improved SICI (p = 0.004). These neurophysiological changes in PD were paralleled by improvement in bradykinesia features, i.e., faster and wider movements (all ps < 0.001). No changes were observed following iTBS-sham tACS or in HCs. SICI gamma-tACS-induced changes correlated with the clinical score in patients (r = 0.68, p < 0.001), and plasticity changes correlated with velocity improvement (r = 0.61, p = 0.003). gamma entrainment restores M1 plasticity and GABA-A activity, alleviating bradykinesia in PD with effects persisting beyond stimulation. These findings have translational relevance and offer insights into bradykinesia pathophysiology (ClinicalTrials.gov Identifier: NCT06297538, registration date March 7, 2024).",
+    "date": "2026 May 12",
+    "pmid": "42115691",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42115691/"
+  },
+  {
+    "title_en": "Shared and distinct lipid profiles in amygdala from sporadic and GBA-associated Parkinson's diseases.",
+    "title_zh": "散发性与GBA相关帕金森病杏仁核中共有及差异脂质谱特征。",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's Disease (PD) is a neurodegenerative disorder characterised by the deposition of protein-lipid inclusions, containing alpha-synuclein, neuronal cell loss and disruptions in lipid metabolism. GBA mutations are together an important genetic risk factor for PD and are associated with a decrease in glucocerebrosidase, a lysosomal glycoprotein encoded by GBA, an increase in alpha-synuclein and changes in the levels of glucocerebrosidase's substrates, glucosylsphingosine and glucosylceramide, and some sphingolipids. In this study, we found extensive metabolic remodelling of lipids, beyond glucocerebrosidase's substrates, in the amygdala from people with sPD and disease duration above 30 years (sPD(>30y)) and from people with PD carriers of a GBA risk mutation (PD-GBA(risk)). Besides increases in glucosylceramide and sphingolipid levels, we observed increased free cholesterol, diacylglyceride and most glycerophospholipids in these samples relative to healthy controls. Moreover, we found a shift from short to long sphingomyelin and ceramide and from long to short phosphatidylserine and phosphatidylethanolamine in sPD(>30y) and PD-GBA(risk) cases, and the opposite in PD-GBA(severe) cases. The levels of lipid classes and the relative proportion of lipid species affected in PD amygdala all correlated with glucocerebrosidase activity and/or pathological alpha-synuclein levels. The distinct lipid phenotypes observed across PD subgroups underscore the importance of patient stratification in clinical trials aiming at reverting PD-related lipid changes.",
+    "date": "2026 May 11",
+    "pmid": "42115606",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42115606/"
+  },
+  {
+    "title_en": "The biological clock in parkinson's disease: mechanisms and chronotherapy.",
+    "title_zh": "帕金森病中的生物钟：机制与时间疗法",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Circadian disruption is increasingly recognized as a significant contributor to Parkinson's disease (PD) pathogenesis and progression. From a chronobiological perspective, this review synthesizes relevant mechanisms, preclinical/clinical evidence, and highlights chronotherapy's potential in optimizing PD treatment efficacy, reducing side effects, and enabling precision management.",
+    "date": "2026 May 9",
+    "pmid": "42103757",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42103757/"
+  },
+  {
+    "title_en": "Identifying maximal beta power from directional subthalamic local field potentials in Parkinson's disease.",
+    "title_zh": "帕金森病中来自定向丘脑底核局部场电位的最大贝塔功率识别",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Accurate subthalamic beta activity could guide deep brain stimulation programming in Parkinson's disease, but bipolar recordings complicate contact selection. In 39 patients, we validated three methods to estimate pseudo-monopolar beta power. Distance-weighted methods (Euclidean, Strelow) agreed consistently with the externalized \"ground-truth\" beta distribution. Maximal beta power across 20s windows was more stable in ring than in directional channels. Beta-contacts from all methods aligned with clinically active stimulation contacts one year after surgery.",
+    "date": "2026 May 8",
+    "pmid": "42103747",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42103747/"
+  },
+  {
+    "title_en": "High molecular weight insoluble parkin in the substantia nigra of patients with idiopathic Parkinson's disease.",
+    "title_zh": "特发性帕金森病患者黑质中高分子量不溶性帕金蛋白。",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) is characterized by a loss of dopaminergic neurons and accumulation of alpha-synuclein (alpha-syn)-containing Lewy bodies in the substantia nigra (SN) pars compacta. Mutations in the gene coding for the protein parkin cause a form of autosomal recessive juvenile parkinsonism, but its role in idiopathic PD is poorly understood. Here, to investigate parkin changes in the SN in PD, we established a clinicopathology research platform comparing PD patients (n = 24) with Controls (n = 21). We first confirmed the massive loss of dopamine (DA) levels (-96%) in the putamen of PD patients, using HPLC/electrochemistry. Higher levels of phosphorylated alpha-syn (alphasynP129) (23-fold) were observed in the SN of PD patients by Western immunoblotting. In formic acid extracts, an increase in the insoluble oligomeric form of parkin migrating at 260 kDa was observed (+ 49%) in the SN of PD patients, along with lower levels of the 55 kDa monomeric form (-47%). These changes in parkin were specific for the SN, and not observed in the putamen, parietal cortex and cerebellum. High molecular weight parkin correlated with alphasynP129 levels and dopamine loss and was more prominently found in PD patients with levodopa-induced dyskinesias. Additional studies in animal models suggest that the aggregation of parkin is not a direct consequence of dopaminergic depletion or alphasyn overproduction, but a component of PD cellular pathophysiology. Taken together, the results reported herein show that, beside dopamine loss and increased alphasynP129, neurodegeneration in idiopathic PD is associated with a conversion of parkin into an insoluble high molecular weight form in the SN.",
+    "date": "2026 May 7",
+    "pmid": "42098169",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42098169/"
+  },
+  {
+    "title_en": "Recruitment Strategies across the Spectrum of Neuronal Synuclein Disease.",
+    "title_zh": "神经突触核蛋白病谱系中的招募策略。",
+    "journal": "Annals of neurology",
+    "impact_factor": 7.7,
+    "abstract": "The Parkinson's Progression Markers Initiative (PPMI) has remained at the vanguard of Parkinson's disease (PD) research through evolving recruitment strategies that mirror advances in PD biology. PPMI was initially focused on untreated, early-stage PD. Over time, it has expanded to include genetic cohorts, prodromal participants identified via olfactory testing and risk factor questionnaires targeting people with rapid eye movement (REM) sleep behavior disorder (RBD). Most recently, PPMI has focused on the biology underlying PD and sought to recruit individuals defined by neuronal alpha-synuclein disease (NSD) biomarkers. This evolution from clinical to biological enrollment demonstrates the feasibility of biomarker-driven cohort design and establishes a scalable model for early detection and prevention research in neurodegenerative disease. ANN NEUROL 2026.",
+    "date": "2026 May 10",
+    "pmid": "42108682",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42108682/"
+  },
+  {
+    "title_en": "Expanding PPMI through Remote Data Acquisition and Analysis: Early Success and Future Growth with myPPMI.",
+    "title_zh": "通过远程数据采集与分析扩展PPMI：myPPMI的早期成功与未来发展",
+    "journal": "Annals of neurology",
+    "impact_factor": 7.7,
+    "abstract": "The creation and ongoing development of the myPPMI platform (see Stanley et al in this issue), has enabled the Parkinson's Progression Markers Initiative (PPMI) to expand our research efforts to acquire additional data, engage a large number of participants, and reduce participant burden to enable long-term follow-up. We now review specific virtual and remote studies and sub-studies including Found, PPMI Online, and PPMI Cognitive that PPMI has developed to enhance participant engagement and enable remote data collection. FOUND in PPMI was initiated before myPPMI and continues to serve as a model for remote participant engagement. FOUND maintains longitudinal contact, reducing study attrition, and preserving data continuity. PPMI Online, now part of myPPMI, enables low-burden, participant-reported data collection, reduces geographic barriers, and enables sub-studies of less common subgroups. Cognitive testing is another study within myPPMI to assess longitudinal cognition. myPPMI, a global web-based portal, introduces precision recruitment, real-time eligibility matching, and inclusive design. Together, these innovations enable remote and hybrid recruitment and study conduct, reduce logistical and economic barriers, and advance scalable, participant-centered research to transform the landscape of Parkinson's disease studies across populations. ANN NEUROL 2026.",
+    "date": "2026 May 10",
+    "pmid": "42108656",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42108656/"
+  },
+  {
+    "title_en": "Addressing Care Partner Burden from the Underrecognition of Iatrogenic Sexual Behavior Changes in Parkinson's Disease.",
+    "title_zh": "解决因帕金森病医源性性行为改变未被充分认识而导致的护理伙伴负担问题",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 May 11",
+    "pmid": "42108958",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42108958/"
+  },
+  {
+    "title_en": "A Severity-Agnostic Atrophy Pattern in Spinocerebellar Ataxia Type 3: Volumetrics from ENIGMA-Ataxia.",
+    "title_zh": "脊髓小脑性共济失调3型中一个与严重性无关的萎缩模式：来自ENIGMA-共济失调的体积测量研究",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Spinocerebellar ataxia type 3 (SCA3) is a rare, inherited neurodegenerative disease characterized by progressive loss of motor coordination. OBJECTIVES: We undertook a multisite magnetic resonance imaging study to profile the spatial spread of atrophy across the brain, determine whether atrophy preferentially maps onto specific functional networks, and investigate the relationship between cerebellar and cerebral atrophy. METHODS: Whole-brain grey and white matter (GM and WM) voxel-based morphometry was performed on 408 individuals with SCA3 (82 pre-ataxic) and 293 controls. The SCA3 cohort was stratified by ataxia severity to study progression. Cerebellar GM atrophy was mapped onto a task-based functional atlas. Cerebrocerebellar volumetric covariance was assessed to determine whether cerebral and cerebellar atrophy were coupled. RESULTS: The atrophy pattern is spatially consistent but progressive in magnitude across the disease course. The greatest atrophy (Cohen's d > 1.5) occurred in the pons, cerebellar WM, and cerebellar peduncles; correlations with ataxia severity and duration were also strongest (-0.4 > r > -0.65) in those regions. Cerebellar GM atrophy was greatest (d  congruent with 0.7) in functional regions associated with motor planning/execution, attention, and emotional processing. Sparse cerebral cortical atrophy appears only in the most severe disease subgroup, while striatal atrophy begins in the earliest stages but does not worsen with increasing clinical severity. Reduced cerebrocerebellar volumetric covariance is observed in SCA3 participants versus controls. CONCLUSIONS: Cerebellar and brainstem atrophy underlies greater ataxia severity in SCA3, but the spatial pattern of structural changes remains relatively consistent across the course of the disease. Cerebellar GM atrophy is spatially non-uniform, and occurs maximally in regions consistent with the motor and cognitive clinical presentation of SCA3. Cerebellar atrophy is not mirrored by corresponding cerebral structural changes. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 May 10",
+    "pmid": "42108727",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42108727/"
+  },
+  {
+    "title_en": "Long-Duration Response to Levodopa in the PPMI-Cohort.",
+    "title_zh": "PPMI队列中长期左旋多巴反应。",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Treatment of Parkinson's disease (PD) with levodopa results in a sustained reduction of symptoms. Although the plasma half-life of levodopa is short, it elicits a lasting effect, the long-duration levodopa response (LDR). A decrease in LDR as PD progresses has been linked to motor complications, but long-term data on the LDR and its clinical implications remain scarce. OBJECTIVES: The aim is to analyze the magnitude and impact of the LDR over time using data from the Parkinson's Disease Progression Marker Initiative (PPMI). METHODS: First, therapy-naive Movement Disorder Society-Unified Parkinson's Disease Rating Scale part III (MDS-UPDRS III) scores were predicted using a mixed linear model (MLM) from n = 245 untreated people with PD (PwPD). This model yielded an increase of MDS-UPDRS III scores of 2.65 points per year. Using this model, we then calculated LDR and short-duration response in longitudinal data of 148 initially therapy-naive PwPD. Symptom progression was analyzed using correlation analyses and MLMs. RESULTS: In the 98 PwPD with observed LDR, the LDR accounted for approximately half of the total levodopa response. No significant change in LDR magnitude was observed over up to 10 years (analysis of variance, P = 0.14; generalized estimating equations, P = 0.26). The LDR magnitude was not associated with the onset of motor complications. PwPD with absent LDR (n = 50) progressed faster than PwPD with observed LDR in several motor and non-motor domains. CONCLUSIONS: The LDR is a stable component of the levodopa response and needs to be considered in clinical trials. These findings argue against a declining LDR as a major driver of motor fluctuations in PD. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 May 9",
+    "pmid": "42104878",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42104878/"
+  },
+  {
+    "title_en": "Qihuang Needle Therapy for Motor Symptoms in Parkinson's Disease: A Randomized Controlled Trial.",
+    "title_zh": "芪黄针法治疗帕金森病运动症状的随机对照试验。",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Motor symptoms in Parkinson's disease (PD) often respond incompletely to medication, highlighting the need for effective adjunctive therapies. Acupuncture may offer benefits, but high-quality evidence for specialized techniques such as Qihuang needle therapy is lacking. OBJECTIVE: Our goal was to evaluate the efficacy of Qihuang needle therapy for improving motor symptoms in PD patients. METHODS: This single-center, randomized, single-blind, sham-controlled trial, enrolled 140 patients with idiopathic PD, who were assigned to either Qihuang needle therapy or sham acupuncture for nine sessions over 6 weeks, in addition to their stable medications. The primary outcome was the change in the Unified Parkinson's Disease Rating Scale Part III (UPDRS-III) score from baseline to week 6. Secondary outcomes included changes in the Non-Motor Symptoms Scale (NMSS) and the 39-item Parkinson's Disease Questionnaire (PDQ-39). RESULTS: Overall, 129 participants (92.1%) completed the trial. The Qihuang needle group showed significantly greater improvement in UPDRS-III at week 6 (between-group difference: 8.45 points; 95% confidence interval [CI], 5.49-11.42; P < 0.001), sustained at 10-week follow-up (10.88 points; 95% CI, 7.89-13.87; P < 0.001). Significant improvements were also noted in non-motor symptoms (NMSS) and quality of life (PDQ-39) at both time points (all P < 0.001). Greatest efficacy was observed in postural instability and gait disorder subtypes. CONCLUSIONS: Qihuang needle therapy significantly improved motor and non-motor symptoms and quality of life in PD patients compared with that via sham acupuncture, with benefits sustained for >/=1 month. These findings support Qihuang needle therapy as a safe and effective adjunctive treatment for PD. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 May 9",
+    "pmid": "42104874",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42104874/"
+  },
+  {
+    "title_en": "Evaluating the clinical effects of GLP-1 receptor agonists for Alzheimer's and Parkinson's diseases using minimal clinically important difference: systematic review and meta-analysis.",
+    "title_zh": "使用最小临床重要差异评估GLP-1受体激动剂对阿尔茨海默病和帕金森病的临床疗效：系统综述与荟萃分析",
+    "journal": "Archives of pharmacal research",
+    "impact_factor": 7.5,
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are promising candidates for Alzheimer's disease (AD) and Parkinson's disease (PD). However, their effects in non-diabetic populations, independent of metabolic confounding, remain unclear. We evaluated the effects of GLP-1RAs on cognition, clinical outcomes, biomarkers, and safety in non-diabetic individuals with PD, AD, and mild cognitive impairment. We assessed the clinical meaningfulness of these effects using minimal clinically important difference thresholds. Relevant studies were retrieved from PubMed, Embase, and Web of Science from inception to November 2025. A random-effects meta-analysis was applied to calculate standardized mean differences (SMDs), mean differences (MDs), and risk ratios with 95% confidence intervals (CIs). The protocol was registered in PROSPERO (CRD420261277032). Fourteen randomized controlled trials enrolling 1260 participants were included. GLP-1RAs showed a small statistically significant improvement in global cognition (SMD 0.14, 95% CI 0.01 to 0.27; I(2) = 7%), supported by high-certainty evidence. Despite statistical significance, findings suggest only a trivial probability (1%) of a clinically important benefit. Conversely, GLP-1RAs were associated with poorer verbal fluency (SMD - 0.43, 95% CI - 0.79 to - 0.08; I(2) = 0%), supported by high-certainty evidence. For clinical severity, function, depression, and PD-related outcomes, pooled estimates generally favored GLP-1RAs, but none reached statistical significance. A significant between-disease subgroup difference was observed for function. In the PD subgroup, GLP-1RAs significantly improved depression symptoms relative to control (MD - 2.09, 95% CI - 3.99 to - 0.20; I(2) = 0%). Nevertheless, this magnitude of improvement remained below the threshold for clinically important benefit. Biomarker findings were inconsistent across trials. GLP-1RAs significantly reduced weight and were associated with poorer tolerability and increased gastrointestinal adverse events. Current evidence provides no convincing support for a clinically meaningful or disease-modifying effect of GLP-1RAs, and adverse effects may limit their clinical utility. Large-scale trials are needed to definitively weigh potential benefits against associated risks.",
+    "date": "2026 May 7",
+    "pmid": "42098470",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42098470/"
+  },
+  {
+    "title_en": "Cortical-Subthalamic Interplay During Eyes-Open and Eyes-Closed Resting States in Parkinson's Disease Patients.",
+    "title_zh": "帕金森病患者睁眼与闭眼静息状态下的皮层-丘脑底核相互作用。",
+    "journal": "International journal of neural systems",
+    "impact_factor": 6.4,
+    "abstract": "Resting-state eye conditions modulate cortical oscillations, but their impact on subthalamic nucleus (STN) and cortico-STN dynamics in Parkinson's disease (PD) remains poorly understood. Here, we characterized electrophysiological changes in the STN and cortical interactions during eyes-open (EO) and eyes-closed (EC) conditions in 12 PD patients undergoing deep brain stimulation surgery. Spontaneous local field potentials in the STN (STN-LFP) and surface electroencephalogram (EEG) activity were simultaneously obtained on postoperative days 2-3 in the OFF-medication state. Power spectral density (PSD), coherence (COH), and Granger causality measures between STN-LFPs and frontal-occipital cortical areas were analyzed. These metrics revealed significant EO-EC differences, particularly in the low-frequency (LF, 4-12[Formula: see text]Hz) range. Although LF power increased across all regions during EC relative to EO, only STN and frontal EEG showed statistically significant changes. EC elicited increased frontal-STN COH within both the LF and low-beta bands (13-21[Formula: see text]Hz), accompanied by enhanced occipital-STN coupling in the low-beta range. In contrast, the influence of the alpha-band frontal cortex on the STN was more pronounced during EO. These findings confirm that eye states may differentially modulate functional connectivity through widespread cortical and STN-cortical interactions and suggest that, in unmedicated PD, EC and EO dynamically modulate large-scale cortical-STN network activity.",
+    "date": "2026 Sep",
+    "pmid": "42099057",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42099057/"
+  },
+  {
+    "title_en": "LABMA: Latent-bottleneck attention-based multimodal architecture for integration of transcriptomics, proteomics, and MRI in neurodegeneration.",
+    "title_zh": "LABMA：基于潜在瓶颈注意力的多模态架构，用于整合转录组学、蛋白质组学和MRI在神经退行性疾病研究中的应用。",
+    "journal": "Computers in biology and medicine",
+    "impact_factor": 6.3,
+    "abstract": "Integrating anatomical MRI with molecular data offers a promising path for understanding complex neurological disorders such as Alzheimer's disease and Parkinson's disease. However, no prior work has successfully combined MRI with both proteomic and transcriptomic modalities due to extreme feature dimensionality imbalances-ranging from 1000 to 6 million features across modalities. Standard fusion approaches fail as high-dimensional modalities dominate gradient-based optimization, effectively marginalizing molecular signals. We propose a Latent-Bottleneck attention-based Multimodal Architecture (LABMA) that addresses this challenge through: (1) modality-specific sparse encoders with differentiable tokenization and selection via Gumbel-Top-k relaxation, (2) gated cross-attention with latent bottlenecks that enforce balanced modality contributions, and (3) integrated gradient-based methods for discovering interpretable cross-modal biomarker interactions. Validated on two independent cohorts (ANMerge: n=376, PPMI: n=1848), our approach achieves consistent improvements of 2-8% in AUROC over best competing methods while identifying reproducible MRI-omics interaction patterns aligned with known disease mechanisms. Ablation studies confirm all three modalities contribute unique information, with tri-modal integration significantly outperforming any subset. To our knowledge, this work represents the first architecture specifically designed to address the extreme dimensional imbalance arising from the joint integration of transcriptomic, proteomic, and MRI for neurological disease analysis.",
+    "date": "2026 May 11",
+    "pmid": "42114436",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114436/"
+  },
+  {
+    "title_en": "Implementation of artificial intelligence to automate physical disector in a fractionator design for quantification of stem cell-derived neurons.",
+    "title_zh": "应用人工智能实现分数器设计中物理体视器的自动化，用于定量分析干细胞来源的神经元。",
+    "journal": "Computers in biology and medicine",
+    "impact_factor": 6.3,
+    "abstract": "Accurate quantification of stem cell-derived dopaminergic neurons is essential for advancing cell therapy strategies in Parkinson's disease (PD). Traditional manual stereological methods, while robust, are time-consuming and subject to interobserver variability, limiting their scalability for preclinical and translational studies. This study presents the development and validation of an artificial intelligence (AI)-assisted physical fractionator workflow for unbiased and efficient quantification of human embryonic stem cell (hESC)-derived ventral midbrain dopaminergic (vmDA) neurons in a Parkinsonian rat model. The workflow integrates convolutional neural networks (U-net and DeepLabv3+) within the Visiopharm platform to automate tissue alignment, graft region identification, and cell segmentation/classification based on triple immunofluorescent labelling (TH, FOXA2, HNA). Human-in-the-loop review ensures quality control and allows for flexible adjustment of immunostaining thresholds. Performance was evaluated using paired datasets: brains from Study A (training, validation, and test set) and Study B (out-of-sample test set from a separate experiment). The AI-assisted workflow demonstrated segmentation and counting accuracy comparable to human experts, with high precision, sensitivity, and high F1 scores for both segmentation and quantification. Results showed no significant differences between AI-assisted and manual quantification of total human cells and vmDA neurons across studies, and the workflow substantially reduced hands-on analysis time from 8 h to 1 h per graft. The investment required for AI model development, annotation, and optimization in the initial phase took several months and is regarded as a one-time infrastructure investment. Additionally, the workflow's design enables adaptability for other cell types by integrating relevant markers. These findings highlight the potential of AI-assisted stereological workflows to accelerate and standardize cell quantification in preclinical research, with potential relevance for translational research settings in cell therapy development.",
+    "date": "2026 May 9",
+    "pmid": "42107341",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42107341/"
+  },
+  {
+    "title_en": "Life-cycle exposure to tris(2-butoxyethyl) phosphate at environmentally relevant concentrations induces progressive Parkinsonian-like neurodegeneration via lysosomal dysfunction in Caenorhabditis elegans.",
+    "title_zh": "生命周期暴露于环境相关浓度的三(2-丁氧基乙基)磷酸酯通过溶酶体功能障碍诱导秀丽隐杆线虫进行性帕金森样神经退行性变。",
+    "journal": "Ecotoxicology and environmental safety",
+    "impact_factor": 6.1,
+    "abstract": "Environmental contaminants are increasingly recognized as key risk factors for chronic diseases, including neurodegenerative disorders. Tris(2-butoxyethyl) phosphate (TBOEP) is a representative organophosphate ester that is widely detected in environmental matrices and human tissues, yet whether chronic exposure to environmentally relevant concentrations of TBOEP drives progressive neurodegenerative pathology remains unclear. Here, using Caenorhabditis elegans as a model organism, we performed a 20-day, time-resolved life-cycle exposure to environmentally relevant concentrations of TBOEP (50-5000 ng/L) to systematically assess chronic neurotoxicity. TBOEP exposure induced progressive, age-dependent neurodegenerative phenotypes. Early effects were characterized by selective impairment of locomotor performance starting at 50 ng/L, followed by broader systemic toxicity, including growth retardation, feeding deficits, and accelerated aging. Consistent with a Parkinson's disease-like trajectory, hallmark pathological features progressively worsened with exposure duration, including dopamine-dependent functional impairment, while alpha-synuclein aggregation and dopaminergic neuronal impairment were mainly observed at concentrations >/= 500 ng/L. Mechanistically, time-resolved transcriptomics identified the lysosomal pathway as a central target of TBOEP. Functional assays further confirmed that TBOEP significantly impaired lysosomal acidification. Pharmacological validation with the lysosomal chaperone ambroxol showed that improving lysosomal function mitigated TBOEP-induced neurotoxicity, supporting lysosomal dysfunction as a primary contributor to the observed pathology. Collectively, our findings identify TBOEP as a potential environmental risk factor for neurodegeneration, providing important insights that could inform further studies assessing the environmental health risks of organophosphate esters.",
+    "date": "2026 May 11",
+    "pmid": "42114425",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42114425/"
+  },
+  {
+    "title_en": "From mild cognitive impairment to normal cognition in Parkinson's disease: The role of brain network architecture.",
+    "title_zh": "从轻度认知障碍到帕金森病正常认知：脑网络架构的作用",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "INTRODUCTION: The state of mild cognitive impairment related to Parkinson's disease (PD-MCI) is unstable. However, the mechanisms underlying reversion to normal cognition in patients with early PD-MCI are still not fully understood. OBJECTIVES: To investigate whether reversion to normal cognition in PD-MCI is associated with the architecture of brain structural covariance networks (SCNs). METHODS: Graph-theoretical analyses of SCNs were conducted using MRI-derived cortical thickness and subcortical volume measures from 119 drug-naive PD patients and 51 healthy controls (HCs) at baseline. Among patients, 16 reverted from PD-MCI to normal cognition (Reverters) at the 1-year follow-up, 39 showed persistent PD-MCI (Non-Reverters), and 64 remained cognitively normal (PD-CN). Hub identification and global (efficiency, path length, clustering, small-worldness) and regional (clustering, efficiency) measures of SCNs were compared across groups. RESULTS: Higher educational level and better cognitive performance were associated with reversion to normal cognition at the 1-year follow-up. At baseline MRI assessment, 15 hubs were identified in HCs and PD-CN, 8 in Reverters, and 5 in Non-Reverters. Reverters exhibited higher global efficiency than the other groups. Non-Reverters showed higher regional efficiency and clustering than PD-CN and HCs in the precentral regions. CONCLUSIONS: The loss of brain regions as network hubs within SCNs reflects cognitive impairment in early PD, suggesting a close link between the organization of brain SCNs and clinical outcomes. Cognitive resilience appears to be associated with a distinct SCN architecture at the earliest PD stages. These findings may contribute to understanding of the mechanisms underlying PD-MCI reversion and inform future treatments.",
+    "date": "2026 May 7",
+    "pmid": "42106118",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42106118/"
+  },
+  {
+    "title_en": "Synaptic attenuation by human alpha-synuclein depends on two amino acids in its C-terminal tail.",
+    "title_zh": "人类α-突触核蛋白引起的突触衰减取决于其C末端尾部中的两个氨基酸。",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Alpha-synuclein is a protein primarily expressed in the central and peripheral nervous systems that is firmly implicated in Parkinson's disease and other neurodegenerative diseases termed the synucleinopathies. In post-mortem analyses, macromolecular aggregates of alpha-synuclein are observed in surviving neurons. Consequently, significant research effort has been invested in understanding the properties of alpha-synuclein, with the vast majority focused on the human form. Notwithstanding its high evolutionary conservation, inter-species differences have been noted, and particularly, that while mouse alpha-synuclein fibrillizes in vitro faster than the human form, it is the latter that is more neurotoxic. In light of the synaptic hypothesis of the synucleinopathies, which posits that synaptic dysfunction precedes neurodegeneration, we investigated whether overexpressed human and mouse alpha-synuclein exert distinct effects on neurotransmission. We found that while human alpha-synuclein attenuates synaptic vesicle recycling and disperses the vesicles in synapses of cultured mouse neurons, surprisingly, the mouse protein does not. To explore the basis for these differences, we created chimeric constructs between the two. We report that the two amino acids D121-N122 in the C-terminal tail of human alpha-synuclein are sufficient to discriminate between the distinct synaptic phenotypes of the human and mouse forms, highlighting their functional significance.",
+    "date": "2026 May 5",
+    "pmid": "42097409",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42097409/"
+  },
+  {
+    "title_en": "Reimagining the contribution of iron in Parkinson's disease.",
+    "title_zh": "重新定义铁在帕金森病中的作用。",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Parkinson's Disease (PD) is the fastest-growing neurodegenerative disease globally, with prevalence increasing more rapidly than Alzheimer's disease. PD pathogenesis has traditionally been framed around iron accumulation in the substantia nigra (SN), resulting in oxidative injury to vulnerable dopaminergic neurons. However, excess iron alone does not readily explain the temporal emergence of dopaminergic susceptibility across the lifespan. Epidemiological and clinical studies consistently show that iron deficiency often precedes PD diagnosis by more than a decade, suggesting that early iron dysregulation establishes a prodromal metabolic state that destabilizes the nigrostriatal system. Here we propose a dynamic two-phase framework in which iron deficiency establishes a latent vulnerability state characterized by impaired iron-dependent enzymatic activity, diminished ferritin buffering, weakened mitochondrial function, and reduced antioxidant defenses. In this primed context, subsequent increases in dopaminergic flux during L-DOPA therapy may amplify oxidative stress by elevating cytosolic dopamine, perturbing iron handling, and promoting dopamine iron redox chemistry that generates quinones and reactive oxygen species (ROS). Transitions in iron availability including iron supplementation, may further aggravate this process but are not required for its initiation. By reframing PD as a disorder shaped by dynamic changes in iron availability interacting with dopaminergic demand, this review integrates evidence across iron biology, dopaminergic signaling, oxidative stress, and neuroinflammation to propose a mechanistically novel model of PD pathogenesis. This conceptual shift highlights new opportunities for risk stratification, biomarker development, and refinement of dopaminergic therapy within iron dysregulated states.",
+    "date": "2026 May 5",
+    "pmid": "42097406",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42097406/"
+  },
+  {
+    "title_en": "A Systematic Review on Disease-Modifying Therapies in Parkinsonian Disorders.",
+    "title_zh": "帕金森病样疾病中疾病修饰疗法的系统评价。",
+    "journal": "Clinical pharmacology and therapeutics",
+    "impact_factor": 5.5,
+    "abstract": "Parkinsonian disorders, including Parkinson's disease, Lewy body dementia, multiple system atrophy, and progressive supranuclear palsy, are progressive neurodegenerative conditions with no treatment options to slow disease progression. This systematic review provides an overview of evidence of disease-modifying therapies that have been evaluated in clinical studies across these disorders, based on a comprehensive literature search up to May 2025. Eligible studies included clinical trials investigating pharmacological interventions aimed at slowing disease progression. Most clinical development has focused on Parkinson's disease, with limited progress in other Parkinsonian disorders. Therapies targeting alpha-synuclein, such as monoclonal antibodies and small molecules, have shown target engagement but limited clinical efficacy. Glucocerebrosidase-enhancing agents, particularly ambroxol, demonstrated promising biomarker and clinical signals in early-phase trials. Glucagon-like peptide-1 receptor agonists and kinase inhibitors have yielded mixed results, with some agents progressing to phase 3 trials. Neurotrophic factors, cell survival and neuroprotective therapies, stem cell therapies, and anti-inflammatory agents remain largely investigational, with limited evidence of efficacy. Repurposed drugs, including memantine and riluzole, have shown preliminary signals of benefit, though confirmatory trials are lacking. Despite substantial research efforts, no disease-modifying therapy has been approved for any Parkinsonian disorder. The heterogeneity of disease mechanisms and the limitations of current clinical endpoints, such as the Unified Parkinson's Disease Rating Scale, underscore the need for biomarker-driven approaches and stratified trial designs. Future success will likely depend on improved patient selection, mechanistic targeting, and the integration of fluid and imaging biomarkers to demonstrate disease modification.",
+    "date": "2026 May 9",
+    "pmid": "42104724",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42104724/"
+  },
+  {
+    "title_en": "Neuroprotective Efficacy of Nyctanthes arbor-tristis in a Rotenone-Induced Rat Model of Parkinson's Disease.",
+    "title_zh": "夜花树（Nyctanthes arbor-tristis）在鱼藤酮诱导的帕金森病大鼠模型中的神经保护功效。",
+    "journal": "Journal of ethnopharmacology",
+    "impact_factor": 5.4,
+    "abstract": "ETHNOPHARMACOLOGICAL RELEVANCE: Nyctanthes arbor-tristis is widely used in traditional medicine systems for its anti-inflammatory, antioxidant, and neuroprotective properties. It has been traditionally employed in the management of neurological and inflammatory disorders, supporting its potential role in neurodegenerative conditions such as Parkinson's disease. These therapeutic effects are attributed to its rich phytochemical profile, particularly iridoid glycosides (e.g., Arbortristoside A, nyctanthoside) and flavonoids (e.g., quercetin, kaempferol), which are known to modulate oxidative stress, neuroinflammation, and neuronal survival pathways. AIM OF THE STUDY: The present study aimed to evaluate the neuroprotective potential of Nyctanthes arbor-tristis leaf extract against rotenone-induced Parkinsonism in an experimental rat model. MATERIALS AND METHODS: Male Wistar rats were divided into six groups and Parkinsonian symptoms were induced using rotenone (2.5 mg/kg/day, i.p.) for 21 days. The extract of Nyctanthes arbor-tristis (150, 250, and 500 mg/kg) was administered orally. Behavioral assessments included rotarod, beam walk, hanging wire, elevated plus maze, and forced swim test. Biochemical parameters such as catalase, glutathione, lipid peroxidation, NF-kB, and dopamine levels were evaluated. Histopathological analysis and dopaminergic neuronal count were also performed. RESULTS: Treatment with Nyctanthes arbor-tristis extract significantly produced dose-dependent neuroprotection, with the Test 3 group demonstrating efficacy comparable to standard levodopa-carbidopa therapy. It improved motor coordination and reduced anxiety and depression-like behaviors. It restored antioxidant enzyme levels, decreased lipid peroxidation, and downregulated NF-kB expression. Dopamine levels and dendritic count of dopaminergic neurons were significantly preserved in treated groups. Histopathological findings revealed reduced neuronal degeneration and gliosis, particularly at higher doses. CONCLUSIONS: Nyctanthes arbor-tristis exhibited dose-dependent neuroprotective effects against rotenone-induced Parkinsonism, likely mediated through antioxidant, anti-inflammatory, and dopaminergic neuronal preservation mechanisms. These findings support its potential as a safe and effective therapeutic candidate for the management of Parkinson's disease, warranting further pharmacological and clinical investigations.",
+    "date": "2026 May 8",
+    "pmid": "42107754",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42107754/"
+  },
+  {
+    "title_en": "Correction to: Differential striatal dopamine binding in Parkinson's Disease with and without REM sleep behavior disorder: A Tc‑99 m TRODAT‑1 SPECT study.",
+    "title_zh": "更正：伴与不伴快速眼动睡眠行为障碍的帕金森病患者纹状体多巴胺结合差异：一项Tc-99m TRODAT-1 SPECT研究。",
+    "journal": "GeroScience",
+    "impact_factor": 5.4,
+    "abstract": "暂无摘要",
+    "date": "2026 May 8",
+    "pmid": "42101747",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42101747/"
+  },
+  {
+    "title_en": "Bridging neuroinflammation, oxidative stress, and neurogenesis: aromatic turmerone as a multifunctional modulator via NF-kappaB and Nrf2 pathways.",
+    "title_zh": "桥接神经炎症、氧化应激与神经发生：芳香姜黄酮通过NF-κB和Nrf2通路的多功能调节作用",
+    "journal": "Inflammopharmacology",
+    "impact_factor": 5.3,
+    "abstract": "Neuroinflammation and oxidative stress are central mechanisms driving neurodegenerative diseases, while impaired neurogenesis limits regeneration. Aromatic-turmerone (ar-turmerone), a bioactive sesquiterpenoid from Curcuma longa, has emerged as a multifunctional neuroprotective agent capable of modulating inflammatory and regenerative processes simultaneously. Evidence from in vitro and in vivo models demonstrates that ar-turmerone suppresses Toll-like receptor 4 (TLR4)-dependent NF-kappaB and MAPK signaling, thereby reducing microglial activation, nitric oxide synthase (iNOS), cyclooxygenase-2 (COX-2), and proinflammatory cytokines (TNF-alpha, IL-1beta, IL-6). Concurrently, it activates the Nrf2/HO-1 antioxidant pathway and enhances cAMP/PKA-CREB signaling, restoring redox homeostasis and promoting neuronal survival. Importantly, ar-turmerone drives microglial polarization toward the M2 anti-inflammatory phenotype and stimulates neural stem cell (NSC) proliferation and neuronal differentiation in the subventricular zone and hippocampus. These dual anti-inflammatory and neurogenic actions position ar-turmerone as a unique bridge between neuroinflammation suppression and neuroregeneration enhancement. Recent structure-activity relationship studies further reveal that N-substituted amide and naphthyl derivatives exhibit superior inhibition of NO and TNF-alpha release and improved neuroprotective potency in Alzheimer's and Parkinson's disease models. Collectively, ar-turmerone represents a promising multi-target natural scaffold for developing therapeutics that counteract neurodegeneration by simultaneously modulating microglial activation, oxidative stress, and endogenous neurogenesis.",
+    "date": "2026 May 8",
+    "pmid": "42098564",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42098564/"
+  }
+]
