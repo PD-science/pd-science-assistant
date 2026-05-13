@@ -16,7 +16,7 @@
 ---
 
 ## 🤖online-agent
-![PD-science-log](images/pd-science-bot.png)
+![PD-science-logo](images/pd-science-bot.png)
 
 ## 🚀 欢迎关注公众号：PD科学
 ![Wechat Official Account](images/PD-science-wechat-official-account.png)
