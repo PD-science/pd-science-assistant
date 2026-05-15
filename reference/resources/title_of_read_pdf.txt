@@ -97,30 +97,3 @@ PD参考文献列表
 32. Beudel, M. & Brown, P. Adaptive deep brain stimulation in Parkinson’s disease. Parkinsonism & Related Disorders 22, S123–S126 (2016).
 33. Zhu, X., Liu, J. & Krassioukov, A. Orthostatic hypotension in Parkinson disease. CMAJ.
 34. Bahners, B. H. The deep brain stimulation response network in Parkinson’s disease operates in the high beta band. Brain.
-
-
-
-
-PD脑功能连接文献列表：
-1. Nakano, Y., Niethammer, M. & Eidelberg, D. Imaging of Disease-Related Networks in Parkinson’s Disease. Cold Spring Harb Perspect Med a041841 (2025) doi:10.1101/cshperspect.a041841.
-2. Vo, A. et al. Convergent large-scale network and local vulnerabilities underlie brain atrophy across Parkinson’s disease stages: a worldwide ENIGMA study. https://doi.org/10.1101/2025.05.25.25326586 (2025) doi:https://doi.org/10.1101/2025.05.25.25326586.
-3. Endo, M. et al. Data-driven discovery of movement-linked heterogeneity in neurodegenerative diseases. Nat Mach Intell 6, 1034–1045 (2024).
-4. Basaia, S. et al. Brain Connectivity Networks Constructed Using MRI for Predicting Patterns of Atrophy Progression in Parkinson Disease. Radiology 311, e232454 (2024).
-5. Chen, Z. et al. Abnormal cerebellum connectivity patterns related to motor subtypes of Parkinson’s disease. J Neural Transm 130, 549–560 (2023).
-6. Basaia, S. et al. Cerebro-cerebellar motor networks in clinical subtypes of Parkinson’s disease. npj Parkinsons Dis. 8, 113 (2022).
-7. Maiti, B. et al. Cognitive correlates of cerebellar resting-state functional connectivity in Parkinson disease. Neurology 94, (2020).
-8. Fiorenzato, E. et al. Dynamic functional connectivity changes associated with dementia in Parkinson’s disease. Brain 142, 2860–2872 (2019).
-9. Ji, G.-J. et al. Functional Connectivity of the Corticobasal Ganglia–Thalamocortical Network in Parkinson Disease: A Systematic Review and Meta-Analysis with Cross-Validation. Radiology 287, 973–982 (2018).
-10. Horn, A. et al. Connectivity Predicts deep brain stimulation outcome in P arkinson disease. Annals of Neurology 82, 67–78 (2017).
-11. Gao, L. & Wu, T. The study of brain functional connectivity in Parkinson’s disease. Transl Neurodegener 5, 18 (2016).
-12. Vervoort, G. et al. Functional connectivity alterations in the motor and fronto-parietal network relate to behavioral heterogeneity in Parkinson’s disease. Parkinsonism & Related Disorders 24, 48–55 (2016).
-13. O’Callaghan, C. et al. Cerebellar atrophy in Parkinson’s disease and its implication for network connectivity. Brain 139, 845–855 (2016).
-14. Stoessl, A. J., Lehericy, S. & Strafella, A. P. Imaging insights into basal ganglia function, Parkinson’s disease, and dystonia. The Lancet 384, 532–544 (2014).
-15. Thenganatt, M. A. & Jankovic, J. Parkinson Disease Subtypes. JAMA Neurol 71, 499 (2014).
-16. Shepherd, G. M. G. Corticostriatal connectivity and its role in disease. Nat Rev Neurosci 14, 278–291 (2013).
-17. Esposito, F. et al. Rhythm-specific modulation of the sensorimotor network in drug-naïve patients with Parkinson’s disease by levodopa. Brain 136, 710–725 (2013).
-18. Hacker, C. D., Perlmutter, J. S., Criswell, S. R., Ances, B. M. & Snyder, A. Z. Resting state functional connectivity of the striatum in Parkinson’s disease. Brain 135, 3699–3711 (2012).
-19. Niethammer, M., Feigin, A. & Eidelberg, D. Functional Neuroimaging in Parkinson’s Disease. Cold Spring Harbor Perspectives in Medicine 2, a009274–a009274 (2012).
-20. Helmich, R. C., Janssen, M. J. R., Oyen, W. J. G., Bloem, B. R. & Toni, I. Pallidal dysfunction drives a cerebellothalamic circuit into Parkinson tremor. Annals of Neurology 69, 269–281 (2011).
-21. Andrews-Hanna, J. R. et al. Disruption of Large-Scale Brain Systems in Advanced Aging. Neuron 56, 924–935 (2007).
-22. Williams, D. Dopamine-dependent changes in the functional connectivity between basal ganglia and cerebral cortex in humans. Brain 125, 1558–1569 (2002).

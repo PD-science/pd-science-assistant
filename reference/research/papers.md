@@ -1,92 +1,93 @@
 帕金森病知识库文献综合汇总 本文件汇总了共 87 篇 帕金森病（PD）及相关领域的关键文献，涵盖流行病学、诊断、发病机制、治疗（药物、DBS、基因治疗、超声、运动等）、生物标志物、量表、合并症及环境因素等。每篇总结均包含元数据、研究背景、方法、主要结果、结论、标签及可引用的关键原句，旨在为AI Agent提供结构化、高信噪比的参考知识库。
 
 完整文献列表
-序号	文献ID	标题	类型	主题
-1	PD-REV-001	Aarsland et al., 2021 - PD认知障碍	综述	认知
-2	PD-TECH-001	Acevedo et al., 2025 - VisionMD	技术	计算机视觉评估
-3	PD-BASIC-001	Arkinson & Walden, 2018 - Parkin功能	综述	遗传/线粒体
-4	PD-CLINICAL-001	Armstrong & Okun, 2020 - PD诊断治疗	综述	综合
-5	PD-DBS-001	Ashkan et al., 2017 - DBS机制	综述	DBS
-6	PD-SCALE-001	Chaudhuri et al., 2015 - KPPS疼痛量表	量表	非运动症状
-7	PD-BASIC-002	Cho et al., 2025 - 步态病理基础	综述	步态/FOG
-8	PD-TECH-002	Dagum et al., 2025 - 无线脑电阻测量	技术	类淋巴系统
-9	PD-TECH-003	Darmani et al., 2025 - TUS	干预	TUS/DBS
-10	PD-PROT-001	Defer et al., 1999 - CAPSIT-PD	指南	手术评估
-11	PD-DBS-002	Deuschl et al., 2006 - DBS RCT	RCT	DBS
-12	PD-REHAB-001	Diaz-Galvan et al., 2025 - 运动与脑结构	队列	运动/认知
-13	PD-DBS-003	Dixon et al., 2025 - 运动反应性aDBS	干预	aDBS/BCI
-14	PD-ENV-001	Erro et al., 2025 - 微塑料	综述	环境
-15	PD-BIOM-001	Gan et al., 2025 - 蛋白质组预测	队列	生物标志物
-16	PD-BASIC-003	Graybiel, 2025 - 基底节新发现	综述	环路
-17	PD-DBS-004	Horn et al., 2019 - DBS功能连接正常化	影像	DBS/连接组
-18	PD-AI-001	Hswen & Anderer, 2025 - AI辅助诊断	新闻	AI/MRI
-19	PD-PHARM-001	Jost et al., 2023 - LED更新	指南	药物/LED
-20	PD-CLINICAL-002	Kalia & Lang, 2015 - PD Seminar	综述	综合
-21	PD-BASIC-004	Koss et al., 2025 - DNA损伤与α-syn	机制	DNA损伤/α-syn
-22	PD-TECH-004	Lange et al., 2025 - 计算机视觉运动学	技术	运动学/左旋多巴
-23	PD-COMM-001	Lee et al., 2025 - 小胶质细胞PET	评论	神经炎症/PET
-24	PD-ENV-002	Liu et al., 2023 - 纳米塑料与α-syn聚集	机制	环境/α-syn
-25	PD-TECH-005	Martínez-Fernández et al., 2025 - FUS	综述	FUS/手术
-26	PD-SCALE-002	MDS Task Force, 2003 - UPDRS	指南	评估/UPDRS
-27	PD-DLB-001	Peña-Bautista et al., 2025 - DLB血浆标志物	横断面	生物标志物/DLB
-28	PD-BASIC-005	Petschner et al., 2025 - TrkB与DBS	动物	DBS/TrkB
-29	PD-DIAG-001	Postuma et al., 2015 - MDS诊断标准	诊断标准	诊断
-30	PD-REV-002	Przedborski, 2017 - PD研究200年	综述	历史/综合
-31	PSP-001	Quattrone et al., 2025 - PSP萎缩不预测进展	队列	PSP/MRI
-32	PD-BASIC-006	Sampson et al., 2016 - 肠道菌群与PD	机制	肠-脑轴/菌群
-33	PD-PHARM-002	Saranza & Lang, 2021 - 左旋多巴激发试验	综述	左旋多巴/DBS筛选
-34	PD-BASIC-011	Schon et al., 2025 - 线粒体与PD	综述	线粒体
-35	PD-BASIC-007	Sharabi et al., 2021 - PD外周自主神经	综述	自主神经/α-syn
-36	PD-GENETICS-001	Singleton et al., 2025 - 全球协作	评论	遗传/全球健康
-37	PD-PHARM-003	Stocchi et al., 2024 - PD治疗策略	综述	DMT/药物
-38	PD-ENV-003	Subramanian, 2025 - TCE禁令	新闻	环境/TCE
-39	PD-GENE-001	Szunyogh et al., 2025 - 基因治疗	综述	基因治疗
-40	PD-CLINICAL-004	Tanner & Ostrem, 2024 - NEJM PD	综述	综合
-41	PD-CLINICAL-003	Thenganatt & Jankovic, 2014 - PD亚型	综述	亚型
-42	PD-SYMP-001	Tinazzi et al., 2025 - PD疼痛	综述	疼痛/非运动
-43	PD-PHARM-004	Tomlinson et al., 2010 - LED系统综述	综述	LED
-44	PD-AI-002	Vaillancourt et al., 2025 - AIDP	队列	AI/MRI/鉴别诊断
-45	PD-DMT-002	Verma & Goyal, 2024 - GLP-1与PD	综述	GLP-1/DMT
-46	PD-DMT-003	Vijiaratnam et al., 2025 - Exenatide-PD3	RCT	GLP-1/阴性结果
-47	PD-NEURO-001	Wei et al., 2025 - 左旋多巴和DBS对振荡影响	机制	MEG/振荡
-48	PD-DBS-005	Wong et al., 2025 - DBS诱导运动障碍通路	回顾性	DBS/运动障碍
-49	PD-BASIC-008	Wu et al., 2025 - FAM171A2介导α-syn摄取	基础	α-syn/受体
-50	PD-BASIC-009	Xu et al., 2020 - FAM171A2调节颗粒蛋白前体	GWAS	遗传/颗粒蛋白前体
-51	PD-BASIC-010	Yuan et al., 2025 - 肾-脑α-syn传播	基础	α-syn/肾
-52	PD-TECH-006	Zhang et al., 2022 - rTMS meta分析	Meta	rTMS/运动/抑郁
-53	PD-TECH-007	Zhao et al., 2025 - 可穿戴汗液传感器	技术	可穿戴/生物标志物
-54	PD-EPI-001	Zhu et al., 2024 - PD患病率趋势	Meta	流行病学
-55	STROKE-NEURO-001	Park et al., 2026 - 脑卒中后脑年龄	多中心队列	卒中/神经可塑性
-56	PD-CIRCUIT-001	Ren et al., 2026 - PD作为SCAN障碍	多模态	SCAN/DBS/TMS
-57	PD-GLIA-001	Sanchez-Mico et al., 2026 - 星形胶质细胞Ca²⁺	综述	胶质细胞/Ca²⁺
-58	PD-MOL-001	Shao et al., 2026 - RBD-PD多组学	多组学队列	RBD/代谢/蛋白/菌群
-59	PD-CHEM-001	Wise, 2026 - PET塑料转化左旋多巴	新闻	合成生物学/左旋多巴
-60	PD-NIBS-002	Yang et al., 2026 - TIs靶向STN	RCT	TIs/STN/无创刺激
-61	PD-TOOL-001	Zhang et al., 2026 - α-syn荧光报告基因	工具	α-syn/活体成像
-62	PD-MICRO-002	Zhang et al., 2026 - 粪菌移植de novo PD	RCT	FMT/肠-脑轴
-63	PD-REV-003	Zhang et al., 2026 - PD发病机制与治疗	综述	综合/发病机制
-64	PD-SYMP-002	Zhu & Krassiloukov, 2026 - PD体位性低血压	临床要点	自主神经/OH
-65	PD-DIAG-002	Tolosa et al., 2026 - 基于生物标志物的PD诊断	综述	生物标志物/SAA
-66	PD-LIFESTYLE-002	Trinh et al., 2026 - 生活方式干预回复	通讯	生活方式/认知/LMIC
-67	PD-BOOK-001	Wijeratne, 2026 - 抗争PD书评	书评	患者视角/拳击
-68	PD-DMT-004	Shomali & Trempe, 2026 - 靶向激酶治疗	综述	激酶/LRRK2/PINK1/PROTAC
-69	PD-ENV-004	Palushaj & Voigt, 2026 - PD大流行与肠道韧性	观点	环境/菌群/政策
-70	PD-LIFESTYLE-003	Alibudbud, 2026 - 生活方式干预（读者来信）	通讯	LMIC/社区干预
-71	PD-DBS-006	Bahners et al., 2026 - DBS反应网络在高β频段	电生理	DBS/高β振荡
-72	PD-DBS-007	Beudel & Brown, 2016 - 自适应DBS	综述	aDBS/闭环
-73	PD-BASIC-012	Dautan et al., 2026 - 肠-脑PFF模型RBD	基础	肠-脑轴/PFF/RBD
-74	PD-IMMUNE-001	De Schepper et al., 2026 - 肠道巨噬细胞	基础	巨噬细胞/T细胞/TGFβ
-75	PD-NEWS-001	Fyfe, 2026 - 肠道巨噬细胞（研究亮点）	新闻	二次报道
-76	PD-THERAPY-001	Du et al., 2026 - 封装线粒体移植	技术/治疗	线粒体移植/MPTP
-77	PD-NIBS-003	Eraifej et al., 2026 - TUS抑制β振荡	RCT	TUS/GPi/β振荡
-78	PD-PATIENT-001	Highsmith, 2026 - aDBS患者视角	叙事	患者视角/aDBS
-79	PD-TAU-001	Kumar et al., 2026 - tau蛋白分子特征	资源	tau蛋白/PTM/质谱
-80	PD-IMAGING-002	Li et al., 2026 - QSM同时检测铁和α-syn	影像	QSM/铁/α-syn
-81	PD-AI-003	Lian et al., 2026 - EHR亚型分型	队列/AI	亚型/共病/遗传
-82	PD-MECH-002	Luo, 2026 - 自噬的下一个问题	观点	自噬/细胞类型特异性
-83	PD-PROFILE-001	McLellan, 2026 - Miratul Muqit人物简介	人物简介	PINK1/研究中心
-84	PD-BIOPHYS-001	Ninham et al., 2026 - 糖萼与PD	理论	糖萼/纳米气泡/霍夫迈斯特
-85	PD-DMT-005	Pahwa et al., 2026 - Tavapadon III期（TEMPO-1）	RCT	D1/D5激动剂/早期PD
+| 序号 | 文献ID | 标题 | 类型 | 主题 | 期刊 |
+|:---:|:---|:---|:---:|:---|:---|
+| 1 | PD-REV-001 | [Parkinson disease-associated cognitive impairment](https://doi.org/10.1038/s41572-021-00280-3) | 综述 | 认知 | Nature Reviews Disease Primers |
+| 2 | PD-TECH-001 | [VisionMD: an open-source tool for video-based analysis of motor function in movement disorders](https://doi.org/10.1038/s41531-025-00722-9) | 技术 | 计算机视觉评估 | npj Parkinson's Disease |
+| 3 | PD-BASIC-001 | [Parkin function in Parkinson's disease](https://doi.org/10.1126/science.aar6606) | 综述 | 遗传/线粒体 | Science |
+| 4 | PD-CLINICAL-001 | [Diagnosis and Treatment of Parkinson Disease: A Review](https://doi.org/10.1001/jama.2019.22360) | 综述 | 综合 | JAMA |
+| 5 | PD-DBS-001 | [Insights into the mechanisms of deep brain stimulation](https://doi.org/10.1038/nrneurol.2017.101) | 综述 | DBS | Nature Reviews Neurology |
+| 6 | PD-SCALE-001 | [King's Parkinson's disease pain scale, the first scale for pain in PD: An international validation](https://doi.org/10.1002/mds.26270) | 量表 | 非运动症状 | Movement Disorders |
+| 7 | PD-BASIC-002 | [Re-examining the pathobiological basis of gait dysfunction in Parkinson's disease](https://doi.org/10.1016/j.tins.2025.01.002) | 综述 | 步态/FOG | Trends in Neurosciences |
+| 8 | PD-TECH-002 | [A wireless device for continuous measurement of brain parenchymal resistance tracks glymphatic function in humans](https://doi.org/10.1038/s41551-025-01394-9) | 技术 | 类淋巴系统 | Nature Biomedical Engineering |
+| 9 | PD-TECH-003 | [Individualized non-invasive deep brain stimulation of the basal ganglia using transcranial ultrasound stimulation](https://doi.org/10.1038/s41467-025-57920-3) | 干预 | TUS/DBS | Nature Communications |
+| 10 | PD-PROT-001 | [Core assessment program for surgical interventional therapies in Parkinson's disease (CAPSIT-PD)](https://doi.org/10.1002/mds.870140405) | 指南 | 手术评估 | Movement Disorders |
+| 11 | PD-DBS-002 | [A Randomized Trial of Deep-Brain Stimulation for Parkinson's Disease](https://doi.org/10.1056/NEJMoa060281) | RCT | DBS | New England Journal of Medicine |
+| 12 | PD-REHAB-001 | [Association of Physical Exercise With Structural Brain Changes and Cognitive Decline in Patients With Early Parkinson Disease](https://doi.org/10.1212/WNL.0000000000213932) | 队列 | 运动/认知 | Neurology |
+| 13 | PD-DBS-003 | [Movement-responsive deep brain stimulation for Parkinson's Disease using a remotely optimized neural decoder](https://doi.org/10.1038/s41551-025-01438-0) | 干预 | aDBS/BCI | Nature Biomedical Engineering |
+| 14 | PD-ENV-001 | [Plastamination: A Rising Concern for Parkinson's Disease](https://doi.org/10.1002/mds.30253) | 综述 | 环境 | Movement Disorders |
+| 15 | PD-BIOM-001 | [Large-scale proteomic analyses of incident Parkinson's disease reveal new pathophysiological insights and potential biomarkers](https://doi.org/10.1038/s43587-025-00818-0) | 队列 | 生物标志物 | Nature Aging |
+| 16 | PD-BASIC-003 | [Surprises From the Basal Ganglia: Stop and Go Have New Meaning](https://doi.org/10.1002/mds.70026) | 综述 | 环路 | Movement Disorders |
+| 17 | PD-DBS-004 | [Deep brain stimulation induced normalization of the human functional connectome in Parkinson's disease](https://doi.org/10.1093/brain/awz239) | 影像 | DBS/连接组 | Brain |
+| 18 | PD-AI-001 | [A Large Proportion of Parkinson Disease Diagnoses Are Wrong—Here's How AI Could Help](https://doi.org/10.1001/jama.2025.3276) | 新闻 | AI/MRI | JAMA |
+| 19 | PD-PHARM-001 | [Levodopa Dose Equivalency in Parkinson's Disease: Updated Systematic Review and Proposals](https://doi.org/10.1002/mds.29410) | 指南 | 药物/LED | Movement Disorders |
+| 20 | PD-CLINICAL-002 | [Parkinson's disease](https://doi.org/10.1016/S0140-6736(14)61393-3) | 综述 | 综合 | The Lancet |
+| 21 | PD-BASIC-004 | [A reciprocal relationship between markers of genomic DNA damage and alpha-synuclein pathology in dementia with Lewy bodies](https://doi.org/10.1186/s13024-025-00757-5) | 机制 | DNA损伤/α-syn | Molecular Neurodegeneration |
+| 22 | PD-TECH-004 | [Computer vision uncovers three fundamental dimensions of levodopa-responsive motor improvement in Parkinson's disease](https://doi.org/10.1038/s41531-025-00776-9) | 技术 | 运动学/左旋多巴 | npj Parkinson's Disease |
+| 23 | PD-COMM-001 | [Microglia matters: visualizing the immune battle in Parkinson's disease](https://doi.org/10.1172/JCI192919) | 评论 | 神经炎症/PET | Journal of Clinical Investigation |
+| 24 | PD-ENV-002 | [Anionic nanoplastic contaminants promote Parkinson's disease–associated α-synuclein aggregation](https://doi.org/10.1126/sciadv.adi8716) | 机制 | 环境/α-syn | Science Advances |
+| 25 | PD-TECH-005 | [Focused ultrasound therapy for movement disorders](https://doi.org/10.1016/S1474-4422(25)00212-1) | 综述 | FUS/手术 | The Lancet Neurology |
+| 26 | PD-SCALE-002 | [The Unified Parkinson's Disease Rating Scale (UPDRS): Status and recommendations](https://doi.org/10.1002/mds.10473) | 指南 | 评估/UPDRS | Movement Disorders |
+| 27 | PD-DLB-001 | [The association between plasma and MRI biomarkers in dementia with lewy bodies](https://doi.org/10.1186/s13195-025-01677-4) | 横断面 | 生物标志物/DLB | Alzheimer's Research & Therapy |
+| 28 | PD-BASIC-005 | [Chronic subthalamic nucleus deep brain stimulation reduces pathological TrkB aggregates in a Parkinson's disease rat model](https://doi.org/10.1186/s12993-025-00257-4) | 动物 | DBS/TrkB | Translational Neurodegeneration |
+| 29 | PD-DIAG-001 | [MDS clinical diagnostic criteria for Parkinson's disease](https://doi.org/10.1002/mds.26424) | 诊断标准 | 诊断 | Movement Disorders |
+| 30 | PD-REV-002 | [The two-century journey of Parkinson disease research](https://doi.org/10.1038/nrn.2017.25) | 综述 | 历史/综合 | Nature Reviews Neuroscience |
+| 31 | PSP-001 | [Brain Atrophy Does Not Predict Clinical Progression in Progressive Supranuclear Palsy](https://doi.org/10.1002/mds.70026) | 队列 | PSP/MRI | Movement Disorders |
+| 32 | PD-BASIC-006 | [Gut Microbiota Regulate Motor Deficits and Neuroinflammation in a Model of Parkinson's Disease](https://doi.org/10.1016/j.cell.2016.11.018) | 机制 | 肠-脑轴/菌群 | Cell |
+| 33 | PD-PHARM-002 | [Levodopa challenge test: indications, protocol, and guide](https://doi.org/10.1007/s00415-020-09810-7) | 综述 | 左旋多巴/DBS筛选 | Journal of Neurology |
+| 34 | PD-BASIC-011 | [The Mitochondrial Connection in Parkinson's Disease](https://doi.org/10.1101/cshperspect.a041891) | 综述 | 线粒体 | Cold Spring Harbor Perspectives in Medicine |
+| 35 | PD-BASIC-007 | [Parkinson's disease outside the brain: targeting the autonomic nervous system](https://doi.org/10.1016/S1474-4422(21)00219-2) | 综述 | 自主神经/α-syn | The Lancet Neurology |
+| 36 | PD-GENETICS-001 | [Parkinson's disease: emerging opportunities through global collaboration](https://doi.org/10.1016/S0140-6736(25)01910-5) | 评论 | 遗传/全球健康 | The Lancet |
+| 37 | PD-PHARM-003 | [Parkinson disease therapy: current strategies and future research priorities](https://doi.org/10.1038/s41582-024-01034-x) | 综述 | DMT/药物 | Nature Reviews Neurology |
+| 38 | PD-ENV-003 | [Why advocates for Parkinson's disease prevention are cheering a US ban on a dry cleaning solvent](https://doi.org/10.1136/bmj.r202) | 新闻 | 环境/TCE | BMJ |
+| 39 | PD-GENE-001 | [Recent developments in gene therapy for Parkinson's disease](https://doi.org/10.1016/j.ymthe.2025.03.030) | 综述 | 基因治疗 | Molecular Therapy |
+| 40 | PD-CLINICAL-004 | [Parkinson's Disease](https://doi.org/10.1056/NEJMra2401857) | 综述 | 综合 | New England Journal of Medicine |
+| 41 | PD-CLINICAL-003 | [Parkinson Disease Subtypes](https://doi.org/10.1001/jamaneurol.2013.6233) | 综述 | 亚型 | JAMA Neurology |
+| 42 | PD-SYMP-001 | [Advances in diagnosis, classification, and management of pain in Parkinson's disease](https://doi.org/10.1016/S1474-4422(25)00033-X) | 综述 | 疼痛/非运动 | The Lancet Neurology |
+| 43 | PD-PHARM-004 | [Systematic review of levodopa dose equivalency reporting in Parkinson's disease](https://doi.org/10.1002/mds.23429) | 综述 | LED | Movement Disorders |
+| 44 | PD-AI-002 | [Automated Imaging Differentiation for Parkinsonism](https://doi.org/10.1001/jamaneurol.2025.0112) | 队列 | AI/MRI/鉴别诊断 | JAMA Neurology |
+| 45 | PD-DMT-002 | [Beyond insulin: The Intriguing role of GLP-1 in Parkinson's disease](https://doi.org/10.1016/j.ejphar.2024.176936) | 综述 | GLP-1/DMT | European Journal of Pharmacology |
+| 46 | PD-DMT-003 | [Exenatide once a week versus placebo as a potential disease-modifying treatment for people with Parkinson's disease in the UK: a phase 3, multicentre, double-blind, parallel-group, randomised, placebo-controlled trial](https://doi.org/10.1016/S0140-6736(24)02808-3) | RCT | GLP-1/阴性结果 | The Lancet |
+| 47 | PD-NEURO-001 | [The effect of L-dopa and DBS on cortical oscillations in Parkinson's disease analyzed by hidden Markov model algorithm](https://doi.org/10.1016/j.neuroimage.2024.120992) | 机制 | MEG/振荡 | NeuroImage |
+| 48 | PD-DBS-005 | [A Convergent Pathway for Stimulation-Induced Dyskinesia Following Deep Brain Stimulation](https://doi.org/10.1002/mds.30251) | 回顾性 | DBS/运动障碍 | Movement Disorders |
+| 49 | PD-BASIC-008 | [Neuronal FAM171A2 mediates α-synuclein fibril uptake and drives Parkinson's disease](https://doi.org/10.1126/science.adp3645) | 基础 | α-syn/受体 | Science |
+| 50 | PD-BASIC-009 | [The FAM171A2 gene is a key regulator of progranulin expression and modifies the risk of multiple neurodegenerative diseases](https://doi.org/10.1126/sciadv.abb3063) | GWAS | 遗传/颗粒蛋白前体 | Science Advances |
+| 51 | PD-BASIC-010 | [Propagation of pathologic α-synuclein from kidney to brain may contribute to Parkinson's disease](https://doi.org/10.1038/s41593-024-01866-2) | 基础 | α-syn/肾 | Nature Neuroscience |
+| 52 | PD-TECH-006 | [Efficacy of repetitive transcranial magnetic stimulation in Parkinson's disease: A systematic review and meta-analysis of randomised controlled trials](https://doi.org/10.1016/j.eclinm.2022.101589) | Meta | rTMS/运动/抑郁 | eClinicalMedicine |
+| 53 | PD-TECH-007 | [A Fully Integrated Wearable Sweat Sensing Patch for Online Analysis of Multiple Parkinson's Disease-Related Biomarkers](https://doi.org/10.1002/adma.202504534) | 技术 | 可穿戴/生物标志物 | Advanced Materials |
+| 54 | PD-EPI-001 | [Temporal trends in the prevalence of Parkinson's disease from 1980 to 2023: a systematic review and meta-analysis](https://doi.org/10.1016/S2666-7568(24)00089-9) | Meta | 流行病学 | The Lancet Healthy Longevity |
+| 55 | STROKE-NEURO-001 | [Associations between contralesional neuroplasticity and motor impairment through deep learning-derived MRI regional brain age in chronic stroke (ENIGMA): a multicohort, retrospective, observational study](https://doi.org/10.1016/S2589-7500(25)00241-X) | 多中心队列 | 卒中/神经可塑性 | The Lancet Digital Health |
+| 56 | PD-CIRCUIT-001 | [Parkinson's disease as a somato-cognitive action network disorder](https://doi.org/10.1038/s41586-025-10059-1) | 多模态 | SCAN/DBS/TMS | Nature |
+| 57 | PD-GLIA-001 | [Role of dysregulated calcium homeostasis in astrocytes in neurodegenerative disorders](https://doi.org/10.1038/s41583-026-01032-6) | 综述 | 胶质细胞/Ca²⁺ | Nature Reviews Neuroscience |
+| 58 | PD-MOL-001 | [Distinct metabolomic and proteomic signatures in Parkinson's disease patients with REM sleep behavior disorder](https://doi.org/10.1038/s41392-026-02613-8) | 多组学队列 | RBD/代谢/蛋白/菌群 | Signal Transduction and Targeted Therapy |
+| 59 | PD-CHEM-001 | [Scientists turn plastic waste into Parkinson's drug](https://doi.org/10.1136/bmj.s616) | 新闻 | 合成生物学/左旋多巴 | BMJ |
+| 60 | PD-NIBS-002 | [Transcranial temporal interference stimulation targeting the subthalamic region for motor symptoms in Parkinson's disease: a pilot, randomised, double-blind, sham-controlled crossover study](https://doi.org/10.1016/j.ebiom.2026.106245) | RCT | TIs/STN/无创刺激 | eBioMedicine |
+| 61 | PD-TOOL-001 | [Genetically encoded fluorescent reporters to visualize α-synuclein pathology in live brain](https://doi.org/10.1016/j.cell.2026.01.035) | 工具 | α-syn/活体成像 | Cell |
+| 62 | PD-MICRO-002 | [Gut microbiota modulation via repeated donor fecal transplantation improves motor and gastrointestinal symptoms in drug-naïve Parkinson's disease: a randomized phase 2 trial](https://doi.org/10.1038/s41392-026-02568-w) | RCT | FMT/肠-脑轴 | Signal Transduction and Targeted Therapy |
+| 63 | PD-REV-003 | [Parkinson's disease: pathogenesis and therapeutic strategies](https://doi.org/10.1186/s43556-026-00236-9) | 综述 | 综合/发病机制 | Molecular Biomedicine |
+| 64 | PD-SYMP-002 | [Orthostatic hypotension in Parkinson disease](https://doi.org/10.1503/cmaj.240058) | 临床要点 | 自主神经/OH | CMAJ |
+| 65 | PD-DIAG-002 | [Towards biomarker-based diagnosis of Parkinson disease](https://doi.org/10.1038/s41582-025-01073-y) | 综述 | 生物标志物/SAA | Nature Reviews Neurology |
+| 66 | PD-LIFESTYLE-002 | [Lifestyle interventions for Parkinson's disease – Authors' reply](https://doi.org/10.1016/S1474-4422(26)00094-3) | 通讯 | 生活方式/认知/LMIC | The Lancet Neurology |
+| 67 | PD-BOOK-001 | [Fighting Parkinson's disease: a neurologist–patient journey](https://doi.org/10.1016/S1474-4422(25)00562-9) | 书评 | 患者视角/拳击 | The Lancet Neurology |
+| 68 | PD-DMT-004 | [Targeting of kinases to treat neurodegenerative diseases](https://doi.org/10.1016/j.pharmr.2025.100017) | 综述 | 激酶/LRRK2/PINK1/PROTAC | Pharmacological Reviews |
+| 69 | PD-ENV-004 | [The Parkinson's pandemic: prioritizing environmental policy and biological resilience via the gut](https://doi.org/10.1172/JCI205275) | 观点 | 环境/菌群/政策 | Journal of Clinical Investigation |
+| 70 | PD-LIFESTYLE-003 | [Lifestyle interventions for Parkinson's disease](https://doi.org/10.1016/S1474-4422(26)00093-1) | 通讯 | LMIC/社区干预 | The Lancet Neurology |
+| 71 | PD-DBS-006 | [The deep brain stimulation response network in Parkinson's disease operates in the high beta band](https://doi.org/10.1093/brain/awae123) | 电生理 | DBS/高β振荡 | Brain |
+| 72 | PD-DBS-007 | [Adaptive deep brain stimulation in Parkinson's disease](https://doi.org/10.1016/j.parkreldis.2015.09.028) | 综述 | aDBS/闭环 | Parkinsonism & Related Disorders |
+| 73 | PD-BASIC-012 | [Gut-initiated alpha synuclein fibrils drive parkinsonism phenotypes: temporal mapping of REM sleep behavior disorder-like and other non-motor symptoms](https://doi.org/10.1186/s12993-025-00274-3) | 基础 | 肠-脑轴/PFF/RBD | Translational Neurodegeneration |
+| 74 | PD-IMMUNE-001 | [Intestinal macrophages modulate synucleinopathy along the gut–brain axis](https://doi.org/10.1038/s41586-025-08783-7) | 基础 | 巨噬细胞/T细胞/TGFβ | Nature |
+| 75 | PD-NEWS-001 | [Gut macrophages involved in Parkinson disease pathogenesis](https://doi.org/10.1038/s41582-026-01123-z) | 新闻 | 二次报道 | Nature Reviews Neurology |
+| 76 | PD-THERAPY-001 | [Transplantation of encapsulated mitochondria alleviates dysfunction in mitochondrial and Parkinson's disease models](https://doi.org/10.1016/j.cell.2026.02.023) | 技术/治疗 | 线粒体移植/MPTP | Cell |
+| 77 | PD-NIBS-003 | [Suppression of pathological oscillations with transcranial focused ultrasound in Parkinson's disease](https://doi.org/10.1038/s41467-026-70714-7) | RCT | TUS/GPi/β振荡 | Nature Communications |
+| 78 | PD-PATIENT-001 | [For my 80th birthday, I bought myself a new brain: my experiences with adaptive deep brain stimulation to assist my Parkinson's disease](https://doi.org/10.1136/bjsports-2026-111598) | 叙事 | 患者视角/aDBS | British Journal of Sports Medicine |
+| 79 | PD-TAU-001 | [Molecular features of human pathological tau distinguish tauopathy-associated dementias](https://doi.org/10.1016/j.cell.2025.12.017) | 资源 | tau蛋白/PTM/质谱 | Cell |
+| 80 | PD-IMAGING-002 | [Simultaneous Brain Iron and α-Synuclein Detection in Patients with Synucleinopathies via Quantitative Susceptibility Mapping MRI](https://doi.org/10.1148/radiol.251189) | 影像 | QSM/铁/α-syn | Radiology |
+| 81 | PD-AI-003 | [Subtyping Alzheimer's disease and Parkinson's disease using longitudinal electronic health records](https://doi.org/10.1038/s43587-026-00079-5) | 队列/AI | 亚型/共病/遗传 | Nature Aging |
+| 82 | PD-MECH-002 | [Next questions of autophagy in neurodegenerative diseases: From mechanisms to therapeutics](https://doi.org/10.1016/j.xinn.2026.100989) | 观点 | 自噬/细胞类型特异性 | The Innovation |
+| 83 | PD-PROFILE-001 | [Miratul Muqit: leading an alliance to decode Parkinson's disease](https://doi.org/10.1016/S1474-4422(25)00508-3) | 人物简介 | PINK1/研究中心 | The Lancet Neurology |
+| 84 | PD-BIOPHYS-001 | [Gut, brain and the Glycocalyx: A portrait of Parkinsons disease](https://doi.org/10.1016/j.cis.2026.103880) | 理论 | 糖萼/纳米气泡/霍夫迈斯特 | Advances in Colloid and Interface Science |
+| 85 | PD-DMT-005 | [Fixed-Dose Tavapadon for Early Parkinson Disease: A Randomized Clinical Trial](https://doi.org/10.1001/jamaneurol.2026.0590) | RCT | D1/D5激动剂/早期PD | JAMA Neurology |
 
 
 1. Aarsland et al., 2021 - Parkinson disease-associated cognitive impairment
