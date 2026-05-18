@@ -50,18 +50,18 @@ TEXTS = {
     "about_text":        {"zh": "> **PD科学助手** 致力于通过AI技术追踪帕金森病(PD)的最新研究进展。",
                           "en": "> **PD Science Assistant** tracks the latest Parkinson's disease (PD) research using AI."},
     "core_features":     {"zh": """**核心功能：**
-- 🔍 **多维检索**：整合论文PDF及每日PubMed动态
-- 📡 **实时追踪**：每日更新 IF > 5 的PD论文摘要
-- 💬 **智能解答**：基于最新证据的深度科研问答
+- 🔍 整合论文PDF及每日PubMed动态
+- 📡 每日更新 IF > 5 的PD论文摘要
+- 💬 基于最新证据的深度科研问答
 
 **数据覆盖：**
 - 2025-2026 最新研究突破
 - 全球顶尖PD实验室动态
 - 临床试验进展与学术争议""",
                           "en": """**Core Features:**
-- 🔍 **Multi-source Search**: Integrates paper PDFs and daily PubMed updates
-- 📡 **Real-time Tracking**: Daily updates of PD papers with IF > 5
-- 💬 **AI-Powered Q&A**: In-depth answers grounded in latest evidence
+- 🔍 Integrates paper PDFs and daily PubMed updates
+- 📡 Daily updates of PD papers with IF > 5
+- 💬 In-depth answers grounded in latest evidence
 
 **Data Coverage:**
 - 2025–2026 latest research breakthroughs
