@@ -106,7 +106,7 @@ st.markdown("""
 
     /* 滚动容器高度统一 */
     .scroll-content {
-        height: 665px;
+        height: 675px;
         overflow: hidden;
         position: relative;
         background: rgba(255, 255, 255, 0.4);
@@ -375,7 +375,7 @@ with col_mid:
     if "messages" not in st.session_state:
         st.session_state.messages = [{"role": "system", "content": SYSTEM_PROMPT}]
 
-    chat_container = st.container(height=640, border=False)
+    chat_container = st.container(height=680, border=False)
 
     with chat_container:
         for msg in st.session_state.messages:
