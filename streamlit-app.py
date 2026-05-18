@@ -438,11 +438,7 @@ with col_right:
 
     st.markdown(t("about_text"))
 
-    st.markdown(f"""
-    <div style="font-size: 0.9rem; color: #4b5563; line-height: 1;">
-
-    </div>
-    """, unsafe_allow_html=True)
+    st.markdown(t('core_features'))
 
     st.divider()
     st.caption(t("disclaimer"))
