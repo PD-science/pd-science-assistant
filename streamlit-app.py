@@ -17,18 +17,84 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# 自定义 CSS
+# ========== 2. 语言设置 ==========
+if "lang" not in st.session_state:
+    st.session_state.lang = "zh"
+
+
+def t(key, **kwargs):
+    """获取当前语言的文本。"""
+    text = TEXTS.get(key, {}).get(st.session_state.lang, key)
+    if kwargs:
+        text = text.format(**kwargs)
+    return text
+
+
+TEXTS = {
+    "lang_switch":       {"zh": "EN", "en": "中文"},
+    "left_header":       {"zh": "📡 近7天高分文献动态", "en": "📡 Top Papers This Week"},
+    "no_papers":         {"zh": "近7天暂无符合条件的文献更新。", "en": "No papers matching criteria in the last 7 days."},
+    "aux_features":      {"zh": "🛠️ 辅助功能", "en": "🛠️ Tools"},
+    "func_hotspot":      {"zh": "📈 科研热点趋势", "en": "📈 Research Trends"},
+    "func_trial":        {"zh": "🗺️ 临床试验地图", "en": "🗺️ Clinical Trial Map"},
+    "func_consensus":    {"zh": "📖 专家共识解读", "en": "📖 Expert Consensus"},
+    "hotspot_info":      {"zh": "🔥 当前热点：α-突触核蛋白、FAM171A2、iPSC 疗法",
+                          "en": "🔥 Hot topics: α-synuclein, FAM171A2, iPSC therapy"},
+    "trial_info":        {"zh": "📍 全球 12 项 iPSC 临床试验进行中",
+                          "en": "📍 12 iPSC clinical trials ongoing worldwide"},
+    "consensus_info":    {"zh": "📖 正在解读：2026 帕金森病无创治疗专家共识",
+                          "en": "📖 Reading: 2026 Expert Consensus on Non-invasive PD Therapies"},
+    "app_title":         {"zh": "## 🧠 PD科学 - 前沿科研助手", "en": "## 🧠 PD Science — Research Assistant"},
+    "app_caption":       {"zh": "基于最新研究进展，解答您关于帕金森病的问题",
+                          "en": "Answering your Parkinson's disease questions based on the latest research"},
+    "about_text":        {"zh": "> **PD科学助手** 致力于通过AI技术追踪帕金森病(PD)的最新研究进展。",
+                          "en": "> **PD Science Assistant** tracks the latest Parkinson's disease (PD) research using AI."},
+    "core_features":     {"zh": """**核心功能：**
+- 🔍 **多维检索**：整合论文PDF及每日PubMed动态
+- 📡 **实时追踪**：每日更新 IF > 5 的PD论文摘要
+- 💬 **智能解答**：基于最新证据的深度科研问答
+
+**数据覆盖：**
+- 2025-2026 最新研究突破
+- 全球顶尖PD实验室动态
+- 临床试验进展与学术争议""",
+                          "en": """**Core Features:**
+- 🔍 **Multi-source Search**: Integrates paper PDFs and daily PubMed updates
+- 📡 **Real-time Tracking**: Daily updates of PD papers with IF > 5
+- 💬 **AI-Powered Q&A**: In-depth answers grounded in latest evidence
+
+**Data Coverage:**
+- 2025–2026 latest research breakthroughs
+- Global top PD lab developments
+- Clinical trial progress & academic debates"""},
+    "disclaimer":        {"zh": "⚠️ **免责声明**：本助手提供的信息仅供科研参考，不构成任何医疗建议。具体诊疗请务必咨询专业医生。",
+                          "en": "⚠️ **Disclaimer**: This assistant provides information for research reference only. It does not constitute medical advice. Please consult a qualified physician for diagnosis and treatment."},
+    "chat_placeholder":  {"zh": "请输入您关于帕金森病的问题...",
+                          "en": "Ask a question about Parkinson's disease..."},
+    "searching":         {"zh": "检索相关研究中...", "en": "Searching relevant research..."},
+    "analyzing":         {"zh": "分析中...", "en": "Analyzing..."},
+    "api_key_error":     {"zh": "请在 .streamlit/secrets.toml 中配置 DEEPSEEK_API_KEY",
+                          "en": "Please configure DEEPSEEK_API_KEY in .streamlit/secrets.toml"},
+    "indexing":          {"zh": "首次启动，正在构建知识库索引（约需 2-5 分钟，后续启动秒开）...",
+                          "en": "First launch: building knowledge base index (~2–5 min; later launches are instant)..."},
+    "daily_filter_result":    {"zh": "【每日文献结构化筛选 · 共 {n} 篇】",
+                               "en": "【Daily Literature Filter · {n} papers】"},
+    "daily_filter_no_match":  {"zh": "近7天收录的 {total} 篇论文中，没有完全匹配「IF>{min_if:.0f}」条件的，以下是全部高分论文供参考：",
+                               "en": "Among {total} papers from the last 7 days, none match IF>{min_if:.0f}. All high-impact papers below:"},
+}
+
+# ========== 2b. 自定义 CSS ==========
 st.markdown("""
     <style>
     /* 整体背景 */
     .stApp {
         background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     }
-    
-    /* 隐藏工具栏和页脚以保持“固定大方框”感 */
+
+    /* 隐藏工具栏和页脚以保持"固定大方框"感 */
     div[data-testid="stToolbar"] { display: none; }
     footer { visibility: hidden; }
-    
+
     /* 核心布局容器样式 */
     [data-testid="stHorizontalBlock"] {
         background: rgba(255, 255, 255, 0.25);
@@ -47,24 +113,24 @@ st.markdown("""
         border-radius: 20px;
         border: 1px solid rgba(255, 255, 255, 0.5);
     }
-    
+
     .scroll-track {
         display: flex;
         flex-direction: column;
         animation: scrollUpDown 80s linear infinite;
         animation-play-state: paused;
     }
-    
+
     .scroll-content:hover .scroll-track {
         animation-play-state: running;
     }
-    
+
     @keyframes scrollUpDown {
         0%, 5% { transform: translateY(0); }
         45%, 55% { transform: translateY(calc(-100% + 480px)); }
         95%, 100% { transform: translateY(0); }
     }
-    
+
     /* 文献卡片美化 */
     .paper-card {
         background: white;
@@ -104,27 +170,52 @@ st.markdown("""
         color: #0369a1;
         font-weight: 600;
     }
-    
+
+    /* 语言切换按钮 */
+    div[data-testid="stButton"] button[kind="secondary"] {
+        background: rgba(255,255,255,0.85);
+        backdrop-filter: blur(8px);
+        border: 1px solid #d1d5db;
+        border-radius: 8px;
+        padding: 4px 14px;
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: #374151;
+        transition: all 0.2s;
+    }
+    div[data-testid="stButton"] button[kind="secondary"]:hover {
+        background: #fff;
+        border-color: #9ca3af;
+    }
+
     /* 让侧边栏的内容也能对齐 */
     .column-bottom-align {
         margin-top: 15px;
     }
     </style>
-    """, unsafe_allow_html=True)
+""", unsafe_allow_html=True)
 
-# ========== 2. 知识库初始化 ==========
+# ========== 2c. 语言切换按钮（右上角） ==========
+_, _, _, _, lang_col = st.columns([3, 3, 3, 3, 0.6])
+with lang_col:
+    if st.button(t("lang_switch"), key="lang_toggle", type="secondary"):
+        st.session_state.lang = "en" if st.session_state.lang == "zh" else "zh"
+        st.rerun()
+
+
+# ========== 3. 知识库初始化 ==========
 @st.cache_resource(show_spinner=False)
 def init_knowledge_base():
     """初始化向量知识库（首次运行会下载 embedding 模型并构建索引）。"""
     if not kb.is_indexed():
-        with st.spinner("首次启动，正在构建知识库索引（约需 2-5 分钟，后续启动秒开）..."):
+        with st.spinner(t("indexing")):
             kb.build_index()
     else:
-        # 静默加载模型
         kb._get_embedding_model()
     return True
 
-# ========== 2b. 每日文献结构化筛选 ==========
+
+# ========== 4. 每日文献结构化筛选 ==========
 def _get_daily_context(prompt: str) -> str:
     """检测用户是否在问近期/高分/特定类型文献，若是则从 daily 数据中结构化筛选。"""
     import re
@@ -135,9 +226,9 @@ def _get_daily_context(prompt: str) -> str:
     has_type = bool(re.search(r"综述|review|RCT|临床试验|meta|荟萃|病例报告|队列研究", prompt, re.I))
 
     if not (has_time or has_if or has_type):
-        return ""  # 普通问题，不做结构化筛选
+        return ""
 
-    all_papers = daily.get_all_recent_papers(days=1)  # 只取最新一天
+    all_papers = daily.get_all_recent_papers(days=1)
     if not all_papers:
         return ""
 
@@ -173,16 +264,16 @@ def _get_daily_context(prompt: str) -> str:
         filtered.append(p)
 
     if not filtered:
-        return f"【每日文献筛选结果】\n近7天收录的 {len(all_papers)} 篇论文中，没有完全匹配「IF>{min_if:.0f}」条件的，以下是全部高分论文供参考：\n\n" + _format_papers(all_papers[:10])
+        return t("daily_filter_no_match", total=len(all_papers), min_if=min_if) + "\n\n" + _format_papers(all_papers[:10])
 
-    return f"【每日文献结构化筛选 · 共 {len(filtered)} 篇】\n\n" + _format_papers(filtered[:15])
+    return t("daily_filter_result", n=len(filtered)) + "\n\n" + _format_papers(filtered[:15])
 
 
 def _format_papers(papers: list) -> str:
-    """格式化论文列表为文本。"""
+    """格式化论文列表为文本（始终使用英文标题以保持学术引用准确性）。"""
     lines = []
     for p in papers:
-        title = p.get("title_zh") or p.get("title_en", "N/A")
+        title = p.get("title_en", "N/A")
         journal = p.get("journal", "")
         impact = p.get("impact_factor", 0)
         pmid = p.get("pmid", "")
@@ -195,32 +286,33 @@ def _format_papers(papers: list) -> str:
     return "\n\n---\n\n".join(lines)
 
 
-# ========== 3. 三栏布局设计 ==========
+# ========== 5. 三栏布局设计 ==========
 col_left, col_mid, col_right = st.columns([1.2, 2.0, 0.9])
 
 # ---------- 左栏：滚动文献 ----------
 with col_left:
-    st.markdown("### 📡 近7天高分文献动态")
-    # 获取近7天所有高分文献
+    st.markdown(f"### {t('left_header')}")
     all_recent = daily.get_all_recent_papers(days=7)
-    
-    # 按照影响因子排序并取前 20 名
+
     recent_papers = sorted(all_recent, key=lambda x: x.get("impact_factor", 0), reverse=True)[:20]
-    
+
     if recent_papers:
-        # 构建纯 HTML 字符串
         papers_html = ""
         for paper in recent_papers:
-            title_zh = paper.get("title_zh") or paper.get("title_en", "N/A")
+            # 根据语言选择显示中文或英文标题
+            if st.session_state.lang == "zh":
+                display_title = paper.get("title_zh") or paper.get("title_en", "N/A")
+            else:
+                display_title = paper.get("title_en", "N/A")
+
             if_val = paper.get("impact_factor", 0)
             journal = paper.get("journal", "N/A")
             date = paper.get("date", "")
             pmid = paper.get("pmid", "")
             url = paper.get("url", f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/")
-            
-            # 使用单行或紧凑格式避免 markdown 解析干扰
+
             card = f'<div class="paper-card">' \
-                   f'<div class="paper-title-zh">📄 <a href="{url}" target="_blank">{title_zh}</a></div>' \
+                   f'<div class="paper-title-zh">📄 <a href="{url}" target="_blank">{display_title}</a></div>' \
                    f'<div class="paper-meta">' \
                    f'<span class="if-badge">IF {if_val}</span>' \
                    f'<span class="journal-tag">📘 {journal}</span>' \
@@ -228,42 +320,40 @@ with col_left:
                    f'<span style="color:#9ca3af">ID: {pmid}</span>' \
                    f'</div></div>'
             papers_html += card
-        
+
         full_scroll_html = f'<div class="scroll-content"><div class="scroll-track">{papers_html}</div></div>'
-        # 使用 st.write(..., unsafe_allow_html=True) 有时比 st.markdown 更稳定
         st.write(full_scroll_html, unsafe_allow_html=True)
     else:
-        st.info("近7天暂无符合条件的文献更新。")
+        st.info(t("no_papers"))
 
     st.divider()
-    st.markdown("#### 🛠️ 辅助功能")
+    st.markdown(f"#### {t('aux_features')}")
+
+    func_options = [t("func_hotspot"), t("func_trial"), t("func_consensus")]
     option = st.selectbox(
         "选择功能",
-        ["📈 科研热点趋势", "🗺️ 临床试验地图", "📖 专家共识解读"],
+        func_options,
         label_visibility="collapsed"
     )
-    if "热点" in option:
-        st.info("🔥 当前热点：α-突触核蛋白、FAM171A2、iPSC 疗法")
-    elif "地图" in option:
-        st.info("📍 全球 12 项 iPSC 临床试验进行中")
+    if option == t("func_hotspot"):
+        st.info(t("hotspot_info"))
+    elif option == t("func_trial"):
+        st.info(t("trial_info"))
     else:
-        st.info("📖 正在解读：2026 帕金森病无创治疗专家共识")
+        st.info(t("consensus_info"))
 
 # ---------- 中栏：对话界面 ----------
 with col_mid:
-    st.markdown("## 🧠 PD科学 - 前沿科研助手")
-    st.caption("基于最新研究进展，解答您关于帕金森病的问题")
+    st.markdown(t("app_title"))
+    st.caption(t("app_caption"))
 
-    # 初始化知识库
     init_knowledge_base()
 
-    # 初始化 session 追踪
     if "analytics_session_id" not in st.session_state:
         st.session_state.analytics_session_id = analytics.start_session()
 
-    # 检查 API Key
     if "DEEPSEEK_API_KEY" not in st.secrets:
-        st.error("请在 .streamlit/secrets.toml 中配置 DEEPSEEK_API_KEY")
+        st.error(t("api_key_error"))
         st.stop()
 
     client = OpenAI(
@@ -285,10 +375,8 @@ with col_mid:
     if "messages" not in st.session_state:
         st.session_state.messages = [{"role": "system", "content": SYSTEM_PROMPT}]
 
-    # 创建对话显示容器（固定高度，自动滚动）
     chat_container = st.container(height=640, border=False)
 
-    # 在容器中显示历史消息
     with chat_container:
         for msg in st.session_state.messages:
             if msg["role"] != "system":
@@ -296,20 +384,16 @@ with col_mid:
                 with st.chat_message(msg["role"]):
                     st.markdown(display_text)
 
-    # 提问框放在最下方
-    if prompt := st.chat_input("请输入您关于帕金森病的问题..."):
-        # 检索相关知识块
-        with st.spinner("检索相关研究中..."):
+    if prompt := st.chat_input(t("chat_placeholder")):
+        with st.spinner(t("searching")):
             contexts = kb.query(prompt, n_results=10)
 
-        # 检测是否需要结构化筛选每日文献（时间 / IF / 文章类型）
         daily_context = _get_daily_context(prompt)
         if daily_context:
             contexts = [daily_context] + contexts
 
         context_text = "\n\n---\n\n".join(contexts) if contexts else "暂无直接相关参考资料。"
 
-        # 埋点：记录查询事件
         analytics.track_query(
             session_id=st.session_state.analytics_session_id,
             question=prompt,
@@ -317,25 +401,22 @@ with col_mid:
             daily_context_used=bool(daily_context),
         )
 
-        # 用户消息（附检索结果，仅发送给 API，界面显示原始问题）
         augmented_prompt = f"【参考资料】\n\n{context_text}\n\n【用户问题】\n{prompt}"
         st.session_state.messages.append({
             "role": "user",
             "content": augmented_prompt,
-            "display": prompt  # 界面只显示原始问题
+            "display": prompt
         })
 
         with chat_container:
             with st.chat_message("user"):
                 st.markdown(prompt)
 
-        # 助手回答
         with chat_container:
             with st.chat_message("assistant"):
-                with st.spinner("分析中..."):
+                with st.spinner(t("analyzing")):
                     try:
-                        # 只发送最近 N 轮对话 + system prompt，避免上下文过长
-                        messages_to_send = st.session_state.messages[-11:]  # system + 5轮问答
+                        messages_to_send = st.session_state.messages[-11:]
                         if messages_to_send[0]["role"] == "assistant":
                             messages_to_send.insert(0, st.session_state.messages[0])
                         response = client.chat.completions.create(
@@ -348,77 +429,22 @@ with col_mid:
                     except Exception as e:
                         st.error(f"调用出错: {e}")
 
-        # 强制刷新以更新界面（Streamlit 惯用手法确保输入框状态同步）
         st.rerun()
 
 # ---------- 右栏：项目信息 ----------
 with col_right:
-    # 恢复 Logo 原始展示比例 (使用 width='stretch' 让它填充列宽)
     if os.path.exists("images/PD-science-logo.png"):
         st.image("images/PD-science-logo.png", use_container_width=True)
 
-    # st.divider()
-    # st.markdown("### ℹ️ 关于本助手")
-    st.markdown("> **PD科学助手** 致力于通过AI技术追踪帕金森病(PD)的最新研究进展。")
-    
-    st.markdown("""
+    st.markdown(t("about_text"))
+
+    st.markdown(f"""
     <div style="font-size: 0.9rem; color: #4b5563; line-height: 1;">
 
-    **核心功能：**
-    - 🔍 **多维检索**：整合论文PDF及每日PubMed动态
-    - 📡 **实时追踪**：每日更新 IF > 5 的PD论文摘要
-    - 💬 **智能解答**：基于最新证据的深度科研问答
-
-    **数据覆盖：**
-    - 2025-2026 最新研究突破
-    - 全球顶尖PD实验室动态
-    - 临床试验进展与学术争议
+    {t('core_features')}
 
     </div>
     """, unsafe_allow_html=True)
 
     st.divider()
-    st.caption("⚠️ **免责声明**：本助手提供的信息仅供科研参考，不构成任何医疗建议。具体诊疗请务必咨询专业医生。")
-
-    # ---------- 管理面板：使用统计 ----------
-    with st.expander("📊 管理面板", expanded=False):
-        stats = analytics.get_stats_summary()
-
-        # 第一行：4 个核心指标
-        c1, c2, c3, c4 = st.columns(4)
-        with c1:
-            st.metric("今日用户 (DAU)", stats["dau"])
-        with c2:
-            st.metric("7日用户 (WAU)", stats["wau"])
-        with c3:
-            st.metric("今日查询", stats["daily_queries"])
-        with c4:
-            st.metric("7日查询", stats["weekly_queries"])
-
-        # 第二行：检索质量 + 用户粘性
-        c1, c2, c3, c4 = st.columns(4)
-        with c1:
-            st.metric("检索命中率", f"{stats['search_hit_rate']}%")
-        with c2:
-            st.metric("平均查询/会话", stats["avg_q_per_session"])
-        with c3:
-            st.metric("累计总用户", stats["total_users_all_time"])
-        with c4:
-            st.metric("累计总查询", stats["total_queries_all_time"])
-
-        # 第三行：用户使用次数排行
-        if stats["top_users"]:
-            st.caption("👥 用户使用次数排行 (Top 10)")
-            import pandas as pd
-            df = pd.DataFrame(stats["top_users"])
-            df.columns = ["匿名ID", "累计查询", "最近IP", "首次访问", "最近访问"]
-            df["匿名ID"] = df["匿名ID"].str[:8]
-            st.dataframe(df, use_container_width=True, hide_index=True)
-
-        # 第四行：最近活跃 IP
-        if stats["recent_ips"]:
-            st.caption("📍 近7天活跃用户地址")
-            ip_list = "\n".join(
-                f"- `{r['ip']}`" for r in stats["recent_ips"]
-            )
-            st.markdown(ip_list)
+    st.caption(t("disclaimer"))
