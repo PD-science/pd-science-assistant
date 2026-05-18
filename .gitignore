@@ -12,6 +12,9 @@ __pycache__/
 # 向量数据库（体积大，可重建）
 chroma_db/
 
+# 使用统计（本地数据）
+data/analytics/
+
 # 日志
 logs/
 *.log

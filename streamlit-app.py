@@ -7,6 +7,7 @@ import sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
 import daily
 import knowledge_base as kb
+import analytics
 
 # ========== 1. 页面配置 & UI 美化 ==========
 st.set_page_config(
@@ -256,6 +257,10 @@ with col_mid:
     # 初始化知识库
     init_knowledge_base()
 
+    # 初始化 session 追踪
+    if "analytics_session_id" not in st.session_state:
+        st.session_state.analytics_session_id = analytics.start_session()
+
     # 检查 API Key
     if "DEEPSEEK_API_KEY" not in st.secrets:
         st.error("请在 .streamlit/secrets.toml 中配置 DEEPSEEK_API_KEY")
@@ -303,6 +308,14 @@ with col_mid:
             contexts = [daily_context] + contexts
 
         context_text = "\n\n---\n\n".join(contexts) if contexts else "暂无直接相关参考资料。"
+
+        # 埋点：记录查询事件
+        analytics.track_query(
+            session_id=st.session_state.analytics_session_id,
+            question=prompt,
+            n_results=len(contexts),
+            daily_context_used=bool(daily_context),
+        )
 
         # 用户消息（附检索结果，仅发送给 API，界面显示原始问题）
         augmented_prompt = f"【参考资料】\n\n{context_text}\n\n【用户问题】\n{prompt}"
@@ -366,3 +379,46 @@ with col_right:
 
     st.divider()
     st.caption("⚠️ **免责声明**：本助手提供的信息仅供科研参考，不构成任何医疗建议。具体诊疗请务必咨询专业医生。")
+
+    # ---------- 管理面板：使用统计 ----------
+    with st.expander("📊 管理面板", expanded=False):
+        stats = analytics.get_stats_summary()
+
+        # 第一行：4 个核心指标
+        c1, c2, c3, c4 = st.columns(4)
+        with c1:
+            st.metric("今日用户 (DAU)", stats["dau"])
+        with c2:
+            st.metric("7日用户 (WAU)", stats["wau"])
+        with c3:
+            st.metric("今日查询", stats["daily_queries"])
+        with c4:
+            st.metric("7日查询", stats["weekly_queries"])
+
+        # 第二行：检索质量 + 用户粘性
+        c1, c2, c3, c4 = st.columns(4)
+        with c1:
+            st.metric("检索命中率", f"{stats['search_hit_rate']}%")
+        with c2:
+            st.metric("平均查询/会话", stats["avg_q_per_session"])
+        with c3:
+            st.metric("累计总用户", stats["total_users_all_time"])
+        with c4:
+            st.metric("累计总查询", stats["total_queries_all_time"])
+
+        # 第三行：用户使用次数排行
+        if stats["top_users"]:
+            st.caption("👥 用户使用次数排行 (Top 10)")
+            import pandas as pd
+            df = pd.DataFrame(stats["top_users"])
+            df.columns = ["匿名ID", "累计查询", "最近IP", "首次访问", "最近访问"]
+            df["匿名ID"] = df["匿名ID"].str[:8]
+            st.dataframe(df, use_container_width=True, hide_index=True)
+
+        # 第四行：最近活跃 IP
+        if stats["recent_ips"]:
+            st.caption("📍 近7天活跃用户地址")
+            ip_list = "\n".join(
+                f"- `{r['ip']}`" for r in stats["recent_ips"]
+            )
+            st.markdown(ip_list)
