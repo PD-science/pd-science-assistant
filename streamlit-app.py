@@ -106,7 +106,7 @@ st.markdown("""
 
     /* 滚动容器高度统一 */
     .scroll-content {
-        height: 565px;
+        height: 665px;
         overflow: hidden;
         position: relative;
         background: rgba(255, 255, 255, 0.4);
