@@ -1,0 +1,412 @@
+[
+  {
+    "title_en": "Engineering Silk Fibroin-Based Biomaterials for Neural Repair.",
+    "title_zh": "基于丝素蛋白的生物材料在神经修复中的工程应用",
+    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "impact_factor": 26.8,
+    "abstract": "Neurological injuries remain a major clinical challenge due to the limited regenerative capacity of neural tissue, the persistence of inhibitory post-injury microenvironments, and the lack of biomaterials capable of simultaneously providing structural support and biological instruction. Growing evidence highlights that biomaterial-mediated modulation of the neural microenvironment is essential for effective neural regeneration and functional recovery. Silk fibroin (SF), a naturally derived protein biomaterial, has attracted growing interest in neural repair owing to its tunable mechanical properties, controllable degradation, structural anisotropy, and versatile modification potential. Beyond serving as passive scaffolds, SF-based biomaterials actively regulate axonal guidance, neural and glial cell behavior, and neuroinflammatory responses. This review systematically summarizes the physicochemical properties and modification strategies of SF, elucidates the underlying mechanisms by which SF-based materials promote neural repair, and discusses diverse SF-based material formats, including hydrogels, scaffolds, patches, nanofibers, and nerve conduits. Representative applications in peripheral nerve injury and central nervous system disorders, such as spinal cord injury, traumatic brain injury, cerebral palsy, ischemic stroke, and Parkinson's disease, are highlighted. Finally, current challenges and future perspectives of SF-based neural biomaterials are discussed, with an emphasis on guiding the rational design and clinical translation of next-generation neural repair strategies.",
+    "date": "2026 Jun 9",
+    "pmid": "42261626",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42261626/"
+  },
+  {
+    "title_en": "Pathology and Genetics in a Global Cohort of Parkinsonian Disorders.",
+    "title_zh": "帕金森病相关疾病全球队列中的病理学与遗传学研究",
+    "journal": "JAMA neurology",
+    "impact_factor": 21.3,
+    "abstract": "IMPORTANCE: Accurate diagnosis of neurodegenerative movement disorders is challenging because of a lack of in vivo biomarkers, overlapping clinical features, and a delay in the emergence of pathognomonic features. OBJECTIVE: To evaluate clinicopathological correlation, diagnostic accuracy, genetic association with pathology, and ancestry-related differences in a multiancestry brain bank cohort. DESIGN, SETTING, AND PARTICIPANTS: This was a multicenter, retrospective, autopsy-confirmed cross-sectional brain bank study on donors enrolled between 1985 and 2024. Included were donors from 11 academic brain banks in the UK, US, and Australia. Among brain donors with available genetic data from participating brain banks, included were individuals with clinical diagnoses of Parkinson disease, Parkinson disease dementia, dementia with Lewy bodies (DLB), progressive supranuclear palsy, corticobasal syndrome, multiple system atrophy, or neurologically normal controls. EXPOSURES: Genetic variant carrier status and clinical diagnostic category. MAIN OUTCOMES AND MEASURES: Outcomes included clinical diagnostic accuracy, Lewy body and Alzheimer disease pathology burden, survival, association with genetic variants, and genetically inferred ancestry. RESULTS: Among 5648 brain donors with available genetic data, a total of 3353 eligible donors (mean [SD] age at death, 76.8 [10.6] years; 2072 male [61.8%]) were included. Misdiagnosis rates for movement disorders ranged approximately from 10% to 20%. Clinical diagnoses of dementia with parkinsonism (ie, Parkinson disease dementia and DLB) were more strongly associated with Lewy body pathology than Parkinson disease without dementia (odds ratio [OR], 1.96; 95% CI, 1.30-3.04; P = 7.2 x 10-4). Lewy pathology was identified in 33 of 745 of neurologically normal controls (4.4%). Alzheimer disease copathology was present in 426 of 1064 cases (40.0%) with Lewy body disease. Carriers of the GBA1 variant exhibited greater Lewy body burden compared with noncarriers (OR, 1.94; 95% CI, 1.24-3.03; P = .01) or carriers of the LRRK2 variant (OR, 7.44; 95% CI, 2.16-25.64; P = .01). Pathological diagnoses differed by ancestry, with South Asian donors more likely to have progressive supranuclear palsy pathology and Ashkenazi Jewish donors more likely to have Lewy body disease (chi22 = 35.5; P < .001), independent of GBA1 and LRRK2 variant status. CONCLUSIONS AND RELEVANCE: Findings of this cross-sectional brain bank study highlight the value of integrating genetic and pathological data to improve diagnostic accuracy. The high prevalence of Alzheimer disease copathology and ancestry-associated differences in pathology point to the need for biologically informed diagnostic tools. These results suggest supporting the integration of genetically and pathologically stratified approaches, correlating pathology with in vivo biomarkers, for future therapeutic trials.",
+    "date": "2026 Jun 8",
+    "pmid": "42258190",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258190/"
+  },
+  {
+    "title_en": "Ultrastructural diversity and subcellular organization of nigral Lewy pathology in Parkinson's disease.",
+    "title_zh": "帕金森病黑质路易体病理的超微结构多样性及亚细胞组织特征。",
+    "journal": "Nature communications",
+    "impact_factor": 15.7,
+    "abstract": "Lewy bodies, the defining pathological feature of Parkinson's disease, are intraneuronal inclusions enriched in aggregated alpha-synuclein (alphaSyn). We used correlative light and electron microscopy to selectively investigate phosphorylated alphaSyn (alphaSyn(pS129))-positive inclusions in the substantia nigra of end-stage postmortem Parkinson's disease brain. Here we show that somatic alphaSyn(pS129) inclusions in nigral dopaminergic neurons are consistently fibrillar, whereas the membranous-type inclusions are restricted to neuritic processes. These neuritic inclusions displayed marked ultrastructural heterogeneity, ranging from predominantly membranous to mixed membranous-fibrillar forms. The selective targeting of defined inclusions enabled detailed structural characterization of Lewy pathology, rather than quantitative or disease-stage comparisons. Our findings highlight clear ultrastructural differences between somatic and neuritic alphaSyn(pS129) pathology and demonstrate the structural complexity and heterogeneity of Lewy pathology in human Parkinson's disease brain.",
+    "date": "2026 Jun 8",
+    "pmid": "42259820",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42259820/"
+  },
+  {
+    "title_en": "Measurement fidelity, not model complexity, governs individual cognitive trajectory prediction in Parkinson's disease.",
+    "title_zh": "在帕金森病中，个体认知轨迹预测的关键在于测量保真度，而非模型复杂度。",
+    "journal": "NPJ digital medicine",
+    "impact_factor": 15.1,
+    "abstract": "Whether individual-level cognitive trajectories in Parkinson's disease are predictable remains unresolved. Here, we provide convergent evidence that measurement fidelity, rather than model complexity, governs the prediction ceiling. We evaluated ten machine learning paradigm families across 26 configurations in two independent cohorts-the Parkinson's Progression Markers Initiative (PPMI, N = 1018) and the National Alzheimer's Coordinating Center (NACC, N = 523). Motor subtype classification succeeded as a positive control (AUROC = 0.869), while cognitive trajectory prediction from the Montreal Cognitive Assessment remained uninformative (AUROC = 0.581) across all methods, including 42 genetic features. Synthetic experiments confirmed that models recover trajectories at high signal-to-noise ratios but collapse uniformly at levels present in clinical screening data. Replacing coarse screening with detailed neuropsychological tests improved prediction in both cohorts (PPMI: Symbol Digit Modalities Test AUROC = 0.725 vs. MoCA 0.596; NACC: Logical Memory AUROC = 0.684 vs. MMSE 0.648). Within-patient trajectory R(2) = 0.20 for MoCA domains confirmed that approximately 80% of score variance represents non-signal variance. These findings redirect the clinical AI agenda from algorithm development toward measurement innovation: higher-frequency, higher-fidelity cognitive instruments are necessary before individual-level prediction becomes feasible.",
+    "date": "2026 Jun 6",
+    "pmid": "42251160",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251160/"
+  },
+  {
+    "title_en": "Age, emotional burden and deep brain stimulation electrode location shape Parkinson's disease quality of life.",
+    "title_zh": "年龄、情绪负担与脑深部电刺激电极位置影响帕金森病患者生活质量。",
+    "journal": "NPJ digital medicine",
+    "impact_factor": 15.1,
+    "abstract": "Postoperative quality-of-life (QoL) outcomes after subthalamic deep brain stimulation in Parkinson's disease vary widely. Previous studies based on PDQ-39 summary scores have reported opposing relationships between baseline and postoperative QoL, reflecting analytic variability, measurement noise, and limited feature scope. To address these inconsistencies, we analyzed 130 patients using an explainable random-forest classifier with SHAP analysis trained to predict QoL changes exceeding minimal clinically important difference thresholds. Baseline variables included PDQ-39 subscores, along with demographic, motor, cognitive, and affective measures, and electrode coordinates derived from imaging. Predictors of QoL improvement included younger age, greater preoperative disease-related emotional burden, and electrode placement at the motor-associative transition in the right subthalamic nucleus. The model achieved an area under the curve of 0.70 on the held-out test set, with balanced sensitivity and specificity. Identifying interpretable cut-offs for age, emotional burden and electrode location supports individualized counseling and treatment planning, advancing outcome prediction in neuromodulation.",
+    "date": "2026 Jun 5",
+    "pmid": "42249056",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42249056/"
+  },
+  {
+    "title_en": "Deubiquitinases at organelle quality control bottlenecks in neurodegeneration.",
+    "title_zh": "去泛素化酶在神经退行性疾病中细胞器质量控制瓶颈处的角色",
+    "journal": "Trends in molecular medicine",
+    "impact_factor": 13.8,
+    "abstract": "Neurodegenerative diseases with prominent motor symptoms converge on mitochondrial and lysosomal bottlenecks in selectively vulnerable neurons. Deubiquitinases regulate ubiquitin-dependent organelle fate at these decision points. Emerging evidence suggests that modulating deubiquitinase activity can restore organelle quality control and represents a promising therapeutic strategy.",
+    "date": "2026 Jun 4",
+    "pmid": "42243035",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42243035/"
+  },
+  {
+    "title_en": "Long-term inhibition of lysosomal glucocerebrosidase activity promotes GPX4 stability and inhibits ferroptosis in dopaminergic neurons.",
+    "title_zh": "长期抑制溶酶体葡糖脑苷脂酶活性可促进多巴胺能神经元中GPX4的稳定性并抑制铁死亡。",
+    "journal": "Cell death & disease",
+    "impact_factor": 9.6,
+    "abstract": "An increasing number of studies indicate that ferroptosis, a lethal pathway initiated by excessive iron-dependent lipid peroxidation, and pivotal to the survival of dopaminergic neurons and the progression of Parkinson's disease (PD), may be regulated by the lysosomal pathway. Mutation and loss of function of the lysosomal enzyme, glucocerebrosidase, induce the accumulation of glycosphingolipids and alterations in lysosome activity, which have been associated with a higher risk of developing PD. Our present study showed that transient inhibition of glucocerebrosidase activity had a positive effect on lipid peroxidation and ferroptosis. In a dopaminergic cell line (LUHMES cells), it was shown that a 10-day inhibition of glucocerebrosidase activity using conduritol-beta-epoxide (CBE) specifically impeded susceptibility to RSL3-induced ferroptosis, but not to several other inducers of cell death. CBE impaired the lysosomal pathway, modified lipid membrane composition by reducing ether-linked phospholipids in phosphatidylethanolamines, and promoted an increase in glutathione peroxidase 4 (GPX4) protein levels. This phenomenon was transient and disappeared after 20 days of glucocerebrosidase inhibition, suggesting that the cells have the capacity to return to their basal homeostasis. Most of the current compounds acting on GPX4 promote its degradation, thus information on drugs leading to GPX4 stability is key in order to protect neurons against excessive lipid peroxidation occurring in neurodegenerative diseases.",
+    "date": "2026 Jun 8",
+    "pmid": "42259784",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42259784/"
+  },
+  {
+    "title_en": "Lysine acetyltransferase 8-mediated histone acetylation, regulated by GBA1, is associated with lysosomal function related to alpha-Synuclein pathology.",
+    "title_zh": "GBA1调控的赖氨酸乙酰转移酶8介导的组蛋白乙酰化与α-突触核蛋白病理相关的溶酶体功能有关。",
+    "journal": "Cell death & disease",
+    "impact_factor": 9.6,
+    "abstract": "Lysosomal defects are closely linked to Parkinson's disease (PD). Mutations in the GBA1 gene, encoding the lysosomal enzyme glucocerebrosidase (GCase), are major genetic risk factors for PD. GBA1 deficiency causes lysosomal dysfunction, leading to alpha-synuclein (alpha-syn) accumulation and PD progression. However, the underlying mechanisms remain unclear. In this study, we identified a novel GBA1-KAT8 regulatory pathway that controls lysosomal activity. GBA1 overexpression enhances lysosomal enzyme expression, regulates histone H4 acetylation at K16 via KAT8, and promotes lysosome-associated gene expression, highlighting an epigenetic mechanism in lysosomal biogenesis. Furthermore, GBA1 upregulated KAT8 expression, increased lysosomal enzyme levels, and decreased PFF-induced alpha-syn accumulation both in vitro and in vivo. The involvement of KAT8 as a critical acetyltransferase that modulates nuclear-lysosomal signaling pathways provides a mechanistic explanation for GBA1 deficiency-induced lysosomal dysfunction in association with PD pathology.",
+    "date": "2026 Jun 8",
+    "pmid": "42252285",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42252285/"
+  },
+  {
+    "title_en": "LaminA/C-dependent cellular senescence signaling promotes skeletal muscle atrophy and abnormalities in Parkinson's disease.",
+    "title_zh": "LaminA/C依赖的细胞衰老信号促进帕金森病中骨骼肌萎缩与异常。",
+    "journal": "Cell death & disease",
+    "impact_factor": 9.6,
+    "abstract": "Parkinson's disease (PD) is a neurodegenerative disease affecting the central nervous system with effects on the skeletal muscle that entails detailed characterization. Several PD-associated motor symptoms, such as rigidity, movement delays and postural instability, involve the skeletal muscle. We used the human alpha-syn A53T mutant mouse model to characterize the PD-associated skeletal muscle abnormalities. These mice exhibit reduced muscle weight, myofiber size and grip strength at PD onset. Gain of slow muscle fibers at the expense of fast fibers, muscle stem cell number alterations, elevated fibrosis and neuromuscular junction degeneration were observed in these mice. Oxidative stress and DNA damage-associated pathways led to reduced levels of the nuclear membrane protein LaminA/C, causing accelerated cellular senescence in the A53T muscle. We identify a molecular pathway of senescence-associated secretory phenotype activating FoxO signaling, resulting in skeletal muscle loss in the A53T mice. Thus, increased oxidative stress and accumulated cellular senescence could underlie the PD-associated musculoskeletal defects, with potential therapeutic significance.",
+    "date": "2026 Jun 6",
+    "pmid": "42251034",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251034/"
+  },
+  {
+    "title_en": "Selective vulnerability of dopaminergic neurons in Parkinson's disease connects PRKN and differential expression of CHCHD2 and GPNMB.",
+    "title_zh": "帕金森病中多巴胺能神经元的选择性易损性与PRKN及CHCHD2和GPNMB的差异表达相关联。",
+    "journal": "Cell death & disease",
+    "impact_factor": 9.6,
+    "abstract": "The mechanism(s) causing selective vulnerability of dopaminergic neurons in Parkinson's disease (PD) remain largely elusive. To improve our understanding of mitochondrial involvement and related pathways suggested to play a role in this selective vulnerability, we used tyrosine hydroxylase (TH)-mCherry reporter-induced pluripotent stem cells generated by CRISPR/Cas9. We sorted neurons into pure TH-positive and TH-negative neurons upon differentiation into a dopaminergic neuron-containing cell culture. We characterized mitochondrial function in both dopaminergic and non-dopaminergic neurons from PD patients and controls and identified differentially expressed genes between patients and controls in both cell populations. Dopaminergic neurons had a lower mitochondrial membrane potential than non-dopaminergic neurons. Furthermore, ATP levels were lower in PRKN mutation carriers than controls, and mitochondrial mass was reduced in PRKN mutation carriers only in the TH-positive but not in TH-negative neurons. Importantly, in PRKN mutation carriers, we demonstrated elevated levels of dopamine, which can serve as a significant source of toxic, oxidized dopamine. Using unbiased RNA sequencing, we detected increased levels of CHCHD2 and decreased expression of GPNMB in TH-positive neurons from Parkin mutation carriers compared to healthy controls. This suggests a possible interaction of these three PD genes in response to a dopaminergic neuron-specific increase in oxidative stress, which further leads to the selective vulnerability of dopaminergic neurons.",
+    "date": "2026 Jun 5",
+    "pmid": "42248828",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42248828/"
+  },
+  {
+    "title_en": "Alpha-synuclein fibrils induce budding of mitochondrial-derived vesicles.",
+    "title_zh": "α-突触核蛋白纤维诱导线粒体来源囊泡的出芽。",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "alpha-synuclein (alpha-syn) aggregation is a hallmark of synucleinopathies, a class of neurodegenerative disorders such as Parkinson's disease (PD). Several lines of evidence indicate the involvement of mitochondria in the disease pathology. Despite extensive study, the link between alpha-syn aggregation and mechanisms of mitochondrial toxicity remains not fully understood. Using high-resolution imaging with electron microscopy, we examined SH-SY5Y cells exposed to alpha-syn fibrils vs control cells with a focus on mitochondria. We found that upon exposure to alpha-syn fibrils, mitochondria cristae structure gets defects, and mitochondria enhance the budding of mitochondrial-derived vesicles (MDVs). MDV formation reflects an evolutionarily conserved mechanism reminiscent of bacterial outer membrane vesicle biogenesis. Structural proteomics analysis by mass spectrometry corroborates this microscopy observation by identifying changes in multiple proteins that regulate cristae structure, MDV formation, and trafficking. Our results suggest that alpha-syn may promote MDV generation, and support an important link between alpha-syn and mitochondria which will be important for future mechanistic studies. The processes we detected could be of interest for diagnostics and potential therapeutic interventions.",
+    "date": "2026 Jun 16",
+    "pmid": "42258734",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258734/"
+  },
+  {
+    "title_en": "Drivers of Rising Prevalence in Major Motor Neurodegenerative Diseases: Temporal Trends in Sweden and France (2003-2022).",
+    "title_zh": "主要运动神经退行性疾病患病率上升的驱动因素：瑞典与法国的时间趋势（2003-2022年）",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: The prevalence of Parkinson disease (PD), multiple sclerosis (MS), and motor neuron diseases (MNDs) is rising globally. However, it is unclear to what degree this is related to an increase in incidence or to improved survival after diagnosis. METHODS: We performed 2 nationwide, population-based, retrospective cohort studies, including all individuals living in Sweden between 2001 and 2016 and living in France between 2009 and 2022, respectively. Pooled mixed-effects regression models, with country as a random effect, were used to determine temporal trends in prevalence, crude and age-standardized and sex-standardized incidence, and age and life expectancy at diagnosis. RESULTS: Annualized prevalence of PD, MS, and MNDs increased significantly between 2003 and 2022 in the pooled model (PD: prevalence ratio [PR] per year = 1.014, p < 0.001; MS: PR = 1.029, p < 0.001; MND: PR = 1.028, p < 0.001). While the crude incidence of both PD and MS remained nearly stable over time (PD: incidence rate ratio [IRR] per year = 0.998, p < 0.001; MS: IRR = 0.992, p < 0.001), the standardized incidence showed a more marked decrease for PD (IRR = 0.986, p < 0.001) while remaining almost unchanged for MS (IRR = 0.995, p < 0.001). For MNDs, both the crude and standardized incidence increased over time (crude IRR = 1.018, p < 0.001; standardized IRR = 1.008, p < 0.001). Life expectancy at diagnosis of PD increased between 2003 and 2013 (+0.95 months per calendar year, p < 0.001) and then decreased between 2013 and 2022 (-1.20 months, p = 0.002), while it increased significantly over the entire study period for MS (+2.35 months, p < 0.001) and MNDs (+0.34 months, p = 0.01). DISCUSSION: These findings indicate that the rising MS prevalence is largely survival-driven and the rising MND prevalence reflects a true increase in incidence, whereas PD prevalence grows modestly, largely independent of incidence. Depending on the mechanism that drives prevalence, whether increased incidence reflecting changing risk factor exposures, improved survival due to therapeutic advances, or demographic aging of the population, inferences about underlying causes differ substantially between PD, MS, and MNDs, with direct implications for health care planning and etiologic research.",
+    "date": "2026 Jul 14",
+    "pmid": "42247653",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42247653/"
+  },
+  {
+    "title_en": "Sleep-circadian modulation of autophagy and glymphatic function: failure of coordinated brain clearance in Parkinson's disease.",
+    "title_zh": "自噬与类淋巴系统的睡眠-昼夜节律调节：帕金森病中脑部清除协调机制的失调",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) involves alpha-synuclein accumulation and progressive neurodegeneration. This review proposes that PD reflects failure of sleep-circadian regulated brain clearance network integrating intracellular autophagy and extracellular glymphatic transport across neurons, glia, and blood-brain-barrier. Disruption of sleep-architecture and circadian-timing desynchronizes these processes, impairing protein clearance and promoting pathology. This framework positions sleep-circadian dysfunction as an upstream mechanism, suggesting that restoring sleep-circadian regulation may improve protein clearance and support disease-modifying strategies.",
+    "date": "2026 Jun 8",
+    "pmid": "42259829",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42259829/"
+  },
+  {
+    "title_en": "Synucleinopathy-like clinical features and biologically defined synuclein seeding in PSP-Parkinsonism: an imperfect match.",
+    "title_zh": "帕金森综合征型进行性核上性麻痹中类似突触核蛋白病的临床特征与生物定义的突触核蛋白播种：一种不完美的匹配。",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Whether synucleinopathy-like (syn-like) symptoms match biologically defined synuclein seeding in PSP-parkinsonism (PSP-P) vs. Parkinson's disease (PD) remains unexplored. We studied 80 subjects: 20 PSP-P, 20 PSP-Richardson-syndrome(PSP-RS), 20 PD, and 20 controls(CS). Procedures included specific smell-testing, structured interview by a sleep specialist, orthostatic-stress test, specific dysautonomia scale, CSF-alpha-synuclein seed-amplification-assay (asyn-SAA) and neurofilament-levels (NfL). Frequency of syn-like symptoms was low in CS and PSP-RS, intermediate in PSP-P, and high in PD. Premotor probable-RBD and orthostatic hypotension favoured PD, whereas probable-RBD after motor onset and higher pupillomotor dysautonomia scale scores predominated in PSP groups. NfL peaked in PSP-RS, not differing among PSP-P, PD and CS. asyn-SAA was 100% positive in PD, 100% negative in CS and PSP-RS, and positive in 24% PSP-P. Not all clinically syn-like PSP-P cases were asyn-SAA positive, and vice versa. In summary, while partly overlapping with PD (including mild neurodegeneration as per NfL), syn-like symptoms do not always match biologically defined synuclein seeding in PSP-P.",
+    "date": "2026 Jun 8",
+    "pmid": "42259819",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42259819/"
+  },
+  {
+    "title_en": "Locus coeruleus alpha-synuclein overexpression induces prodromal Parkinsonian features in mice.",
+    "title_zh": "小鼠蓝斑核α-突触核蛋白过表达诱导帕金森病前驱特征",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "The locus coeruleus is among the earliest brain regions affected by alpha-synuclein pathology in prodromal Parkinson's disease, contributing to non-motor symptoms, yet its early pathogenic role remains unclear. We developed a mouse model in which human alpha-synuclein was selectively overexpressed in noradrenergic locus coeruleus neurons using PRSx8-driven adeno-associated viral vector. Mice were analysed at 1 and 3 months post-injection using histological, behavioural, neurochemical and electrophysiological approaches. Monomeric alpha-synuclein was localized in the locus coeruleus cell bodies and distributed throughout noradrenergic neuronal projections, while phosphorylated alpha-synuclein was predominantly confined to the locus coeruleus somata. We also observed reduced noradrenergic axonal density and early decreases in noradrenaline and serotonin levels without neuron loss. In contrast, the dopaminergic system remained unchanged. Electrophysiological recordings revealed transient, sex-dependent alterations in neuronal excitability. At the behavioural level, mice exhibited cognitive deficits and altered innate-emotional behaviour persisting over time. Sex-specific analyses revealed shortening of the colon in females, in the absence of detectable morphological alterations, alpha-synuclein deposition, or systemic inflammation. This model recapitulates some of the key non-motor Parkinson's disease features, highlighting the locus coeruleus as a potential target for early intervention.",
+    "date": "2026 Jun 8",
+    "pmid": "42259817",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42259817/"
+  },
+  {
+    "title_en": "Troxerutin mitigates ferroptosis-related neuroinflammation by regulating the microglial NOX4/Nrf2 axis in Parkinson's disease.",
+    "title_zh": "曲克芦丁通过调节帕金森病中小胶质细胞NOX4/Nrf2轴减轻铁死亡相关神经炎症。",
+    "journal": "Free radical biology & medicine",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) is characterized by progressive dopaminergic neurodegeneration and chronic neuroinflammation. Increasing evidence suggests that microglial ferroptosis plays a critical role in the pathogenesis of PD. Troxerutin (TRX), a natural flavonoid derivative with potent antioxidant and anti-inflammatory activities, has shown neuroprotective potential; however, its effects on microglial ferroptosis and the underlying mechanisms in PD remain unclear. Here, we investigated the effects of TRX in a 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced mouse model of PD and MPP(+)-stimulated BV2 cells. TRX improves motor performance, preserves nigrostriatal dopaminergic neurons, and attenuates microglial activation and pro-inflammatory cytokine expression in vivo. In BV2 cells, TRX attenuated ferroptosis-related changes, reduced lipid reactive oxygen species accumulation, and restored GPX4 and SLC7A11 expression. Furthermore, treatment with erastin, a classical ferroptosis inducer, reactivates ferroptosis-related responses and reverses the anti-inflammatory effects of TRX, linking ferroptotic stress to microglial inflammatory activation. Mechanistically, the cellular thermal shift assay supported target engagement between TRX and NOX4. TRX enhances K48-linked polyubiquitination of NOX4 and promotes its proteasomal degradation, which restores Nrf2 nuclear accumulation and activates downstream antioxidant responses. These results reveal that TRX alleviates ferroptosis-related neuroinflammation by modulating the microglial NOX4/Nrf2 axis in PD.",
+    "date": "2026 Jun 6",
+    "pmid": "42252064",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42252064/"
+  },
+  {
+    "title_en": "Cortico-pallidal beta dynamics underlie impaired turning in Parkinson's disease.",
+    "title_zh": "皮质-苍白球β振荡动态是帕金森病转向障碍的基础。",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Turning while walking is one of the most common yet complex human movements, and it is frequently impaired in Parkinson's disease (PD), leading to falls and loss of independence. The neural mechanisms underlying this difficulty remain unclear. Using chronically implanted devices that simultaneously record and stimulate the brain, we repeatedly measured activity in the motor cortex and basal ganglia of five individuals with PD during natural walking and turning. Successful turns were marked by reduced beta-band activity and flexible communication between cortical and pallidal regions, whereas impaired turns showed excessive beta synchrony that rigidly constrained movement. Medication and deep brain stimulation improved turning through distinct circuit mechanisms, dopamine suppressing abnormal pallidal beta activity and its communication with the cortex, and stimulation restoring cortical flexibility. These findings reveal how dynamic cortical-basal ganglia interactions may enable complex movement and establish circuit targets for adaptive brain stimulation to reduce falls in PD.",
+    "date": "2026 Jun 6",
+    "pmid": "42251056",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251056/"
+  },
+  {
+    "title_en": "Metabotropic signaling downstream of GABA(A) receptors suppresses neuroinflammation in Parkinson's disease.",
+    "title_zh": "GABA(A)受体下游的代谢型信号通路在帕金森病中抑制神经炎症。",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) is the second most common neurodegenerative disorder, in which persistent neuroinflammation has been recognized as a major pathological component. Thus, strategies aimed at suppressing neuroinflammation are particularly important for developing disease-modifying therapies in PD. In this study, we examined the role of gamma-aminobutyric acid Type A Receptors (GABA(A)Rs) in regulating microglial activation and neuroinflammation, and their implications for neuroprotection in a lipopolysaccharide (LPS)-induced PD model. We confirmed that stimulation of GABA(A)Rs markedly inhibited neuroinflammation and consequently attenuated related neurotoxicity both in vitro and in vivo. Mechanistic investigations revealed that metabotropic signaling cascades downstream of GABA(A)Rs in microglia were involved, including intracellular calcium release and the mobilization of phosphatases, which dephosphorylated IkappaBalpha and restricted nuclear translocation of p65, thereby exerting anti-inflammatory effects. Moreover, pharmacological and immunoprecipitation assays showed that phospholipase C (PLC) physically interacted with GABA(A)Rs and mediated calcium release from intracellular stores. These metabotropic signaling mechanisms underlie the suppressive action of GABA(A)Rs on LPS-induced neuroinflammation. Given the central role of neuroinflammation in PD pathogenesis and other neurodegenerative conditions, this study provides new insights into the therapeutic potential of targeting GABA(A)Rs to combat neuroinflammation and neurodegeneration in PD.",
+    "date": "2026 Jun 6",
+    "pmid": "42251036",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251036/"
+  },
+  {
+    "title_en": "Plasma neurofilament light chain in early Parkinson's disease predicts motor complications: a prospective cohort study.",
+    "title_zh": "早期帕金森病患者血浆神经丝轻链预测运动并发症：一项前瞻性队列研究",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Whether blood biomarkers can predict the development of motor complications in early-stage Parkinson's disease (PD) remains unclear. In this prospective longitudinal cohort study, 173 patients with early-stage PD were followed for up to seven years. Plasma neurofilament light chain (NfL), glial fibrillary acidic protein (GFAP), phosphorylated tau181 (p-tau181), amyloid beta 42 (Abeta42), and amyloid beta 40 (Abeta40) were measured at baseline, 1-year, and 2-year follow-up using an ultrasensitive single-molecule array platform. Kaplan-Meier and Cox regression analyses were performed to identify predictors of motor fluctuations and dyskinesias. Motor fluctuations and dyskinesias occurred in 41.6% and 17.9% of participants, respectively. Patients who developed motor complications had higher baseline plasma NfL, GFAP, and Abeta40 levels. However, after adjustment for confounders, only higher baseline NfL independently predicted the future development of motor complications, whereas longitudinal changes in plasma biomarkers were not associated with these outcomes. Higher baseline levodopa daily dose and greater anxiety and depression scores were also identified as clinical predictors. These findings suggest that plasma NfL may serve as a minimally invasive biomarker for early risk stratification of motor complications in PD.",
+    "date": "2026 Jun 6",
+    "pmid": "42251027",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251027/"
+  },
+  {
+    "title_en": "Characterization of patients with isolated REM sleep behavior disorder and cerebrospinal fluid alpha-synuclein negativity.",
+    "title_zh": "孤立性快速眼动睡眠行为障碍患者与脑脊液α-突触核蛋白阴性特征的分析。",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Isolated REM sleep behavior disorder (IRBD) represents the prodromal phase of synucleinopathies. We investigated the characteristics of IRBD patients who tested negative for misfolded alpha-synuclein (alphasyn) in CSF. CSF alphasyn was analyzed by seed amplification assay (SAA) in 191 consecutive patients. Using logistic regression, demographic and clinical variables were compared between subjects with negative (alphasyn-) and positive (alphasyn+) alphasyn. alphasyn- occurred in 47 (24.61%) patients who were younger (p = 0.018), had less electromyographic REM sleep activity (p < 0.001), and more frequent normal DAT-SPECT (p < 0.001), normosmia (p < 0.001), major depressive disorder (p < 0.001) and antidepressant use (p < 0.001). After a mean follow-up of 5.35 years, 5 of 47 (10.64%) alphasyn- patients and 61 of 144 (42.36%) alphasyn+ patients developed Parkinson disease (PD) or dementia with Lewy bodies (DLB). Kaplan-Meier analysis showed alphasyn- patients had a lower risk of developing PD and DLB (log-rank test p < 0.001; HR 5.355, 95% CI 1.945-14.742). CSF alphasyn- occurs in IRBD patients with lower age, less synucleinopathy biomarkers and lower or delayed risk of developing PD and DLB. The cause of alphasyn- in IRBD might include a very early synucleinopathy stage or a non-synucleinopathy condition (e.g., antidepressant side-effect). Our observation in IRBD might be important for design of neuroprotective trials targeting alphasyn.",
+    "date": "2026 Jun 5",
+    "pmid": "42248896",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42248896/"
+  },
+  {
+    "title_en": "Neuroimaging evidence for a dopamine-independent association between motor cortex microstructure and Parkinson's disease severity.",
+    "title_zh": "运动皮层微结构与帕金森病严重程度之间多巴胺非依赖性关联的神经影像学证据。",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "We determined brain microstructure alterations in early-stage Parkinson's disease (PD) using diffusion tensor imaging and neurite orientation dispersion and density imaging (NODDI). Additionally, dopamine transporter (DAT) PET in PD was also performed to evaluate whether microstructural changes and dopaminergic losses within the brain contribute independently to PD motor severity. Mean diffusivity was significantly higher in PD in many mid-brain, nigrostriatal, sub-cortical, cortical and white matter regions. However, Viso (NODDI outcome for cerebrospinal-fluid volume fraction) in the motor cortices and parietal lobe were more strongly correlated (r ~ 0.5, p < 0.01) with PD motor severity. Most DAT PET and diffusion MRI measures were uncorrelated and stepwise multiple linear regression analysis determined a combination of DAT availability in the putamen and Viso in the precentral gyrus (motor cortex) as the best predictor of PD motor severity (55% variance explained); inclusion of Viso in precentral gyrus independently accounted for 11% variance in motor severity.",
+    "date": "2026 Jun 5",
+    "pmid": "42248873",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42248873/"
+  },
+  {
+    "title_en": "Exercise and smoking: health rivals revealing shared protective mechanisms in Parkinson's?",
+    "title_zh": "运动与吸烟：帕金森病中揭示共同保护机制的健康竞争对手？",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Compelling epidemiological evidence suggests that exercise and smoking are modifiable risk factors that are linked to a reduced risk of Parkinson's disease. These two risk factors represent opposite ends of a spectrum: exercise is universally embraced, while smoking is rightly eschewed for its established adverse health effects. Yet, intriguingly, preclinical evidence suggests that at their biological cores, exercise and some of the many components of tobacco may share strikingly similar working mechanisms that may favorably modify PD risk or disease course, for which definitive evidence is still lacking. Here, we deconstruct these overlapping and putative neuroprotective mechanisms. Our aim is to transform this unexpected overlap into an actionable perspective toward identifying novel targets for disease-modifying therapies that can slow the progression of Parkinson's disease, and to inspire novel translational efforts in disease modification in PD. We stress that while both factors may theoretically inform disease-modifying strategies for PD, in practice, only exercise should be promoted for its health benefits, whereas smoking remains firmly contraindicated due to its known detrimental health effects.",
+    "date": "2026 Jun 4",
+    "pmid": "42243111",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42243111/"
+  },
+  {
+    "title_en": "Spatiotemporal Progression Patterns of Striatal Dopamine Depletion and Cerebral Hypoperfusion in Parkinson's Disease.",
+    "title_zh": "帕金森病中纹状体多巴胺耗竭与脑低灌注的时空进展模式",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: The identification of Parkinson's disease (PD) subtypes is crucial for predicting the disease course and designing personalized therapeutic strategies. OBJECTIVES: The aim of the study was to characterize the heterogeneity of the spatiotemporal evolutionary patterns of striatal dopamine depletion and cerebral hypoperfusion in PD. METHODS: We retrospectively enrolled 708 patients with newly diagnosed PD and 50 healthy controls who underwent dual-phase (18)F-FP-CIT PET scans. We applied subtype and stage inference (SuStaIn) to delineate three PD subtypes after quantifying the dual-phase (18)F-FP-CIT PET data. We compared the baseline clinical features as well as the longitudinal motor and cognitive outcomes between subtypes. RESULTS: Subtype 1 (n = 406) initially presented with asymmetric dopamine loss in the posterior putamen, followed by dopaminergic deficits in other striatal subregions and, later, cerebral hypoperfusion. Subtype 2 (n = 205) exhibited diffuse and symmetric striatal dopamine loss in the early stages, followed by cerebral hypoperfusion in the mid-stages. Subtype 3 (n = 89) initially showed the parieto-occipital hypoperfusion, followed by cerebral hypoperfusion in other cortical areas and striatal dopamine depletion. Subtype 2 had an older age of onset, and subtype 3 had a younger age of onset and a lower prevalence of rapid eye movement sleep behavior disorder. Time-dependent Cox regression models showed that the risk of dementia conversion within a follow-up period of 4 years was higher in subtypes 2 and 3 (hazard ratios 1.772 and 2.802, respectively) than subtype 1, after the confounding effects were adjusted. The risk of developing levodopa-induced dyskinesia and freezing of gait was comparable between subtypes. CONCLUSIONS: The spatiotemporal trajectories of striatal dopamine depletion and cerebral hypoperfusion on dual-phase (18)F-FP-CIT PET images could serve as a potential progression marker for cognitive decline in early-stage PD. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 8",
+    "pmid": "42261072",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42261072/"
+  },
+  {
+    "title_en": "Voice and Speech in Deep Brain Stimulation in Dystonia: A Retrospective Study, Systematic Review, and Meta-Analysis.",
+    "title_zh": "肌张力障碍脑深部电刺激术中的语音与言语：一项回顾性研究、系统评价及荟萃分析",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Relatively little is known about voice and speech abnormalities and their changes after deep brain stimulation (DBS) in patients with dystonia. OBJECTIVE: The aim was to determine the incidence of speech abnormalities, including laryngeal dystonia, among patients with dystonia receiving DBS and to characterize their response to this neurosurgical neuromodulation. METHODS: A three-part study, including a retrospective analysis, systematic literature review, and meta-analysis, was completed. Patients with dystonia receiving DBS at Massachusetts General Hospital and the University of California San Francisco between 2004 and 2024 were included in the retrospective study. Those with preoperative voice and speech abnormalities were grouped by type of alterations and response to DBS and evaluated using the Burke-Fahn-Marsden Dystonia Rating Scale (BFMDRS) speech and swallowing subscores. A systematic literature review was conducted for studies of voice and speech outcomes in DBS for dystonia. A meta-analysis of studies reporting BFM speech and swallowing subscores pre- and post-DBS was performed. RESULTS: One hundred eighty-three participants received DBS for dystonia, and 34 (18.6%) had baseline voice and speech abnormalities. BFMDRS speech and swallowing subscores improved with DBS in isolated (but not combined) dystonia, driven primarily by two subgroups. Twenty studies were included in the systematic literature review. A majority of included speech measures were unchanged with DBS; a smaller number showed improvement or worsening. Nine studies reporting pre- and post-DBS BFMDRS speech and swallowing subscores were included in the meta-analysis, which showed improvement with DBS. CONCLUSIONS: Data are mixed on response of speech to DBS in dystonia, though worsening of speech appears rare. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 8",
+    "pmid": "42261001",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42261001/"
+  },
+  {
+    "title_en": "Challenges of Pain in Parkinson's Disease: Results from the OCEAN Study.",
+    "title_zh": "帕金森病疼痛的挑战：来自OCEAN研究的结果。",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Pain is a common non-motor symptom in Parkinson's disease (PD) and is often associated to fluctuations. OBJECTIVE: The OpiCapone Effect on motor fluctuations and pAiN (OCEAN) study evaluated the effect of opicapone on fluctuation-related pain when added to levodopa therapy in PD patients. METHODS: Patients with PD with end-of-dose motor fluctuations and associated pain were randomized to opicapone 50 mg or placebo for 24 weeks. The primary end point was reduction from baseline to week 24 in the King's Parkinson's Disease Pain Scale (KPPS) domain 3. Reductions in KPPS and Movement Disorder Society-sponsored Non-Motor Rating Scale (MDS-NMS) total scores and safety/tolerability were also evaluated. RESULTS: A total of 122 patients were included (opicapone, n = 59; placebo, n = 63). Mean (standard deviation) change from baseline in KPPS domain 3 was -8.8 (6.9) points in the opicapone group versus -9.3 (6.2) points in the placebo group (P = 0.7940). Opicapone resulted in numerically greater reductions versus placebo in KPPS and MDS-NMS total scores and was generally well tolerated. CONCLUSIONS: Opicapone did not reach statistical superiority over placebo, highlighting the complexities of studying pain in PD. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 8",
+    "pmid": "42259665",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42259665/"
+  },
+  {
+    "title_en": "Associations Between Cumulative Head Trauma and Self-Reported Parkinsonism and Parkinson's Disease in Former Soccer Players.",
+    "title_zh": "累积头部创伤与前足球运动员自我报告的帕金森综合征及帕金森病之间的关联。",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Cumulative head trauma, encompassing repetitive head impacts (RHI) and traumatic brain injury (TBI), has been associated with later-life neurodegenerative disease. Studies on parkinsonism/Parkinson's disease (PD) have evaluated RHI and TBI in isolation, yielding mixed results. Cumulative head trauma may better predict PD risk. OBJECTIVE: To examine independent and cumulative effects of RHI through soccer participation and TBI history on PD diagnosis and age at diagnosis. METHODS: We used a cross-sectional cohort design with data from the Fox Insight study. Participants completed self-report questionnaires on PD diagnosis, TBI (no TBI, TBI with loss of consciousness [LOC], TBI without LOC), and sport participation. Multivariable logistic regressions examined the effects of soccer, TBI group, and their interaction on PD diagnosis. Cox proportional hazards examined associations with time to PD diagnosis. Covariates included age, sex, race, education, income, body mass index, heart disease/diabetes, and family PD history. RESULTS: Among 1231 participants (mean[SD] age = 66.12[10.60]), 278 played soccer (953 non-contact and collision sport [CCS] athletes). Participants reported no TBI (390[33%]), TBI without LOC (495[43%]), or TBI with LOC (258[23%]). Overall, 768(62%) reported a PD diagnosis (mean[SD] age at diagnosis = 59.02[9.86]). A significant soccer x TBI interaction indicated that soccer players with TBI with LOC had 2.6x higher odds of PD compared to non-CCS athletes without TBI (OR [95% CI] = 2.600[1.085-6.305], P = 0.033). Former soccer players with TBI with LOC had a 15.6% higher hazard of early PD diagnosis (HR = 1.469, P = 0.027) compared to non-CCS athletes with no TBI. CONCLUSION: Cumulative head trauma (RHI + TBI) increased PD risk and lowered age at onset. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 7",
+    "pmid": "42252813",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42252813/"
+  },
+  {
+    "title_en": "Genomic Landscape and Phenotypic Spectrum of Autosomal Recessive Cerebellar Ataxia in China.",
+    "title_zh": "中国常染色体隐性遗传性小脑性共济失调的基因组学图景与表型谱研究",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Autosomal recessive cerebellar ataxias (ARCA) are clinically and genetically heterogeneous, often presenting as sporadic cases that pose a significant diagnostic challenge. OBJECTIVES: The aim was to characterize the clinical and mutational landscape of ARCA in the largest Chinese cohort using whole-genome sequencing (WGS). METHODS: We performed WGS on a cohort of 187 patients with suspected hereditary ataxia. Clinical severity was assessed using the Scale for the Assessment and Rating of Ataxia and the International Cooperative Ataxia Rating Scale. Pathogenicity was determined according to American College of Medical Genetics and Genomics guidelines, and variants were validated via Sanger sequencing and co-segregation analysis. RESULTS: We identified 109 variants across 56 genes, with a rate of 79.8% (87/109) being novel. Definitive molecular diagnoses were achieved in 21 cases across 11 distinct subtypes. SYNE1 and SETX were the most frequent genetic contributors, with SETX truncating mutations (c.22_23insTA) associated with higher clinical burden. Multisystemic features were identified, including conjunctival telangiectasia in ATM, progressive action myoclonus in SCARB2, and spastic paraplegia in CAPN1. CONCLUSIONS: In this study with, to date the largest Chinese cohort of ARCA, 87 novel variants were classified, which significantly expanded the genomic and phenotype landscape of ARCA in the Chinese population. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 4",
+    "pmid": "42243046",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42243046/"
+  },
+  {
+    "title_en": "ATP binding to lysozyme and superfolder GFP amyloid fibrils induces aggregate remodeling and attenuates their cytotoxicity.",
+    "title_zh": "ATP与溶菌酶及超折叠GFP淀粉样纤维的结合诱导聚集体重塑并减弱其细胞毒性。",
+    "journal": "Cell death discovery",
+    "impact_factor": 7.0,
+    "abstract": "The pathogenesis of neurodegenerative diseases such as Alzheimer's and Parkinson's, systemic and local amyloidoses is closely associated with amyloid fibril accumulation. Dysregulation of energy metabolism and a decline in the level of adenosine triphosphate (ATP), a key intracellular energy source and extracellular signaling molecule, contribute to the development of these pathologies. Despite the well-established role of ATP as a biological hydrotrope that prevents the initial aggregation of proteins, the impact of this nucleotide on the structure and properties of pre-formed (mature) amyloids is still poorly understood. In this study, we showed the ability of ATP to bind with affinity in the low-to-mid micromolar range to mature amyloids of lysozyme, which associated with hereditary lysozyme amyloidosis, and superfolder GFP, as model objects with unique properties, demonstrating a significant increase in the number of binding sites compared to native proteins. We demonstrated that this interaction induces declustering of both aggregate types, accompanied by fibril disordering specific to certain amyloidogenic proteins. Importantly, ATP-mediated fibril remodeling resulted in a significant reduction in their toxicity to mammalian cell lines, as well as a decrease in the aggregate resistance to chemical and thermal degradation. The obtained results reveal the complex nature of ATP's effects: while acting as an endogenous amyloid detoxification factor, it is also susceptible to sequestration in amyloid deposits due to its affinity in the low-to-mid micromolar range. Amyloid-associated ATP sequestration may lead to nucleotide deficiency and aggravation of amyloidosis.",
+    "date": "2026 Jun 4",
+    "pmid": "42243086",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42243086/"
+  },
+  {
+    "title_en": "Ginsenoside Rg1, a Natural Lysosomal Enhancer, Alleviates Parkinson's Disease Pathology via Cathepsin D-Dependent Regulation of alpha-Synuclein Homeostasis.",
+    "title_zh": "人参皂苷Rg1作为一种天然溶酶体增强剂，通过组织蛋白酶D依赖的α-突触核蛋白稳态调控缓解帕金森病病理进程。",
+    "journal": "Phytotherapy research : PTR",
+    "impact_factor": 6.3,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by dopaminergic neuron loss and alpha-synuclein (alpha-syn) aggregation, often linked to lysosomal dysfunction. Cathepsin D (CTSD), a lysosomal hydrolase essential for alpha-syn clearance, becomes functionally impaired when its maturation is disrupted, exacerbating proteostatic stress. This study investigated whether ginsenoside Rg1(Rg1) restores CTSD maturation and lysosomal function to mitigate PD pathology. MPTP-induced zebrafish and mouse PD models, as well as MPP+-treated SH-SY5Y cells, animals and cells were treated with Rg1 at different concentrations. Motor behavior, dopaminergic neuron survival, alpha-syn clearance, CTSD maturation, lysosomal activity, endoplasmic reticulum (ER) stress, oxidative stress, autophagic flux, and apoptosis were systematically evaluated. Rg1 improved locomotor performance and preserved dopaminergic neurons, promoted alpha-syn clearance, and enhanced CTSD maturation in lysosomes. These effects coincided with reduced ER and oxidative stress, normalized autophagic flux, and decreased apoptosis. Rg1 functions as a natural lysosomal enhancer, restoring lysosome-ER homeostasis and counteracting multiple pathogenic pathways in PD. The findings reveal a CTSD-dependent regulatory axis in alpha-syn homeostasis and highlight Rg1 as a promising multi-target therapeutic candidate for PD.",
+    "date": "2026 Jun 5",
+    "pmid": "42248811",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42248811/"
+  },
+  {
+    "title_en": "Development and Preliminary Validation of ORCA-PD, an Online Rapid Cognitive Assessment for Parkinson Disease: Mixed Methods Study.",
+    "title_zh": "ORCA-PD（帕金森病在线快速认知评估）的开发与初步验证：一项混合方法研究。",
+    "journal": "Journal of medical Internet research",
+    "impact_factor": 6.0,
+    "abstract": "BACKGROUND: Traditional in-person neuropsychological tests for Parkinson disease (PD) lack accessibility, scalability, and PD specificity. Mobility impairments hinder access to in-person assessments, and long waiting times for expert evaluation limit scalability. Common tools for cognitive screening, such as the Montreal Cognitive Assessment, are generic and not specific to PD. OBJECTIVE: The goal of this study was to address these challenges by leveraging the internet. This study aimed to develop a sensitive tool to detect cognitive impairments in early- to mid-stage PD in an accessible and scalable manner. METHODS: We developed the Online Rapid Cognitive Assessment for Parkinson's Disease (ORCA-PD), a brief (~15 min), fully self-administered tool, tailored to detect PD-specific impairments remotely. In a cross-sectional study, 112 participants from diverse geographical locations completed the ORCA-PD and a usability questionnaire. Task selection for ORCA-PD was guided by meta-analyses and comprehensive reviews, which demonstrated medium-to-high sensitivity to PD compared to healthy controls. RESULTS: Participants from more than 30 geographical locations showed a 93% (135/145) completion rate, with median usability ratings of 4 to 5 (IQRs 0-1) out of 5, indicating strong usability across a diverse sample. The ORCA-PD score significantly correlated with the Montreal Cognitive Assessment score (rho=0.45, 95% CI 0.21-0.64; P<.001; n=56), supporting convergent validity. The ORCA-PD scores also followed expected significant trends: neurotypical controls scored higher than participants with PD (beta=4.18; P=.048) and participants with PD without mild cognitive impairment scored higher than participants with PD with mild cognitive impairment (beta=7.22; P=.046), confirming 2 discriminative abilities. CONCLUSIONS: ORCA-PD demonstrated usability and preliminary validity. ORCA-PD offers an accessible, scalable, and PD-sensitive cognitive screening test that could complement traditional in-person, supervised tools.",
+    "date": "2026 Jun 8",
+    "pmid": "42258791",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42258791/"
+  },
+  {
+    "title_en": "Inhibition of YTHDF2-mediated CYLD mRNA degradation promotes neuronal ferroptosis and pain in Parkinson's disease through NOX4 deubiquitination.",
+    "title_zh": "抑制YTHDF2介导的CYLD mRNA降解通过NOX4去泛素化促进帕金森病中的神经元铁死亡和疼痛。",
+    "journal": "Cell biology and toxicology",
+    "impact_factor": 5.9,
+    "abstract": "BACKGROUND: Parkinson's disease (PD) is featured by progressive neurodegeneration linked to iron-dependent ferroptosis, yet the functions of m(6)A RNA-binding proteins and deubiquitinating enzymes in this process remain poorly understood. This work investigates the functional interplay between the m(6)A reader YTHDF2 and deubiquitinase CYLD in PD-associated ferroptosis and delineates their downstream molecular mechanisms. METHODS: PD models were established using MPTP-treated C57BL/6 mice and MPP(+)-exposed SH-SY5Y neuroblastoma cells. Behavioral assessments (open field, rotarod, and pole tests) and pain sensitivity assays (mechanical allodynia, thermal hyperalgesia) were performed. Molecular analyses included qRT-PCR, Western blot, RNA immunoprecipitation (RIP), co-immunoprecipitation (Co-IP), and ubiquitination assays. Ferroptosis markers (Fe(2+), ROS, MDA, and GSH) and key regulators (ACSL4, GPX4, SLC7A11, and FTL) were quantified. Gain- and loss-of-function experiments for YTHDF2, CYLD, and NOX4 were conducted to validate regulatory relationships. RESULTS: MPTP/MPP(+) treatment downregulated YTHDF2 and upregulated CYLD, exacerbating ferroptosis, as evidenced by mitochondrial damage, elevated Fe(2+)/ROS/MDA, reduced GSH, and altered level of ferroptosis-associated proteins (ACSL4 increased, GPX4/SLC7A11/FTL decreased). YTHDF2 overexpression suppressed ferroptosis, at least in part, by recognizing m6A-modified CYLD mRNA and promoting its degradation. Moreover, CYLD stabilized NOX4 by inhibiting its ubiquitination. Rescue experiments confirmed that CYLD depletion attenuated ferroptosis, an effect that was rescued by NOX4 overexpression. In MPTP-induced mice, YTHDF2 overexpression alleviated motor deficits (improved locomotion, rotarod performance), and reduced pain hypersensitivity, while mitigating ferroptosis markers and nigral mitochondrial pathology. CONCLUSION: Our study uncovered the YTHDF2/CYLD/NOX4 axis as a novel ferroptosis regulator in PD, revealing a dual epitranscriptomic-posttranslational therapeutic target for neuroprotection.",
+    "date": "2026 Jun 6",
+    "pmid": "42250122",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42250122/"
+  },
+  {
+    "title_en": "Enhancing heme synthesis attenuates pathological alpha-synuclein propagation in vivo.",
+    "title_zh": "增强血红素合成可减轻体内病理性α-突触核蛋白的传播",
+    "journal": "Acta neuropathologica communications",
+    "impact_factor": 5.7,
+    "abstract": "Intraneuronal alpha-synuclein (alphaS) accumulation is a central event in the pathogenesis of Parkinson's disease and dementia with Lewy bodies. The spread of alphaS pathology throughout the central nervous system contributes to disease progression via seed-dependent propagation, yet disease-modifying therapies remain unavailable. We previously reported that porphyrin compounds inhibit alphaS aggregation in vitro; however, because of their high molecular weight, porphyrins poorly penetrate the blood-brain barrier (BBB). Heme, a porphyrin derivative, is synthesized from 5-aminolevulinic acid (5-ALA) via the heme biosynthetic pathway. In this study, we investigated whether 5-ALA modulates alphaS accumulation and propagation. Although porphyrin compounds inhibited alphaS seeding in vitro, 5-ALA itself did not. However, treatment of mouse primary neurons with 5-ALA enhanced heme synthesis and suppressed seed-dependent alphaS aggregation, suggesting a potential role for intracellular heme in modulating alphaS propagation. We further evaluated the effects of 5-ALA in an in vivo alphaS propagation model. Preformed alphaS fibrils were unilaterally injected into the striatum of wild-type mice, followed by oral administration of 5-ALA at three doses (0, 1.7, and 20 mg/kg/day) for 4 weeks. Biochemical analyses demonstrated that 5-ALA significantly reduced the propagation of sarkosyl-insoluble alphaS to the contralateral hemisphere. Immunohistochemical analyses revealed a marked reduction in phosphorylated alphaS pathology in the amygdala and substantia nigra in the 5-ALA-treated groups. Collectively, these findings indicate that oral administration of 5-ALA suppresses alphaS propagation in vivo, potentially through enhancement of intracellular heme synthesis. Modulation of the heme biosynthetic pathway may represent a novel therapeutic strategy for synucleinopathies.",
+    "date": "2026 Jun 8",
+    "pmid": "42260692",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42260692/"
+  },
+  {
+    "title_en": "Glucagon-Like Peptide-1 Receptor Agonists and Risk of Parkinson's Disease in Patients With Obesity and Without Type 2 Diabetes.",
+    "title_zh": "胰高血糖素样肽-1受体激动剂与肥胖但未患2型糖尿病患者帕金森病风险的关系",
+    "journal": "Diabetes, obesity & metabolism",
+    "impact_factor": 5.7,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 4",
+    "pmid": "42244137",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42244137/"
+  },
+  {
+    "title_en": "Impact of DSP4-induced locus coeruleus dysfunction on sleep: Systematic review and methodology.",
+    "title_zh": "DSP4诱导蓝斑核功能障碍对睡眠的影响：系统综述与方法学",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Sleep and brain health are closely coupled, yet the mechanisms underlying this relationship remain incompletely understood. The locus coeruleus (LC) is a key modulator of sleep architecture, and LC dysfunction (LCd) is implicated in a wide range of neurodegenerative and psychiatric disorders, including Alzheimer's disease, Parkinson's disease, depression, and post-traumatic stress disorder. The isolated effects of LCd on sleep and brain health cannot be studied in humans, but they can be modeled in animals using the noradrenergic neurotoxin DSP4, which produces chronic and selective LC degeneration. Here, we provide a systematic review of the impact of DSP4-based LC ablation on sleep. We summarize the substantial (and often under-reported) variability in DSP4 outcomes and place these findings in the broader context of LC physiology and pathology. We then review DSP4's mechanism of action and identify methodological and biological factors likely contributing to the pronounced inter-study variability. Finally, we offer practical considerations to support more consistent DSP4-based LC ablation, enabling robust investigation of the consequences of chronic LCd for sleep architecture and overall brain health.",
+    "date": "2026 Jun 6",
+    "pmid": "42251969",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251969/"
+  },
+  {
+    "title_en": "PBMC DEG/miRNA biomarkers of TDP-43 pathology in ALS.",
+    "title_zh": "ALS中TDP-43病理学的PBMC DEG/miRNA生物标志物。",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Amyotrophic lateral sclerosis (ALS) lacks reliable, disease-specific, and minimally invasive biomarkers, representing a major barrier to early diagnosis and patient stratification. The primary aim of this translational pilot study was to identify a disease-specific, TDP-43-related, gene-microRNA (miRNA) signature in peripheral blood mononuclear cells (PBMCs) of ALS patients with potential diagnostic value. To this end, we first identified differentially expressed disease-specific genes (dsDEGs) using a TDP-43-based rat model of ALS, generated by stereotaxic infusion of full-length (FL) TAR DNA-binding protein 43 (TDP-43) into the motor cortex. Transcriptomic profiling of the motor cortex revealed candidate dsDEGs, which were subsequently validated by RT-qPCR in motor cortex, spinal cord, and PBMCs from the same animals. To assess translational relevance, expression levels of these dsDEGs were analyzed in PBMCs from early- to mid-stage ALS patients and matched healthy controls, while disease specificity was evaluated using Parkinson's disease (PD) samples. In parallel, conserved miRNAs predicted to target the identified dsDEGs were examined in both rat and human PBMCs. Five dsDEGs, Mctp1, Penk, Mt2A, Drd1, and Rasgrp2, were consistently dysregulated across central and peripheral tissues in the TDP-43 rat model. RT-qPCR analysis of human PBMCs confirmed significant and selective dysregulation of these genes in ALS, but not in PD, supporting disease specificity. Moreover, exposure of human neuroblastoma cells and healthy PBMCs to TDP-43 recapitulated the ALS-like expression changes. Computational and experimental analyses identified seven conserved miRNAs targeting these dsDEGs, of which four were significantly downregulated in ALS PBMCs, supporting a coordinated regulatory network. Receiver operating characteristic (ROC) analyses demonstrated strong discriminative performance for both the gene signature (AUC 0.87-1.00) and the associated miRNAs (AUC 0.95-1.00). Together, these findings define a novel PBMC-based gene-miRNA signature that mirrors central ALS pathology and shows high diagnostic accuracy and disease specificity, highlighting its potential as a minimally invasive biomarker for ALS.",
+    "date": "2026 Jun 6",
+    "pmid": "42251967",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251967/"
+  },
+  {
+    "title_en": "Shared and symptom-specific local field potential spectral signatures of motor symptoms in Parkinson's disease.",
+    "title_zh": "帕金森病运动症状的共同与症状特异性局部场电位频谱特征",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Adaptive deep brain stimulation (aDBS) for Parkinson's disease (PD) aims to improve treatment efficacy by adjusting stimulation amplitude based on a neurophysiological feedback signal reflecting the patient's clinical state. Although beta band (+/- 13-35 Hz) spectral power from local field potential (LFP) recordings is the best-characterized physiomarker to-date, correlations with motor symptom severity remain modest. To explore whether combining spectral information from multiple frequencies improves explained variance in motor symptom severity, we applied canonical correlation analysis (CCA) to the full power spectral density (1-100 Hz) of LFP recordings from 67 patients with PD undergoing subthalamic nucleus DBS, alongside clustered and individual items of the Movement Disorders Society Unified Parkinson's Disease Rating Scale part III (UPDRS-III). CCA redundancy indices quantified that over 20% of variance in UPDRS-III scores was explained by a linear combination of spectral power across frequencies, compared to ~10% by beta power alone. Beta frequencies contributed most strongly and positively to total UPDRS-III scores, with slightly stronger contributions of low-beta (~13-25 Hz) than high-beta (~26-35 Hz) ranges. Low-frequency (<10 Hz) and finely-tuned gamma activity at half the stimulation frequency (62-63 Hz) contributed negatively. Symptom-specific analyses revealed a clear double beta peak associated with bradykinesia, while rigidity was primarily associated with low-beta power. Tremor showed a less distinctive spectral pattern. CCA results were highly similar for contralateral and ipsilateral symptoms. Overall, CCA findings revealed both shared and symptom-specific spectral patterns underlying PD motor symptoms and demonstrate the added value of a broader spectral physiomarker.",
+    "date": "2026 Jun 5",
+    "pmid": "42250769",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42250769/"
+  },
+  {
+    "title_en": "Early-onset neuroinflammation drives neurodegeneration caused by lysosomal PI(3,5)P(2) insufficiency.",
+    "title_zh": "早期发生的神经炎症由溶酶体PI(3,5)P(2)不足驱动神经退行性病变。",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Phosphatidylinositol 3,5-bisphosphate [PI(3,5)P(2)] is a lysosomal signaling lipid whose deficiency, caused by mutations in the PIKfyve complex subunits Fig. 4 or VAC14, underlies a spectrum of fatal neurologic diseases including Charcot-Marie-Tooth type 4 J (CMT4J) and amyotrophic lateral sclerosis (ALS). To map the molecular consequences of PI(3,5)P(2) insufficiency in the brain, we performed quantitative proteomic and transcriptomic analyses of three mouse lines bearing distinct loss-of-function mutations in Fig. 4 or Vac14, examining the brain at the presymptomatic and end stages. Strikingly, profound neuroinflammation was already present at postnatal day 5 (before significant neurodegeneration), characterized by complement activation, interferon signaling, and parenchymal infiltration of peripheral myeloid cells and T-cells. Isolated mutant microglia exhibited a markedly pro-oxidative transcriptional state with elevated reactive oxygen species, a partly non-cell-autonomous phenotype, being present in microglia from mice with conditional Fig. 4 inactivation in just neurons and astrocytes. Comparison of early (P5) and late (P25) proteomics data revealed that PI(3,5)P(2) insufficiency impairs developmental remodeling of the brain proteome: proteins typically upregulated during postnatal maturation failed to accumulate, implicating lysosomal function in neurodevelopment. We identify coordinated elevation of p53, Fas receptor, inflammatory caspases, Gasdermin D, RIPK1, and ZBP1, consistent with multifactorial inflammatory cell death with features of apoptosis, pyroptosis, and necroptosis. Many of the dysregulated proteins are encoded by genes mutated in lysosomal storage disorders, ALS, CMT, Alzheimer's and Parkinson diseases, extending the pathogenic relevance of PI(3,5)P(2) insufficiency. Together, these findings establish that early neuroinflammation is a defining - and likely initiating - feature of neurodegeneration caused by disruption of lysosomal PI(3,5)P(2).",
+    "date": "2026 Jun 3",
+    "pmid": "42242586",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42242586/"
+  },
+  {
+    "title_en": "Targeting alpha-Synuclein Aggregation in Parkinson's Disease: A Narrative Review of Current Gene Therapy Strategies.",
+    "title_zh": "靶向α-突触核蛋白聚集治疗帕金森病：当前基因治疗策略的综述",
+    "journal": "Current neuropharmacology",
+    "impact_factor": 5.3,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the accumulation of misfolded alpha-synuclein (alpha-syn) aggregates, leading to dopaminergic neuronal loss and motor dysfunction. Current pharmacological treatments primarily provide symptomatic relief and have a limited impact on disease progression. This article presents a narrative review of emerging gene therapy approaches aimed at modulating alpha-syn expression, aggregation, and clearance as potential disease-modifying strategies for PD. Gene-based interventions include viral vector-mediated gene delivery, antisense oligonucleotides, RNA interference, and gene-editing technologies. Preclinical studies and early-phase clinical trials suggest that these approaches may reduce alpha-syn burden, improve motor outcomes, and support dopaminergic neuron preservation. Adeno-associated viral and lentiviral vectors have demonstrated promise for targeted central nervous system delivery, although challenges related to dosage optimization, regional specificity, long-term safety, and immune responses remain. Complementary strategies focusing on enhancing molecular chaperone activity and activating autophagy-lysosomal pathways have also shown potential in facilitating alpha-syn clearance. Despite encouraging progress, several limitations hinder clinical translation, including off-target effects, immune activation, and the need to preserve physiological alpha-syn functions essential for neuronal homeostasis. Future success will depend on precise molecular targeting, optimized delivery platforms, and rigorous safety evaluation through well-designed clinical trials. This narrative review summarizes current advances, key limitations, and future directions in alpha-syn-targeted gene therapy, highlighting its potential role in advancing PD treatment beyond symptomatic management toward disease modification.",
+    "date": "2026 Jun 8",
+    "pmid": "42261162",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42261162/"
+  },
+  {
+    "title_en": "Optical mapping reveals a higher level of large-scale structural variants in a family with paternally transmitted myotonic dystrophy and independent Parkinson's disease.",
+    "title_zh": "光学图谱揭示父系遗传性强直性肌营养不良合并独立帕金森病家族中存在更高水平的大规模结构变异。",
+    "journal": "The Journal of pathology",
+    "impact_factor": 5.2,
+    "abstract": "Myotonic dystrophy type 1 (DM1) is a clinically challenging multisystem neuromuscular hereditary disorder, with generational increase in severity and earlier age at onset. It is caused by an unstable cytosine-thymine-guanine repeat expansion at the DMPK locus, accompanied by associated genetic and epigenetic modifications. While somatic mosaicism and meiotic instability are well established, to the best of our knowledge, no study has performed a genome-wide interrogation for global inherited instability. Performing whole-genome optical mapping, with sequence base-resolved structural variant verification, we examine global inherited genomic instability in an atypical paternally transmitted DM1 family presenting with a range of neurological manifestations, including early-onset Parkinson's disease (PD). While the juvenile-onset DM1 proband presented with a 10-fold repeat expansion with associated hypermethylation, her partially hypermethylated asymptomatic protomutation father transmitted a 1.8-fold contracted allele in the younger premutation sibling. Adult-onset symptomatic DM1 and PD phenotypic paternal aunts showed significant genome-wide copy number alteration, including PD-associated chr19 aneuploidy loss, with additional losses on chr16, 17, and 22. In the absence of potentially pathogenic de novo or maternally inherited structural variants, the proband presented with large paternally inherited aberrations impacting gene candidates CASC15, CBFA2T3, GPHN, H3F3A, SDK1, and SPAG16, with advanced global hypomethylation. Here we suggest that inherited genomic instability may contribute to phenotypic variability, including multi-neurological presentations and single-generation repeat expansion or contraction. By providing a landscape of inherited large structural variants, this single-family study expands knowledge of this broad and growing class of diseases. (c) 2026 The Author(s). The Journal of Pathology published by John Wiley & Sons Ltd on behalf of The Pathological Society of Great Britain and Ireland.",
+    "date": "2026 Jun 9",
+    "pmid": "42261605",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42261605/"
+  },
+  {
+    "title_en": "AS-IV attenuates nigral NLRP3 inflammasome in a Parkinson's disease mouse model via gut microbiota.",
+    "title_zh": "AS-IV通过肠道微生物减轻帕金森病小鼠模型黑质NLRP3炎症小体。",
+    "journal": "Communications biology",
+    "impact_factor": 5.1,
+    "abstract": "Astragaloside IV (AS-IV) neuroprotection against rotenone (ROT)-induced Parkinson's pathology was examined via microbiota-gut-brain axis mechanisms. Methods included intraperitoneal AS-IV, fecal microbiota transplantation (FMT) from AS-IV-treated mice, and AS-IV-modulated microbiota transplantation. Substantia nigra dopaminergic neurons/microglia were evaluated by confocal imaging, while NLRP3, caspase-1, IL-1beta, and alpha-synuclein (alpha-syn) levels were quantified via Western blot. Gut microbiota (16S rRNA sequencing) and striatal metabolites (LC-MS/MS) were analyzed. AS-IV attenuated ROT-induced motor deficits, dopaminergic neuron loss, alpha-syn overexpression, and NLRP3/caspase-1 activation, while elevating fecal SCFAs and increasing Bacteroidetes/Porphyromonadaceae with reduced Firmicutes. FMT from AS-IV-treated to ROT mice improved motor function, suppressed TH(+) neuron loss, and inhibited microglial/NLRP3 activation. AS-IV-modulated microbiota transplantation upregulated Bacteroidetes, Porphyromonadaceae, Barnesiella, and downregulated Firmicutes, Lactobacillaceae, Lactobacillus, and Desulfovibrio. Crucially, FMT from AS-IV-treated to naive mice alleviated ROT-induced damage, whereas ROT microbiota transplantation induced rotations and decreased Bacteroidetes, Actinobacteria, Porphyromonadaceae, Sutterellaceae, and Parasutterella. AS-IV reversed these microbial changes. Genus-level microbiota alterations correlated with motor severity. ROT microbiota reduced 5-HIAA, indole-3-carboxaldehyde, thyroxine, and glutathione; AS-IV restored indole-3-carboxaldehyde and thyroxine. AS-IV exerts neuroprotection by suppressing NLRP3 inflammasome activation via gut microbiota remodeling and metabolic regulation through the microbiota-gut-brain axis.",
+    "date": "2026 Jun 6",
+    "pmid": "42251131",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251131/"
+  },
+  {
+    "title_en": "A case of monotherapy with intracerebroventricular anaerobic dopamine allows complete control of Parkinson's disease symptoms.",
+    "title_zh": "单药脑室内多巴胺无氧输注实现帕金森病症状完全控制一例",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Plain language summaryContinuous intracerebroventricular administration of anaerobic dopamine represents a potential new device-aided therapy option for Parkinson's disease with L-dopa-related complications. A-dopamine is administered via a telemetry-controlled subcutaneous abdominal pump connected to a catheter implanted in the ventricle, near the striatum. We present the case of one patient with A-dopamine as monotherapy.Continuous intracerebroventricular administration of anaerobic dopamine (A-dopamine) represents a potential new device-aided therapy option for Parkinson's disease in the stage of severe L-dopa-related complications. A-dopamine is administered via a telemetry-controlled subcutaneous abdominal pump connected to a catheter implanted in the ventricle, near the striatum. We previously demonstrated its value as an add-on therapy in a Phase I/II trial, which showed a 4.4-hour increase in the duration of perfect control without \"off\" episodes or dyskinesia, and a 6.2-hour increase in the duration of good autonomy, compared to the best oral treatment with a 60% reduction in oral L-dopa. We present here the case of one such patient who benefited from long-term administration of A-dopamine as monotherapy, as the sole treatment. A dose of 240 mg of A-dopamine during the day and 40 mg at night allowed for complete control of motor symptoms without any dyskinesia, painful dystonia, fluctuations, or mental agitation, and without any oral medication. Monotherapy with A-dopamine produced greater benefits than those of adjunctive therapy added to optimized oral treatment. It is interesting to note that A-dopamine and L-dopa had a different clinical effect, since no dyskinesia or psychic excitation was observed with A-dopamine, unlike with L-dopa.",
+    "date": "2026 Jun 5",
+    "pmid": "42249265",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42249265/"
+  }
+]
