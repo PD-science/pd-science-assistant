@@ -70,6 +70,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42378264/"
   },
   {
+    "title_en": "Reply to \"Methodological Challenges in Interpreting SAA-Defined Imaging Subgroups in Parkinson's Disease\".",
+    "title_zh": "Reply to \"Methodological Challenges in Interpreting SAA-Defined Imaging Subgroups in Parkinson's Disease\".",
+    "journal": "Annals of neurology",
+    "impact_factor": 7.7,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 29",
+    "pmid": "42370778",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370778/"
+  },
+  {
+    "title_en": "Methodological Challenges in Interpreting SAA-Defined Imaging Subgroups in Parkinson's Disease.",
+    "title_zh": "Methodological Challenges in Interpreting SAA-Defined Imaging Subgroups in Parkinson's Disease.",
+    "journal": "Annals of neurology",
+    "impact_factor": 7.7,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 29",
+    "pmid": "42370752",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370752/"
+  },
+  {
     "title_en": "Putamen Structural-Functional Decoupling as an Early-Stage Candidate Imaging Marker for Motor Severity in Spinocerebellar Ataxia Type 3.",
     "title_zh": "Putamen Structural-Functional Decoupling as an Early-Stage Candidate Imaging Marker for Motor Severity in Spinocerebellar Ataxia Type 3.",
     "journal": "Movement disorders : official journal of the Movement Disorder Society",
@@ -128,5 +148,15 @@
     "date": "2026 Jun 30",
     "pmid": "42374032",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42374032/"
+  },
+  {
+    "title_en": "Focused ultrasound-mediated blood-brain barrier opening enhances delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model.",
+    "title_zh": "Focused ultrasound-mediated blood-brain barrier opening enhances delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model.",
+    "journal": "International journal of pharmaceutics: X",
+    "impact_factor": 5.2,
+    "abstract": "The blood-brain barrier (BBB) severely restricts the delivery of neuroprotective compounds to the brain, limiting therapeutic strategies for Parkinson's disease (PD). Ginsenoside Rg3, a bioactive component of ginseng, has demonstrated neuroprotective potential, but its efficacy is constrained by poor BBB permeability. Here, we evaluated focused ultrasound (FUS)-mediated BBB opening (FUS BBBO) to enhance delivery of Rg3-loaded nanoparticles in a rotenone-induced mouse model of PD. Localized FUS sonications were applied to induce transient BBB disruption, followed by intraperitoneal administration of FITC-labeled Rg3 nanoparticles. In vivo and Ex vivo fluorescence imaging confirmed a significant increase in brain accumulation of nanoparticles after FUS BBBO. While Rg3 nanoparticle treatment alone showed moderate increases in ATP levels and Complex I activity, FUS alone produced comparable trends with slightly higher recovery. The combination treatment with FUS-mediated BBBO demonstrated higher mean values (ATP: 0.27 +/- 0.06; Complex I: 1.98 +/- 0.41) compared to the PD group, along with improvements in motor performance. These findings suggest that FUS-BBBO may enhance the delivery of Rg3 nanoparticles to the brain and support mitochondrial function. Overall, the combination approach showed a trend toward improved outcomes; however, further studies are required to confirm these effects and establish therapeutic potential for solid statistical analysis.",
+    "date": "2026 Dec",
+    "pmid": "42370027",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370027/"
   }
 ]
