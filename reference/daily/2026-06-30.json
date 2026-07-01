@@ -1,5 +1,55 @@
 [
   {
+    "title_en": "Standardized protocol to detect phosphorylated alpha-synuclein in skin biopsies: recommendations from an expert panel.",
+    "title_zh": "Standardized protocol to detect phosphorylated alpha-synuclein in skin biopsies: recommendations from an expert panel.",
+    "journal": "Molecular neurodegeneration",
+    "impact_factor": 17.5,
+    "abstract": "BACKGROUND: Skin biopsy is a promising diagnostic tool for the in vivo identification of Parkinson's disease and other alpha-synucleinopathies. However, despite increasing adoption, methodological variability exists among different laboratories applying this technique. To move toward a formal standardized protocol, leading experts in the field convened for a meeting focused on discussing and harmonizing the main methodological differences. The outcome of this meeting was a consensus-based skin biopsy protocol, which is here presented. RESULTS: A formal expert opinion conference was held on November 15-16, 2024, at the IRCCS Institute of Neurological Sciences of Bologna (Italy). The consensus was reached by using a Question & Answer format following the PICO (Population, Intervention, Comparison, Outcome) methodology. An online Delphi survey was then performed based on the contrasting issues raised during the meeting. Unanimous consensus was reached on key elements, including the skin biopsy technique, choice of fixative, use of a cryostat, staining method for phosphorylated alpha-synuclein (p-alpha-syn), use of high-power fluorescence microscope, co-localization of p-alpha-syn with neuronal or glial markers, and high-magnification analysis. Additional agreement, achieved through the Delphi method, concerned specific procedural parameters such as the number of samples and section thickness, punch diameter, preferred biopsy sites in cases of asymmetric motor involvement, quantitative methods for assessing p-alpha-syn load, and use of p-alpha-syn as the optimal marker for identifying misfolded alpha-synuclein in the skin. Conclusions We have developed a consensus-based protocol for the detection of p-alpha-syn in skin samples from patients with suspected alpha-synucleinopathies, with the aim of promoting standardization, a broader adoption of the method, and its translation into clinical practice.",
+    "date": "2026 Jun 25",
+    "pmid": "42351184",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42351184/"
+  },
+  {
+    "title_en": "Divergent effects of pathological alpha-synuclein truncations and mutations on phase separation.",
+    "title_zh": "Divergent effects of pathological alpha-synuclein truncations and mutations on phase separation.",
+    "journal": "Nature communications",
+    "impact_factor": 15.7,
+    "abstract": "Phase separated condensates of alpha-synuclein (alpha-Syn) accelerate amyloid fibril formation, a process implicated in Parkinson's disease pathogenesis. Yet, the precise effects of pathologically relevant alpha-Syn sequence modifications on this process remain unclear. Here, we show that sequence truncations exert the strongest influence on condensate thermodynamics, material properties, and amyloid aggregation, whereas familial point mutations impart minimal effects. Among the tested familial variants (A30P, H50Q, G51D and A53T), only G51D forms condensates that show a reduced propensity for amyloid fibril formation. Truncated variants undergo rapid gelation and form amyloid fibrils almost immediately. Extending our study to multicomponent systems where alpha-Syn is a client, we show that alpha-Syn can dissolve DNA-peptide coacervates or assemble into Pickering clusters on condensate surfaces-regulating condensate fusion and nucleic acid partitioning. These functions depend on the acidic C-terminal domain of alpha-Syn. Together, our results show disease-relevant modifications can modulate alpha-Syn phase behavior, both in pathological and physiological contexts.",
+    "date": "2026 Jun 25",
+    "pmid": "42350393",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42350393/"
+  },
+  {
+    "title_en": "Robust and sensitive ELISA detection of total and activated PRKN.",
+    "title_zh": "Robust and sensitive ELISA detection of total and activated PRKN.",
+    "journal": "Autophagy",
+    "impact_factor": 14.3,
+    "abstract": "Parkinson disease (PD) is closely linked to disruptions in mitochondrial quality control, a process regulated by the ubiquitin kinase PINK1 and the E3 ubiquitin ligase PRKN/parkin. Upon mitochondrial damage, PINK1 phosphorylates ubiquitin, which in turn recruits and activates PRKN. Full activation of PRKN is mediated by PINK1-dependent phosphorylation of PRKN at serine 65, which leads to widespread ubiquitination of mitochondrial substrates and amplifies the mitophagy response. Disruption of this pathway results in mitochondrial accumulation, oxidative stress, and neuronal death, all key mechanisms of PD pathogenesis. Genetic studies have shown biallelic loss-of-function mutations in PRKN are the most common cause of early-onset PD. Although the role of haploinsufficiency remains under investigation, PRKN protein becomes insoluble and inactive with aging or post-translational modifications, indicating that functional protein levels are a key determinant of disease risk. Reliable quantification of total and activated PRKN in samples has not been feasible, limiting research and clinical assessment. To address this, we developed and validated knockout (KO)-verified sandwich ELISA assays that quantify both total PRKN and PINK1-phosphorylated p-S65-PRKN. These assays provide absolute quantification of PRKN, improving functional diagnosis, and patient stratification in PD. Application of these methods established the concentration of PRKN in cells and in brain and revealed significant effects of a common genetic PRKN variant, further highlighting the importance of determining functional PRKN protein levels. The developed immunoassays complement previously established PINK1 and p-S65-Ub measurements, enhancing mechanistic insight into mitophagy and enabling effective monitoring of PD therapies and other neurodegenerative diseases.",
+    "date": "2026 Jun 24",
+    "pmid": "42343639",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42343639/"
+  },
+  {
+    "title_en": "Toll-like receptor signaling in Parkinson's disease: Focusing on TLR2 and TLR4 as therapeutic targets for natural compounds.",
+    "title_zh": "Toll-like receptor signaling in Parkinson's disease: Focusing on TLR2 and TLR4 as therapeutic targets for natural compounds.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by dopaminergic neuronal loss and the accumulation of alpha-synuclein-containing Lewy bodies. Growing evidence indicates that neuroinflammation, particularly through the activation of Toll-like receptors (TLRs), contributes significantly to PD pathogenesis. TLRs, particularly TLR2 and TLR4, detect endogenous damage-associated molecular patterns such as misfolded alpha-synuclein. This recognition initiates signaling pathways that drive microglial activation, pro-inflammatory cytokine release, and oxidative stress, ultimately leading to neuronal injury. This review synthesizes current insights into TLR involvement in PD, highlighting their roles in linking innate and adaptive immune responses, regulating neuroinflammatory cascades, and mediating interactions across the gut-brain axis. Furthermore, we examine the therapeutic potential of plant-derived bioactive compounds-including flavonoids, terpenoids, polyphenols, alkaloids, and lignans-as natural TLR modulators. These phytochemicals have demonstrated neuroprotective effects in preclinical studies by attenuating TLR-mediated inflammatory responses, reducing oxidative stress, and improving motor and cognitive outcomes. Challenges such as target specificity, bioavailability, and translational applicability are also discussed, along with future directions for advancing TLR-focused phytochemical therapies. This review provides a theoretical and mechanistic framework supporting natural TLR modulators as promising disease-modifying strategies in PD.",
+    "date": "2026 Jun 25",
+    "pmid": "42349723",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42349723/"
+  },
+  {
+    "title_en": "Deep Learning Assisted Heteroporous Covalent Organic Framework Hydrogels Enable Dual-Mode Tracking and Analysis to Parkinson's Management.",
+    "title_zh": "Deep Learning Assisted Heteroporous Covalent Organic Framework Hydrogels Enable Dual-Mode Tracking and Analysis to Parkinson's Management.",
+    "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+    "impact_factor": 12.1,
+    "abstract": "Resting tremor and dopamine dysregulation are closely linked in the pathophysiology of Parkinson's disease (PD), yet detecting their subtle early manifestations remains highly challenging. Herein, a wearable hydrogel (Gel@COF), designed for the concurrent monitoring of dopamine levels and resting tremor to enable early PD detection and intervention, is reported. The Gel@COF is fabricated by encapsulating a covalent organic framework (COF-101) functionalized with phenylboronic acid within a self-crosslinked hydrogel. Notably, the COF-101 features a unique fractal and heteroporous structure. The fractal morphology provides abundant dopamine recognition sites via the grafted phenylboronic acid, while the heteroporous structure significantly enhances proton conductivity. Thus, Gel@COF achieves high sensitivity at 1% strain and delivers a fast response/recovery time of 16.0 ms. Furthermore, the unique topological structure of COF-101 endows Gel@COF with visual fluorescence changes. After integrating a convolutional neural network algorithm with Gel@COF, its evaluation and prediction accuracy for PD was rapidly improved to over 95%. This dual-functional wearable gel offers patients real-time and convenient rehabilitation monitoring, demonstrating significant potential for translational applications.",
+    "date": "2026 Jun 26",
+    "pmid": "42360202",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42360202/"
+  },
+  {
     "title_en": "Subacute Exposure to Macrocyclic Lactone Insecticides Induces Parkinson's Disease-like Motor Deficits and Neuropathology in Mice.",
     "title_zh": "Subacute Exposure to Macrocyclic Lactone Insecticides Induces Parkinson's Disease-like Motor Deficits and Neuropathology in Mice.",
     "journal": "Environmental science & technology",
@@ -10,6 +60,176 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42372192/"
   },
   {
+    "title_en": "Sensory decline in aging and neurodegeneration: A mitochondrial perspective.",
+    "title_zh": "Sensory decline in aging and neurodegeneration: A mitochondrial perspective.",
+    "journal": "Pharmacological research",
+    "impact_factor": 10.5,
+    "abstract": "Sensory organs (touch, sight, hearing, smell, and taste) are the primary way humans perceive the environment. Accordingly, sensory decline deleteriously affects patients' quality of life, and it is often associated with a worse prognosis of related pathologies. This decline has been broadly described in aging and in the main aging-related neurodegenerative disorders, even though it is often understudied and considered a minor symptom. The molecular pathways that drive aging-associated sensory decline are broad and diverse; however, mitochondrial dysfunction has been described at the intersection of many of these mechanisms. Mitochondria have robust mechanisms to maintain their homeostasis. These mechanisms include, for example, the unfolded protein response, the antioxidant systems, and mitophagy. During aging, these mechanisms are dysregulated, which contributes to the dysfunction of the organelle. For example, increased reactive oxygen species generation and mitochondrial DNA mutations are present in cells and tissues, the dysregulation of which is crucial for the onset of sensory decline. In this bibliographical review, we systematically and comprehensively discuss the most significant and recent findings in the field. The studies we describe here suggest that targeting mitochondrial dysfunction could be a valid, innovative, and promising pharmacological target against sensory decline in aging and aging-related neurodegenerative disorders. Moreover, targeting mitochondrial dysfunction might have positive effects on other symptoms of aging and associated pathologies, including Parkinson's and Alzheimer's Diseases. Further research in the field could significantly contribute to decreasing sensory decline, which could positively impact both lifespan and healthspan.",
+    "date": "2026 Jun 25",
+    "pmid": "42349673",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42349673/"
+  },
+  {
+    "title_en": "Csf1r-mediated depletion of myeloid cells prevents dopaminergic neuron loss during chronic colitis.",
+    "title_zh": "Csf1r-mediated depletion of myeloid cells prevents dopaminergic neuron loss during chronic colitis.",
+    "journal": "Journal of neuroinflammation",
+    "impact_factor": 10.1,
+    "abstract": "Inflammatory bowel disease (IBD) predisposes to neuropsychiatric comorbidity and increases the risk of Parkinson's Disease (PD). Although the gut-immune-brain axis was proposed as a link between IBD and PD and a driver of PD immunopathogenesis, the regional pattern and single-cell landscape of the brain immune response during colitis and its contribution to PD pathology remain poorly defined. Here, we observe a loss of dopaminergic neurons and synuclein pathology in the substantia nigra pars compacta of adult mice with chronic colitis. By confocal microscopy and integrated multi-omics, we reveal a complex midbrain-specific immune response to chronic colitis. Single-cell mapping of the midbrain immune landscape showed an inflammatory shift of microglial clusters including an expansion of interferon-response microglia, CD8(+) T cell extravasation, and increased numbers of vessel-associated neutrophils. Selective myeloid cell depletion using a colony stimulating factor 1 receptor (Csf1r) inhibitor after colitis onset reduced midbrain microglia by 67% and led to a complete rescue of dopaminergic neuron loss, without affecting mucosal pathology or T cell and neutrophil migration to the midbrain. Collectively, within the complex midbrain immune response to chronic colitis, we demonstrate a causal role of Csf1r-dependent myeloid cells for dopaminergic neurodegeneration. Thus, Csf1r inhibition in IBD may not locally ameliorate colitis, but provide neuroprotection to dopaminergic neurons.These results reveal a novel cellular link between chronic gut-derived peripheral inflammation and midbrain vulnerability and thereby substantially enhance our understanding of the risk for PD related to the gut-immune-brain axis.",
+    "date": "2026 Jun 27",
+    "pmid": "42365367",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42365367/"
+  },
+  {
+    "title_en": "Antigen-specific adaptive immunity in Parkinson's disease: peripheral priming, brain-border reactivation and parenchymal injury.",
+    "title_zh": "Antigen-specific adaptive immunity in Parkinson's disease: peripheral priming, brain-border reactivation and parenchymal injury.",
+    "journal": "Journal of neuroinflammation",
+    "impact_factor": 10.1,
+    "abstract": "Adaptive immune signals in Parkinson's disease (PD) now extend beyond descriptive neuroinflammation. Human genetic studies have implicated HLA variation, peripheral assays have detected alpha-synuclein- and PINK1-reactive T cells, neuropathology has identified early nigral CD8 + T-cell accumulation, and PD-relevant models have linked alpha-synuclein or mitochondrial antigen presentation to defined T-cell programs. This Review first places these findings in the modifying context of aging and then examines two antigen-specific routes across peripheral T-cell priming, central nervous system (CNS)-border reactivation or retention, and parenchymal effector injury. The alpha-synuclein/HLA-II/CD4 + T-cell route has the clearest support from human T-cell reactivity and border-associated macrophage (BAM)-dependent antigen presentation. The mitochondrial antigen/MHC-I/CD8 + T-cell route is strongest in PINK1-Parkin dysfunction and inflammatory settings, including CD8 + T-cell-mediated killing of Pink1 - / - dopaminergic neurons after mitochondrial antigen presentation. Trafficking mechanisms drawn from experimental autoimmune encephalomyelitis (EAE), multiple sclerosis (MS), viral encephalitis and cerebral malaria provide useful candidate pathways for PD studies, especially for post-vascular retention and glia-limitans passage. We also consider viral antigens as potential contributors to resident-memory-like CD8 + T-cell pools in the brain and discuss why PD models should be selected according to antigen axis, T-cell subset and immune context.",
+    "date": "2026 Jun 26",
+    "pmid": "42351163",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42351163/"
+  },
+  {
+    "title_en": "Flexible and Self-Powered Wearable Sensors for Tremor Monitoring in Parkinson'S Disease: Recent Advances in Materials and Device Architectures.",
+    "title_zh": "Flexible and Self-Powered Wearable Sensors for Tremor Monitoring in Parkinson'S Disease: Recent Advances in Materials and Device Architectures.",
+    "journal": "Advanced healthcare materials",
+    "impact_factor": 9.6,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder where tremor remains one of the most prominent and disabling motor symptoms. Traditional clinical rating scales for disease severity rely on clinician observation and patient self-report, often failing to capture the dynamic and continuous nature of tremors in daily life. This drives the development of objective monitoring technologies, such as wearable sensors, for more accurate evaluation of PD severity. However, many existing systems use rigid materials that lack the mechanical compliance and skin conformability required for stable biointegration. This review summarizes advances in flexible wearable sensors for PD tremor assessment from material innovations to a device engineering perspective, covering inertial measurement units (IMUs), electromyography (EMG), and emerging self-powered systems such as triboelectric (TENG) and piezoelectric nanogenerators (PENG). This review highlightshow functional materials, microstructural design, and device architectures govern sensing mechanisms and performance, with particular emphasis on the transition from rigid components to soft, skin-interfaced technologies. Recent patent activity reflects a shift toward multimodal, wireless, and clinically integrated platforms. Despite progress, challenges remain, including motion artifacts, durability, and limited large-scale clinical validation. Integration of flexible materials, self-powered designs, and AI-driven analytics enables continuous, personalized monitoring, moving closer to real-world clinical deployment and improved patient care.",
+    "date": "2026 Jun 26",
+    "pmid": "42359556",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42359556/"
+  },
+  {
+    "title_en": "Alpha-Synuclein Seed Amplification Assay in CSF, Skin, and Submandibular Gland From Incidental Lewy Body Disease and Parkinson Disease.",
+    "title_zh": "Alpha-Synuclein Seed Amplification Assay in CSF, Skin, and Submandibular Gland From Incidental Lewy Body Disease and Parkinson Disease.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: Using RT-QuIC seeding assays determine the presence of pathogenic alpha-synuclein (aSyn) aggregates in the submandibular gland (SMG), skin, and CSF from autopsy-confirmed cases of incidental Lewy body disease (ILBD), Parkinson disease (PD), and controls. METHODS: Submandibular gland, skin, and CSF samples from autopsied cases in the Arizona Study of Aging and Neurodegenerative Disorders (AZSAND) were assayed using RT-QuIC methods. Correlations with the Unified Staging System for Lewy Body Disorders (USSLB) was performed. RESULTS: A total of 19 controls, 40 ILBD, and 15 PD cases were studied. While aSyn seeding assays were positive in all 3 tissues from ILBD cases, the sensitivity was much lower in the SMG (13/37, 35.1%) and skin (6/16, 37.5%) than in CSF (25/33, 75.8%). In PD sensitivity was good in all tissues: SMG (7/8, 87.5%), skin (7/8, 87.5%), and CSF (10/10, 100%), as was specificity in CSF (9/12, 75%), skin (8/9, 88.9%), and SMG (7/9, 77.8%). USSLB stage correlated with aSyn SAA positivity in all 3 tissues with CSF most sensitive to stages I and II (IIa and IIb) cases. In the 20 cases that had all 3 tissues tested only 2 were positive in the SMG but not CSF and one in skin but not CSF. There were 6 ILBD cases that had positive CSF but not SMG or skin, and one of these ILBD cases was USSLB stage I (olfactory bulb only). DISCUSSION: In this small study of autopsy-confirmed ILBD, aSyn seeding assays had moderately high sensitivity (75.8%) in the CSF but not in skin or SMG. In PD, the skin, SMG, and CSF showed high sensitivity, with specificity being similar in all tissues, although sample sizes were small. These results, although preliminary, suggest that detecting aSyn using seeding assays of CSF, but not the skin or SMG, may be valuable for identifying individuals with prodromal Lewy body disease. This is especially true for ILBD cases that often had Lewy bodies in the olfactory bulb only (USSLB Stage I) or in brainstem regions (Stage IIa), suggesting that detecting these cases may require CSF and not biopsies of the skin or SMG.",
+    "date": "2026 Jul 28",
+    "pmid": "42348807",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42348807/"
+  },
+  {
+    "title_en": "Multi-strategy investigation identifies amentoflavone as a novel D3R antagonist for Parkinson's disease treatment.",
+    "title_zh": "Multi-strategy investigation identifies amentoflavone as a novel D3R antagonist for Parkinson's disease treatment.",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "impact_factor": 8.3,
+    "abstract": "BACKGROUND: Parkinson's disease (PD) still lacks therapies that can simultaneously improve symptoms and slow neurodegenerative progression, making the screening of natural products with well‑defined mechanisms of action a promising strategy. The biflavonoid amentoflavone (AMF), which is present in plants including Ginkgo biloba L., has been shown to exert neuroprotective effects in PD models. However, its direct protein target remains unidentified. PURPOSE: This study aimed to investigate the anti‑parkinsonian activity of AMF and to elucidate its potential direct target and molecular mechanisms. METHODS: A multidisciplinary integrated strategy was employed. The protective effects of AMF on motor function and dopaminergic neurons were evaluated in MPTP-induced zebrafish and mouse models of PD. Potential target identification and signaling pathway analysis were performed by integrating multi-source target prediction, machine-learning-based reverse virtual screening, and transcriptomic analysis of the substantia nigra (SN) from AMF-treated mice. Compound-target interactions were validated using molecular docking, molecular dynamics simulations, and biophysical techniques including cellular thermal shift assay (CETSA), solvent-induced precipitation (SIP), and fluorescence correlation spectroscopy (FCS). Furthermore, immunofluorescence staining was conducted on mouse substantia nigra brain sections, signaling pathway validation was carried out at the cellular level, and siRNA interference was employed for in vitro target validation. RESULTS: AMF significantly improved motor deficits, alleviated neuroinflammation, and protected dopaminergic neurons in the substantia nigra in both zebrafish (100, 200, and 400 microM) and mouse models (15, 30, and 60 mg/kg, i.p.). Integrated machine‑learning screening and transcriptomic correlation analysis identified the dopamine D3 receptor (D3R) as a key target of AMF, with the model showing excellent classification performance (Voting Classifier AUC: 0.99). Molecular docking and dynamics simulations revealed that AMF stably binds to the orthosteric pocket of D3R. CETSA, SIP, and FCS experiments confirmed the stable binding and specific antagonistic activity of AMF toward D3R, with Asp110 and Tyr373 identified as critical binding residues. Furthermore, transcriptomic analysis combined with GO and KEGG enrichment suggested that beyond direct D3R antagonism, AMF may exert synergistic neuroprotective effects by targeting the PI3K/Akt signaling axis. Critically, D3R knockdown abolished the protective effects of AMF against MPP(+)-induced injury in vitro. CONCLUSIONS: This study systematically demonstrates for the first time that the natural biflavonoid AMF is a structurally novel D3R antagonist with anti‑parkinsonian potential. The work establishes and validates an integrated \"computational prediction - experimental verification\" framework for natural product target discovery, providing a new lead compound and a methodological paradigm for PD drug development.",
+    "date": "2026 Jun 23",
+    "pmid": "42365694",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42365694/"
+  },
+  {
+    "title_en": "Local and global microstructural and functional thalamomotor connectivity alterations in Parkinson's disease following motor learning.",
+    "title_zh": "Local and global microstructural and functional thalamomotor connectivity alterations in Parkinson's disease following motor learning.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Diffusion tensor imaging (DTI) is a sensitive method for detecting white-matter alterations in Parkinson's disease (PD) and is increasingly used to capture short-term learning-induced plasticity. However, evidence for such effects in PD remains limited. In this pilot study, 32 levodopa-treated patients were randomized to a three-week digital intervention or placebo app, examining motor learning neuroplasticity. The active intervention involved a digital spatial navigation protocol combining egocentric and allocentric strategies with multisensory-deprivation principles, alongside psychological and rehabilitation modules. Neuroimaging demonstrated increased fractional anisotropy in the right ventrolateral posterior (VLp) thalamus and strengthened functional connectivity between the VLp and precentral gyrus (PreCG), both preliminary associated with improvements in motor performance. Graph-theory analysis indicated increased local efficiency in PreCG and adjacent motor networks, suggesting enhanced structural integration. Collectively, these findings raise the possibility of region-specific short-term plasticity in PD, and support DTI's sensitivity to detect clinically meaningful training-related white-matter adaptations beyond the effects of dopaminergic therapy. Replication in larger, adequately powered samples is needed to confirm these findings.",
+    "date": "2026 Jun 26",
+    "pmid": "42362590",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42362590/"
+  },
+  {
+    "title_en": "A comprehensive assessment of lifecourse and mortality of Parkinson's disease in the German National Cohort.",
+    "title_zh": "A comprehensive assessment of lifecourse and mortality of Parkinson's disease in the German National Cohort.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "A strong increase in the prevalence and deaths of Parkinson's disease (PD) has been reported over the last three decades. Ageing societies, genetic and environmental factors and access to health care contribute to these increases. Using data of the German National Cohort (NAKO) PD classifications based on self-report, claims data and a brief medication based algorithm to increase validity in the absence of neurologic examinations, were compared and the PD incidence, selected non-motor symptoms, functions and vital status were analysed. The algorithm based PD prevalence among 205.000 participants was 0.13% but it was 2.5-fold higher in claims data. Self-reported PD incidence was 0.13% over a median of 4.8 years follow-up, but cases had a 4-fold higher mortality, worse emotional, motoric and olfactory functions and higher prevalences of diabetes, obesity, depression and anxiety. The algorithm based PD prevalence and the mortality risk was similar to considerable older population studies from Europe.",
+    "date": "2026 Jun 26",
+    "pmid": "42362558",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42362558/"
+  },
+  {
+    "title_en": "Smartphone-derived digital motor measures to monitor progression in idiopathic REM sleep behavior disorder.",
+    "title_zh": "Smartphone-derived digital motor measures to monitor progression in idiopathic REM sleep behavior disorder.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Sensitive and scalable biomarkers are critical for tracking progression during the prodromal phase of Parkinson's disease, particularly in idiopathic REM sleep behavior disorder (iRBD). We evaluated the Roche PD Mobile Application version 2, a smartphone-based platform, in 51 individuals with polysomnography-confirmed iRBD, 89 patients with early Parkinson's disease, and 22 healthy controls over 12 months. Participants completed daily active tasks generating validated digital summary measures. Adherence was high (73%). Baseline digital bradykinesia scores discriminated between groups (p < 0.001) and were higher in phenoconverters versus non-converters (p = 0.003; Cohen's d = 1.10). Over 50 weeks, bradykinesia (Cohen's d = 0.50) and speech (Cohen's d = 0.79) scores worsened significantly. Sample size modeling showed that digital bradykinesia required 132 participants per arm to detect a 50% treatment effect, fewer than the best-performing clinical measure. These findings support digital bradykinesia as a sensitive endpoint for prodromal Parkinson's disease trials.",
+    "date": "2026 Jun 27",
+    "pmid": "42362553",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42362553/"
+  },
+  {
+    "title_en": "Overexpression of phosphorylated and truncated alpha-Synuclein does not trigger Parkinsonian readouts in A53T-SNCA mice.",
+    "title_zh": "Overexpression of phosphorylated and truncated alpha-Synuclein does not trigger Parkinsonian readouts in A53T-SNCA mice.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease is a multisystem disorder with a prodromal phase marked by non-motor symptoms such as olfactory dysfunction and REM sleep behavior disorder, which may precede classical motor features by several years. Accurately capturing this prodromal-to-motor progression remains a key challenge in preclinical models. This study investigated whether transgenic bacterial artificial chromosome mice expressing human A53T alpha-Synuclein recapitulate the progression from prodromal to motor stages of Parkinson's disease. Heterozygous A53T-SNCA mice (n = 20) and wild-type controls (n = 21) were longitudinally assessed over 24 months using behavioral, electrophysiological, and neuropathological approaches. EEG-EMG and local field potential recordings were used to evaluate sleep disturbances and neuronal activity, while olfactory and motor function were assessed using behavioral paradigms. A53T-SNCA mice showed transgene dose-dependent overexpression of alpha-Synuclein monomers with Serine129 phosphorylation and C-terminal truncation across olfactory bulb, striatum, and cortex. However, no higher-molecular-weight alpha-Synuclein species, indicative of aggregation, were detected. Furthermore, mice did not exhibit olfactory deficits, REM sleep abnormalities, motor impairments, or robust dopaminergic neurodegeneration. In summary, overexpression of modified alpha-Synuclein monomers was insufficient to drive fibrillar aggregation, neurodegeneration, or (non-) motor symptoms relevant to Parkinson's disease. These findings highlight key limitations of overexpression-based models and suggest that additional drivers are required to recapitulate the pathogenesis.",
+    "date": "2026 Jun 25",
+    "pmid": "42350418",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42350418/"
+  },
+  {
+    "title_en": "Morbidity, mortality, facility placement and cost of deep brain stimulation for Parkinson's disease.",
+    "title_zh": "Morbidity, mortality, facility placement and cost of deep brain stimulation for Parkinson's disease.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Deep brain stimulation (DBS) is an established therapy for advanced Parkinson's disease (PD), but its long-term social and clinical impact has not been well characterized in large cohorts. We conducted a retrospective cohort study using a nationwide hospital database across the United States. Among 79,845 adults hospitalized with PD in 2018 and followed through 2023, 482 underwent DBS implantation. Overlap propensity score weighting was used to balance baseline characteristics. Weighted logistic and gamma regression models estimated adjusted odds ratios (aORs) and cost ratios at 1, 3, and 5 years after discharge. DBS was associated with significantly lower risks of institutionalization at 1, 3, and 5 years (aORs 0.25-0.27) and lower mortality at 1 and 5 years (aORs 0.09 and 0.27). Total healthcare expenditures were also lower in the DBS group (cost ratios 0.68-0.73). Readmission rates were similar between groups but tended to decline over time among DBS recipients. Sensitivity analyses excluding patients with dementia and restricting to non-emergency admissions yielded consistent results. Although DBS implantations were concentrated in large, urban teaching hospitals, outcomes were comparable between teaching and non-teaching institutions. These findings suggest sustained clinical and economic benefits of DBS and highlight the importance of improving equitable access.",
+    "date": "2026 Jun 24",
+    "pmid": "42343079",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42343079/"
+  },
+  {
+    "title_en": "Exploring MAPT-containing H1 and H2 haplotypes in Parkinson's disease across diverse populations.",
+    "title_zh": "Exploring MAPT-containing H1 and H2 haplotypes in Parkinson's disease across diverse populations.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Variation at the 17q21.31 locus, which contains the gene encoding microtubule-associated protein tau (MAPT), has been associated with neurodegenerative disorders, including Parkinson's disease (PD). This highly complex locus is characterized by two broadly defined haplotypes: H1 and the inverted H2 haplotype. While H1 has been associated with an increased PD risk and is present in all ancestry populations, H2 is enriched in individuals of European ancestry. So far, few studies have explored the H1 association with PD in non-European ancestries. Here, we investigated the haplotype and subhaplotype frequencies of H1 and H2 in 20,507 PD patients and 11,841 controls across eleven different ancestry groups from the Global Parkinson's Genetics Program (GP2) and the Latin American Research consortium on the GEnetics of Parkinson's Disease (LARGE-PD). Our results strongly support the involvement of the H1 haplotype in PD risk in individuals of European ancestry, with additional evidence suggesting an association across diverse ancestry groups. Additionally, we observed significant variation in the H1 subhaplotype frequencies within populations, highlighting the complexity of this genomic region and the relevance of its study in diverse ancestries to gain a more comprehensive understanding of the role this locus plays in neurodegenerative disease risk.",
+    "date": "2026 Jun 24",
+    "pmid": "42342696",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42342696/"
+  },
+  {
+    "title_en": "Loss of PINK1 causes age-dependent mitochondrial trafficking deficits in nigrostriatal dopaminergic neurons via aberrant p38 MAPK activation.",
+    "title_zh": "Loss of PINK1 causes age-dependent mitochondrial trafficking deficits in nigrostriatal dopaminergic neurons via aberrant p38 MAPK activation.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Mutations in PTEN-induced putative kinase 1 (PINK1) cause early-onset, autosomal-recessive Parkinson's disease (PD). While previous studies have shown age-related declines in dopamine release and ATP levels in Pink1(-/-) mice, the mechanisms remain unclear. Using a novel TH-Mito-Dendra2 transgenic mouse model to label dopaminergic neuron mitochondria, we show that PINK1 loss leads to age-dependent defects in axonal mitochondrial trafficking in acute brain slices. These deficits are characterized by reduced anterograde transport and increased mitochondrial stalling. Pharmacological induction of reactive oxygen species (ROS) and calcium release impaired mitochondrial mobility. Consistent with this, Pink1 knockout mice exhibited elevated mitochondrial calcium, oxidation levels, and p38 MAPK hyperactivation. Treatment with a calcium channel blocker and p38 inhibitor SB202190 restored mitochondrial motility and increased anterograde transport. Together, our findings suggest that PINK1 loss disrupts mitochondrial trafficking by disturbing calcium and redox homeostasis via the p38 pathway, contributing to PD pathogenesis.",
+    "date": "2026 Jun 24",
+    "pmid": "42342694",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42342694/"
+  },
+  {
+    "title_en": "Modulation and subcortical sleep signatures in Parkinson's disease under chronic STN-DBS using synchronized sensing and videopolysomnography.",
+    "title_zh": "Modulation and subcortical sleep signatures in Parkinson's disease under chronic STN-DBS using synchronized sensing and videopolysomnography.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Deep brain stimulation (DBS) of the subthalamic nucleus (STN) influences the sleep-wake cycle, yet in vivo evidence remains limited. We conducted a longitudinal, multimodal study in 38 patients with Parkinson's disease undergoing STN-DBS, integrating full-night video-polysomnography with synchronized subthalamic local field potentials (LFPs) 6 months post-surgery. Twenty patients completed pre/post video-polysomnography (19 with LFPs data). Slow-wave sleep increased after DBS, with no change of efficiency and fragmentation indices. Mean heart rate decreased in wake and sleep. REM-related motor events within REM sleep Behavior Disorder (RBD) declined, no change was seen in REM sleep without atonia (RSWA). LFPs showed delta/theta-band increase from wake to NREM and marked beta suppression in N2-N3. Arousals exhibited alpha/beta-band elevation. During REM, RSWA featured higher alpha/beta/gamma with lower delta versus atonic REM; RBD episodes further increased theta/beta/gamma and total power. These measures identify promising subcortical signatures of sleep and REM motor phenomena, informing sleep-aware adaptive DBS.",
+    "date": "2026 Jun 24",
+    "pmid": "42342680",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42342680/"
+  },
+  {
+    "title_en": "Reply to \"Methodological Challenges in Interpreting SAA-Defined Imaging Subgroups in Parkinson's Disease\".",
+    "title_zh": "Reply to \"Methodological Challenges in Interpreting SAA-Defined Imaging Subgroups in Parkinson's Disease\".",
+    "journal": "Annals of neurology",
+    "impact_factor": 7.7,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 29",
+    "pmid": "42370778",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370778/"
+  },
+  {
+    "title_en": "Methodological Challenges in Interpreting SAA-Defined Imaging Subgroups in Parkinson's Disease.",
+    "title_zh": "Methodological Challenges in Interpreting SAA-Defined Imaging Subgroups in Parkinson's Disease.",
+    "journal": "Annals of neurology",
+    "impact_factor": 7.7,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 29",
+    "pmid": "42370752",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370752/"
+  },
+  {
+    "title_en": "Fecal Microbiota Transplant in Parkinson's Disease: Insights into the Gut-Brain Axis and the Challenge of Sustained Response.",
+    "title_zh": "Fecal Microbiota Transplant in Parkinson's Disease: Insights into the Gut-Brain Axis and the Challenge of Sustained Response.",
+    "journal": "Annals of neurology",
+    "impact_factor": 7.7,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 25",
+    "pmid": "42347926",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42347926/"
+  },
+  {
     "title_en": "Recent Advances in Graphene and Its Derivatives for Electrochemical Sensing of Small Molecules: Turn the Page.",
     "title_zh": "Recent Advances in Graphene and Its Derivatives for Electrochemical Sensing of Small Molecules: Turn the Page.",
     "journal": "Chemical record (New York, N.Y.)",
@@ -18,5 +238,155 @@
     "date": "2026 Jun 29",
     "pmid": "42372021",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42372021/"
+  },
+  {
+    "title_en": "Effects of SGLT2 inhibitor dapagliflozin on the heart of rats with long-standing Type 1 diabetes mellitus: Protein profile.",
+    "title_zh": "Effects of SGLT2 inhibitor dapagliflozin on the heart of rats with long-standing Type 1 diabetes mellitus: Protein profile.",
+    "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "impact_factor": 7.5,
+    "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors have beneficial outcomes on the renal and cardiovascular system in diabetes mellitus (DM) patients. As most clinical trials were performed in Type 2 DM, the effects of SGLT2 inhibition in Type 1 DM are not completely clarified. OBJECTIVE: To evaluate the effects of long-standing SGLT2 inhibitor dapagliflozin on the protein profile in rats with a Type 1 DM model. METHODS: Male Wistar rats were divided into Control (C), DM, and DM treated with dapagliflozin (DM+DAPA) for 30 weeks. DM was induced by a single injection of streptozotocin (40 mg/kg); dapagliflozin was added to chow (5 mg/kg/day). Label-free mass spectrometry was used to assess left ventricular proteome. The bioinformatic tools used were STRING, Cytoscape, Cluster Marker, and ClueGO. STATISTICAL ANALYSIS: ANOVA and Tukey or Kruskal-Wallis and Dunn. RESULTS: Dapagliflozin attenuated body weight loss (C 574 +/- 43; DM 339 +/- 31*; DM+DAPA 413 +/- 30*# g; p < 0.05 * vs C; # vs DM) and reduced glycemia [C 108 (101-111); DM 554 (529-562)*; DM + DAPA 343 (237-416)*# mg/dL; p < 0.05 * vs C; # vs DM]. Most proteins identified in the networks downregulated in DM vs C were upregulated in DM + DAPA vs DM. Proteins related to energy metabolism (CKm, Ak1, Atp5pf, Mdh1, Idh2), excitation-contraction coupling (Actc1, Casq2, Serca1, Serca2a), and oxidative stress (Sod1, Sod2) were upregulated in DM + DAPA. KEGG pathways enriched in DM vs Control included gap junction, necroptosis, and fatty acid degradation (upregulated), and Alzheimer's disease, cardiac contraction, and glycolysis/gluconeogenesis (downregulated). In DM + DAPA vs DM, upregulated pathways included Parkinson's disease, cardiac contraction, citrate cycle, necroptosis, and cyclic guanosine monophosphate-dependent protein kinase (PKG) signaling pathway; downregulated proteins were linked to ketone body metabolism. CONCLUSION: Dapagliflozin modulates cardiac protein abundance by attenuating DM-induced changes in Type 1 DM rats.",
+    "date": "2026 Jun 27",
+    "pmid": "42364425",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42364425/"
+  },
+  {
+    "title_en": "Novel treatments for Parkinson's disease.",
+    "title_zh": "Novel treatments for Parkinson's disease.",
+    "journal": "Chinese medical journal",
+    "impact_factor": 7.3,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder associated with a rapidly rising global disease burden and a substantial decline in patients' quality of life. Although currently approved therapies offer symptomatic relief, their clinical efficacy inevitably wanes over time. This review provides a comprehensive summary of recent advancements in both symptomatic treatments and experimental therapies focused on neuroprotection and disease modification. These novel treatments for PD include continuous dopaminergic stimulation, adaptive deep brain stimulation, transcranial temporal interference stimulation, anti-alpha-synuclein immunotherapies, oral anti-alpha-synuclein therapies, non-receptor tyrosine kinase inhibitors, glucagon-like peptide-1 (GLP-1) receptor agonists, iron chelators, fecal microbiota transplantation, glucosylceramide synthase inhibitors, as well as stem cell therapies and gene therapies. However, the majority of these novel treatments are still in the investigational phase and necessitate additional validation via randomized controlled trials. Future research should also focus on optimizing trial methodologies, including the timing of intervention, stratification of PD subjects, and selection of treatment endpoints.",
+    "date": "2026 Jun 26",
+    "pmid": "42366511",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42366511/"
+  },
+  {
+    "title_en": "A Point Cloud Transformer for Remote Monitoring and Automated Assessment of Physical Rehabilitation Exercises.",
+    "title_zh": "A Point Cloud Transformer for Remote Monitoring and Automated Assessment of Physical Rehabilitation Exercises.",
+    "journal": "IEEE journal of biomedical and health informatics",
+    "impact_factor": 6.8,
+    "abstract": "Rehabilitation exercises are essential in restoring lost physical functions of patients suffering from various diseases (e.g., Parkinson's, back pain). Carrying out these rehabilitation exercises, often prescribed by health experts, is costly, unavailable, and requires expert supervision. The availability of RGBD images and movement/position data of joints along with expert annotation of exercise data has prompted the use of automatic assessment of the quality of rehabilitation exercises, which is cost-effective and can be carried out at home. However, existing approaches do not extract relevant features, lack practical application, require expensive pre-processing, or overlook crucial features. This study proposes a transformer-based framework for point clouds to extract features and assess rehabilitation exercises by analyzing joint positions collected through RGBD data. We adapt and utilize a curve-based point-cloud feature aggregation technique to augment point-cloud information that aids model output. The transformer architecture also uses axial self-attention, recognizing important joints and their roles to assist users in performing the exercise better. The guided system outperforms existing approaches and is also practically relevant due to its small size, fast inference, and generalization on specific joints in similar exercises. We conduct our experiments on three crucial baseline datasets for rehabilitation exercises: Kimore, UI-PRMD, and IRDS.",
+    "date": "2026 Jun 24",
+    "pmid": "42340919",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42340919/"
+  },
+  {
+    "title_en": "Gait Analysis for Identifying Normal Cognition, Subjective Cognitive Decline, and Mild Cognitive Impairment in Parkinson Disease: Diagnostic Study.",
+    "title_zh": "Gait Analysis for Identifying Normal Cognition, Subjective Cognitive Decline, and Mild Cognitive Impairment in Parkinson Disease: Diagnostic Study.",
+    "journal": "JMIR mHealth and uHealth",
+    "impact_factor": 6.2,
+    "abstract": "BACKGROUND: Patients with Parkinson disease (PD) along with subjective cognitive decline (PD-SCD) are considered an intermediate status between those with normal cognition (PD-NC) and those with mild cognitive impairment (PD-MCI). Wearable digital monitoring technologies and machine learning models offer significant potential for assessing cognitive impairment in patients with PD. OBJECTIVE: We aimed to evaluate the utility of wearable technology and machine learning for identifying ordinal cognitive stages (OCS) in PD based on timed up and go (TUG) tests (including single-task TUG [TUGst] and dual-task TUG [TUGdt]). METHODS: Patients with PD along with SCD, MCI, and NC were recruited in a movement disorder clinic. Patients performed TUGst and TUGdt gait trials wearing a motor function and motor symptom quantitative assessment system. In total, 209 kinematic parameters were synthesized for individual TUG to illustrate patients' motion profiles. We constructed dual-task cost parameters (DTC), describing the magnitude of the effect of the cognitive challenge on motion performance. Covariate-adjusted ordered logistic regression was used to compare parameter differences among 3 groups. Multiple machine learning models were used to classify the participants into 3 cognitive impairment levels, with features being selected based on P values from intergroup statistical tests. The total population was randomly divided into a training set and an independent validation set in a 7:3 ratio, and 10-fold cross-validation was used in the training set. Furthermore, this study used permutation importance and Shapley Additive Explanations (SHAP) analysis (including summary plots, bar plots, and waterfall plots) to explain the feature importance of the final model. RESULTS: The study included 65 age-matched patients (PD-NC: PD-SCD: PD-MCI= 14:21:30). Forty-five kinematic parameters were significantly different (P<.05) among the 3 groups, distributed across TUGst (n=25), TUGdt (n=12), and DTC (n=8) paradigms. Gait phase analysis revealed 35 parameters from walking phases, 9 from stand-to-sit transitions, and 1 from sit-to-stand transitions. Feature type distribution demonstrated predominance of variability features (n=20), followed by pace (n=12) and axial (n=8) characteristics. TUGdt paradigm analysis revealed pronounced movement differences between PD-MCI and both PD-NC and PD-SCD groups, particularly in variability, amplitude, pace, and axial domains. Cross-paradigm analysis identified consistent significant differences in specific features. These findings provide objective kinematic biomarkers for early cognitive state identification in Parkinson disease, with TUGdt parameters demonstrating superior discriminative capacity. CONCLUSIONS: This suggests patients with PD-SCD could have early kinetic signs of cognitive impairment, positioning them between PD-NC and PD-MCI, and our multiclass support vector machine classification model with kinematic parameters achieved a recall rate above 0.70 in both training and validation datasets. The feature importance analysis revealed that DTC_Trunk-Right Rotation Max, DTC_Trunk-Max Transverse Angular Velocity, and dTUG_Lumbar-Right Sway Max Std were the most critical features for distinguishing cognitive states, providing scientific evidence for cognitive function screening based on kinematic parameters.",
+    "date": "2026 Jun 24",
+    "pmid": "42341295",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42341295/"
+  },
+  {
+    "title_en": "Interpretable machine learning for Parkinson's disease diagnosis, staging, and biological mechanism exploration: a multicenter analysis.",
+    "title_zh": "Interpretable machine learning for Parkinson's disease diagnosis, staging, and biological mechanism exploration: a multicenter analysis.",
+    "journal": "BioData mining",
+    "impact_factor": 6.1,
+    "abstract": "OBJECTIVE: To develop and validate an interpretable machine learning model based on multicenter T1-weighted MRI radiomics data for the three-way classification of Parkinson's disease (PD)-Normal (NM), early-stage, and mid-late-stage-and to clarify the diagnostic value of key cortical nuclear features, with further elucidation of the molecular basis through proteomic association analysis. METHODS: A total of 200 patients from multiple centers were included and divided into a training set (n = 76), an internal validation set (n = 33), and an external validation set (n = 91). Six core nuclei, including the caudate nucleus (CN), putamen (PUT), globus pallidus (GP), red nucleus (RN), substantia nigra (SN), and nucleus accumbens (NAc), were segmented using the DKT template. A total of 107 radiomics features were extracted per nucleus. After a three-step dimension reduction (variance thresholding, univariate selection, and multi-class LASSO), key features were identified. Five machine learning models were constructed. Model performance was evaluated using micro/macro-AUC and accuracy (ACC). SHAP analysis was employed to reveal the contribution of specific features to the diagnostic process. Additionally, proteomic analysis was performed on a subset of patients from Center 1 to screen for differentially expressed proteins among groups, and correlation analysis between DEPs and key radiomic features was conducted to explore biological mechanisms. RESULTS: Nine key features were finally selected, predominantly consisting of gray-level non-uniformity within the PUT. The GBT model performed optimally, with macro-AUC/micro-AUC of 0.890/0.902 in the internal validation set and 0.876/0.869 in the external validation set, respectively. SHAP analysis indicated that the NM group primarily relied on texture features of the PUT and NAc; early-stage PD was characterized by structural changes in the GP and PUT; and mid-late-stage PD was correlated with features from the SN and RN. Proteomic analysis identified 514 DEPs between early PD and controls (411 upregulated, 103 downregulated), which were enriched in cytoskeletal and immune pathways (FDR < 0.05), and 123 DEPs between mid-to-late and early PD (26 upregulated, 97 downregulated), which were enriched in proteasome and neurodegeneration pathways (FDR < 0.05). Multiple significant correlations between key radiomic features and DEPs were identified (all FDR-corrected P < 0.01), including original_gldm_DependenceNonUniformity_PUT with HGFAC (r = 0.510), original_ngtdm_Contrast_GP with PLAT (r = 0.453), and original_glrlm_RunEntropy_GP_QSM with both ASPN (r = 0.62) and TFPI (r = - 0.58). CONCLUSION: Interpretable machine learning models based on multicenter T1-weighted nuclear radiomics features can accurately diagnose and stage PD. Integration of radiomics and proteomics enhances model interpretability by linking imaging features to underlying biological mechanisms, providing an objective imaging basis for clinical practice and exhibiting strong generalizability and potential for clinical translation.",
+    "date": "2026 Jun 26",
+    "pmid": "42363244",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42363244/"
+  },
+  {
+    "title_en": "Adaptations of the limbic system and corpus callosum white matter in early-stage PD with RBD.",
+    "title_zh": "Adaptations of the limbic system and corpus callosum white matter in early-stage PD with RBD.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "The white matter pathology in Parkinson's disease with REM sleep behavior disorder (PD-RBD) and its link to sleep disturbances remain poorly understood. In this study, advanced diffusion MRI techniques, including diffusion kurtosis imaging (DKI) and neurite orientation dispersion and density imaging (NODDI), were used to characterize microstructural integrity within the corpus callosum and key limbic white matter tracts in PD-RBD patients. The results revealed that DKI metrics, specifically reduced fractional anisotropy (FA) and mean kurtosis (MK) in the corpus callosum and cingulate, distinguished PD-RBD patients from patients without RBD, although these measurements appeared normal relative to those of healthy controls. Furthermore, reduced FA in the cingulate significantly correlated with higher Epworth Sleepiness Scale (ESS) scores. Thus, the white matter adaptations observed in the corpus callosum and cingulate in patients with early PD-RBD reflect a compensatory process, with changes in these regions serving as potential neuroimaging markers of early disease progression.",
+    "date": "2026 Jun 26",
+    "pmid": "42361863",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42361863/"
+  },
+  {
+    "title_en": "Corrigendum to \"Bioenergetic And Protein Processing Imbalances in iPSC-Dopamine Neurons from Individuals with Idiopathic Parkinson's Disease\" [Neurobiology of Disease 218 (2026) Epub/107222].",
+    "title_zh": "Corrigendum to \"Bioenergetic And Protein Processing Imbalances in iPSC-Dopamine Neurons from Individuals with Idiopathic Parkinson's Disease\" [Neurobiology of Disease 218 (2026) Epub/107222].",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 25",
+    "pmid": "42350259",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42350259/"
+  },
+  {
+    "title_en": "Effects of pimavanserin, xanomeline and highly-purified plant-derived cannabidiol on MK-801-induced behaviours in mice relevant to psychosis.",
+    "title_zh": "Effects of pimavanserin, xanomeline and highly-purified plant-derived cannabidiol on MK-801-induced behaviours in mice relevant to psychosis.",
+    "journal": "Journal of psychopharmacology (Oxford, England)",
+    "impact_factor": 5.5,
+    "abstract": "BACKGROUND: Psychosis, as a comorbidity, is seen in many neuropsychiatric and neurodegenerative disorders and is often treated with dopamine D(2) receptor (D(2)R) antagonists, which could aggravate Alzheimer's disease and Parkinson's disease (PD) symptoms. Hence, there is a need for new treatments with a non-D(2)R antagonist-related mechanism of action. Recently approved drugs for psychosis in PD, including pimavanserin (PIM), and for schizophrenia, xanomeline-trospium, offer advances since they lack D(2)R antagonism but both carry associated risks. The highly-purified, plant-derived form of cannabidiol (hpCBD; Epidiolex((R))) has a different safety profile, does not inhibit D(2)R and has demonstrated antipsychotic effects in patients with psychosis. AIMS: To systematically assess the potential antipsychotic-like effects of hpCBD, alongside newer non-D(2) antagonist drugs approved for PD psychosis (PIM) and schizophrenia psychosis (xanomeline oxalate (XAN)) in the same set of standardised preclinical assays. METHODS: MK-801-induced hyperlocomotion and pre-pulse inhibition (PPI) deficits in male C57BL/6J mice were assessed following PIM (0.1, 0.3, 1 mg/kg s.c.), XAN (1, 3, 10 mg/kg s.c.) or hpCBD (50, 100, 200 mg/kg i.p.) administration. Locomotor activity was measured by infrared photobeams and Laboratory Animal Behaviour Observation Registration and Analysis System, and PPI was measured in acoustic startle chambers using a variable pre-pulse intensity protocol. RESULTS: PIM, XAN (all doses) and hpCBD (200 mg/kg) attenuated MK-801 hyperlocomotion (p < 0.01). PPI deficits, at various pre-pulse intensities, were attenuated by PIM (all doses), XAN 10 mg/kg and hpCBD 200 mg/kg (p < 0.05). CONCLUSION: These results suggest that hpCBD, like PIM and XAN, demonstrates putative antipsychotic-like activity in classic mouse assays relevant to psychosis, consistent with positive clinical data in patients with psychosis.",
+    "date": "2026 Jun 25",
+    "pmid": "42345506",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42345506/"
+  },
+  {
+    "title_en": "A new paradigm in Parkinson's disease: kidney-origin alpha-synuclein pathology driven by PKC signaling and aurothioglucose.",
+    "title_zh": "A new paradigm in Parkinson's disease: kidney-origin alpha-synuclein pathology driven by PKC signaling and aurothioglucose.",
+    "journal": "Inflammopharmacology",
+    "impact_factor": 5.3,
+    "abstract": "Protein Kinase C (PKC), a zinc-dependent signaling enzyme essential for cellular homeostasis, has recently emerged as a critical regulator of alpha-synuclein (alpha-Syn) dynamics beyond the central nervous system. Growing evidence suggests that PKC may contribute to alpha-Syn accumulation in kidney cells through multiple converging mechanisms, including direct phosphorylation of alpha-Syn, which promotes its aggregation, disruption of the autophagy-lysosome pathway leading to impaired protein clearance, and amplification of oxidative stress and inflammatory responses that enhance alpha-Syn toxicity. In a paradigm-shifting discovery, recent findings from Wuhan University indicate that Parkinson's disease (PD) pathology may originate in peripheral organs such as the kidneys rather than the brain. Abnormal alpha-Syn aggregates have been identified in renal tissues of affected individuals, and experimental models demonstrate that compromised kidney function facilitates the systemic spread of these toxic proteins to the brain, potentially initiating neurodegeneration. Notably, alpha-Syn accumulation has also been observed in patients with chronic kidney disease in the absence of neurological symptoms, suggesting a potential early reservoir function of the kidneys. In this context, aurothioglucose (ATG), a gold-based anti-inflammatory agent, emerges as a promising therapeutic candidate due to its ability to modulate PKC signaling, attenuate inflammation, and restore proteostatic balance. This review highlights a novel kidney-brain axis in PD pathogenesis and proposes PKC-targeted interventions, including ATG, as potential strategies for early disease modification.",
+    "date": "2026 Jun 27",
+    "pmid": "42365211",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42365211/"
+  },
+  {
+    "title_en": "Focused ultrasound-mediated blood-brain barrier opening enhances delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model.",
+    "title_zh": "Focused ultrasound-mediated blood-brain barrier opening enhances delivery of Rg3 ginseng nanoparticles in a Parkinson's disease mouse model.",
+    "journal": "International journal of pharmaceutics: X",
+    "impact_factor": 5.2,
+    "abstract": "The blood-brain barrier (BBB) severely restricts the delivery of neuroprotective compounds to the brain, limiting therapeutic strategies for Parkinson's disease (PD). Ginsenoside Rg3, a bioactive component of ginseng, has demonstrated neuroprotective potential, but its efficacy is constrained by poor BBB permeability. Here, we evaluated focused ultrasound (FUS)-mediated BBB opening (FUS BBBO) to enhance delivery of Rg3-loaded nanoparticles in a rotenone-induced mouse model of PD. Localized FUS sonications were applied to induce transient BBB disruption, followed by intraperitoneal administration of FITC-labeled Rg3 nanoparticles. In vivo and Ex vivo fluorescence imaging confirmed a significant increase in brain accumulation of nanoparticles after FUS BBBO. While Rg3 nanoparticle treatment alone showed moderate increases in ATP levels and Complex I activity, FUS alone produced comparable trends with slightly higher recovery. The combination treatment with FUS-mediated BBBO demonstrated higher mean values (ATP: 0.27 +/- 0.06; Complex I: 1.98 +/- 0.41) compared to the PD group, along with improvements in motor performance. These findings suggest that FUS-BBBO may enhance the delivery of Rg3 nanoparticles to the brain and support mitochondrial function. Overall, the combination approach showed a trend toward improved outcomes; however, further studies are required to confirm these effects and establish therapeutic potential for solid statistical analysis.",
+    "date": "2026 Dec",
+    "pmid": "42370027",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42370027/"
+  },
+  {
+    "title_en": "Galpha(o/z)-biased coupling profile of the dopamine D3 receptor.",
+    "title_zh": "Galpha(o/z)-biased coupling profile of the dopamine D3 receptor.",
+    "journal": "Communications biology",
+    "impact_factor": 5.1,
+    "abstract": "Dopamine receptors are G protein coupled receptors (GPCRs) that serve as key targets for FDA-approved drugs to treat various neuropsychiatric disorders. Notably, ~11% of all marketed GPCR-targeting drugs act on dopamine receptors. Five GPCRs mediate the effects of endogenous dopamine and compounds used to treat Parkinson's disease, schizophrenia, and other conditions. However, on-target side effects associated with these medications highlight the need to analyze dopamine receptor signaling to design safer, more effective therapeutics. Here, we characterize the G protein coupling of dopamine D2-like receptors and observe the striking inability of D3R to engage with Galpha(i) proteins while effectively activating Galpha(o/z) subtypes. Applying orthogonal cell-based assays with wild-type G proteins in parental and DeltaGalpha(i/o/z) cells, we conclusively establish that D3R does not activate Galpha(i) proteins. Further analysis of Galpha(i2):Galpha(oA) and D2R:D3R chimeras reveals that this selective inability is driven by molecular determinants located within the alpha5 helix of Galpha(i) and ICL2 of D3R. Guided by cryo-EM structures, we model the interface between these regions to clarify the structural basis of selectivity. Finally, treating hippocampal neurons in acute slices with selective agonists and antagonists reveals marked differences in their regulation of endogenous adenylyl cyclase and cAMP, underscoring the neurophysiological significance of our findings.",
+    "date": "2026 Jun 29",
+    "pmid": "42366275",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42366275/"
+  },
+  {
+    "title_en": "Mortality rate, main causes of death and factors associated with higher mortality hazard in late stage Parkinson's disease.",
+    "title_zh": "Mortality rate, main causes of death and factors associated with higher mortality hazard in late stage Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundA cohort of 107 patients in late stage Parkinson's disease (PD) was followed for a decade.ObjectiveTo assess mortality rate, main causes of death and factors associated with higher mortality hazard.MethodsLate stage PD was defined as Hoehn and Yahr IV-V in \"on\" or </= 50% independency in activities of daily living (ADL). Medical records and mortality records were used to obtain data on mortality.ResultsAfter three years from baseline, 52 (54%) of the participants were alive, after five years 30 (31%) and after seven years 14 (15%). The most common main cause of death was aspiration pneumonia (34%), followed by sepsis (16%), unspecified pneumonia (13%), ileus (5%) and Covid-19 (5%). Baseline variables significantly associated with higher mortality hazard were worse ADL independency (P < 0.001), worse Hoehn and Yahr stage (P < 0.001), worse motor function (P < 0.001), worse cognition (P < 0.001) higher age (P = 0.005), worse perceptual problems/hallucinations (P = 0.020) and having moved to a nursing home (P = 0.021). In a multivariable model, worse motor function (P = 0.001), worse depressive symptoms (P = 0.023) and worse cognition (P = 0.042).ConclusionsThe present end-of-life data provide enhanced knowledge on factors associated with higher mortality hazard in late stage PD. As aspiration pneumonia is the most common cause of death in PD worldwide and swallowing difficulties with the risk of aspiration are common in late stage PD, enhanced focus on prevention and treatment is essential. This may contribute to a better understanding of and care for late stage PD.",
+    "date": "2026 Jun 26",
+    "pmid": "42359890",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42359890/"
+  },
+  {
+    "title_en": "Abnormal motor control effort costs in Parkinson's disease patients with apathy.",
+    "title_zh": "Abnormal motor control effort costs in Parkinson's disease patients with apathy.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundIn Parkinson's disease, abnormalities in reward-effort trade-offs are thought to underlie both apathy and bradykinesia. However, it remains unclear whether effort cost computations contribute to these symptoms independently of reward, and which exact effort costs are involved.ObjectiveTo assess whether effort-based decision-making in the absence of any explicit rewards differs between Parkinson patients and healthy controls and to explore whether putative differences are related to apathy or bradykinesia.MethodsTo address this, we developed a novel decision-making task that isolated physical effort costs from reward processing. Twenty-one Parkinson patients tested on and off dopaminergic medication, and 20 healthy participants, had to choose between two options that differed only in their requirements of force effort, either requiring larger total amounts of force or greater changes in force. We quantified participants' preference for these different effort types and their sensitivity to changes in relative effort.ResultsPatients differed from healthy participants in both overall effort preference (P = 0.009) and sensitivity to changing efforts (P = 0.036), being more likely to choose options requiring overall lower force levels and more influenced by increasing requirements of changes in force. These effects were unaffected by dopaminergic medication. Importantly, sensitivity to increasing requirements for changes in force was associated with apathy (P = 0.004), but not bradykinesia.ConclusionOur findings suggest that, beyond well-known diminished responses to potential rewards, apathy in Parkinson's disease is related to aberrant effort cost computations, in particular those involving dynamic changes in movement, during decision-making.",
+    "date": "2026 Jun 26",
+    "pmid": "42359824",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42359824/"
+  },
+  {
+    "title_en": "Deficits in episodic memory and executive functions in relation to CB1 receptor availability in Parkinson's disease.",
+    "title_zh": "Deficits in episodic memory and executive functions in relation to CB1 receptor availability in Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundThe endocannabinoid system (ECS) is important for several neurophysiological functions, including the regulation of emotions and cognitive processes. The most abundant brain cannabinoid receptor is cannabinoid receptor type 1 (CB1R). Several preclinical studies in Parkinson's disease (PD) models suggest that modulating CB1R may impact cognitive processing. However, there are very limited studies of the relation between CB1R and cognitive processing in PD patients.ObjectiveTo explore the relationship between CB1R availability and cognitive dysfunction in PD with [18F]FMPEP-d2 positron emission tomography (PET).MethodsA total of 23 individuals with PD underwent [18F]FMPEP-d2 PET to measure cerebral CB1R availability. Cognitive symptoms were evaluated using a standardized neuropsychological test battery covering various cognitive domains, such as episodic and working memory, executive functioning, language function, visuospatial function and attention, and were correlated with CB1R availability using voxel-wise regression analysis corrected for multiple comparisons using false discovery rate (FDR) at p < 0.01.ResultsPD patients with poorer performance in episodic memory tests showed lower CB1R availability, particularly in the cingulate, temporal, and visual cortices, and thalami. Also, PD patients with poorer executive functioning showed lower CB1R availability predominantly in the insulae, caudate nuclei, thalami, brainstem, and temporal cortices. No relationship was found between CB1R availability and language function, visuospatial function, or working memory capacity.ConclusionsDecreased CB1R availability in PD patients is correlated with episodic memory impairment and executive dysfunction, suggesting that the ECS has a role in the pathophysiology of cognitive symptoms in PD.",
+    "date": "2026 Jun 25",
+    "pmid": "42351388",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42351388/"
+  },
+  {
+    "title_en": "Rationale and current status of fecal microbiota transplantations for Parkinson's disease.",
+    "title_zh": "Rationale and current status of fecal microbiota transplantations for Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Treating a neurological disorder through the gut may seem counterintuitive, yet multiple lines of evidence highlight the gut's important role in Parkinson's disease (PD). Prodromal gastrointestinal symptoms, the presence of aggregated alpha-synuclein in enteric neurons, increased intestinal inflammation, and impaired epithelial barrier integrity all point to gut-level involvement in PD pathophysiology. The gut microbiome, markedly altered in individuals with PD, may be a key driver of these changes. Fecal microbiota transplantation (FMT) is currently the most effective strategy for achieving broad and durable modifications of gut microbiota composition. However, FMT is a complex, multi-step procedure requiring stringent methodological control. Modulating gut bacteria has demonstrated therapeutic potential in preclinical models of PD, and recent clinical trials have begun evaluating FMT in patients, although outcomes have been variable. In this review, we examine potential explanations for these divergent results, with a particular focus on methodological differences across trials. We also outline future directions for optimizing FMT study design in PD and discuss how these insights may guide the development of next-generation microbiota-targeted therapies.",
+    "date": "2026 Jun 24",
+    "pmid": "42343653",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42343653/"
   }
 ]
