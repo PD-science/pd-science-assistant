@@ -1,0 +1,142 @@
+[
+  {
+    "title_en": "Blood-based circular RNAs for early diagnosis of Alzheimer's disease.",
+    "title_zh": "Blood-based circular RNAs for early diagnosis of Alzheimer's disease.",
+    "journal": "Nature medicine",
+    "impact_factor": 50.0,
+    "abstract": "Detection of Alzheimer's disease (AD) before the development of clinical symptoms is critical for enabling the use of new treatments. Circular RNAs (circRNAs) are highly stable non-coding RNAs enriched in the brain that can cross the blood-brain barrier. Here, analyzing blood data from 1,221 individuals with AD and healthy individuals, we identified 34 circRNAs associated with AD status. A predictive model including these 34 circRNAs was comparable to plasma phosphorylated Tau-217 (pTau217) in classifying AD based on biomarker-confirmed (amyloid-beta and Tau) status and replicated in independent samples from the Knight-Alzheimer Disease Research Center (n = 551: 76 AD, 475 cognitively unimpaired) and preclinical A4 (n = 1,767) cohorts. Classification of biomarker-confirmed status by blood circRNAs (area under the curve (AUC) = 0.945) had a higher predictive ability than plasma pTau217 (AUC = 0.877) and was further improved in the integrated model (circRNA+pTau217 AUC = 0.977). This model showed high AD specificity with low predictive power for Parkinson's disease, frontotemporal dementia, and other neurodegenerative diseases. In the Knight-Alzheimer Disease Research Center discovery cohort, these circRNAs (hazard ratio = 2.92) outperformed pTau217 (hazard ratio = 1.81) and amyloid-positron emission tomography when predicting progression to symptomatic AD. Although prospective validation in larger cohorts is needed, these results propose blood circRNAs as potential biomarkers for AD diagnosis and disease progression.",
+    "date": "2026 Jul 1",
+    "pmid": "42387213",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42387213/"
+  },
+  {
+    "title_en": "Variations of global brain asymmetry are associated with aging and related diseases.",
+    "title_zh": "Variations of global brain asymmetry are associated with aging and related diseases.",
+    "journal": "Science advances",
+    "impact_factor": 12.5,
+    "abstract": "Lateralization is a hallmark of brain organization, yet the structural basis underlying this phenomenon remains a critical, unresolved question in cognitive and systems neuroscience. In this study, we applied multivariate machine learning techniques to investigate variations of global brain asymmetry and their associations with cognitive functions, aging, and aging-related diseases, using large-scale datasets. Our findings revealed substantial and previously unknown structural differences between the hemispheres, and established key associations between structural asymmetries and lateralized functions. At the population level, we identified unique aging trajectories of hemispheric differences and uncovered diagnosis-specific variations in patients with Alzheimer's and Parkinson's disease, and in APOE epsilon4 carriers at genetic risk. Notably, we identified a \"left hemi-aging\" pattern that challenges the conventional \"right hemi-aging\" model. Together, these results advance our understanding of functional lateralization in the human brain and highlight the potential of global brain asymmetry as a biomarker for brain aging and related diseases.",
+    "date": "2026 Jul 3",
+    "pmid": "42384796",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42384796/"
+  },
+  {
+    "title_en": "Amylin at the crossroads of type 2 diabetes and neurodegenerative diseases.",
+    "title_zh": "Amylin at the crossroads of type 2 diabetes and neurodegenerative diseases.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Type 2 diabetes (T2D) is traditionally viewed as a metabolic disease centered on insulin resistance and beta-cell failure. However, growing evidence supports its reclassification as a systemic proteinopathy, in which the aggregation of amylin (islet amyloid polypeptide, IAPP) emerges as a key pathogenic event. In this review, we examine the shift toward an IAPP-centric model of disease, highlighting how IAPP misfolding and aggregation drive beta-cell dysfunction independently of, and in parallel with, metabolic stress. We integrate recent advances in the structural biology of IAPP to provide a mechanistic framework for its cytotoxicity. IAPP aggregation disrupts cellular homeostasis through membrane damage, proteostasis imbalance, mitochondrial dysfunction, oxidative and ER stress, and inflammation, ultimately leading to progressive beta-cell loss. Beyond the pancreas, we position IAPP as a molecular bridge between peripheral metabolic stress and neurodegeneration. Through prion-like cross-seeding, IAPP interacts with Abeta, tau, alpha-synuclein, and PrP, linking T2D as a major risk factor for neurodegenerative disorders such as Alzheimer's and Parkinson's diseases. We review emerging therapeutic strategies, including long-acting non-fibrillating analogues that suppress endogenous secretion, cross-amyloid inhibitors, conformation-specific immunotherapies, and synthetic chaperones. Finally, we discuss structure-based and AI-driven diffusion models as tools to design binders that selectively mask the amyloidogenic core while preserving the homeostatic function of IAPP. Given the projected magnitude of T2D, targeting the IAPP-neurodegeneration axis through early detection and midlife intervention is essential to mitigating the impending socioeconomic impact of combined metabolic and cognitive decline.",
+    "date": "2026 Jul 1",
+    "pmid": "42386071",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386071/"
+  },
+  {
+    "title_en": "A genome-wide screen identifies that PLCG2 restrains lysosomal GCase activity.",
+    "title_zh": "A genome-wide screen identifies that PLCG2 restrains lysosomal GCase activity.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "Mutations in the GBA1 gene, which encodes the lysosomal glucocerebrosidase enzyme GCase, cause the lysosomal storage disorder Gaucher disease and represent the most common genetic risk factor for Parkinson's disease (PD). These mutations deplete lysosomal GCase activity and cause accumulation of GCase substrate, glucosylceramide, and its pathological metabolite, glucosylsphingosine. Impaired GCase activity then drives immune and neuronal dysfunction in Gaucher disease and promotes pathogenic aggregation of alpha-Synuclein in PD. As such, boosting the lysosomal activity of GCase is a therapeutic strategy to ameliorate substrate accumulation and prevent associated neurotoxicity. To identify the regulators of GCase activity in lysosomes, we conducted a genome-wide screen in primary mouse macrophages using a fluorescent enzyme activity reporter. By validating the screen hits in cellular biochemical and profiling assays, we identified pathways that promote or inhibit lysosomal GCase activity. Our screen identified PLCG2 as a regulator of lysosomal GCase activity. Mechanistically, PLCG2 depletion accumulates Golgi-associated phosphatidylinositols, promoting the transport of mutant GCase into lysosomes while reducing its Golgi-associated pool. Functionally, PLCG2 depletion boosts the activity of lysosomal mutant GCase, the cellular flux of glucosylceramide, and the clearance of pathogenic GCase substrates. In summary, our screen has uncovered the regulators of GCase abundance and trafficking at a whole-genome scale and identified potential pathways for future therapeutic interventions in Gaucher and Parkinson's to boost the activity of this enzyme in lysosomes.",
+    "date": "2026 Jul 7",
+    "pmid": "42384678",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42384678/"
+  },
+  {
+    "title_en": "A Brain-Targeted DNA Delivery Nanocarrier Modulator for Synergistic Therapy of Parkinson's Disease.",
+    "title_zh": "A Brain-Targeted DNA Delivery Nanocarrier Modulator for Synergistic Therapy of Parkinson's Disease.",
+    "journal": "ACS applied materials & interfaces",
+    "impact_factor": 8.2,
+    "abstract": "The pathological characteristics of Parkinson's Disease (PD) are multifactorial, encompassing the aggregation of alpha-synuclein, mitochondrial dysfunction, and oxidative stress, necessitating the adoption of multitarget therapeutic strategies. In this study, a borneol-modified carboxymethyl chitosan nanoparticle system (BC/P/HCR NPs) was developed, aiming to codeliver curcumin, rosmarinic acid, and plasmid DNA (pDNA) targeting the SNCA gene for synergistic therapeutic intervention in PD. Borneol is capable of enhancing the permeability of the blood-brain barrier (BBB), while carboxymethyl chitosan contributes to improving the solubility of curcumin and preventing premature drug release. In a C57BL/6 mouse model of PD, BC/P/HCR NPs demonstrated enhanced penetration through the BBB, effectively alleviating motor dysfunction and reducing neuronal damage by downregulating the expression of alpha-synuclein, restoring mitochondrial function, and mitigating oxidative stress. These findings underscore the potential of BC/P/HCR NPs as a multifunctional nanotherapeutic platform for addressing the complex pathological features of PD.",
+    "date": "2026 Jul 2",
+    "pmid": "42390437",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42390437/"
+  },
+  {
+    "title_en": "Lewy pathology largely absent in prefrontal cortices of Parkinson's disease patients undergoing deep brain stimulation.",
+    "title_zh": "Lewy pathology largely absent in prefrontal cortices of Parkinson's disease patients undergoing deep brain stimulation.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) patients undergo deep brain stimulation (DBS) when other treatments are insufficient. Given the patients' advanced clinical stage, an advanced neuropathological stage is assumed. We examined Lewy pathology in prefrontal cortices (PFCs) of DBS recipients. Virtually no Lewy pathology was seen in PD biopsies. In contrast, postmortem PD PFC samples showed significantly greater Lewy pathology than controls. Thus, DBS patients may be less neuropathologically advanced in progression than previously thought.",
+    "date": "2026 Jul 1",
+    "pmid": "42386762",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386762/"
+  },
+  {
+    "title_en": "Multimodal neuroimaging elucidates the posterior-to-anterior gradient of nigrostriatal degeneration in Parkinson's disease.",
+    "title_zh": "Multimodal neuroimaging elucidates the posterior-to-anterior gradient of nigrostriatal degeneration in Parkinson's disease.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) exhibits a characteristic posterior-to-anterior gradient of striatal dopamine loss, yet the underlying upstream mechanisms remain unclear. We combined in vivo (1)(8)F-FPCIT dopamine transporter (DaT) PET/MRI, quantitative susceptibility mapping, and diffusion MRI tractography in 48 PD patients and 10 healthy controls to test whether substantia nigra pars compacta (SNc) iron and microstructural disruption mediate posterior putaminal vulnerability. PD patients showed marked posterior putamen (pPut) DaT reduction (~60%) and elevated SNc iron. SNc iron negatively correlated with striatal DaT availability, and nigrostriatal pathways to the pPut exhibited higher axial diffusivity. Serial mediation analyses demonstrated that SNc iron indirectly impaired striatal DaT function via reduced SNc DaT binding. Putaminal DaT-SBR robustly discriminated PD from controls (AUC 0.93-0.96), exceeding caudate performance. Transgenic and alpha-synuclein preformed fibril mouse models provided qualitative anatomical support. These findings identify SNc iron-related degeneration as a key driver of posterior striatal vulnerability in PD.",
+    "date": "2026 Jul 1",
+    "pmid": "42386749",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386749/"
+  },
+  {
+    "title_en": "Untargeted serum metabolomics and air pollution in Parkinson's disease.",
+    "title_zh": "Untargeted serum metabolomics and air pollution in Parkinson's disease.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Mechanisms linking air pollution to Parkinson's disease (PD) remain unclear despite consistent toxicological and epidemiological evidence. In this exploratory study, we investigated metabolic disturbances associated with air pollution in PD using untargeted metabolomics. Serum samples were collected from 616 PD patients and 271 controls in central California, a region with high air pollution. Exposures to particulate matter (PM(2.5)), carbon monoxide, and nitrogen dioxide were estimated for the 1-, 3-, and 5-year periods prior to serum collection using three modeling approaches: chemical transport, dispersion, and land use regression. We performed a metabolome-wide association study using liquid chromatography-high-resolution mass spectrometry (2716 HILIC and 2046 C18 features), followed by pathway enrichment analysis. We identified 101 annotated metabolites and 23 metabolic pathways associated with air pollution exposure, particularly PM(2.5) and traffic-related pollutants. Control profiles aligned with prior studies, and PD patients showed similar disruptions. Air pollution was associated with inflammation-related lipid metabolism (reduced arachidonate; elevated leukotriene), membrane phospholipid remodeling (reduced choline phosphate and LysoPC), amino acid metabolism (reduced aspartate and serine), and dopamine biosynthesis (reduced tyrosine) in PD patients. These findings suggest that air pollution may contribute to PD through inflammation, oxidative stress, and mitochondrial dysfunction.",
+    "date": "2026 Jul 1",
+    "pmid": "42386730",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386730/"
+  },
+  {
+    "title_en": "Cardiac sympathetic degeneration informs the duration of the prodromal stage of body-first Lewy body disease.",
+    "title_zh": "Cardiac sympathetic degeneration informs the duration of the prodromal stage of body-first Lewy body disease.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Body-first Lewy body disease (LBD) is hypothesized to begin in the peripheral autonomic nervous system years before nigrostriatal involvement. Isolated REM sleep behaviour disorder (iRBD) is considered an early manifestation of body-first LBD but is preceded by an unknown period of peripheral autonomic degeneration. Consequently, the total duration of the prodromal phase remains unknown. We used longitudinal imaging data to model the progression of cardiac sympathetic and nigrostriatal dopaminergic degeneration and employed the resulting curves to estimate the prodromal period of body-first LBD. Cardiac sympathetic trajectories were highly consistent across two cohorts, showing rapid early decline followed by gradual slowing, reaching 50% of the normal value after ~5 years and 25% after ~10 years. Dopaminergic decline was slightly slower, reaching 50% of the normal value after ~8 years and 25% after ~15 years. iRBD patients displayed severe baseline cardiac sympathetic loss (median 21.3% of normal), but mild baseline dopaminergic deficit (median 81.5% of normal), indicating that cardiac sympathetic degeneration may precede dopaminergic nigrostriatal involvement by 8.6 years. Based on baseline dopaminergic deficits in Parkinson's disease (PD), the combined model estimated that the prodromal phase of body-first LBD, from onset of cardiac sympathetic degeneration to predicted clinical PD diagnosis, exceeds 20 years.",
+    "date": "2026 Jul 2",
+    "pmid": "42386728",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386728/"
+  },
+  {
+    "title_en": "Peripheral Nervous System Involvement in Parkinson's Disease: Peripheral Neuropathy, Neuromuscular Junction Dysfunction, and Clinical Implications.",
+    "title_zh": "Peripheral Nervous System Involvement in Parkinson's Disease: Peripheral Neuropathy, Neuromuscular Junction Dysfunction, and Clinical Implications.",
+    "journal": "Neuroscience and biobehavioral reviews",
+    "impact_factor": 7.9,
+    "abstract": "Parkinson's disease (PD) has long been recognized as a central nervous system disorder, yet growing evidence indicates that the peripheral nervous system (PNS) plays a clinically relevant role in disease initiation, progression and heterogeneity. Peripheral sensory, autonomic, and motor pathways, including the neuromuscular junction (NMJ) and enteric circuits, show PD-associated structural and functional abnormalities that contribute to pain and symptoms, orthostatic and visceral dysfunction, gait instability, weakness, and reduced neuromuscular restoration. This review provides a conceptually integrated synthesis of PNS involvement in PD. To clarify how peripheral pathology relates to central neurodegeneration, we use a three-concept framework that distinguishes causal, parallel, and secondary pathophysiological processes. In this framework, peripheral abnormalities may precede central pathology, occur in parallel through shared mechanisms, or arise secondarily from disease progression, treatment exposure, reduced mobility, or comorbid factors. We summarize clinical and pathological evidence supporting peripheral neuropathy and PNS involvement in PD, including motor, autonomic, and sensory phenotypes. We outline key physiological mechanisms that maintain peripheral nerve function, including neurotrophic factors, NMJ integrity, calcium signaling, and mitochondrial homeostasis. We integrate converging mechanisms, including alpha-synuclein (alpha-syn) pathology, immune activation, mitochondrial injury, oxidative stress, and PD-related genetic and environmental factors to explain how these processes disrupt peripheral nerve homeostasis. Advances in peripheral diagnostic evaluation, including nerve conduction studies, electromyography, and peripheral alpha-syn detection, are also discussed. Finally, we summarize therapeutic approaches and rehabilitation strategies targeting peripheral manifestations and highlight the importance of incorporating peripheral mechanisms into PD research to improve early detection and guide future therapeutic strategies.",
+    "date": "2026 Jul 1",
+    "pmid": "42385962",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42385962/"
+  },
+  {
+    "title_en": "Gene Therapy for Amino Acid Decarboxylase Deficiency: Clinical and Imaging Outcomes in a French Cohort.",
+    "title_zh": "Gene Therapy for Amino Acid Decarboxylase Deficiency: Clinical and Imaging Outcomes in a French Cohort.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Intracerebral gene therapy is effective for amino acid decarboxylase (AADC) deficiency, but relationships between anatomical putaminal coverage, metabolic dynamics, and clinical recovery remain poorly understood. OBJECTIVES: Assess safety, long-term efficacy, and clinical-radiological correlations in a genetically diverse European cohort of AADC deficiency. METHODS: Six patients received bilateral intraputaminal rAAV2-hAADC infusion. Motor (GMFM-88), functional (CP-CHILD, Vineland-II), oculogyric crises (OGC), and dyskinesia outcomes were evaluated alongside magnetic resonance imaging (MRI) volumetric coverage and longitudinal 18F-fluorodopa (18F-DOPA) positron emission tomography (PET) parameters. RESULTS: All patients achieved genotype-independent motor improvements and OGC reduction, with no serious adverse events. Clinical recovery did not correlate with the putaminal coverage volume, indicating a biological threshold effect. Transient dyskinesias coincided with an early 18F-DOPA uptake peak (1-3 months post-operative), followed by clinical resolution and sustained activity, reflecting homeostatic synaptic plasticity. CONCLUSION: Eladocagene exuparvovec offers durable clinical benefits across diverse genotypes. Therapeutic efficacy and the subsequent neuroplasticity sequence seem to depend on reaching a critical threshold of dopamine production rather than on exhaustive anatomical coverage of the putamen. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 2",
+    "pmid": "42389831",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42389831/"
+  },
+  {
+    "title_en": "Alzheimer's Disease Cerebrospinal Fluid Biomarkers Predict Survival in Progressive Supranuclear Palsy.",
+    "title_zh": "Alzheimer's Disease Cerebrospinal Fluid Biomarkers Predict Survival in Progressive Supranuclear Palsy.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Alzheimer's disease (AD)-related pathology may co-occur in progressive supranuclear palsy (PSP), although its clinical and prognostic impact is unclear. OBJECTIVES: To assess whether cerebrospinal fluid (CSF) AD biomarker profiles at diagnosis predict severity and survival in PSP. METHODS: CSF amyloid-beta42 (Abeta42), total and phosphorylated tau (t-tau, p-tau) levels from 85 newly-diagnosed PSP patients and 59 controls were assessed by the amyloid/tau/neurodegeneration (AT[N]) framework, and the p-tau/Abeta42 ratio (AD+ if >/=0.08), and implemented in a survival analysis through Kaplan-Meier, Cox regression, and LASSO-Cox modeling. RESULTS: AD CSF signature was identified in 5.9% and 18.8% of PSP patients, according to AT(N) and ratio, respectively. It was unrelated to phenotype or severity but strongly predicted survival, with AD+ patients showing markedly shorter survival. The p-tau/Abeta42 ratio was the strongest independent predictor of mortality, together with phenotype and smoking. CONCLUSIONS: AD-related CSF signature defines a biological PSP subgroup with shortened survival. The p-tau/Abeta42 ratio offers a pragmatic prognostic tool for patient stratification. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 1",
+    "pmid": "42386668",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386668/"
+  },
+  {
+    "title_en": "Hyperhomocysteinemia and Vitamin B Deficiency as Potential Aggravating Factors in Huntington's Disease: A Prospective Monocentric Study.",
+    "title_zh": "Hyperhomocysteinemia and Vitamin B Deficiency as Potential Aggravating Factors in Huntington's Disease: A Prospective Monocentric Study.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Although not confirmed, some studies have suggested that elevated homocysteine levels are common in patients with Huntington's disease (HD). Its clinical relevance remains unclear. OBJECTIVES: We aimed to assess vitamin B and homocysteine levels in HD patients and explore the relationships among hyperhomocysteinemia, vitamin B deficiency, and motor symptom progression. METHODS: In this monocentric case-control study, 77 HD patients were prospectively included between January 2020 and June 2023 at Nancy University Hospital. As controls, biological data were obtained retrospectively from 87 individuals referred to the Metabolic Medicine Department between January 2017 and February 2025. HD patients underwent clinical (Unified Huntington Disease Rating Scale-Motor) and biochemical (vitamin B and homocysteine levels) evaluations. Fisher's exact test, Wilcoxon test, or Student's t-test were used, with P < 0.05 considered significant. RESULTS: HD patients-both symptomatic and premanifest-had significantly higher homocysteine levels than did controls. Hyperhomocysteinemia was found in 36 patients ( approximately 48%) and was associated with faster motor progression (P < 0.001). CONCLUSIONS: Hyperhomocysteinemia appears to be frequent in HD patients and may represent a risk factor contributing to phenotypic variability. These findings support a potential link between altered one-carbon metabolism and HD. Further longitudinal and mechanistic studies are needed to clarify the clinical and pathophysiological relevance of homocysteine metabolism in HD and to determine whether targeting hyperhomocysteinemia could have therapeutic implications. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 1",
+    "pmid": "42386517",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42386517/"
+  },
+  {
+    "title_en": "Ultrasound-Informed State Estimation of Wrist Tremor Dynamics via Koopman Operator for Personalized Sensory Peripheral Nerve Stimulation.",
+    "title_zh": "Ultrasound-Informed State Estimation of Wrist Tremor Dynamics via Koopman Operator for Personalized Sensory Peripheral Nerve Stimulation.",
+    "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+    "impact_factor": 5.2,
+    "abstract": "Tremor is among the most disabling motor symptoms in Parkinson's disease and essential tremor, yet current pharmacological and surgical therapies remain limited by side effects, invasiveness, and inconsistent efficacy. Sensory peripheral nerve stimulation (sPNS) has emerged as a non-invasive alternative, but its optimization requires computational models that integrate ultrasound-informed state estimation of tremor dynamics and adapt to individual variability. Here, we introduce a data-driven modeling framework that leverages ultrasound sensing within a Koopman operator approach for state estimation to capture wrist tremor dynamics. In a study of six individuals with Parkinsonian or essential tremor, ultrasound-informed models significantly improved accuracy, reducing time-domain prediction error from 38.1% to 21.3% and enhancing frequency-domain measures, including tremor frequency and power ratio. Modal input analysis revealed that ultrasound-derived features from flexor and extensor muscles accounted for >60% of model sensitivity, while intermuscular latency among sPNS parameters contributed most strongly (31.6%), consistent with the physiological principle of out-of-phase stimulation. The framework also proved resilient to sensor dropout, preserving dominant tremor frequency and temporal features via data-driven interpolation. In a pilot human-validation study involving one Parkinsonian tremor participant and one essential tremor participant, the model-informed protocols selected by the proposed framework produced the strongest suppression among the tested stimulation conditions, achieving mean suppression ratios of 28.3% and 45.1%, respectively. These findings establish ultrasound-informed modeling as a novel state-estimation and modeling strategy for tremor characterization, while also providing initial prospective support for model-guided personalization of sPNS parameters.",
+    "date": "2026 Jul 2",
+    "pmid": "42391060",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42391060/"
+  }
+]
