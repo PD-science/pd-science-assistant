@@ -10,6 +10,46 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42387213/"
   },
   {
+    "title_en": "Adaptive deep brain stimulation in Parkinson disease: clinical implementation and outlook.",
+    "title_zh": "Adaptive deep brain stimulation in Parkinson disease: clinical implementation and outlook.",
+    "journal": "Nature reviews. Neurology",
+    "impact_factor": 33.1,
+    "abstract": "暂无摘要",
+    "date": "2026 Jun 29",
+    "pmid": "42373954",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42373954/"
+  },
+  {
+    "title_en": "Innate immune signaling and functions in astrocytes.",
+    "title_zh": "Innate immune signaling and functions in astrocytes.",
+    "journal": "Nature immunology",
+    "impact_factor": 27.6,
+    "abstract": "Astrocytes, long considered supportive cells of the central nervous system (CNS), have critical roles in innate immunity. This Review explores immune signaling pathways in astrocytes, including pattern recognition through Toll-like receptors, nucleic acid sensors and inflammasomes. These pathways enable the detection of danger signals and initiate protective responses and endogenous innate immune functions. Downstream signaling pathways, including the interferon, NF-kappaB and STAT3 pathways, mediate astrocyte reactivity and drive cytokine secretion, antiviral responses, phagocytosis and many other immune functions. While these responses are crucial for CNS health, their dysregulation can contribute to chronic inflammation and neurodegeneration in conditions such as Alzheimer's disease, Parkinson's disease, multiple sclerosis and amyotrophic lateral sclerosis. Additionally, astrocytes exhibit regional heterogeneity in their immune behaviors, which may influence disease trajectories. We highlight unresolved questions regarding the immune functions of astrocytes, their interplay with professional immune cells and their dual protective and pathological roles.",
+    "date": "2026 Jul",
+    "pmid": "42373786",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42373786/"
+  },
+  {
+    "title_en": "Adaptive immunity in the pathogenesis of neurodegeneration.",
+    "title_zh": "Adaptive immunity in the pathogenesis of neurodegeneration.",
+    "journal": "Nature immunology",
+    "impact_factor": 27.6,
+    "abstract": "Neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis and others, are a group of neurological disorders characterized by progressive neuronal loss in the central nervous system (CNS) and the deterioration of CNS function. Multiple lines of evidence have highlighted activation of innate immune cells in the CNS, namely microglia and astrocytes, as hallmark pathological features in neurodegeneration and key drivers of disease progression. Advances in genetic, neuropathological and experimental studies also underscore the potential role of the adaptive immune system in disease pathogenesis. Here we summarize the current understanding of how adaptive immunity can shape the progression of neurodegenerative diseases and highlight cross-disease parallels and potentially shared mechanisms. We also examine cellular events leading to the recruitment of peripheral immune cells to the CNS, as well as candidate antigens driving the adaptive immune response. Last, we discuss potential therapeutic strategies to treat neurodegeneration via the manipulation of adaptive immune cells.",
+    "date": "2026 Jul",
+    "pmid": "42373784",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42373784/"
+  },
+  {
+    "title_en": "Dysregulation of the TFEB-ATP6V0C axis in microglia exacerbates alpha-synuclein pathology through impaired lysosomal acidification in Parkinson's disease.",
+    "title_zh": "Dysregulation of the TFEB-ATP6V0C axis in microglia exacerbates alpha-synuclein pathology through impaired lysosomal acidification in Parkinson's disease.",
+    "journal": "Cell death and differentiation",
+    "impact_factor": 15.4,
+    "abstract": "Emerging evidence suggests that microglia exhibit dual regulatory roles in the pathogenesis of Parkinson's disease (PD); however, their precise function in alpha-synuclein clearance remains incompletely understood. Here, we provide compelling evidence that alpha-synuclein preformed fibrils (alpha-syn PFF) impair lysosomal acidification in microglia, leading to defective autophagic flux and disrupted alpha-syn degradation. This dysfunction further promotes the secretion of microglial extracellular vesicles (EVs), exacerbating disease pathology. Mechanistic investigations uncover that alpha-syn PFF directly interacts with ATP6V0C, a pivotal V0 subunit of V-ATPase. This interaction sterically hinders V0-V1 domain assembly, disrupting proton pump complex formation and reducing ATP6V0C expression. Functionally, ATP6V0C overexpression rescues lysosomal acidification deficits and facilitates alpha-syn degradation in vitro, while in vivo, ATP6V0C overexpression alleviates neurotoxicity and reduces phosphorylated alpha-syn aggregation in alpha-syn PFF mouse models. Further investigation identifies the PI3K-AKT-mTOR-TFEB pathway as a key regulatory axis of ATP6V0C-mediated lysosomal acidification in microglia. Notably, both TFEB activation and mTOR inhibition restore lysosomal acidity and upregulate ATP6V0C expression, thereby enhancing alpha-syn clearance. These findings establish the TFEB-ATP6V0C axis as a key determinant of microglial proteostasis, proposing targeted activation of this pathway as a promising strategy to mitigate PD progression.",
+    "date": "2026 Jun 30",
+    "pmid": "42374161",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42374161/"
+  },
+  {
     "title_en": "Variations of global brain asymmetry are associated with aging and related diseases.",
     "title_zh": "Variations of global brain asymmetry are associated with aging and related diseases.",
     "journal": "Science advances",
@@ -30,6 +70,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42386071/"
   },
   {
+    "title_en": "Subacute Exposure to Macrocyclic Lactone Insecticides Induces Parkinson's Disease-like Motor Deficits and Neuropathology in Mice.",
+    "title_zh": "Subacute Exposure to Macrocyclic Lactone Insecticides Induces Parkinson's Disease-like Motor Deficits and Neuropathology in Mice.",
+    "journal": "Environmental science & technology",
+    "impact_factor": 11.3,
+    "abstract": "Evidence links multiple environmental contaminants to an increased risk of Parkinson's disease (PD), yet the identification of PD-relevant pesticides, particularly their combined effects, remains largely unexplored. Herein, we found that subacute exposure to the macrocyclic lactone abamectin or emamectin benzoate via ingestion induced PD-like motor dysfunction and dopaminergic neurodegeneration in mice. These adverse effects were associated with excessive alpha-synuclein aggregation, dopamine depletion, dopaminergic neuron loss, mitochondrial degeneration, mitochondrial membrane depolarization, and inflammatory responses in the substantia nigra/striatum, and this pathological profile resembled that induced by the known PD toxicant rotenone. We therefore used SH-SY5Y cells to further examine the combined effect of their coexposures and observed potential synergistic/additive effects in vitro. Integrated Biomarker Responses version 2 (IBRv2) analysis identified mitochondrial dysfunction as a key event underlying combined cytotoxicity. Multiomics analyses of differentially abundant metabolites and proteins suggested that the combined cytotoxicity is associated with mitochondrial Ca(2+) overload, extracellular matrix-receptor interactions, ferroptosis, reactive oxygen species accumulation, and mitogen-activated protein kinase (MAPK) signaling, which may collectively contribute to oxidative stress and mitochondrial metabolic dysfunction. These findings offer updated insights into pesticide risks and guidance for pesticide reasonable application.",
+    "date": "2026 Jun 29",
+    "pmid": "42372192",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42372192/"
+  },
+  {
     "title_en": "A genome-wide screen identifies that PLCG2 restrains lysosomal GCase activity.",
     "title_zh": "A genome-wide screen identifies that PLCG2 restrains lysosomal GCase activity.",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
@@ -38,6 +88,16 @@
     "date": "2026 Jul 7",
     "pmid": "42384678",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42384678/"
+  },
+  {
+    "title_en": "A scalable, dividing cell model for the robust propagation and quantification of human sporadic Creutzfeldt-Jakob disease prions.",
+    "title_zh": "A scalable, dividing cell model for the robust propagation and quantification of human sporadic Creutzfeldt-Jakob disease prions.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "Prion diseases represent a unique biological paradigm with mechanistic parallels to other neurodegenerative conditions like Alzheimer's and Parkinson's diseases. However, the study of human prion pathobiology and the development of effective therapeutics has been severely constrained by the inability to propagate human prions in dividing cells-forcing reliance on costly and slow animal bioassays. Here, we report the generation of EKV cells-a humanized cell model which supports the robust, indefinite propagation of sporadic Creutzfeldt-Jakob disease (sCJD) prions. We demonstrate that these cells replicate bona fide human prion infectivity in culture-cell lysates induce lethal neurodegeneration in humanized mice that is clinically and neuropathologically indistinguishable from inoculation with sCJD-infected brain tissue. We use EKV cells to develop the Human Prion Assay (HPA), which quantifies sCJD infectivity with sensitivity comparable to gold-standard mouse bioassay, while reducing the experimental timeline from years to weeks. Furthermore, we demonstrate that established sCJD infection can be cured by an anti-prion protein antibody, validating the system as a high-throughput platform for drug discovery. This model bridges a critical translational gap, offering a renewable alternative to animal bioassays, a paradigm to dissect the biology of human sCJD prion disease and screen for therapeutic agents.",
+    "date": "2026 Jul 7",
+    "pmid": "42378300",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42378300/"
   },
   {
     "title_en": "A Brain-Targeted DNA Delivery Nanocarrier Modulator for Synergistic Therapy of Parkinson's Disease.",
@@ -90,6 +150,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42386728/"
   },
   {
+    "title_en": "Global regional and national burden and trends of early-onset Parkinson's disease from 1990 to 2021.",
+    "title_zh": "Global regional and national burden and trends of early-onset Parkinson's disease from 1990 to 2021.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) is often perceived as an elderly condition, overshadowing its impact on younger populations. This study assesses the global, regional, and national burden of early-onset PD (EOPD) in individuals aged 20-49 years from 1990 to 2021 using data from the Global Burden of Disease Study 2021. The estimated annual percentage change (EAPC) quantified temporal trends, while the Socio-Demographic Index (SDI) evaluated socioeconomic development. Decomposition analysis identified factors driving burden changes, while health inequality analysis quantified cross-national disparities. Findings reveal that global incident cases, prevalent cases, and years lived with disability (YLDs) for EOPD more than doubled over three decades. Age-standardized rates per 100,000 increased for incidence (1.46-2.35), prevalence (10.03-14.00), and YLDs (1.65-2.27), with corresponding EAPCs of 1.42%, 1.09%, and 1.05%, respectively. Men had approximately 1.5 times higher burden than women. Health inequalities have worsened, with middle and high-middle SDI regions, especially East Asia and Andean Latin America, exhibiting the fastest growth rates. EOPD burden positively correlated with pesticide use. Rising YLDs were primarily driven by increased prevalence in higher SDI regions and population growth in lower SDI regions. These trends highlight the need for targeted strategies to reduce risk and promote early diagnosis in younger populations globally.",
+    "date": "2026 Jun 30",
+    "pmid": "42380209",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42380209/"
+  },
+  {
+    "title_en": "Traffic-related air toxics and Parkinson's disease in California's Central Valley.",
+    "title_zh": "Traffic-related air toxics and Parkinson's disease in California's Central Valley.",
+    "journal": "The Science of the total environment",
+    "impact_factor": 8.0,
+    "abstract": "Growing evidence links air pollution to Parkinson's disease (PD), yet most research focuses on criteria pollutants like nitrogen dioxide (NO(2)) and fine particulate matter (PM(2.5)), which cannot pinpoint specific toxic constituents driving the association. This population-based case-control study from the counties of Fresno, Tulare, and Kern in central California (764 patients, 798 controls) investigated whether specific air toxics - metals with mobile-source/industrial contributions (nickel, zinc), vehicle-exhaust volatile organic compounds (benzene, 1,3-butadiene), and industrial/urban metals (lead, chromium) - are associated with PD. Using land-use regression models linked to participants' full residential and workplace address histories, we estimated 10-year, 5-year, and 1-year average pollutant exposures preceding diagnosis (patients) or interview year (controls). Associations were assessed via logistic regression, adjusting for sociodemographics and pesticide exposure. For nickel we estimated the strongest and most consistent effect across all averaging periods, with a 10-year residential odds ratio (OR) of 1.63 (95% CI = 1.04-2.55) and a nearly three-fold increase in the odds of PD due to ambient exposure at the workplace (OR = 2.89, 95% CI = 1.48-5.80) per interquartile range increase. Zinc showed a positive 10-year residential address association (OR = 1.42, 95% CI = 0.98-2.10). The volatile organic compounds benzene (5-year workplace OR = 1.83, 95% CI = 1.16-2.93) and 1,3-butadiene (1-year workplace OR = 4.56, 95% CI = 2.86-7.49) exhibited stronger associations at shorter averaging windows, particularly at workplace addresses. In co-pollutant models, air toxics associations persisted after adjustment for NO(2) or PM(2.5), while criteria pollutant associations attenuated. No associations were observed for lead or chromium in these predominantly agricultural counties. Our findings highlight that traffic-related and industrial air toxics from both non-exhaust and exhaust sources may contribute to PD risk, underscoring the importance of evaluating pollutant sources and components when assessing environmental determinants of PD.",
+    "date": "2026 Jun 30",
+    "pmid": "42378886",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42378886/"
+  },
+  {
     "title_en": "Peripheral Nervous System Involvement in Parkinson's Disease: Peripheral Neuropathy, Neuromuscular Junction Dysfunction, and Clinical Implications.",
     "title_zh": "Peripheral Nervous System Involvement in Parkinson's Disease: Peripheral Neuropathy, Neuromuscular Junction Dysfunction, and Clinical Implications.",
     "journal": "Neuroscience and biobehavioral reviews",
@@ -98,6 +178,16 @@
     "date": "2026 Jul 1",
     "pmid": "42385962",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42385962/"
+  },
+  {
+    "title_en": "A qualitative exploration of the low-resource tele-assisted home exercise program for balance and functional mobility in Parkinson's disease (TELEPORT-PD).",
+    "title_zh": "A qualitative exploration of the low-resource tele-assisted home exercise program for balance and functional mobility in Parkinson's disease (TELEPORT-PD).",
+    "journal": "PLOS digital health",
+    "impact_factor": 7.7,
+    "abstract": "This study explores the perspectives of people with Parkinson's disease (PD) on TELEPORT-PD, a low-resource tele-assisted home exercise program designed to improve balance and functional mobility. An exploratory qualitative study was conducted with eight participants who completed a two-week feasibility trial of TELEPORT-PD, followed by in-depth semi-structured interviews. Audio-recorded interviews were transcribed verbatim and analyzed using Microsoft Excel. Codes were assigned to themes derived from the Unified Theory of Acceptance and Use of Technology 2 (UTAUT-2) model. All participants reported positive experiences, with most encountering no major challenges. Many reported improvements in daily activities and valued physiotherapist-led exercise demonstrations, considering them more beneficial than conventional physiotherapy. A few suggested minor modifications. All participants expressed willingness to continue, and most would recommend the program to others with PD. TELEPORT-PD is well accepted, with most participants reporting functional improvements. The findings should be interpreted cautiously due to the small sample and potential response bias.",
+    "date": "2026 Jun",
+    "pmid": "42378264",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42378264/"
   },
   {
     "title_en": "Gene Therapy for Amino Acid Decarboxylase Deficiency: Clinical and Imaging Outcomes in a French Cohort.",
@@ -128,6 +218,66 @@
     "date": "2026 Jul 1",
     "pmid": "42386517",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42386517/"
+  },
+  {
+    "title_en": "Longitudinal Dynamics of Polyglutamine-Expanded ATXN3 in Biofluids of Spinocerebellar Ataxia Type 3.",
+    "title_zh": "Longitudinal Dynamics of Polyglutamine-Expanded ATXN3 in Biofluids of Spinocerebellar Ataxia Type 3.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Spinocerebellar ataxia type 3 (SCA3), the most common autosomal dominant ataxia, is driven by the accumulation of polyglutamine-expanded (polyQ) ATXN3 proteins. While promising as biomarkers, their longitudinal trajectories across multiple biofluids remain poorly defined. OBJECTIVES: To quantify polyQ ATXN3 levels in cerebrospinal fluid (CSF), plasma, and urine within a comprehensive cohort, utilizing serial measurements to map protein dynamics. METHODS: We employed a validated immunoassay to quantify polyQ ATXN3 in 97 symptomatic and 13 presymptomatic SCA3 patients, correlating levels with clinical features, ancestry, disease status, and longitudinal progression. RESULTS: Asian participants exhibited lower plasma but elevated urinary polyQ ATXN3 levels relative to other ancestries. While CSF levels were higher in symptomatic patients at baseline, they showed a significant longitudinal decline. CONCLUSIONS: PolyQ ATXN3 is a viable multi-biofluid biomarker. Declining CSF levels likely reflect neurodegeneration, supporting its role in tracking progression and emphasizing the need for ancestry-based adjustment in trials. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 30",
+    "pmid": "42381263",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42381263/"
+  },
+  {
+    "title_en": "Putamen Structural-Functional Decoupling as an Early-Stage Candidate Imaging Marker for Motor Severity in Spinocerebellar Ataxia Type 3.",
+    "title_zh": "Putamen Structural-Functional Decoupling as an Early-Stage Candidate Imaging Marker for Motor Severity in Spinocerebellar Ataxia Type 3.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Spinocerebellar ataxia type 3 (SCA3) shows marked phenotypic heterogeneity and clinico-radiological dissociation, wherein macrostructural atrophy often fails to fully account for clinical severity. Although structural and functional connectivity abnormalities are well recognized, their potential interaction and neurobiological mechanisms remain poorly understood. OBJECTIVE: This study aimed to identify potential biomarkers for SCA3 by linking structural connectivity-functional connectivity (SC-FC) coupling to mitochondrial function, neurotransmitter distribution, and gene expression. METHODS: This dual-center study included discovery (117 SCA3, 165 healthy controls [HC]) and independent validation (24 SCA3, 48 HC) cohorts. Participants underwent multimodal 3 T magnetic resonance imaging (MRI) and clinical assessments (Scale for the Assessment and Rating of Ataxia [SARA]; International Cooperative Ataxia Rating Scale [ICARS]; Montreal Cognitive Assessment [MoCA]; Hamilton Depression Rating Scale [HAMD]). Regional and network-level SC-FC coupling was quantified using multiple regression and compared across disease-duration strata. Coupling alterations were spatially mapped to biological atlases (Allen Human Brain Atlas, MitoBrainMap, and positron emission tomography [PET]-based neurotransmitter receptor atlases) using bootstrapped Spearman's correlations (false discovery rate [FDR]-corrected). Gene enrichment analysis was implemented to characterize enriched biological pathways. RESULTS: SCA3 patients exhibited significant, atrophy-independent SC-FC decoupling in the bilateral dorsolateral putamen (dlPu), which correlated with ICARS scores. This decoupling pattern spatially aligned with mitochondrial complex II, 5-HT2A/5-HT4 receptors densities, and genes enriching for synaptic regulation and cellular homeostasis. CONCLUSIONS: By integrating SC-FC coupling with biological atlases, this study reveals the pathological underpinnings of clinico-radiological dissociation in SCA3 and identifies dlPu decoupling as a promising early-stage candidate imaging marker, providing an early and objective target for future neuroprotective trials. TRIAL REGISTRATION: Chinese Clinical Trial Registry (ChiCTR): 1800019901, 2000039434. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 29",
+    "pmid": "42374825",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42374825/"
+  },
+  {
+    "title_en": "Melanopsin-Mediated Post-Illumination Pupillary Response in Idiopathic Rapid Eye Movement (REM) Sleep Behavior Disorder and Parkinson's Disease.",
+    "title_zh": "Melanopsin-Mediated Post-Illumination Pupillary Response in Idiopathic Rapid Eye Movement (REM) Sleep Behavior Disorder and Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "AIMS: To conduct a case-control study to investigate melanopsin-mediated post-illumination pupillary response (PIPR) in patients with Parkinson's disease (PD), video-polysomnography-confirmed isolated/idiopathic rapid eye movement (REM) sleep behavior disorder (iRBD), and age-matched healthy controls (HC). METHODS: PIPR was measured at 6 s after light offset (PIPR-6s). Net PIPR-6s was calculated by subtracting the red-light response from the blue-light response. Participants also underwent 1-week actigraphy, overnight urinary 6-sulfatoxymelatonin assessment, and cognitive testing using the Hong Kong Montreal Cognitive Assessment (HK-MoCA). RESULTS: We recruited 135 participants (mean age 64.4 +/- 5.7 years; 56% male), with 45 in each group. Net PIPR-6s was 23.8 +/- 9.4% in HC, 18.6 +/- 10.8% in iRBD, and 13.3 +/- 9.6% in PD (P < 0.001; HC > iRBD > PD). Net PIPR-6s was positively associated with circadian rest-activity rhythm amplitude, mesor, and HK-MoCA score. CONCLUSION: Attenuated PIPR may reflect early dysfunction in melanopsin-mediated phototransduction in the prodromal stage of synucleinopathy. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 29",
+    "pmid": "42374795",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42374795/"
+  },
+  {
+    "title_en": "High-Fat Diet Exacerbates Neuropathology in a Transgenic Mouse Model of Multiple System Atrophy.",
+    "title_zh": "High-Fat Diet Exacerbates Neuropathology in a Transgenic Mouse Model of Multiple System Atrophy.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Multiple system atrophy (MSA) is a rare and devastating neurodegenerative disorder. Accumulating clinical and preclinical evidence suggests that diabetes and insulin resistance may adversely influence MSA pathophysiology. OBJECTIVE: We investigated the potential association between diabetes, impaired glucose homeostasis, and MSA neuropathology in rodents. METHODS: We subjected the PLP-SYN (proteolipid promoter) transgenic mouse model of MSA to either a standard chow diet or a high-fat diet (HFD) for 4 months to induce diet-associated metabolic alterations. Metabolic, neuropathological, and behavioral parameters were subsequently evaluated at multiple time points. RESULTS: PLP-SYN mice fed a HFD exhibited a more pronounced diabetic phenotype, characterized by aggravated peripheral glucose dysregulation and insulin resistance, compared with wild-type mice on the same diet. Moreover, 4 months of HFD feeding aggravated MSA-related neuropathology, as evidenced by increased alpha-synuclein accumulation and enhanced dopaminergic neurodegeneration, accompanied by accelerated impairment of fine motor function. CONCLUSIONS: Collectively, these findings indicate an association between dysregulated glucose metabolism and MSA neuropathology. Our results further support the potential of modulating glucose metabolism to slow disease progression in MSA and provide additional rationale for exploring whether antidiabetic agents could provide therapeutic benefits. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jun 29",
+    "pmid": "42374641",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42374641/"
+  },
+  {
+    "title_en": "An improved catch fish optimization based deep learning model for Parkinson disease classification using EEG signal.",
+    "title_zh": "An improved catch fish optimization based deep learning model for Parkinson disease classification using EEG signal.",
+    "journal": "Computers in biology and medicine",
+    "impact_factor": 6.3,
+    "abstract": "Accurate and objective identification of Parkinson's Disease (PD) from Electroencephalogram (EEG) signals is important because EEG responses are complex, non-stationary, and difficult to evaluate manually. This work proposes an Improved Catch Fish Optimization (ICFO)-based encoder-decoder deep learning framework for PD classification using EEG signals. Initially, EEG signals are pre-processed using a bandpass filter to remove unwanted noise and retain the significant frequency range. Then, Tunable-Q Wavelet Transform (TQWT) is employed to decompose the EEG signals into informative sub-bands. The extracted signal components are classified using an encoder-decoder-based Multi-Head Attention Bidirectional Long Short-Term Memory network (MA-BiLSTM), while ICFO is used to optimize the major hyperparameters of the model. The proposed method was evaluated using two publicly available EEG datasets, namely the San Diego dataset and the Iowa dataset. The proposed MA-BiLSTM-ICFO model achieved an accuracy of 99.2%, recall of 99.9%, precision of 99.2%, F-score of 99.2%, and AUC of 98.975% on the San Diego dataset. For the Iowa dataset, the model achieved an accuracy of 99.7%, recall of 99.9%, precision of 99.3%, F-score of 98.9%, and AUC of 98.973%. The ablation and comparative analyses confirm that the integration of TQWT, multi-head attention, BiLSTM, and ICFO improves classification performance compared with existing models. These results demonstrate that the proposed framework can provide reliable automated support for EEG-based PD classification.",
+    "date": "2026 Jun 29",
+    "pmid": "42372473",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42372473/"
+  },
+  {
+    "title_en": "The cell-type specific interaction based drug repurposing for psychiatric disorders.",
+    "title_zh": "The cell-type specific interaction based drug repurposing for psychiatric disorders.",
+    "journal": "Translational psychiatry",
+    "impact_factor": 6.2,
+    "abstract": "Psychiatric disorders severely challenge the public health, but the development of new psychotropic medications cannot keep pace with clinical needs. The rapid accumulation of single-cell RNA data provides opportunities to develop new computational approaches of drug repurposing. However, there is a lack of dedicated computational tools for psychiatric disorders in this field. In this work, we developed a cell-type specific interaction based computational pipeline scPsyDrug to prioritize the drugs for psychiatric disorders. This tool integrated the single-cell transcriptomics, protein-protein interactions, drug-target interactions and psychiatric risk genes to construct cell type-specific interactions and seed genes for drug prioritization. We first evaluated the scPsyDrug performance using the publicly available single cell RNA datasets derived from the clinical patients, including Major Depressive Disorder, Schizophrenia and Parkinson's disease, in which scPsyDrug covered lots of approved drugs and clinical-trial compounds in the top recommended candidates. We next applied scPsyDrug to Zbtb18(+/-) mice, an anxiety-like mouse model, to screen the potential drugs. The scPsyDrug prioritized Forskolin and Chlorpropamide as the top candidates, while the following drug treatment demonstrated that these two compounds could respectively rescue the anxiety-like behaviors in Zbtb18(+/-) mice. We also used scPsyDrug to screen herb ingredients, and validated the efficacy of Osthole in rescuing the anxiety-like behaviors in the mouse model. Collectively, the scPsyDrug can be applied to different kinds of psychiatric disorders for drug repurposing, and we also provided experimental evidence for the potential roles of Forskolin, Chlorpropamide and Osthole in anxiety intervention.",
+    "date": "2026 Jun 30",
+    "pmid": "42374032",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42374032/"
   },
   {
     "title_en": "Ultrasound-Informed State Estimation of Wrist Tremor Dynamics via Koopman Operator for Personalized Sensory Peripheral Nerve Stimulation.",
