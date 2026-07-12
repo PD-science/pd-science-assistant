@@ -20,6 +20,36 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42421081/"
   },
   {
+    "title_en": "Cryo-EM structure of soluble VPS13C suggests its regulation by a conformational switch and by calmodulin.",
+    "title_zh": "Cryo-EM structure of soluble VPS13C suggests its regulation by a conformational switch and by calmodulin.",
+    "journal": "Molecular cell",
+    "impact_factor": 16.6,
+    "abstract": "Bridge-like lipid transfer proteins (BLTPs) play fundamental roles in cellular lipid redistribution between organellar membranes. They comprise bridge domains spanning organelles at contact sites that allow lipids to transit through the cytosol between adjacent membranes. The assembly of BLTPs into complexes with adaptor proteins enables lipid transfer. To address the mechanisms underlying the assembly and regulation of BLTP complexes, we used cryo-EM to resolve the structure of one such BLTP, the Parkinson's disease protein VPS13C, at near-atomic resolution. The structure identifies a lipid-transfer-nonpermissive conformation, in which the built-in C-terminal VAB adaptor module blocks the end of the lipid transfer bridge, interfering with lipid delivery. We also identify calmodulin (CaM), central to calcium signaling, as a constitutive VPS13C interactor. Calcium induces conformational changes in the VPS13C-CaM complex, suggesting calcium regulation of VPS13 function. Altogether, this structure of intact VPS13C serves as a starting point for understanding its regulation and that of other VPS13 proteins.",
+    "date": "2026 Jul 7",
+    "pmid": "42413490",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42413490/"
+  },
+  {
+    "title_en": "Empowering clinical trial design with agentic intelligence and real-world data.",
+    "title_zh": "Empowering clinical trial design with agentic intelligence and real-world data.",
+    "journal": "Nature communications",
+    "impact_factor": 15.7,
+    "abstract": "Clinical trial design (CTD) is a time-consuming process that requires substantial domain expertise. Large-scale real-world data (RWD), such as electronic health records (EHR), encodes practice-based evidence that is of tremendous value to CTD. In recent years, many machine learning methods have been developed to extract such real-world evidence (RWE) from the RWD to inform CTD, but they still need to be communicated with the domain experts extensively in an iterative manner to be further refined and ultimately useful. In this paper, we introduce EmulatRx, an agentic framework that derives RWE for helping with CTD. Through the iterative conversation and analysis across agents with different roles, EmulatRx can autonomously refine trial protocols and finally generate a robust report containing insights that inform better CTD. We applied EmulatRx on the CTD process for both acute diseases (e.g., septic shock, acute heart failure, acute pulmonary edema, and acute kidney injury) using the MIMIC-IV data and chronic diseases (e.g., Alzheimer's disease and Parkinson's disease) using the INSIGHT Network across five New York City health systems. The results demonstrate EmulatRx's capabilities in facilitating and accelerating the CTD process.",
+    "date": "2026 Jul 7",
+    "pmid": "42414290",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42414290/"
+  },
+  {
+    "title_en": "Convergent Network Localization of Brain Stimulation Targets for Trait Anxiety.",
+    "title_zh": "Convergent Network Localization of Brain Stimulation Targets for Trait Anxiety.",
+    "journal": "The American journal of psychiatry",
+    "impact_factor": 14.7,
+    "abstract": "OBJECTIVE: Transcranial magnetic stimulation (TMS) and deep brain stimulation (DBS) can modulate brain circuits, and certain stimulation targets may relieve or exacerbate anxiety. The objective of this study was to localize circuit-based stimulation targets that modify anxiety by integrating causal sources of information, including lesion, TMS, and DBS datasets. METHODS: The authors leveraged a series of natural experiments across multiple datasets (N=936). First, patients with incidental brain lesions (N=451) and TMS-treated individuals with incidental variability in stimulation location for depression (N=111) were analyzed. Functional connectivity of these sites was estimated using a normative connectome. Next, a TMS dataset (N=300) with a common set of stimulation coordinates but individual variability in brain connectivity was analyzed. Finally, the authors examined subthalamic DBS locations in patients with Parkinson's disease (N=74). RESULTS: Similar brain circuits were derived from lesions associated with greater anxiety and TMS sites that decreased anxiety (spatial r=0.68). In an independent TMS dataset (N=300), individualized TMS site connectivity to this circuit was significantly correlated with treatment-induced anxiety change. In Parkinson's disease, overlap of subthalamic DBS (N=74) sites with the anxiety circuit significantly predicted greater anxiety increases, confirming network involvement despite the circuit being derived independently of DBS. The circuit was associated significantly with trait anxiety versus state anxiety in two datasets that measured both. The peak proposed TMS target for anxiety was in the right superior frontal gyrus. CONCLUSIONS: This study identified a convergent anxiety circuit across lesions, TMS, and DBS. This provides a potential therapeutic target for brain stimulation and represents a generalizable approach for identifying stimulation targets across neuropsychiatric conditions.",
+    "date": "2026 Jul 8",
+    "pmid": "42415252",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42415252/"
+  },
+  {
     "title_en": "Targeting of CH25H to boost p62-dependent autophagic degradation of alpha-synuclein in cell and mouse models of Parkinson's disease.",
     "title_zh": "Targeting of CH25H to boost p62-dependent autophagic degradation of alpha-synuclein in cell and mouse models of Parkinson's disease.",
     "journal": "Science translational medicine",
@@ -270,6 +300,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42420237/"
   },
   {
+    "title_en": "Spontaneous aging of mature amyloids alters structural stability, cytotoxicity, and susceptibility to biological clearance.",
+    "title_zh": "Spontaneous aging of mature amyloids alters structural stability, cytotoxicity, and susceptibility to biological clearance.",
+    "journal": "Cell death discovery",
+    "impact_factor": 7.0,
+    "abstract": "Accumulation of amyloid fibrils is a key factor in the pathogenesis of progressive diseases, including neurodegenerative disorders such as Alzheimer's and Parkinson's disease, as well as systemic amyloidosis. Although amyloid deposits are known to persist in vivo for years or even decades, it remains unclear how the structure and biological properties of mature fibrils evolve during prolonged post-assembly residence. Here, we addressed this question using a simplified cell-free aqueous model designed to isolate the intrinsic time-dependent behavior of mature amyloid aggregates from the complexity of the biological milieu. Specifically, we investigated the long-term evolution of two polymorphs of lysozyme amyloid fibrils as model systems with distinct clustering propensities that mimic the diversity of amyloid deposits. We challenge the assumption of amyloid stability by demonstrating their spontaneous degradation over 16 months at physiological temperature, a process we define as amyloid \"aging\". This process is characterized by aggregate declustering, fibril shortening, and progressive depolymerization into monomeric subunits, accompanied by a pronounced reduction in intrinsic toxicity across multiple human cell lines. Notably, \"aged\" fibrils were disassembled and degraded more efficiently than freshly prepared aggregates by the molecular chaperone alpha-B-crystallin and immune-associated proteases, including matrix metalloproteinase-9 and cathepsins B and D. However, this enhanced degradation revealed a paradox: accelerated processing of \"aged\" amyloids did not always reduce cytotoxicity and, in some cases, even exacerbated it, consistent with the generation of biologically active fibril-derived species rather than their complete conversion into non-toxic monomers. We provide the first systematic evidence that mature amyloids are dynamic structures undergoing spontaneous degradation that fundamentally alters their cytotoxicity and susceptibility to biological clearance. Our results introduce amyloid aging as a previously underappreciated dimension of amyloid biology and emphasize the need to account for fibril \"age\" when evaluating pathogenic potential and developing anti-amyloid therapeutic strategies.Spontaneous \"aging\" of amyloid fibrils leads to suprastructural remodeling: declustering, fibril shortening, and attenuated cytotoxicity. While \"aged\" aggregates are degraded more efficiently by immune-associated proteases and alpha-B-crystallin than \"fresh\" fibrils, this enhanced degradation does not reduce cytotoxicity and, in some cases, exacerbates it, highlighting the complex interplay between aggregate maturity and biological outcomes.",
+    "date": "2026 Jul 7",
+    "pmid": "42414260",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42414260/"
+  },
+  {
+    "title_en": "Substantia Nigra Imaging Biomarker Segmentation for Parkinson's Disease Diagnosis via Transformer-Enhanced U-Net Architecture.",
+    "title_zh": "Substantia Nigra Imaging Biomarker Segmentation for Parkinson's Disease Diagnosis via Transformer-Enhanced U-Net Architecture.",
+    "journal": "IEEE journal of biomedical and health informatics",
+    "impact_factor": 6.8,
+    "abstract": "The substantia nigra pars compacta (SNpc) provides critical imaging biomarkers for Parkinson's disease (PD) when accurately segmented from magnetic resonance imaging scans. The extremely limited spatial extent of SNpc regions, combined with subtle tissue-intensity variations and ambiguous boundaries shared with adjacent midbrain structures, poses major challenges for existing segmentation methods that rely solely on local feature extraction. To enhance computer-aided diagnosis through improved SNpc segmentation, we propose SNIB-TransNet, a substantia nigra imaging biomarker transformer network built on an enhanced U-shaped architecture. The method combines multi-head attention with skip connections to extract multi-scale semantic features, while a transformer-based bottleneck module captures global contextual dependencies, including bilateral symmetry between left and right SNpc regions, to mitigate noise in biomarker extraction. We further establish a multi-task learning framework whose loss function uses two-dimensional Gaussian kernel-weighted masks to suppress discontinuous segmentation artifacts caused by repeated downsampling. Experiments on two datasets comprising 188 subjects from the Parkinson's Progression Markers Initiative and 40 subjects from London Health Sciences Center show that SNIB-TransNet outperforms six baseline methods, attaining a Dice similarity coefficient of 0.8691 and an AUC of 0.9439. Three-dimensional analysis across progression stages reveals only 12.3 percent degradation from healthy to severe PD, versus 18.7 percent for the strongest baseline, confirming robust clinical applicability across heterogeneous patient populations.",
+    "date": "2026 Jul 7",
+    "pmid": "42412660",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42412660/"
+  },
+  {
     "title_en": "Cross-disease LC-MS/MS plasma proteomics identifies reproducible shared and disease-enriched biomarker signatures in neurodegenerative disorders.",
     "title_zh": "Cross-disease LC-MS/MS plasma proteomics identifies reproducible shared and disease-enriched biomarker signatures in neurodegenerative disorders.",
     "journal": "Acta neuropathologica communications",
@@ -288,6 +338,16 @@
     "date": "2026 Jul 8",
     "pmid": "42419633",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42419633/"
+  },
+  {
+    "title_en": "Iron dyshomeostasis and enhanced myelination in the prefrontal cortex and ventral basal ganglia of a DJ-1 knockout model of early-onset Parkinson's disease.",
+    "title_zh": "Iron dyshomeostasis and enhanced myelination in the prefrontal cortex and ventral basal ganglia of a DJ-1 knockout model of early-onset Parkinson's disease.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "BACKGROUND: Early-onset Parkinson's disease (EOPD) differs from late-onset PD in clinical progression and neurodegenerative patterns. DJ-1 mutations are a known genetic cause of EOPD. Despite the recognized role of iron dyshomeostasis in PD pathogenesis, its spatial distribution and associated tissue alterations in EOPD remain unclear. This study investigated whole-brain iron distribution and related pathological changes in 9-month-old DJ-1(-/-) mice. METHODS: In vivo quantitative susceptibility mapping (QSM) was performed to characterize whole-brain iron distribution, complemented by ex vivo laser ablation inductively coupled plasma mass spectrometry imaging (LA-ICP-MSI) to validate abnormal iron deposition in secondary motor cortex (M2) and ventral orbital cortex (VO). Anatomical magnetic resonance imaging (MRI), diffusion tensor imaging (DTI), Western blotting, and immunohistochemistry were used to assess brain morphology, microstructural alterations, iron-related proteins, myelination, oxidative stress, and dopaminergic integrity. RESULTS: DJ-1(-/-) mice exhibited motor deficits without significant nigrostriatal dopaminergic degeneration. QSM revealed significantly increased magnetic susceptibility in the M2, VO, the core of nucleus accumbens (NAc), and ventral pallidum (VP). Elevated iron content in M2 and VO was further verified by LA-ICP-MSI. Regions with increased iron deposition were also shown to exhibit altered ferritin composition, increased fractional anisotropy and myelin basic protein expression, and elevated oxidative stress. CONCLUSION: 9-month-old DJ-1(-/-) mice show region-specific iron dyshomeostasis in parts of the prefrontal cortex and ventral basal ganglia, which precedes overt nigrostriatal dopaminergic degeneration. Iron accumulation, myelin remodeling, and oxidative stress occur in parallel in the affected brain regions, and may increase metabolic and redox demands, thereby contributing to early functional impairment independent of dopaminergic neurodegeneration.",
+    "date": "2026 Jul 7",
+    "pmid": "42413586",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42413586/"
   },
   {
     "title_en": "Uncertainty-Enhanced Spatiotemporal Framework for Sit-to-Stand Temporal Segmentation in Parkinson's Disease.",
