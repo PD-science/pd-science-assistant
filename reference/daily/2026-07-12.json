@@ -20,6 +20,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42421081/"
   },
   {
+    "title_en": "Targeting of CH25H to boost p62-dependent autophagic degradation of alpha-synuclein in cell and mouse models of Parkinson's disease.",
+    "title_zh": "Targeting of CH25H to boost p62-dependent autophagic degradation of alpha-synuclein in cell and mouse models of Parkinson's disease.",
+    "journal": "Science translational medicine",
+    "impact_factor": 14.6,
+    "abstract": "Insufficient understanding of alpha-synuclein turnover mechanisms has impeded successful clinical translation for Parkinson's disease (PD). Here, we pinpointed cholesterol 25-hydroxylase (CH25H) as a pivotal regulator of alpha-synuclein degradation. Through bulk RNA sequencing of substantia nigra tissue from the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) mouse model of PD, along with reanalysis of published datasets from induced pluripotent stem cell-derived astrocytes of patients with PD, we observed an elevated CH25H expression in PD-associated astrocytes. This finding was validated by combined fluorescence in situ hybridization for Ch25h and immunofluorescence staining for GFAP in mouse substantia nigra sections. Conditional knockout or knockdown of astrocytic Ch25h alleviated PD-like motor deficits and reduced dopaminergic neuronal loss in MPTP and alpha-synuclein preformed fibril (PFF) mouse models. Using 4D label-free proteomics and molecular docking approaches, we uncovered a shared binding domain on p62 where both CH25H and alpha-synuclein interact. Proximity ligation assays in cultured astrocytes showed that Ch25h overexpression promoted formation of p62/CH25H complex, whereas it inhibited p62/alpha-synuclein interaction. Conversely, Ch25h knockdown enhanced p62/alpha-synuclein complex formation and facilitated alpha-synuclein degradation. 25-Hydroxycholesterol, the enzymatic by-product of CH25H, did not affect the expression of alpha-synuclein in astrocytes, suggesting an activity-independent influence of CH25H on alpha-synuclein clearance. In addition, treatment with a p62 polypeptide (60 to 90 amino acids) effectively facilitated alpha-synuclein clearance by sequestering free CH25H in both cultured astrocytes and mice in the PFF model. Collectively, our study provides insights into the mechanisms underlying alpha-synuclein turnover and suggests promising avenues for disease-modifying interventions in synucleinopathies.",
+    "date": "2026 Jul 8",
+    "pmid": "42418556",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42418556/"
+  },
+  {
     "title_en": "The role of AI-assisted drug repurposing in neurological disorders: a systematic review of validation strategies, challenges and opportunities.",
     "title_zh": "The role of AI-assisted drug repurposing in neurological disorders: a systematic review of validation strategies, challenges and opportunities.",
     "journal": "Journal of nanobiotechnology",
@@ -40,6 +50,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42430493/"
   },
   {
+    "title_en": "The autophagy-senescence-inflammasome axis: A novel triad in neurodegenerative diseases?",
+    "title_zh": "The autophagy-senescence-inflammasome axis: A novel triad in neurodegenerative diseases?",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Chronic neuroinflammation is a defining feature of brain ageing and neurodegenerative disorders, yet the molecular mechanisms responsible for its persistence remain incompletely understood. Although autophagy dysfunction, glial senescence, and inflammasome activation are well-established contributors to progressive neurodegeneration, these processes are often analysed independently or through pairwise interactions, leaving their collective contribution to persistent neuroinflammation and disease progression insufficiently defined. Here, we synthesise emerging evidence supporting an integrated 'Autophagy-Senescence-Inflammasome (ASI) axis', in which reciprocal interactions among impaired autophagy, senescent glia, and inflammasome signalling establish a self-sustaining cycle of neuroinflammation. We discuss how defective autophagy promotes mitochondrial dysfunction, oxidative stress, and danger signalling, while senescent astrocytes and microglia amplify inflammatory responses through the senescence-associated secretory phenotype (SASP). These intertwined processes converge on chronic inflammasome activation, with mitochondrial dysfunction emerging as a central mechanistic hub. Evidence across Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, multiple sclerosis, stroke, and chronic neuropathic pain highlight the broad relevance of this pathological network. We further analyse current therapeutic strategies targeting autophagy, senescence, and inflammasome pathways, emphasising the limitations of single-target approaches and the potential of multi-target interventions. By integrating these processes into a unified framework, this review provides new insights into the possible molecular mechanisms underlying neuroinflammaging and identifies the 'ASI axis' as a promising target for neurodegenerative disease-modifying therapies.",
+    "date": "2026 Jul 8",
+    "pmid": "42419491",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42419491/"
+  },
+  {
     "title_en": "Serum aromatic l-amino acid decarboxylase activity as a biomarker for prodromal and manifest Parkinson's disease.",
     "title_zh": "Serum aromatic l-amino acid decarboxylase activity as a biomarker for prodromal and manifest Parkinson's disease.",
     "journal": "EBioMedicine",
@@ -58,6 +78,16 @@
     "date": "2026 Jul 10",
     "pmid": "42432701",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42432701/"
+  },
+  {
+    "title_en": "Ultrasound-Driven Piezoelectric Nanomaterial Platform Enables Wireless Neuromodulation for Parkinson's Disease.",
+    "title_zh": "Ultrasound-Driven Piezoelectric Nanomaterial Platform Enables Wireless Neuromodulation for Parkinson's Disease.",
+    "journal": "Acta biomaterialia",
+    "impact_factor": 9.6,
+    "abstract": "Parkinson's disease (PD) is characterized by progressive dysfunction of the basal ganglia circuitry, leading to both motor and cognitive impairments. Current neuromodulation strategies for deep brain targets remain highly invasive and lack precise spatiotemporal controllability. For example, traditional deep brain stimulation offers substantial relief from PD's movement-related symptoms by surgically placing electrodes in the subthalamic nucleus (STN), but this procedure carries substantial risks including intracranial hemorrhage and infection. Herein, we report an ultrasound-driven piezoelectric neuromodulation platform for minimally invasive regulation of STN-associated circuitry in PD. Barium titanate piezoelectric nanoparticles (BTNPs) with a typical non-centrosymmetric tetragonal phase were fabricated and stereotactically delivered into the STN. Upon ultrasound stimulation, BTNPs generated localized microelectric signals through piezoelectric conversion for wireless modulation of neuronal activity. Ultrasound-activated BTNPs modulated neuronal activity within the STN-associated basal ganglia circuitry and increased movement-evoked dopamine release in the striatum, suggesting improved nigrostriatal dopaminergic function. These effects were accompanied by increased tyrosine hydroxylase expression and reduced dopaminergic neuronal loss in the substantia nigra. Following a one-week treatment with targeted STN neuromodulation, PD mice showed significant enhancements in both motor and cognitive abilities. Collectively, this work establishes a controllable and minimally invasive piezoelectric strategy for deep-brain neuromodulation and provides mechanistic insight into STN-associated circuit regulation in PD. STATEMENT OF SIGNIFICANCE: Deep brain stimulation is effective for Parkinson's disease (PD) but requires surgically implanted electrodes and battery-powered pulse generators. Here, we present an ultrasound-driven piezoelectric nanomaterial platform that enables wireless neuromodulation of deep brain regions. Piezoelectric BaTiO3 nanoparticles were stereotactically delivered into the subthalamic nucleus, where ultrasound stimulation triggered localized electromechanical transduction, enabling neuronal modulation without implanted electrodes. In an MPTP-induced PD mouse model, this approach alleviated motor and cognitive deficits, restored pathological neural activity, and enhanced movement-evoked dopamine release. Furthermore, chemogenetic manipulation confirmed that subthalamic nucleus activity mediates these therapeutic effects. This study establishes a biomaterial-enabled strategy for wireless deep brain neuromodulation and advances non-electrode-based neuromodulation for PD.",
+    "date": "2026 Jul 8",
+    "pmid": "42419549",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42419549/"
   },
   {
     "title_en": "Correlative ultrastructural mapping of Lewy pathology reveals regional diversity in Parkinson's and dementia with Lewy bodies.",
@@ -248,6 +278,26 @@
     "date": "2026 Jul 10",
     "pmid": "42432783",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42432783/"
+  },
+  {
+    "title_en": "Midbrain dopamine loss drives parvalbumin interneuron vulnerability through tissue plasminogen activator-linked perineuronal-net breakdown and hippocampal disinhibition.",
+    "title_zh": "Midbrain dopamine loss drives parvalbumin interneuron vulnerability through tissue plasminogen activator-linked perineuronal-net breakdown and hippocampal disinhibition.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Midbrain dopaminergic degeneration is an early feature of Alzheimer's Disease (AD), dementia with Lewy bodies (DLB), and AD-Parkinson's disease overlap (AD-PD). However, its direct contribution to the failure of hippocampal inhibitory-circuits, a pathological feature shared across these conditions, remains unresolved. Parvalbumin-positive interneurons (PV-INs) regulate hippocampal excitation-inhibition balance and are directly modulated by dopamine (DA). These neurons are protected by perineuronal nets (PNNs), extracellular-matrix structures supporting fast GABAergic signaling and neuronal resilience. We tested whether midbrain-derived DA loss is sufficient to destabilize hippocampal PV-IN function, potentially promoting their vulnerability or affecting PNN integrity. Through stereotaxic unilateral 6-hydroxy-dopamine lesion of the Ventral Tegmental Area/Substantia Nigra pars compacta in C57BL/6 N mice, we reduced the hippocampal DA tone and midbrain-derived synaptic input onto PV-INs. At 1-month post-lesion, PV-IN numbers were preserved, but the PNN integrity was reduced, accompanied by increased expression of tissue plasminogen activator (tPA), a PNN-remodeling protease. In CA1 pyramidal neurons, spontaneous inhibitory postsynaptic currents showed reduced frequency with faster decay, and bicuculline unmasked heightened population-spike excitability. By 6-months post-lesion, PV-IN numbers declined significantly, especially in CA1, demonstrating progressive vulnerability. D2/D3 receptor (D2/D3R) activation with quinpirole normalized tPA levels in PV-INs ex vivo, restored PNN integrity after sub-chronic treatment in vivo and increased inhibitory postsynaptic-event frequency, indicating functional recovery of GABAergic drive. These findings support the involvement of a DA-D2/D3R-tPA axis contributing to PV-IN extracellular-matrix integrity and hippocampal inhibitory tone. They also demonstrate that DA depletion is sufficient to trigger PNN breakdown, reduce GABAergic inhibition, network hyperexcitability, and cause progressive PV-IN loss independently of canonical protein aggregates like Abeta, tau or alpha-synuclein, characteristic of AD, DLB or AD-PD. This mechanism links midbrain degeneration to hippocampal circuit failure, highlighting D2/D3R signaling and extracellular proteolysis as actionable targets for early circuit stabilization across AD, DLB, and AD-PD.",
+    "date": "2026 Jul 8",
+    "pmid": "42419633",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42419633/"
+  },
+  {
+    "title_en": "Uncertainty-Enhanced Spatiotemporal Framework for Sit-to-Stand Temporal Segmentation in Parkinson's Disease.",
+    "title_zh": "Uncertainty-Enhanced Spatiotemporal Framework for Sit-to-Stand Temporal Segmentation in Parkinson's Disease.",
+    "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+    "impact_factor": 5.2,
+    "abstract": "Automated temporal segmentation of sit-to-stand (STS) transitions in Parkinson's disease (PD) patients presents significant challenges due to multi-scale temporal dynamics, boundary ambiguity, and severe class imbalance in continuous video streams. Existing STS assessment approaches primarily focus on pre-segmented action recognition rather than frame-level temporal localization, limiting their applicability for long-term home-based monitoring. To address these limitations, we propose an uncertainty-enhanced spatiotemporal framework that integrates graph convolutional networks with uncertainty modeling for precise temporal action segmentation. Specifically, we develop a novel spatiotemporal architecture that synergistically combines graph-based spatial joint modeling with hierarchical multi-scale temporal feature pyramids to capture complex movement patterns across different time scales. Moreover, we introduce Gaussian boundary uncertainty modeling that transforms sharp binary transitions into smooth probabilistic representations, capturing the gradual and ambiguous nature of pathological movement boundaries. Furthermore, we design a dual-head architecture that jointly optimizes action segmentation and boundary uncertainty estimation to effectively handle severe class imbalance and inherent annotation ambiguity in clinical data. Additionally, we develop a boundary-aware postprocessing mechanism that leverages learned uncertainty estimates for improved temporal localization. Comprehensive experiments on the real-world PD dataset demonstrate superior performance with 92.59% F1@50 (segment-level F1 at 50% overlap) and 81.78% mIoU (mean Intersection over Union), outperforming existing temporal action segmentation methods. Ablation studies validate the effectiveness of each component, with statistical analysis confirming consistent performance across 5-fold cross-validation. Our framework establishes a foundation for continuous, automated mobility monitoring in clinical telemedicine applications, enabling precise detection of STS transitions from standard video recordings without requiring manual segmentation.",
+    "date": "2026 Jul 8",
+    "pmid": "42418376",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42418376/"
   },
   {
     "title_en": "Is continuous dopaminergic delivery still a major goal to be achieved in the treatment of Parkinson's disease?",
