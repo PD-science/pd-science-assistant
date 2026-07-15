@@ -1,0 +1,292 @@
+[
+  {
+    "title_en": "Astrocytic lipid dysregulation as an early driver of neurodegeneration.",
+    "title_zh": "Astrocytic lipid dysregulation as an early driver of neurodegeneration.",
+    "journal": "Nature reviews. Neurology",
+    "impact_factor": 33.1,
+    "abstract": "Astrocytes have traditionally been cast as supportive glia, but they are increasingly recognized as metabolic hubs that regulate cholesterol synthesis, fatty acid detoxification, lipid droplet dynamics and redox homeostasis in the CNS. Neurons have a limited intrinsic capacity for lipid storage and detoxification and rely heavily on astrocytes to maintain a safe lipid environment. Emerging evidence indicates that dysregulation of astrocytic lipid homeostasis precedes overt neuronal degeneration in a range of neurodegenerative diseases, including Alzheimer disease, Parkinson disease, amyotrophic lateral sclerosis, frontotemporal dementia and Huntington disease. Perturbations in astrocytic lipid handling can drive maladaptive reactive states, promote oxidative stress, impair lysosomal and mitochondrial function and disrupt neuron-glia lipid exchange, collectively creating an environment that leads to neurodegeneration. Therefore, lipid dysregulation within astrocytes could trigger or amplify neuronal vulnerability. In this Review, we assess evidence that astrocytic lipid metabolism is not solely protective or pathological but has instructive physiological roles and that astrocytic lipid dysregulation is an early driver of neurodegeneration. We critically evaluate disease-specific evidence, distinguishing correlative observations from causal mechanisms. We propose that targeting of astrocytic lipid homeostasis represents a promising strategy for preventing or minimizing neurodegeneration and opens new avenues for early detection and biomarker development.",
+    "date": "2026 Jul 13",
+    "pmid": "42443387",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42443387/"
+  },
+  {
+    "title_en": "Detergent-like Toxicity Mechanism of Amyloid Cylindrins Revealed by Cross-Link Spin Labeling Electron Spin Resonance.",
+    "title_zh": "Detergent-like Toxicity Mechanism of Amyloid Cylindrins Revealed by Cross-Link Spin Labeling Electron Spin Resonance.",
+    "journal": "Journal of the American Chemical Society",
+    "impact_factor": 15.6,
+    "abstract": "Amyloid oligomers are considered to be the most toxic species in neurodegenerative diseases, such as Alzheimer's, and Parkinson's, among others. A major challenge in studying amyloid oligomers has been their heterogeneous character, coupled with a lack of methods that can probe targeted, localized structural information. In this paper, we show that in detergent micelles, the oligomeric state of amyloid cylindrin peptide K11 V increases from a hexamer to an octamer. This reveals a detergent-like toxicity mechanism of the K11 V peptide, in which the octamer-form extracts lipids from biological membranes. The findings are confirmed by Alphafold simulations, showing that the octamer has a beta-barrel structure, with a pore stabilized by using the unbranched hydrophobic tails of the detergent molecules. The experimental results are obtained by a unique electron spin resonance (ESR)-based methodology that can be applied to amyloidogenic proteins to uncover inaccessible amyloid oligomer structures. The process involves (1) stabilization of the minimal amyloid oligomer domain, using a cross-linking bifunctional nitroxide spin label, combined with (2) an oligomer stabilizing mutation, (3) DEER spectroscopy, which can be performed in a native environment, and (4) T1-edited DEER measurements, which can validate structure in samples with heterogeneous populations, combined with (5) a model-free distance reconstruction approach that can analyze distance distributions with inverted distance components, ideal for analysis of T1-edited DEER.",
+    "date": "2026 Jul 13",
+    "pmid": "42439854",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42439854/"
+  },
+  {
+    "title_en": "The role of AI-assisted drug repurposing in neurological disorders: a systematic review of validation strategies, challenges and opportunities.",
+    "title_zh": "The role of AI-assisted drug repurposing in neurological disorders: a systematic review of validation strategies, challenges and opportunities.",
+    "journal": "Journal of nanobiotechnology",
+    "impact_factor": 12.6,
+    "abstract": "Neurological disorders refer to a diverse group of conditions that affect the brain, peripheral nerves, and spinal cord and impair socioemotional, cognitive, motor, and sensory functions. Alzheimer's disease (AD), Multiple Sclerosis (MS), Parkinson's disease (PD), Huntington's disease (HD), and Amyotrophic Lateral Sclerosis (ALS) are some of the well-known neurodegenerative diseases that affect millions of people worldwide. Despite the advanced technologies and nano-drug delivery systems, the success rate of developing drugs for neurological disorders is significantly low. Among several constraints, including gastrointestinal irritation, rapid metabolism, and low stability, the blood-brain barrier (BBB) emerges as one of the key challenges in the development and application of drugs against neurological disorders. These challenges necessitate innovative approaches to develop cost-effective therapeutic strategies. Drug repurposing, the discovery of new therapeutic benefits of existing drugs, is a promising drug discovery approach for discovering potential treatment options for complex neurological disorders. This review aims to explore the advanced and significant progress in drug repurposing for major neurological disorders, including MS, AD, PD, ALS, HD, stroke, and neuropsychiatric conditions. It places an explicit emphasis on discussing the potential role of artificial intelligence (AI)-assisted drug repurposing and understanding of the biological mechanisms in discovering new drugs for these neurological conditions. This also examines current challenges in drug repurposing and provides a critical review of the available opportunities and limitations in AI-assisted drug repurposing.",
+    "date": "2026 Jul 10",
+    "pmid": "42432671",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432671/"
+  },
+  {
+    "title_en": "Modeling Parkinson's pathology in human iPSC dopaminergic neurons uncovers key mechanisms of Lewy body formation and heterogeneity.",
+    "title_zh": "Modeling Parkinson's pathology in human iPSC dopaminergic neurons uncovers key mechanisms of Lewy body formation and heterogeneity.",
+    "journal": "Science advances",
+    "impact_factor": 12.5,
+    "abstract": "The aggregation of alpha-synuclein (aSyn) into intraneuronal inclusions of heterogeneous morphology, known as Lewy bodies (LBs), is a defining hallmark of Parkinson's disease (PD); yet, our understanding of the mechanisms underpinning their formation and heterogeneity remains incomplete. Here, we present a human isogenic induced pluripotent stem cell-derived dopaminergic neuron (iDA) model that faithfully recapitulates the diverse biochemical, morphological, and ultrastructural features of LB neuropathology. The iDA model accurately reproduces the temporal relationships between neuritic and cell-body aSyn pathology and recapitulates the proteome, posttranslational modifications, and morphological diversity of aSyn aggregates found in human PD tissue. Moreover, our work provides critical insight into how different pathways to aSyn fibrillization and the complex interaction between aSyn fibrils and membranous organelles shape the morphological diversity of LB-like inclusions. This model represents a versatile platform to investigate the mechanisms of pathology formation, maturation, and neuronal dysfunction and to develop diagnostics and therapeutics that account for the diversity of aSyn pathology in PD and related synucleinopathies.",
+    "date": "2026 Jul 10",
+    "pmid": "42430493",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430493/"
+  },
+  {
+    "title_en": "Branched-chain amino acids and gut microbiota: coregulation and impact on neurological function via the gut-brain axis.",
+    "title_zh": "Branched-chain amino acids and gut microbiota: coregulation and impact on neurological function via the gut-brain axis.",
+    "journal": "Gut microbes",
+    "impact_factor": 11.0,
+    "abstract": "Diseases that cause neurological dysfunction, such as Parkinson's disease (PD), Alzheimer's disease (AD), and maple syrup urine disease (MSUD), among others, are characterized by complex and multifaceted etiologies. There is growing evidence that branched-chain amino acids (BCAAs), regulated by the gut microbiota, play a critical role in the development of the central nervous system (CNS) disorders. This review focuses on the potential role of branched-chain amino acid metabolism in regulating brain function and gut microbiota. First, we summarize the current understanding of BCAAs, encompassing their biochemical metabolism, function, and systemic metabolic mechanisms. Subsequently, we delve into the mechanisms through which the gut microbiota regulates branched-chain amino acid metabolism, along with its mechanistic insights and recent evidence of its impact on neurological disorders. Finally, we discuss future research directions and challenges regarding gut BCAAs metabolism as a potential treatment for brain and gastrointestinal dysfunction.",
+    "date": "2026 Dec 31",
+    "pmid": "42444486",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42444486/"
+  },
+  {
+    "title_en": "Tertiary lymphoid structures in neuroinflammation coordinate neuroimmune homeostasis and pathological progression.",
+    "title_zh": "Tertiary lymphoid structures in neuroinflammation coordinate neuroimmune homeostasis and pathological progression.",
+    "journal": "Journal of neuroinflammation",
+    "impact_factor": 10.1,
+    "abstract": "The central nervous system (CNS) has long been considered immune privilege due to the blood-brain barrier, lack of traditional lymphatic drainage, and unique immune microenvironment. However, recent neuroimmunology research has demonstrated that the CNS maintains continuous communication with the peripheral immune system via meningeal lymphatic vessels, lymphoid systems, and border-associated macrophages. This paradigm shift has brought tertiary lymphoid structures (TLSs), ectopic lymphoid aggregates induced by chronic inflammation, infection, or tumors, into focus as key players in neuroimmune interactions. TLSs exert a dual effect in neuroinflammation. In infectious diseases like viral encephalitis, they promote local antibody production and T cell responses, aiding pathogen clearance. In contrast, in multiple sclerosis, autoimmune encephalitis, Alzheimer's disease, and Parkinson's disease, TLSs may sustain chronic inflammation, drive autoantibody production, and accelerate neurodegeneration. This review systematically summarizes the composition, induction mechanisms, and functional heterogeneity of TLSs across neurological diseases. We discuss their protective versus pathogenic roles in neuroinflammation and highlight their diagnostic value and therapeutic potential, aiming to provide new insights for precision intervention in neuroimmunological disorders.",
+    "date": "2026 Jul 10",
+    "pmid": "42432701",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432701/"
+  },
+  {
+    "title_en": "Dopaminergic neurons preferentially accumulate mtDNA rearrangements.",
+    "title_zh": "Dopaminergic neurons preferentially accumulate mtDNA rearrangements.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "High levels of mitochondrial DNA (mtDNA) deletions have been described in the substantia nigra. However, the mechanisms involved are poorly understood. We found that transient expression of a mitochondrial targeted restriction endonuclease (mitoPstI) in mice leads to an accumulation of mtDNA rearrangements that involve both the PstI cleavage sites and unrelated specific regions of the mtDNA, including the MTERF1 binding site and the edge of the D-loop. This pattern of rearrangements after double-strand breaks supports the presence of recombination hotspots in the mtDNA. Transient expression of mitoPstI in dopaminergic neurons led to further accumulation of mtDNA rearrangements in dopaminergic neurons after expression was suppressed, a pattern that was not observed in glutamatergic neurons. This accumulation was also blunted when a mtDNA replisome factor was absent, suggesting that robust mtDNA replication is required for the accumulation of preexisting mtDNA rearrangements in dopaminergic neurons over time.",
+    "date": "2026 Jul 21",
+    "pmid": "42446990",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42446990/"
+  },
+  {
+    "title_en": "Targeted alpha-synuclein mRNA degradation by PMO-based RNA-degrading chimeras.",
+    "title_zh": "Targeted alpha-synuclein mRNA degradation by PMO-based RNA-degrading chimeras.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "alpha-Synucleinopathies are devastating neurodegenerative diseases characterized by pathological accumulation of a neuronal protein, alpha-synuclein (alphaSyn). Lowering soluble alphaSyn levels is a promising therapeutic strategy to limit aggregation and neurotoxicity, but directly targeting this protein is hindered by its intrinsically disordered structure and other factors, such as its conformational heterogeneity and intracellular drug delivery barriers. Consequently, increasing attention has been directed toward targeting the SNCA transcript, which encodes alphaSyn. Here, we developed phosphorodiamidate morpholino oligonucleotide (PMO)-based RNA-degrading chimeras (RDCs) that selectively bind the 5' untranslated region of SNCA messenger RNA (mRNA) and recruit RNase L for targeted RNA degradation. Through the systematic evaluation of nine RDCs, we identified and optimized 4-D1, which effectively reduced SNCA mRNA and alphaSyn protein expression in HEK293T cells in an RNase L-dependent manner. 4-D1 lowered SNCA transcript and alphaSyn protein levels in both primary cortical neurons from humanized SNCA mice and in human induced pluripotent stem cell-derived cortical neurons. This reduction prevented prion-like seeding induced by patient-derived alphaSyn fibrils and protected neurons from fibril-induced cytotoxicity. Finally, in vivo studies confirmed the efficacy of 4-D1 in reducing alphaSyn mRNA expression in humanized SNCA mice. These findings indicate that PMO-based RDCs may represent a promising therapeutic modality for alpha-synucleinopathies.",
+    "date": "2026 Jul 21",
+    "pmid": "42446976",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42446976/"
+  },
+  {
+    "title_en": "Alpha-synuclein-decorated nanoconjugates targeting alpha-synuclein assembly.",
+    "title_zh": "Alpha-synuclein-decorated nanoconjugates targeting alpha-synuclein assembly.",
+    "journal": "International journal of biological macromolecules",
+    "impact_factor": 8.5,
+    "abstract": "Alpha-synuclein (alphaS) is a neuronal protein implicated in synaptic regulation, whose pathological aggregation is a hallmark of synucleinopathies, including Parkinson's disease. Despite its physiological importance, its intrinsically disordered nature and conformational plasticity complicate both mechanistic understanding and therapeutic targeting. Here, we investigate the use of protein-functionalized nanoparticles (NPs) as tools to modulate and probe alphaS assembly pathways, including aggregation and liquid-liquid phase separation. We designed three nanoconjugates by covalently attaching single-cysteine alphaS variants at positions 18, 76, and 140, spanning the protein's three functional regions, onto PEG-coated silica NPs. These conjugates preserved the disordered character of alphaS, exhibited low cytotoxicity, and were internalized into neuronal cells. Functional assays revealed site-dependent effects on aggregation: NP-alphaS(A76C) significantly delayed alphaS fibril formation and further inhibited aggregation of the amyloidogenic tau protein, suggesting interference with nucleation mechanisms, while NP-alphaS(A18C) modestly accelerated aggregation and showed strong affinity for mature fibrils. All nanoconjugates partitioned into alphaS condensates, though without marked site-specific differences, and interacted with model lipid membranes. Overall, alphaS-functionalized NPs influence protein aggregation and condensate interactions, with context-dependent site specificity. These findings highlight the importance of conjugation position in tuning NP-protein interactions and underscore the potential of these nanoconjugates for investigating and modulating pathological protein assembly in neurodegenerative diseases.",
+    "date": "2026 Jul 13",
+    "pmid": "42442584",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42442584/"
+  },
+  {
+    "title_en": "Multi-omics integration combined with multi-source weighted analysis identifies a key microRNA combination that reverses alpha-synuclein aggregation and pathological phenotypes in Parkinson's disease.",
+    "title_zh": "Multi-omics integration combined with multi-source weighted analysis identifies a key microRNA combination that reverses alpha-synuclein aggregation and pathological phenotypes in Parkinson's disease.",
+    "journal": "International journal of biological macromolecules",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND: Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by pathological aggregation of alpha-synuclein and selective loss of dopaminergic neurons. The molecular mechanisms involving microRNA regulation of protein homeostasis remain incompletely understood. METHODS: We integrated single cell RNA-seq, miRNA-seq, bulk RNA-seq, weighted gene co-expression network analysis (WGCNA), and multi-source weighted data integration to screen key miRNAs and core gene modules. The candidate miRNA combination was validated in an MPP(+)-induced SH-SY5Y PD cell model by measuring TH, DAT, SNCA and LRRK2 using ELISA, and TUJ1 and MAP2 using immunofluorescence. RESULTS: Six miRNAs (miR-194-5p, miR-95-3p, miR-1303, miR-889-3p, miR-6506-5p, miR-1287-5p) were identified. Their combined transfection restored cell viability to ~98%, reversed PD-like morphology, reduced SNCA by ~46% and LRRK2 by ~51%, restored TH (~4.4-fold) and DAT (~3.6-fold), and induced neuronal fate transition. CONCLUSIONS: This six-miRNA combination modulates multiple PD-related proteins, reverses PD-like cellular phenotypes in vitro, and induces neuronal-like marker expression, providing a preliminary basis for developing potential protein-targeted therapeutic strategies for PD.",
+    "date": "2026 Jul 10",
+    "pmid": "42431487",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42431487/"
+  },
+  {
+    "title_en": "Parkinson Disease: Think Before You Step.",
+    "title_zh": "Parkinson Disease: Think Before You Step.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 11",
+    "pmid": "42430686",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430686/"
+  },
+  {
+    "title_en": "Estimates of Incidence and Prevalence of Conversions to Mild Cognitive Impairment and Dementia in Patients With Essential Tremor.",
+    "title_zh": "Estimates of Incidence and Prevalence of Conversions to Mild Cognitive Impairment and Dementia in Patients With Essential Tremor.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: It is increasingly recognized that cognitive decline is a feature of essential tremor (ET). However, studies of the prevalence, incidence, and annual conversion proportions to mild cognitive impairment (MCI) and dementia are based on limited data, and results are heterogeneous. METHODS: Older individuals with ET were enrolled in a prospective longitudinal study of cognitive function. Recruitment was national, and participants resided in 43 states. Extensive neuropsychological testing was conducted during home visits at baseline and again during follow-up visits at 18, 36, 56, 72, and 90 months (M years of observation = 4.7 years, maximum = 7.5 years). Participants were assigned a cognitive diagnosis of normal cognition (NC), MCI, or dementia by expert consensus based on the detailed assessments conducted during each visit. Prevalence, incidence, and annual conversion proportions to MCI and dementia were calculated. We also performed a systematic review of the relevant literature followed by a meta-analysis to derive pooled estimates of prevalence, incidence, and annual conversion proportions for comparison purposes. RESULTS: There were 350 participants, M baseline age = 79.6 years, 60.6% female. Cumulative prevalences of MCI and dementia were 22.0% (95% confidence interval [CI] = 18.0-26.6) and 14.6% (95% CI = 11.3-18.7), cumulative incidences were 12.9% (95% CI = 9.3-17.6) and 10.2% (95% CI = 7.2-14.2), respectively, and the average annual proportion of conversions from MCI to dementia was 13.8%. Pooled estimates of these values were derived from meta-analyses of our data and existing studies of ET cohorts, general population cohorts, and Parkinson disease (PD) cohorts. The burden of MCI and dementia in ET was overall substantially higher than that observed in the general population yet lower than that seen in PD. DISCUSSION: The data document the longitudinal trajectory of cognitive impairment in ET in the largest available sample to date. Whether considered as stand-alone results, or when combined with data from the extant literature, the occurrence of MCI and dementia in ET is higher than observed in same age members of the general population, but is less pronounced than observed in same aged individuals with PD.",
+    "date": "2026 Aug 11",
+    "pmid": "42430684",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430684/"
+  },
+  {
+    "title_en": "Dual Dopaminergic and Limbic-Cognitive Contributions to Gait Parameters in De Novo Parkinson Disease.",
+    "title_zh": "Dual Dopaminergic and Limbic-Cognitive Contributions to Gait Parameters in De Novo Parkinson Disease.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: Parkinson disease (PD) is a progressive neurodegenerative disease in which gait impairment is a common and disabling clinical feature. We aimed to characterize the independent and mediated contributions of striatal dopamine transporter (DAT) availability and gray matter (GM) volume to quantitative gait impairment in de novo PD. METHODS: In this prospective study, we consecutively recruited patients with de novo PD fulfilling the UK Brain Bank clinical criteria and healthy controls (HCs) without focal neurologic symptoms and parkinsonism at Wonju Severance Christian Hospital. All participants underwent GAITRite-based gait analysis, and patients further underwent brain MRI for GM volumetry, (18)F-FP-CIT PET for striatal DAT availability, and motor and cognitive assessments. After exploratory gait-related correlation analyses, causal mediation analyses tested whether the effects of neuroimaging biomarkers on gait parameters were mediated by cognition or motor symptom severity. RESULTS: A total of 122 patients with de novo PD (mean age, 69.66 years; 45.90% female) and 177 HCs (mean age, 72.07 years; 51.41% female) were enrolled. Compared with HCs, patients with PD showed slower velocity, shorter step/stride lengths, reduced swing and single-support time, increased double-support time, and greater dispersion across multiple gait domains. Limbic-related GM volumes were associated with step/stride lengths and temporal phase composition, and these associations were substantially mediated by global cognition (representative ACMEs [95% CIs] for stride length: posterior cingulate cortex, 1.9559 [0.5606-4.2238]; hippocampus, 3.6722 [1.0707-8.2118]; thalamus, 2.8794 [0.0408-7.2535]; amygdala, 4.9696 [1.8241-10.3405]; proportions mediated, 19%-50%). Lower putaminal DAT availability was associated with greater stance time and double-support time variability, whereas lower caudate DAT availability was associated with longer swing and single-support time and altered phase parameters. These associations were not significantly mediated by bradykinesia/rigidity scores; direct effects remained significant (ADEs [95% CIs]: caudate-swing time, -0.0237 [-0.0428 to -0.0086]; putamen-double-support time variability, -2.0249 [-3.1445 to -0.8835]). DISCUSSION: These findings support a dual-pathway model of gait regulation in patients with de novo PD, where striatal dopaminergic denervation directly affects gait rhythmicity, whereas limbic system atrophy affects gait through direct and cognition-mediated pathways. This medication-naive cohort may limit generalizability to the broader PD spectrum.",
+    "date": "2026 Aug 11",
+    "pmid": "42430674",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42430674/"
+  },
+  {
+    "title_en": "Spatiotemporal deep learning for early detection of isolated REM sleep behavior disorder and Parkinson's disease using functional MRI data.",
+    "title_zh": "Spatiotemporal deep learning for early detection of isolated REM sleep behavior disorder and Parkinson's disease using functional MRI data.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "This study aimed to develop and evaluate a spatiotemporal deep-neural-network (stDNN) using resting-state fMRI (rs-fMRI) data to identify brain biomarkers associated with isolated REM sleep behavior disorder (iRBD) and Parkinson's disease (PD) and to differentiate these conditions from controls. The final sample included 771 subjects, comprising 423 patients with PD, 144 with iRBD, and 204 healthy controls. stDNN model was applied to mean timeseries extracted for each subject from rs-fMRI data. By integrating spatio-temporal features, the network classified subjects based on distinct neural patterns. Model generalizability was assessed using subject-wise k-fold cross-validation. Explainable artificial intelligence (XAI) methods were applied. stDNN achieved balanced accuracy rates of 71.0% in distinguishing controls from PD and up to 71.9% in middle-stage PD cases. It also demonstrated over 80% accuracy in differentiating healthy controls from iRBD. XAI analysis highlighted the involvement of fronto-parietal and temporal regions, including the dorsolateral prefrontal cortex, and anterior temporal gyri, in distinguishing controls from PD. In the comparison with iRBD, key contributing areas included the bilateral superior and medial frontal gyri, dorsolateral prefrontal cortex, parietal and occipital regions (lingual gyri and cuneus). This study demonstrates the potential of stDNN to differentiate between iRBD, PD, and controls using rs-fMRI data.",
+    "date": "2026 Jul 14",
+    "pmid": "42443195",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42443195/"
+  },
+  {
+    "title_en": "Plasma pTau217 and pTau231 predict progression to dementia in Parkinson's disease: a prospective longitudinal study.",
+    "title_zh": "Plasma pTau217 and pTau231 predict progression to dementia in Parkinson's disease: a prospective longitudinal study.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "This prospective study evaluated the prognostic utility of Alzheimer's disease-related plasma biomarkers (phosphorylated tau [pTau217 and pTau231], the amyloid-beta [Abeta] 42/40 ratio) and neurofilament light chain (NfL) in 123 Parkinson's disease (PD) patients and 40 controls. Over a mean 5.1-year follow-up, 35 of 109 initially non-demented PD patients (32.1%) progressed to dementia. Plasma pTau217 and NfL levels were elevated, whereas the Abeta42/40 ratio was reduced, in cognitively impaired PD groups versus controls. Baseline pTau217 accurately differentiated dementia converters from non-converters (AUC = 0.877; 95% CI: 0.798-0.956). Patients with pTau217 >/= 0.268 pg/mL had a higher risk of dementia progression (HR: 5.49; 95% CI: 2.37-12.74). This risk was further elevated in patients in the highest quartile ( >/= 0.36 pg/mL; HR: 11.35; 95% CI: 2.60-49.59) versus the lowest quartile ( < 0.20 pg/mL). Similarly, the pTau231 cut-off ( >/= 2.575 pg/mL) predicted an increased risk of dementia (HR: 3.89; 95% CI: 1.67-9.03). Both pTau217 and pTau231 demonstrated high predictive performance in Cox models (C-index: 0.806 and 0.796, respectively). Plasma NfL exhibited longitudinal increases during follow-up. Baseline plasma pTau217 and pTau231 serve as surrogate markers for predicting dementia progression in PD. Further validation of these biomarker cut-off values is warranted.",
+    "date": "2026 Jul 11",
+    "pmid": "42436138",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42436138/"
+  },
+  {
+    "title_en": "Home-based deep sleep modulation in Parkinson's disease: extension study on long-term feasibility and sleep-related outcomes.",
+    "title_zh": "Home-based deep sleep modulation in Parkinson's disease: extension study on long-term feasibility and sleep-related outcomes.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "This study assessed feasibility and effects of a randomised two-week, at-home intervention with phase-targeted auditory stimulation (PTAS) of slow waves in Parkinson's disease (PD). We reproduced previously reported enhancement of slow wave activity and confirmed indications of improved patient-reported outcomes. Together with the high adherence and data quality, this suggests that home-based PTAS protocols are a feasible method for investigating the long-term therapeutic potential of deep sleep enhancement in PD.",
+    "date": "2026 Jul 10",
+    "pmid": "42431926",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42431926/"
+  },
+  {
+    "title_en": "The physiatrist in Parkinson's multidisciplinary care: from orchestra member to orchestra director.",
+    "title_zh": "The physiatrist in Parkinson's multidisciplinary care: from orchestra member to orchestra director.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) is the fastest-growing neurodegenerative disorder worldwide. It is characterized by a heterogeneous spectrum of motor and non-motor symptoms that lead to progressive disability, which is often insufficiently addressed by pharmacological or surgical treatments alone. Optimal management of individuals living with PD, therefore, requires a multidisciplinary team approach that integrates comprehensive functional assessment with both pharmacological and non-pharmacological strategies. A person-centered framework is essential to ensure continuity, coherence, and tailored rehabilitation across disease stages. Within this context, physiatrists (rehabilitation medicine physicians) may play a pivotal role; however, their specific contributions to PD care remain insufficiently defined. This position paper presents the rationale, reviews the supporting evidence, and provides practical recommendations to strengthen and clarify the role of physiatrists in the comprehensive management of PD. We illustrate the versatile contributions of physiatrists using the metaphor of an orchestra, in which the physiatrist can play a valuable role as a member and, depending on local circumstances and the availability of possible alternatives, also as the director.",
+    "date": "2026 Jul 10",
+    "pmid": "42431909",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42431909/"
+  },
+  {
+    "title_en": "Supine hypertension as a distinct phenotype of neurogenic orthostatic hypotension with relatively preserved clinical function in Parkinson's disease.",
+    "title_zh": "Supine hypertension as a distinct phenotype of neurogenic orthostatic hypotension with relatively preserved clinical function in Parkinson's disease.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Supine hypertension (SH) frequently co-occurs with neurogenic orthostatic hypotension (nOH) in Parkinson's disease (PD), yet its clinical characteristics and autonomic status remain unclear. By comparing PD patients with coexisting nOH and SH against those with isolated nOH, we found that the PDOH + SH+ group displayed better cognitive function, lower burden of non-motor symptoms, and a higher quality of life. Notably, while patients with isolated nOH showed significant vagus nerve (VN) atrophy, the VN remained morphologically intact in patients with SH. These findings suggest that the presence of SH in patients with nOH denotes a distinct clinical phenotype of PD. Furthermore, this study provides valuable insights for addressing the therapeutic dilemma of managing PD OH and SH.",
+    "date": "2026 Jul 10",
+    "pmid": "42431883",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42431883/"
+  },
+  {
+    "title_en": "Intranasal dopamine: Anatomical pathways, biological mechanisms and neuromodulatory potential.",
+    "title_zh": "Intranasal dopamine: Anatomical pathways, biological mechanisms and neuromodulatory potential.",
+    "journal": "Neuroscience and biobehavioral reviews",
+    "impact_factor": 7.9,
+    "abstract": "Dopamine (DA) regulates motor control, motivation, learning and memory, cognition, and social behavior, and its dysregulation underlies a wide range of neurological and psychiatric disorders. In Parkinson's disease (PD), degeneration of dopaminergic neurons in the substantia nigra depletes striatal DA, making dopaminergic restoration a central therapeutic target. Because DA does not cross the blood-brain barrier (BBB), treatment relies on its precursor L-DOPA. Intranasal (IN) administration offers a non-invasive alternative: it enables rapid absorption, avoids hepatic first-pass metabolism, and provides partial brain access via nose-to-brain pathways, positioning IN-DA as a potential tool to directly influence central dopaminergic function. This review integrates current knowledge on IN-DA. We first examine nasal anatomy, the biological and physicochemical variables governing IN delivery, and the mechanisms of nose-to-brain transport, followed by a focused synthesis of IN-DA findings. Preclinical evidence shows that IN-DA and IN-L-DOPA increase extracellular DA levels and turnover in the striatum, with IN-DA appearing to enhance dopaminergic tone through presynaptic uptake and storage. Behaviorally, IN-DA produces state-dependent improvements across cognitive, emotional, and social domains, particularly in neuropsychiatric rodent models. Although nanoparticle-based DA formulations are being developed primarily to improve delivery efficiency for PD therapy, emerging evidence suggests that IN-DA may serve more broadly as a neuromodulatory approach for disorders involving catecholamine dysregulation.",
+    "date": "2026 Jul 11",
+    "pmid": "42435826",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42435826/"
+  },
+  {
+    "title_en": "Prospective Validation of the Movement Disorder Society Prodromal Multiple System Atrophy Criteria in Pure Autonomic Failure.",
+    "title_zh": "Prospective Validation of the Movement Disorder Society Prodromal Multiple System Atrophy Criteria in Pure Autonomic Failure.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: The Movement Disorder Society (MDS) research criteria for possible prodromal multiple system atrophy (PP-MSA) have not been prospectively validated. OBJECTIVE: To evaluate the diagnostic performance of the PP-MSA criteria in a longitudinal cohort of patients with pure autonomic failure (PAF) and to assess whether additional clinical features improve their predictive value. METHODS: Seventy-six patients with PAF enrolled across eight centers in the Natural History Study of the Synucleinopathies were followed for >/=6 years or until phenoconversion. Participants were classified according to MDS PP-MSA criteria and followed for development of MSA, Parkinson's disease, or dementia with Lewy bodies. Diagnostic performance was assessed longitudinally. Analyses were repeated using a stricter olfactory threshold (University of Pennsylvania Smell Identification Test [UPSIT]</=28) as an exclusion criterion. RESULTS: Thirty-eight participants met PP-MSA criteria, of whom 12 phenoconverted to MSA within 6 years. Sensitivity was 100% at year 1 and 92% at year 6, whereas specificity ranged from 56% to 67%. Positive predictive value (PPV) ranged from 21% to 34%. Applying a stricter olfactory threshold improved specificity (90%-97%) and PPV (53%-83%), with a modest reduction in sensitivity (to 83%). Participants who phenoconverted to MSA were younger, had more severe urinary dysfunction, and greater orthostatic heart rate responses. CONCLUSIONS: The PP-MSA criteria demonstrate high sensitivity but limited specificity in patients with PAF. A stricter olfactory threshold improves diagnostic performance and may enhance cohort enrichment for clinical trials. (c) 2026 International Parkinson and Movement Disorder Society. This article has been contributed to by U.S. Government employees and their work is in the public domain in the USA.",
+    "date": "2026 Jul 13",
+    "pmid": "42444112",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42444112/"
+  },
+  {
+    "title_en": "NRF2 ameliorates TBI-triggered Parkinsonism: synchronized antioxidant defense and neuroinflammation suppression.",
+    "title_zh": "NRF2 ameliorates TBI-triggered Parkinsonism: synchronized antioxidant defense and neuroinflammation suppression.",
+    "journal": "Brain, behavior, and immunity",
+    "impact_factor": 7.6,
+    "abstract": "Traumatic brain injury (TBI) confers long-term vulnerability to progressive neurological sequelae, including Parkinsonian-like symptoms. Impaired redox homeostasis and neuroinflammation may drive neurodegeneration post-TBI, while the pathological mechanisms and targetable molecular checkpoints remain unidentified. In this study, we found individuals with a history of TBI exhibited dopaminergic neuronal damage in the substantia nigra (SN), accompanied by increased oxidative stress and gliosis. Through 6-month longitudinal analysis of murine SN post-TBI, we uncovered insufficient NRF2 expression in the late phase in SN after TBI. Genetic Nrf2 ablation exacerbated PD (Parkinson's disease) -like motor deficits and alpha-synuclein aggregation in dopaminergic neuron in SN through the disruption of oxidative stress, glial reactivity and neuroinflammation. Conversely, pharmacological NRF2 activation using dimethyl fumarate (DMF) over 1, 3 and 6 months ameliorated oxidative damage and glial reactivity, suppressed pro-inflammatory cascades, and preserved motor function of TBI mice. These findings provide compelling evidence that NRF2 insufficiency as the key molecular linchpin for TBI-induced Parkinsonian‑like pathology. By coordinating antioxidant, anti-inflammatory, and glia-modulatory effects, NRF2 may serve as a potential therapeutic target for TBI-associated Parkinsonism or Parkinsonian-like neurodegeneration.",
+    "date": "2026 Jul 13",
+    "pmid": "42442674",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42442674/"
+  },
+  {
+    "title_en": "Repeat Ipsilateral Focused Ultrasound Thalamotomy after Tremor Recurrence: Safety, Efficacy, and Lesion Analysis.",
+    "title_zh": "Repeat Ipsilateral Focused Ultrasound Thalamotomy after Tremor Recurrence: Safety, Efficacy, and Lesion Analysis.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Magnetic resonance imaging (MRI)-guided focused ultrasound (MRgFUS) thalamotomy provides durable tremor control for most patients with essential tremor (ET) and tremor-dominant Parkinson's disease (TdPD), but tremor can recur. OBJECTIVES: To evaluate the safety, efficacy, and lesion characteristics of repeat MRgFUS thalamotomy for tremor recurrence. METHODS: We retrospectively analyzed patients undergoing repeat ipsilateral MRgFUS thalamotomy. Clinical Rating Scale for Tremor-Part A (CRST-A) assessed tremor severity preoperatively and 1 day, 1 week, 1 month, 3 months, and 1 year after retreatment. Outcomes, side effects, lesion volumes and locations, and treatment parameters were compared with initial procedures and an institutional one-time MRgFUS cohort (n = 535). RESULTS: Thirty patients (26 ET, 4 TdPD) underwent repeat thalamotomy with >/=3 months follow-up. Mean CRST-A improved from 5.37 preoperatively to 0.27 at day 1 (94.9% improvement), 2.00 (64.4%) at 3 months, and 2.50 (38.8%) at 1 year (all P </= 0.003 vs. baseline). Tremor recurred at similar rates after initial and repeat treatments. Repeat lesions were larger (526.3 vs. 414.1 mm(3), P = 0.025) and shifted anteriorly (+1.2 mm, P = 0.003). Initial lesion volume in retreatment patients was similar to the one-time cohort. Compared with initial treatments, patients more often experienced any side effect at 1 month (P = 0.023) and had more side effects at 1 month (P < 0.001) and 3 months (P = 0.014) after repeat treatment. Patient satisfaction was high and 85% of patients would choose retreatment again. CONCLUSIONS: Repeat ipsilateral MRgFUS thalamotomy restored tremor control after recurrence and achieved high patient satisfaction, despite increased side effects after repeat treatment and similar tremor progression rates after initial and repeat procedures. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 9",
+    "pmid": "42427136",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42427136/"
+  },
+  {
+    "title_en": "Multimodal biophysical markers of neurodegeneration: Morphology, mechanics, and thermodynamics.",
+    "title_zh": "Multimodal biophysical markers of neurodegeneration: Morphology, mechanics, and thermodynamics.",
+    "journal": "Current opinion in structural biology",
+    "impact_factor": 7.0,
+    "abstract": "The identification of novel noninvasive biomarkers remains a major challenge in the diagnosis of neurodegenerative diseases. Significant efforts focus on fluid biomarkers, including proteins, peptides, and miRNAs, detectable in blood plasma and peripheral blood cells. Here, we review recent findings on blood plasma and peripheral blood cells physical parameters in Alzheimer's disease, Parkinson's disease and amyotrophic lateral sclerosis emphasizing atomic force microscopy and calorimetry assay. Alterations in morphology, nanostructure, and stiffness of red blood cells and platelets, together with thermodynamic signatures of red blood cells and plasma, provide sensitive indicators of disease-related changes. These integrated biophysical parameters not only distinguish neurodegeneration from healthy states but also enable discrimination among different neurodegenerative disorders, highlighting their potential as minimally invasive diagnostic markers.",
+    "date": "2026 Jul 13",
+    "pmid": "42442024",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42442024/"
+  },
+  {
+    "title_en": "Calcineurin/NFAT signaling in the temporal integration of Ca(2)(+) stress in neurodegeneration.",
+    "title_zh": "Calcineurin/NFAT signaling in the temporal integration of Ca(2)(+) stress in neurodegeneration.",
+    "journal": "Cell death discovery",
+    "impact_factor": 7.0,
+    "abstract": "The calcineurin (CaN)/nuclear factor of activated T cells (NFAT) signalling axis is a Ca(2)(+)-responsive pathway that translates intracellular Ca(2)(+) signals into long-term transcriptional programmes. Chronic disruption of intracellular Ca(2)(+) homoeostasis is a convergent feature of neurodegenerative disorders, particularly Alzheimer's disease (AD) and Parkinson's disease (PD). In these conditions, sustained or repetitive Ca(2)(+) elevations promote prolonged activation of the CaN/NFAT pathway, thereby linking Ca(2)(+) dysregulation to persistent cellular responses. In this review, we summarise the molecular organisation and regulation of the Ca(2)(+)/CaN/NFAT pathway and discuss its physiological roles in neurons and glial cells, including synaptic plasticity, neurodevelopment, neurogenesis, and neuroinflammatory responses. We critically examine experimental evidence linking CaN/NFAT signalling to AD and PD, distinguishing direct mechanistic roles from associative and model-dependent findings. Across disease contexts, the CaN/NFAT axis appears to function as a molecular node at which diverse insults, including amyloid-beta and tau aggregates, alpha-synuclein toxicity, mitochondrial dysfunction, and chronic inflammatory cues, converge under conditions of sustained Ca(2)(+) dysregulation. We propose that the pathological relevance of CaN/NFAT lies less in pathway activation per se than in its capacity to convert chronic Ca(2)(+)-dependent stress signals into persistent transcriptional states affecting synaptic integrity, inflammatory tone, and cellular resilience. We conclude by discussing current therapeutic strategies targeting this pathway, their limitations, and the need for temporally and cell-type-specific modulation.",
+    "date": "2026 Jul 11",
+    "pmid": "42436132",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42436132/"
+  },
+  {
+    "title_en": "A Digital Cueing Intervention for Parkinsonian Gait: Laboratory-Based Clinical Validation and Acute Gait Responses.",
+    "title_zh": "A Digital Cueing Intervention for Parkinsonian Gait: Laboratory-Based Clinical Validation and Acute Gait Responses.",
+    "journal": "Journal of medical systems",
+    "impact_factor": 5.7,
+    "abstract": "Falls are common in people with Parkinson's (PwP). There is a need for a scalable, pragmatic, personalisable, and single device intervention to improve gait characteristics related to fall risk. CuePD is an app-only approach to deliver personalised auditory cues to retrain gait in PwP. This study aimed to clinically validate and evaluate effectiveness of CuePD in PwP and to explore their perceptions of CuePD. Sixty/60 PwP performed cued walks via metronome, instrumental and vocal music personalised to their baseline walking speed (cadence). PwP chose music from e.g., pop, rock genres. Cued walks were +10% on baseline cadence. We examined effectiveness of each cue and any carryover effects across non-cued walks. CuePD clinical validation (e.g., intraclass correlation coefficients, ICC((2,1))) was established against a reference standard. CuePD effectiveness was examined via improvement (e.g., standardised response means) of gait characteristics indicative of fall risk (stride length, walking speed, step time coefficient of variation). CuePD quantified fall relevant mean gait characteristics against a reference system with good-to-excellent agreement (ICC((2,1)) 0.849 - 0.986), though agreement was poor for several variability and asymmetry measures. Vocal music was the most preferred cue type, improving gait characteristics by increasing stride length (7cm, SRM of 0.873) and gait speed (0.115 m/s, SRM of 1.264), while reducing stride time coefficient of variation (-0.418%, SRM of-0.505). CuePD received positive feedback and is an app-only approach that is clinically valid to quantify mean gait characteristics and has demonstrated acute improvements in gait characteristics related to fall risk. Findings suggest that the personalised approach may have pragmatic utility beyond the lab, but ecological validity needs to be established.",
+    "date": "2026 Jul 11",
+    "pmid": "42435105",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42435105/"
+  },
+  {
+    "title_en": "Cross-disease LC-MS/MS plasma proteomics identifies reproducible shared and disease-enriched biomarker signatures in neurodegenerative disorders.",
+    "title_zh": "Cross-disease LC-MS/MS plasma proteomics identifies reproducible shared and disease-enriched biomarker signatures in neurodegenerative disorders.",
+    "journal": "Acta neuropathologica communications",
+    "impact_factor": 5.7,
+    "abstract": "Neurodegenerative diseases (NDDs) exhibit considerable molecular heterogeneity, making it difficult to pinpoint robust, disease-specific biomarkers. Although proteomic studies have deepened our understanding of individual disorders, systematic cross-disease comparisons with cross-platform validation remain scarce, especially for rare conditions like spinal and bulbar muscular atrophy (SBMA). To address this gap, we conducted a comparative plasma proteomic analysis using liquid chromatography-tandem mass spectrometry (LC-MS/MS) in 264 participants across major neurodegenerative and related diagnostic groups, including Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), SBMA, and cognitively healthy controls. This unified framework allowed us to capture both disease-specific and shared protein signatures across neurodegenerative conditions. Candidate proteins were then validated in the UK Biobank (Olink Explore) and the Global Neurodegeneration Proteomics Consortium (SomaScan). Of 23 proteins assessed in the UK Biobank, four unique proteins (yielding six disease-protein associations) showed nominally significant and directionally concordant changes; of 20 proteins represented by 27 probes tested in the Global Neurodegeneration Proteomics Consortium, seven proteins reached nominal significance, all with full directional concordance across both cohorts. Notably, IGFBP2 was consistently elevated in AD and PD across independent datasets, pointing to shared metabolic dysregulation, while ADIPOQ showed parallel increases in the same conditions, reinforcing convergent shifts in energy metabolism. By contrast, CRTAC1 and COMP were selectively reduced in motor neuron diseases, suggesting disease-enriched alterations in extracellular matrix composition. Taken together, our findings provide a cross-disease, cross-platform framework for uncovering reproducible proteomic biomarkers and shed light on both overlapping and distinct molecular pathways in neurodegeneration.",
+    "date": "2026 Jul 10",
+    "pmid": "42432783",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42432783/"
+  },
+  {
+    "title_en": "Technology-enabled telerehabilitation for Parkinson's disease: a scoping review of digital rehabilitation systems, delivery architectures, and implementation challenges.",
+    "title_zh": "Technology-enabled telerehabilitation for Parkinson's disease: a scoping review of digital rehabilitation systems, delivery architectures, and implementation challenges.",
+    "journal": "Journal of neuroengineering and rehabilitation",
+    "impact_factor": 5.2,
+    "abstract": "INTRODUCTION: Digital technologies are increasingly integrated into neurorehabilitation programs for Parkinson's Disease (PD), enabling remote delivery of therapy, continuous monitoring of motor performance, and adaptive feedback during rehabilitation training. Telerehabilitation systems incorporating wearable sensors, virtual reality platforms, mobile applications, and artificial intelligence (AI) have expanded rapidly in recent years. However, the evidence base remains fragmented across heterogeneous technological configurations, clinical contexts, and delivery models, limiting a comprehensive understanding of how digital rehabilitation systems are implemented in PD care. METHODS: This scoping review maps the current literature on telerehabilitation for PD with a focus on the technological architectures, care settings, and delivery models used in digital rehabilitation programs. Peer-reviewed studies published between 2020 and 2025 were identified through searches in PubMed with reference to Scopus and Web of Science. Eligible studies investigated remote rehabilitation interventions for PD using digital technologies such as wearable sensors, mobile health applications, virtual reality systems, and AI-supported monitoring tools. Evidence was analyzed across three domains: (i) technological components and digital rehabilitation systems, (ii) rehabilitation setting, and (iii) delivery model. RESULTS: Fifty-three studies met the inclusion criteria. Most interventions were home-based and implemented multi-component digital architectures combining teleconferencing platforms, wearable sensors, and mobile applications. Wearable sensing technologies were used in nearly half of the studies to quantify gait, balance, or tremor, while video platforms and mobile applications supported remote supervision and exercise delivery. Virtual reality systems and serious games were used to enhance engagement and taskspecific training, whereas AI techniques were increasingly integrated to support movement detection, monitoring, and adaptive feedback. Despite generally high usability and acceptability, substantial heterogeneity was observed in outcome measures, terminology, and safety reporting. Few studies explicitly described care pathways, delivery architectures, or long-term clinical outcomes. DISSCUSSION: Telerehabilitation for Parkinson's disease is evolving toward integrated digital rehabilitation ecosystems combining wearable sensing, software platforms, and AI-enabled monitoring. Although feasibility and patient acceptance are consistently reported, current evidence remains limited by heterogeneous reporting standards and insufficient integration between technological systems and clinical workflows. Future research should focus on standardized outcome frameworks, scalable hybrid care models, and the development of interoperable, explainable digital rehabilitation systems capable of supporting long-term neurorehabilitation in real-world settings.",
+    "date": "2026 Jul 11",
+    "pmid": "42436587",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42436587/"
+  },
+  {
+    "title_en": "Rodent models and accompanying in vitro strategies for studying the etiology and therapy of Parkinson's disease.",
+    "title_zh": "Rodent models and accompanying in vitro strategies for studying the etiology and therapy of Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "The lack of disease-modifying therapies for Parkinson's disease (PD) places a severe burden on patients, their caregivers and aging societies. While the incomplete knowledge of underlying causes and pathophysiology remains a major bottleneck towards the development of rational therapies, there have been important advances in our understanding of neurodegenerative processes. Here, animal models have contributed substantially by allowing researchers to decipher PD-relevant pathology and the development of corresponding behavioral signs, which enabled development and refinement of treatment options. Without animal models, hypotheses of mechanisms underlying the development of motor symptoms after dopamine depletion, dyskinesia as side effects, the impact of diverse environmental neurotoxins, or the formation of alpha-synuclein pathology and spreading could not have been conclusively tested. Likewise, novel technologies are enabling the use of patient derived tissues for generating in vitro models that further enhance our understanding of mechanisms and of the effects of specific genetic modifications and their role in neurodegeneration. However, animal models are, as of yet, still required to model a fully functional central nervous system connected to the immune system and peripheral organs, which are impacted by the diversity of PD pathology and symptoms. Here, we provide an overview of key contributions of animal models, their ongoing role in PD research, and how this research can be enhanced by the concomitant use of advanced in vitro systems.",
+    "date": "2026 Jul 14",
+    "pmid": "42446380",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42446380/"
+  },
+  {
+    "title_en": "Is continuous dopaminergic delivery still a major goal to be achieved in the treatment of Parkinson's disease?",
+    "title_zh": "Is continuous dopaminergic delivery still a major goal to be achieved in the treatment of Parkinson's disease?",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Dopaminergic drugs represent the cornerstone in the symptomatic management of Parkinson's disease motor manifestations, although their long-term use is associated with the appearance of motor fluctuations and dyskinesias. The correlation between pulsatile plasmatic levels of dopaminergic drugs and motor complications suggested that a central continuous dopaminergic stimulation (CDS) could prevent their development. Therefore, several methods have been implemented to provide more stable plasmatic levels of dopaminergic drugs and obtain a continuous drug delivery (CDD). Nevertheless, CDD does not necessarily mean CDS, since other peripheral pharmacokinetic factors intervene before the striatal dopamine release, along with central pharmacodynamic mechanisms. Here, we provide an overview of the different pharmacological approaches taken over time to reach CDS, with limitations and questions that remain open.",
+    "date": "2026 Jul 10",
+    "pmid": "42427265",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42427265/"
+  }
+]
