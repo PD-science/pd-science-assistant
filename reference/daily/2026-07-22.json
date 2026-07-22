@@ -1,5 +1,15 @@
 [
   {
+    "title_en": "Chemically Programmed Prodrug Nanoparticles for Precise Oral Dopamine Delivery to Deep Brain Regions in Parkinson's Disease.",
+    "title_zh": "Chemically Programmed Prodrug Nanoparticles for Precise Oral Dopamine Delivery to Deep Brain Regions in Parkinson's Disease.",
+    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "impact_factor": 26.8,
+    "abstract": "Parkinson's disease (PD) is characterized by progressive degeneration of dopaminergic neurons in the inflamed substantia nigra, resulting in striatal dopamine (DA) depletion and severe motor dysfunction. Here, we report a chemically programmed, inflammation-responsive prodrug nanoparticle (NP) system-beta-glucans-DA(OAc)(2) NPs-that enables precise oral gut-to-brain delivery of DA into deep brain regions. In this design, the acetylated DA prodrug DA(OAc)(2) is conjugated to beta-glucans via a reactive oxygen species (ROS)-cleavable thioketal linker, thereby preventing DA autooxidation, enhancing stability during transit, and ensuring selective activation at neuroinflammatory sites. Following oral administration in PD mice, the NPs are recognized by Dectin-1, internalized by intestinal macrophages, and trafficked through the lymphatic and systemic circulation to cross the blood-brain barrier, ultimately homing specifically to the inflamed substantia nigra in the deep brain. Within this pathological niche, dual responsiveness to elevated ROS and enzymatic activity triggers controlled prodrug cleavage, sustained DA regeneration, and restoration of striatal DA via the nigrostriatal pathway, ultimately rescuing motor function. This inflammation-guided, modular prodrug platform provides a noninvasive and precise strategy for dopaminergic therapy, underscoring its potential as a transformative approach for PD management.",
+    "date": "2026 Jul 18",
+    "pmid": "42470302",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470302/"
+  },
+  {
     "title_en": "Environmental Risk in Parkinson Disease-Bring the Noise.",
     "title_zh": "Environmental Risk in Parkinson Disease-Bring the Noise.",
     "journal": "JAMA neurology",
@@ -20,6 +30,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42475104/"
   },
   {
+    "title_en": "Phytochemicals modulating HSF-1-associated pathways: A systematic review of longevity-extending mechanisms in Caenorhabditis elegans.",
+    "title_zh": "Phytochemicals modulating HSF-1-associated pathways: A systematic review of longevity-extending mechanisms in Caenorhabditis elegans.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Aging is characterized by progressive loss of proteostasis, and heat shock transcription factor 1 (HSF1) is the master regulator of the cellular stress response, making it an attractive pharmacological target for interventions aimed at extending lifespan. However, a systematic synthesis of phytochemicals that modulate HSF1 has been lacking. Following PRISMA 2020 guidelines, we systematically searched PubMed, Web of Science, Scopus, Embase, and the Cochrane Library from March 2016 to March 2026, identifying 42 original studies that provided clear evidence of HSF-1 activation (nuclear translocation, phosphorylation, or transcriptional activity), together with downstream stress-response markers such as upregulation of heat shock protein genes by phytochemicals with lifespan-extending or health span-improving outcomes. All 42 studies exclusively used Caenorhabditis elegans as the model organism, and the phytochemicals were classified into six categories: plant extracts/mixtures (11 studies), flavonoids (9 studies), carbohydrates/sugars (8 studies), terpenoids (7 studies), phenolic compounds (4 studies), and alkaloids (3 studies). Across all studies, these phytochemicals extended lifespan, enhanced resistance to thermal and oxidative stress, and delayed neurodegenerative pathology (Alzheimer's, Parkinson's, and Huntington's disease models) through activation of HSF-1 and its cooperating transcription factors DAF-16/FOXO and SKN-1/Nrf2. While sharing a common dependency on HSF-1, different classes engaged additional signaling pathways including autophagy, mitochondrial unfolded protein response, insulin/IGF-1 signaling, and lipid metabolism, reflecting class-specific mechanistic signatures. This systematic review provides the first comprehensive evidence base for developing HSF-1-associated longevity strategies using phytochemicals; however, all available evidence is limited to C. elegans models, and urgent validation in mammals and clinical translation are needed before these findings can be applied to human aging.",
+    "date": "2026 Jul 19",
+    "pmid": "42472607",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42472607/"
+  },
+  {
     "title_en": "Complement dysregulation during the early phases of synucleinopathy.",
     "title_zh": "Complement dysregulation during the early phases of synucleinopathy.",
     "journal": "Acta neuropathologica",
@@ -28,6 +48,16 @@
     "date": "2026 Jul 20",
     "pmid": "42477211",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42477211/"
+  },
+  {
+    "title_en": "Sustainable next-generation prebiotics for brain health: microbiota-gut-brain axis in neurodegenerative and demyelinating diseases.",
+    "title_zh": "Sustainable next-generation prebiotics for brain health: microbiota-gut-brain axis in neurodegenerative and demyelinating diseases.",
+    "journal": "Critical reviews in food science and nutrition",
+    "impact_factor": 8.8,
+    "abstract": "Neurodegenerative and neuroinflammatory diseases, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and multiple sclerosis, are increasingly associated with disruption of the microbiota-gut-brain axis. Common alterations include reduced beneficial microbial taxa, impaired short-chain fatty acid production, intestinal and blood-brain barrier dysfunction, and sustained inflammatory responses. These findings support the development of microbiota-targeted dietary interventions. This review summarizes current evidence on polyphenols, bioactive peptides, and pectin-derived oligosaccharides (POS) as prebiotic or prebiotic-like compounds with potential activity through the microbiota-gut-brain axis. Particular attention is given to structure-function relationships, host-microbe interactions, and the sustainable recovery of these compounds from food by-products. Preclinical studies suggest that these bioactives may reduce microglial activation, improve mitochondrial function, strengthen intestinal and blood-brain barrier integrity, and enhance cognitive or motor performance. Early clinical studies also indicate possible benefits on mood, selected cognitive outcomes, metabolic regulation, and inflammatory biomarkers, although evidence remains limited. Microbiota-derived metabolites from polyphenols, such as urolithins, together with glycomacropeptide and POS, appear to be key mediators. However, clinical validation in major neurodegenerative diseases remains fragmented. Standardized formulations, mechanistic trials, harmonized endpoints, and precision-nutrition strategies are required to confirm their therapeutic potential.",
+    "date": "2026 Jul 18",
+    "pmid": "42471032",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42471032/"
   },
   {
     "title_en": "APCDD1 shows high specificity for ventral midbrain dopaminergic progenitors in a cell surface marker benchmarking study.",
@@ -40,6 +70,56 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42477011/"
   },
   {
+    "title_en": "Considerations on combination therapies for disease modification in Parkinson's.",
+    "title_zh": "Considerations on combination therapies for disease modification in Parkinson's.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Clinical trials of monotherapies have failed to deliver disease modification for patients living with Parkinson's disease, suggesting that a broader strategy for therapeutic development may be required. The medical research charity Cure Parkinson's convened a workshop to discuss key considerations for developing rationally-designed combination therapies to slow progression of the condition. Here, we review combination therapies and share the conclusions of the meeting.",
+    "date": "2026 Jul 17",
+    "pmid": "42469274",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469274/"
+  },
+  {
+    "title_en": "Association Between Plasma Phosphorylated Tau-217 and Cognition in Parkinson's Disease.",
+    "title_zh": "Association Between Plasma Phosphorylated Tau-217 and Cognition in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Alzheimer's disease (AD) co-pathology contributes to dementia in PD, but its role in earlier cognitive impairment remains uncertain. OBJECTIVE: To determine if p-tau217, a biomarker of early AD, is associated with cognitive impairment in PD. METHODS: Plasma p-tau217 levels in 167 PD patients without dementia and 63 controls were related to performance on standard neuropsychological testing, and to cognitive impairment as defined by a MoCA score <26 and by self-report. Plasma GFAP, NfL and APOE epsilon4 carrier status were also examined. RESULTS: No significant differences in p-tau217, GFAP and NfL level were observed between groups (pFDR > 0.08). Higher p-tau217 was associated with worse visuospatial function and greater self-reported cognitive impairment, but these associations did not survive correction (pFDR > 0.08). There was no association with cognitive impairment (pFDR > 0.08). CONCLUSION: These results suggest that co-morbid AD pathology is not a major contributor to early cognitive changes in this sample of PD patients without dementia. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 19",
+    "pmid": "42473272",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42473272/"
+  },
+  {
+    "title_en": "DNA Repair Pathway Variants Are Enriched in Individuals with Biallelic AAGGG CANVAS and RFC1-Related Disease.",
+    "title_zh": "DNA Repair Pathway Variants Are Enriched in Individuals with Biallelic AAGGG CANVAS and RFC1-Related Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Cerebellar ataxia, neuropathy and vestibular are flexia syndrome (CANVAS) and RFC1-related disease are most commonly caused by biallelic AAGGG repeat expansions in RFC1. The high population frequency of this expansion compared to the frequency of CANVAS suggests incomplete penetrance. OBJECTIVE: To determine whether polygenic risk factors influence incomplete penetrance in RFC1-related disease. METHODS: Biallelic RFC1 AAGGG status was profiled in Genomics England (GEL) and the UK Biobank (UKB) discovery cohorts and a replication Australian ataxia cohort (AAC). Polygenic score (PGS) analysis was performed with variants identified in a Huntington's Disease age at onset study. RESULTS: We identified 56 (GEL) and 18 (UKB) biallelic individuals with ataxia and/or neuropathy, and 26 (GEL) and 207 (UKB) age-matched biallelic carriers with no report of ataxia or neuropathy. Meta-analysis of GEL and UKB identified elevated PGS in biallelic affected individuals (OR = 1.43, p = 2.2 x 10(-3)) compared to controls, but not in the biallelic carriers (OR = 1.01, P = 0.92). The variant rs245100, upstream MSH3, was the biggest contributor to this elevated risk (OR = 2.35, adjusted p = 0.02). Replication in the AAC showed elevated PGS in individuals with molecular confirmation of CANVAS or RFC1-related disease (n = 54) (OR = 1.93, P = 4.4 x 10(-5)), and enrichment of rs245100 (OR = 4.24, p = 1.0 x 10(-4)). CONCLUSION: These results indicate that modifier variant burden alters disease penetrance and presentation in RFC1-related disease and determines an increased incidence of ataxia and neuropathy in biallelic individuals. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 19",
+    "pmid": "42473260",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42473260/"
+  },
+  {
+    "title_en": "CSF proteomic pathway alterations and caudate dopamine transporter deficits predict cognitive vulnerability in early Parkinson's disease.",
+    "title_zh": "CSF proteomic pathway alterations and caudate dopamine transporter deficits predict cognitive vulnerability in early Parkinson's disease.",
+    "journal": "European journal of nuclear medicine and molecular imaging",
+    "impact_factor": 7.6,
+    "abstract": "PURPOSE: To investigate the relationships among CSF proteomic pathway alterations, dopamine transporter single-photon emission computed tomography (DAT-SPECT)-derived dopamine transporter uptake measures, and cognitive vulnerability, longitudinal cognitive decline, and incident mild cognitive impairment (MCI) in early PD. METHODS: We analyzed data from the Parkinson's Progression Markers Initiative, integrating CSF proteomics, DAT uptake measures, and longitudinal cognitive assessments. Cross-sectional analyses included 318 PD patients and 152 healthy controls with baseline clinical, DAT uptake, and CSF proteomic data. Linear mixed-effects models were used to evaluate 0-5-year cognitive trajectories in 306 PD patients, and Kaplan-Meier and Cox analyses assessed incident MCI in 255 cognitively normal PD patients at baseline. RESULTS: PD patients showed widespread reductions in DAT uptake across the putamen, caudate, and striatum. A total of 233 CSF proteins were differentially expressed in PD, with enrichment in neuronal development, synaptic signaling, axon guidance, Wnt signaling, glutamatergic synapse, and complement/coagulation pathways. Within PD, neural CSF pathway scores were associated with bilateral caudate DAT uptake and HVLT discrimination performance. Lower baseline bilateral caudate and striatal DAT uptake predicted less favorable longitudinal cognitive trajectories across multiple domains, while CSF pathway scores were associated with domain-specific cognitive changes. In survival analyses, low baseline bilateral caudate DAT uptake was associated with increased risk of incident MCI. CONCLUSIONS: These findings suggest that caudate dopaminergic dysfunction may serve as a clinically relevant imaging marker of cognitive vulnerability in early PD, whereas CSF proteomic pathway alterations provide molecular context for synaptic-axonal and immune-coagulation changes associated with cognitive vulnerability and selected cognitive trajectories.",
+    "date": "2026 Jul 20",
+    "pmid": "42472725",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42472725/"
+  },
+  {
+    "title_en": "Decoding Finely Tuned Gamma Oscillations in Chronic Deep Brain Stimulation for Parkinson's Disease.",
+    "title_zh": "Decoding Finely Tuned Gamma Oscillations in Chronic Deep Brain Stimulation for Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Finely tuned Gamma (FTG) activity-spontaneous narrowband Gamma oscillations (sFTG) or entrained to half the stimulation frequency (eFTG)-is typically linked to on-medication states and dyskinesia in Parkinson's disease (PD), making it a potential physiomarker for adaptive deep brain stimulation (aDBS). However, its characteristics and determinants remain unclear. OBJECTIVES: This exploratory study examined FTG prevalence, clinical correlates, and associations with DBS parameters, to guide future prospective work. METHODS: Local field potentials recorded in the subthalamic nucleus (STN) of PD patients with Percept neurostimulator were retrospectively analyzed, based on a predefined set of clinically relevant questions. RESULTS: Among 67 patients (134 STNs), sFTG occurred in 19% of STNs, and 1:2 eFTG in 28%. FTG was always associated with a medication, stimulation, or a stun-effect induced ON-state or a combination thereof, but could occur independent of dyskinesia. sFTG was most often observed during the transition from beta to eFTG (54%), and rarely co-occurred shortly with eFTG (19%). beta activity often co-occurred with FTG (50%), showing an inverse power relation with 1:2 eFTG. The occurrence of 1:2 eFTG depended on stimulation amplitudes. In 12 STN (9%), subharmonic artifacts occurred. CONCLUSIONS: FTG seems to be associated with an overall ON-state, independent of dyskinesia. The ratio 1:2 eFTG likely reflects entrainment of the neural populations underlying sFTG, but can occur without prior occurrence of sFTG, depending on stimulation amplitude consistent with \"Arnold's tongue\" framework. Future research should further specify beta and FTG subtype interactions, while accounting for artifacts. Combining these physiomarkers may improve aDBS algorithms. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 17",
+    "pmid": "42469930",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469930/"
+  },
+  {
     "title_en": "Expression of concern: \"Design and synthesis of benzo[d]thiazol-2-yl-methyl-4-(substituted)-piperazine-1-carbothioamide as novel neuronal nitric oxide inhibitors and evaluation of their neuroprotecting effect in 6-OHDA-induced unilateral lesioned rat model of Parkinson's disease\" [Biomed. Pharmacother. 156 (2022) 113838].",
     "title_zh": "Expression of concern: \"Design and synthesis of benzo[d]thiazol-2-yl-methyl-4-(substituted)-piperazine-1-carbothioamide as novel neuronal nitric oxide inhibitors and evaluation of their neuroprotecting effect in 6-OHDA-induced unilateral lesioned rat model of Parkinson's disease\" [Biomed. Pharmacother. 156 (2022) 113838].",
     "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
@@ -48,6 +128,16 @@
     "date": "2026 Aug",
     "pmid": "42477980",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42477980/"
+  },
+  {
+    "title_en": "Coffee as a polypharmacological modulator of mitochondrial health: from molecular mechanisms to translational implications.",
+    "title_zh": "Coffee as a polypharmacological modulator of mitochondrial health: from molecular mechanisms to translational implications.",
+    "journal": "Journal of translational medicine",
+    "impact_factor": 7.5,
+    "abstract": "BACKGROUND: Coffee is one of the most widely consumed beverages worldwide, yet its biological effects have often been attributed primarily to caffeine. Emerging evidence suggests that coffee contains a complex array of bioactive compounds, including chlorogenic acids, trigonelline, diterpenes, and melanoidins that collectively exert pleiotropic effects on cellular metabolism. However, a comprehensive framework linking the full spectrum of coffee-derived bioactives to mitochondrial health and chronic disease prevention is still lacking. MAIN BODY: This review proposes an integrated perspective on coffee as a systemic \"mitochondrial network optimizer.\" We present this model as an integrative framework and hypothesis rather than an established causal model. We synthesize molecular, pre-clinical, and clinical evidence suggesting that coffee bioactives converge on key regulatory nodes, namely the AMPK/SIRT1/PGC-1alpha axis, Nrf2/ARE antioxidant pathway, PINK1/Parkin-mediated mitophagy, and mitochondrial calcium signaling to coordinately enhance mitochondrial biogenesis, quality control, redox defense, and metabolic efficiency. These multi-targeted mechanisms provide a plausible biological basis for the consistent epidemiological associations between moderate coffee consumption and reduced risk of metabolic diseases (type 2 diabetes, non-alcoholic fatty liver disease), neurodegenerative disorders (Parkinson's, Alzheimer's), and cardiovascular conditions. Furthermore, we critically examine key determinants of response heterogeneity, including non-linear hormetic dose-response relationships, inter-individual variability (CYP1A2 genotype, gut microbiota, sex), and the impact of coffee processing and brewing methods on bioactive composition. CONCLUSIONS: Collectively, these findings support the hypothesis that coffee may serve as a paradigm of polypharmacological dietary intervention that targets fundamental pathways of mitochondrial resilience. Moving beyond reductionist views centered on single compounds, we propose that the holistic effects of coffee are best understood through systems-level modulation of mitochondrial homeostasis. Future research should prioritize precision nutrition approaches stratified by genotype, microbiome, and metabolic phenotype, to translate these mechanistic insights into personalized dietary recommendations and the development of mitochondria-targeted nutraceuticals. We caution that this integrative framework requires direct validation in human causal studies.",
+    "date": "2026 Jul 17",
+    "pmid": "42469894",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469894/"
   },
   {
     "title_en": "Heterojunction-Mediated Dual-Site Synergistic Catalysis for Enhanced Electrochemiluminescence Detection of alpha-Synuclein.",
@@ -98,5 +188,35 @@
     "date": "2026 Jul 15",
     "pmid": "42478649",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42478649/"
+  },
+  {
+    "title_en": "Plasma Total and Phosphorylated alpha-Synuclein as Biomarkers in Multiple System Atrophy: A Multicenter Study.",
+    "title_zh": "Plasma Total and Phosphorylated alpha-Synuclein as Biomarkers in Multiple System Atrophy: A Multicenter Study.",
+    "journal": "Current neuropharmacology",
+    "impact_factor": 5.3,
+    "abstract": "BACKGROUND: The diagnostic value and longitudinal dynamics of plasma alpha-synuclein (alpha-syn) and phosphorylated alpha-syn (p-alpha-syn) in multiple system atrophy (MSA) remain incompletely understood. This study aimed to investigate the potential of plasma alpha-syn and p-alpha-syn as biomarkers for clinical diagnosis and progression monitoring in MSA. METHODS: We quantified plasma alpha-syn and p-alpha-syn concentrations in a cross-sectional cohort comprising 228 MSA patients, 71 Parkinson's disease (PD) patients, and 218 healthy controls (HCs), as well as in a longitudinal cohort of 101 MSA patients. An independent validation cohort from another center (51 MSA, 52 HCs) was also included. RESULTS: Plasma levels of both alpha-syn and p-alpha-syn were significantly higher in MSA patients compared to HCs (both q<0.001), but not compared to PD patients. Both biomarkers excellently distinguished MSA from HCs (AUCs: alpha-syn=0.932, p-alpha-syn=0.909), which was validated in the independent cohort. Both proteins were positively correlated with the severity of autonomic dysfunction. Longitudinally, p-alpha-syn levels increased significantly, and lower baseline alpha-syn levels were associated with faster motor progression (p=0.031). DISCUSSION: Our study suggests that plasma alpha-syn and p-alpha-syn may have potential as supportive indicators for the clinical diagnosis and monitoring of disease progression in MSA. Their correlation with autonomic dysfunction and dynamic changes offers new insights into the pathophysiology and clinical monitoring in MSA Conclusion: Plasma alpha-syn and p-alpha-syn levels might be potential supportive indicators for clinical diagnosis and progression monitoring in MSA.",
+    "date": "2026 Jul 17",
+    "pmid": "42474003",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42474003/"
+  },
+  {
+    "title_en": "Return of genetic results to persons with Parkinson's disease: Blessing or foe?",
+    "title_zh": "Return of genetic results to persons with Parkinson's disease: Blessing or foe?",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Parkinson's disease (PD) is increasingly understood as a biologically heterogeneous disorder, with genetic contributions ranging from high-penetrance monogenic variants to common polygenic risk. As testing becomes more accessible and clinically relevant, the key question has shifted from whether to test to whether -and how- to return results. Most PD associated variants confer probabilistic risk rather than deterministic outcomes, limiting individual-level prediction and complicating disclosure. Yet genetic findings may inform prognosis and increasingly determine eligibility for targeted therapies and clinical trials. Large-scale genetic studies show both feasibility, demand and utility with pathogenic variants identified in approximately 10-20% of patients. The ethical balance differs by context. In patients with established PD, results may provide insight and research access but require careful framing to avoid overinterpretation. In at-risk individuals, predictive testing offers limited clinical utility and can introduce psychological, familial, and insurance implications but can also allow informed family planning and participation in follow up and prevention trials. Current practice remains inconsistent, with major gaps in access to testing and counselling. Expanding disclosure without the appropriate infrastructure risks misinterpretation and widening disparities. We argue that return of genetic results in PD and at-risk individuals should be structured, and longitudinal. As clinical utility evolves, preparedness, will determine whether genetic testing becomes a part of standard care.",
+    "date": "2026 Jul 20",
+    "pmid": "42474300",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42474300/"
+  },
+  {
+    "title_en": "A paradoxical plus for Parkinson's in UK's new 'generational smoking ban'.",
+    "title_zh": "A paradoxical plus for Parkinson's in UK's new 'generational smoking ban'.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "The United Kingdom's recently enacted Tobacco and Vapes Bill introduces a \"generational smoking ban,\" prohibiting tobacco sales to anyone born after 2008. While this landmark legislation is intended to reduce the country's burden of cancer, cardiovascular disease, and stroke, it also may have an unintentional impact on the incidence of Parkinson's disease (PD). Convergent data from observational and genetic studies indicate that non-smokers have approximately double the risk of developing PD compared to smokers. Together with preclinical data, these epidemiologic results support a potential neuroprotective effect of tobacco constituents. The new UK public health policy creates a valuable opportunity to assess prospectively whether reduction in smoking leads to a measurable increase in the age-adjusted incidence of PD, in addition to a much larger decrease in diseases known to be caused by smoking. This natural experiment may paradoxically help prevent PD, both in the long-term by enhancing our understanding of its causes, and in the short-term by motivating efforts to investigate candidate neuroprotective influences within smoked tobacco. Importantly, these benefits may be realized even if the results suggest a causal relationship between smoking and reduced PD risk. Ideally, the insights gained will accelerate development of targeted, non-toxic therapeutic interventions that slow PD without the adverse health consequences associated with tobacco use.",
+    "date": "2026 Jul 18",
+    "pmid": "42470616",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42470616/"
   }
 ]
