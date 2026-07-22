@@ -80,6 +80,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42463513/"
   },
   {
+    "title_en": "Multimodal AI for predicting comorbid REM sleep behavior disorder in major depressive disorder.",
+    "title_zh": "Multimodal AI for predicting comorbid REM sleep behavior disorder in major depressive disorder.",
+    "journal": "NPJ digital medicine",
+    "impact_factor": 15.1,
+    "abstract": "REM sleep behavior disorder (RBD) is a robust prodromal marker of alpha-synucleinopathies: idiopathic RBD carries a 10-15-year phenoconversion risk of 80-90% to Parkinson's disease (PD) and related disorders. In major depressive disorder (MDD), comorbid RBD marks a subgroup at elevated prodromal PD risk, yet is frequently missed in psychiatric practice. Here, we developed a multimodal AI framework to detect comorbid RBD in MDD. From a clinical cohort of 329 patients, we obtained 261 video clips in 31 patients during reading and spontaneous-speech tasks, including 19 patients with MDD-RBD and 12 demographically and medication-matched MDD-only controls that, to our knowledge, formed the largest cohort of its kind worldwide. We used a dual-stream multimodal model that learned facial dynamics from video and vocal features from speech, and then combined both signals to predict comorbid RBD. In 5-fold cross-validation, our best model achieved 80.5% accuracy and 0.848 F1-score. Explainability analysis highlighted lower-face tension and variability, together with brow lowering, as candidate biomarkers requiring further validation. Predicted risk correlated with RBDQ score (r = 0.53, p = 0.005) and weakly with UPDRS motor score (r = 0.34, p = 0.067). Out-of-distribution evaluation showed broadly similar patterns, supporting the promise of multimodal AI for predicting RBD in MDD and identifying interpretable potential digital markers of prodromal synucleinopathy.",
+    "date": "2026 Jul 14",
+    "pmid": "42449188",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449188/"
+  },
+  {
     "title_en": "A small molecule reduces both parkinsonism and l-dopa-induced dyskinesia in animal models of Parkinson's disease.",
     "title_zh": "A small molecule reduces both parkinsonism and l-dopa-induced dyskinesia in animal models of Parkinson's disease.",
     "journal": "Science translational medicine",
@@ -110,6 +120,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42468577/"
   },
   {
+    "title_en": "Modulation of inflammasome biology in age-associated neurodegenerative diseases: Therapeutic potential of endogenous gasotransmitters and synthetic molecules.",
+    "title_zh": "Modulation of inflammasome biology in age-associated neurodegenerative diseases: Therapeutic potential of endogenous gasotransmitters and synthetic molecules.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Inflammasomes, particularly the NLRP3 complex, play a central role in coordinating innate immune activation and neuroinflammatory responses within the cytosol. Persistent or dysregulated nucleotide-binding domain, leucine-rich-containing family, pyrin domain-containing-3 (NLRP3) activation promotes caspase-1-dependent maturation of interleukin (IL)-1beta and IL-18 and triggers gasdermin D (GSDMD)-mediated pyroptosis, thereby contributing to the pathogenic cascades underlying Alzheimer's disease (AD) and Parkinson's disease (PD). Endogenous gasotransmitters, including hydrogen sulfide (H(2)S) and nitric oxide (NO), have emerged as critical modulators of redox homeostasis, mitochondrial function, and inflammatory signaling pathways that directly or indirectly regulate NLRP3 inflammasome activity. Accumulating evidence suggests that these gaseous mediators exert potent neuroprotective effects by attenuating inflammasome activation, limiting oxidative and nitrosative stress, and preserving neuronal integrity. Despite their therapeutic potential, the pleiotropic and concentration-dependent actions of gasotransmitters pose substantial challenges for precise delivery and controlled bioavailability. However, donors or hybrid molecules, such as peptide conjugates, provide a suitable platform for sustained, controlled release of these gaseous molecules, overcoming their dose-dependent toxicity and facilitating protective biological effects. To date, the most advanced therapeutic strategies have focused on pharmacological inhibition of the NLRP3 inflammasome using synthetic compounds. Preclinical and emerging clinical studies demonstrate that such agents significantly modulate inflammasome-associated downstream signaling events through diverse molecular mechanisms. This review integrates current insights into NLRP3 inflammasome-driven pathology in age-associated neurodegenerative disorders, highlights the regulatory roles of endogenous gasotransmitters, and evaluates the therapeutic prospects of synthetic inflammasome-targeting agents for the treatment of neurodegenerative diseases in the aging population.",
+    "date": "2026 Jul 14",
+    "pmid": "42448048",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448048/"
+  },
+  {
+    "title_en": "Constructing a NIR AIEgen Based on the Novel Molecular Framework for Imaging Lipid Droplet Accumulation in Parkinson's Disease Mouse Brain.",
+    "title_zh": "Constructing a NIR AIEgen Based on the Novel Molecular Framework for Imaging Lipid Droplet Accumulation in Parkinson's Disease Mouse Brain.",
+    "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+    "impact_factor": 12.1,
+    "abstract": "Parkinson's disease (PD) pathogenesis has been linked to the aberrant accumulation of lipid droplets (LDs). Understanding the situation of LD accumulation and its dynamic variations in the neural tissues of PD patients is therefore crucial for deciphering the underlying pathophysiological mechanisms of this neurodegenerative disorder. Developing a specific fluorescent probe for LDs that can also function within the brain presents a significant challenge. This study introduces a NIR (near-infrared) emitting fluorescent probe, QCN-TP, through step-by-step molecular design strategy, based on a novel framework of dye, characterized by multiple advantageous properties, including polarity sensitivity, a substantial Stokes shift (150-280 nm), and aggregation-induced emission (AIE). The probe, QCN-TP, demonstrates remarkable sensitivity and selectivity in the recognition of LD accumulation, with enhanced deep tissue penetration capabilities. Notably, QCN-TP effectively monitors both the presence of intracellular LDs and their dynamic content variations in MPP(+)-induced PD cell models. Furthermore, the probe enables in vivo imaging of abnormal LD accumulation in the brain tissue of PD model mice. This probe offers a useful tool for real-time monitoring of lipid dynamics, with potential applications in PD research and drug discovery.",
+    "date": "2026 Jul 15",
+    "pmid": "42454651",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42454651/"
+  },
+  {
     "title_en": "alpha-Synuclein Seeds Amplification Assays for Parkinson's Disease and Related Synucleinopathies.",
     "title_zh": "alpha-Synuclein Seeds Amplification Assays for Parkinson's Disease and Related Synucleinopathies.",
     "journal": "Medicinal research reviews",
@@ -120,6 +150,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42460688/"
   },
   {
+    "title_en": "Metabolomic signatures for diagnosis and clinical severity in Parkinson's disease.",
+    "title_zh": "Metabolomic signatures for diagnosis and clinical severity in Parkinson's disease.",
+    "journal": "EBioMedicine",
+    "impact_factor": 10.8,
+    "abstract": "BACKGROUND: Parkinson's disease (PD) remains challenging to diagnose at early stages owing to subtle and heterogeneous clinical manifestations and the lack of reliable biomarkers. Metabolomics offers a powerful approach to capture disease-related biochemical alterations that reflect underlying pathophysiology. This study aimed to identify robust plasma metabolic signatures for PD diagnosis and to elucidate metabolic alterations associated with clinical severity. METHODS: We performed untargeted plasma metabolomic profiling using ultra-high performance liquid chromatography-tandem mass spectrometry in a large Chinese population comprising two independent early-stage PD groups, one of which consisted of drug-naive, de novo patients. Integrative statistical analyses, pathway enrichment, and machine learning-based diagnostic modelling were applied to identify discriminative metabolites and characterise disease- and treatment-related metabolic changes. FINDINGS: In the two case-control datasets, 111 metabolites were consistently altered in early-stage PD, among which 12-hydroxyeicosatetraenoic acid, spermine, and niacinamide emerged as key differential metabolites. Pathway enrichment analysis highlighted sphingolipid metabolism as a major dysregulated pathway in early-stage PD. Using machine learning-based models, a classification model based on six metabolites achieved strong performance (area under the receiver operating characteristic curve [AUC] = 0.976), while individual metabolites also demonstrated good discriminative ability, with the highest AUC reaching 0.916. We further observed that antiparkinsonian medication was significantly associated with metabolic alterations in tyrosine, tryptophan, and polyamine pathways. In addition, gut microbiota-derived metabolites, particularly phenylacetylglutamine and p-Cresol glucuronide, were markedly elevated in PD and associated with both motor and non-motor symptom severity, suggesting a potential contribution to clinical heterogeneity. INTERPRETATION: These findings indicate reproducible plasma metabolic differences associated with early PD and suggest the potential diagnostic value of internally validated classifiers for disease diagnosis. Alterations in gut microbiota-derived metabolites correlate with clinical severity, highlighting the need for further mechanistic and translational research. FUNDING: This study was supported by the National Natural Science Foundation of China (82271281 and 82471267), the Science and Technology Major Project of Hunan Provincial Science and Technology Department (2021SK1010), and the National Key Research and Development Program of China (2021YFC2501204).",
+    "date": "2026 Jul 14",
+    "pmid": "42447752",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42447752/"
+  },
+  {
+    "title_en": "Unknotting the nexus of asthma and neuroinflammation: from brain network alterations to therapeutic implications.",
+    "title_zh": "Unknotting the nexus of asthma and neuroinflammation: from brain network alterations to therapeutic implications.",
+    "journal": "Journal of neuroinflammation",
+    "impact_factor": 10.1,
+    "abstract": "Asthma is increasingly recognized as a systemic inflammatory syndrome that extends beyond the respiratory tract, with emerging evidence highlighting its relevance to neuroinflammation. The lung-brain axis-via interconnected inflammatory, vascular, metabolic, neural, and microbial pathways-provides a framework for understanding how chronic pulmonary disease may sustain or exacerbate neuroinflammatory processes. Mechanistically, asthma promotes blood-brain barrier disruption, systemic inflammation that seeds central neuroinflammation, oxidative stress, mitochondrial dysfunction, gut-lung-brain microbial crosstalk, and sleep fragmentation, all of which are biologically plausible drivers of sustained neuroinflammatory states and consequent neurodegenerative vulnerability. Epidemiological studies link asthma to increased risks of all-cause dementia and Alzheimer's disease, though cohort findings vary. Neuroimaging and biomarker evidence further support neuroinflammatory involvement, revealing altered hippocampal metabolism, white matter abnormalities, elevated plasma glial fibrillary acidic protein and neurofilament light chains, and cerebrospinal fluid markers of synaptic injury in severe or poorly controlled asthma-each reflecting neuroinflammatory or neurodegenerative sequelae. Links with Parkinson's disease and other neurodegenerative disorders remain more preliminary. Notably, asthma severity, phenotype, exacerbation frequency, and corticosteroid burden modulate neurological risk, suggesting that optimal disease control-potentially enhanced by biologic therapies-may confer neuroprotective benefits by dampening neuroinflammation. In conclusion, asthma should not be viewed solely as an airway disorder but as a potentially modifiable contributor to long-term brain vulnerability via neuroinflammatory pathways within the lung-brain axis. Future longitudinal studies integrating detailed phenotyping, biomarkers, and neuroimaging are needed to establish causality and guide anti-neuroinflammatory therapeutic strategies.",
+    "date": "2026 Jul 15",
+    "pmid": "42449394",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449394/"
+  },
+  {
     "title_en": "From neural loss to regeneration: modulating cell death to enhance pluripotent stem cell graft survival and integration.",
     "title_zh": "From neural loss to regeneration: modulating cell death to enhance pluripotent stem cell graft survival and integration.",
     "journal": "Cell death & disease",
@@ -128,6 +178,26 @@
     "date": "2026 Jul 17",
     "pmid": "42469204",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42469204/"
+  },
+  {
+    "title_en": "Dopaminergic neurons preferentially accumulate mtDNA rearrangements.",
+    "title_zh": "Dopaminergic neurons preferentially accumulate mtDNA rearrangements.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "High levels of mitochondrial DNA (mtDNA) deletions have been described in the substantia nigra. However, the mechanisms involved are poorly understood. We found that transient expression of a mitochondrial targeted restriction endonuclease (mitoPstI) in mice leads to an accumulation of mtDNA rearrangements that involve both the PstI cleavage sites and unrelated specific regions of the mtDNA, including the MTERF1 binding site and the edge of the D-loop. This pattern of rearrangements after double-strand breaks supports the presence of recombination hotspots in the mtDNA. Transient expression of mitoPstI in dopaminergic neurons led to further accumulation of mtDNA rearrangements in dopaminergic neurons after expression was suppressed, a pattern that was not observed in glutamatergic neurons. This accumulation was also blunted when a mtDNA replisome factor was absent, suggesting that robust mtDNA replication is required for the accumulation of preexisting mtDNA rearrangements in dopaminergic neurons over time.",
+    "date": "2026 Jul 21",
+    "pmid": "42446990",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42446990/"
+  },
+  {
+    "title_en": "Targeted alpha-synuclein mRNA degradation by PMO-based RNA-degrading chimeras.",
+    "title_zh": "Targeted alpha-synuclein mRNA degradation by PMO-based RNA-degrading chimeras.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "alpha-Synucleinopathies are devastating neurodegenerative diseases characterized by pathological accumulation of a neuronal protein, alpha-synuclein (alphaSyn). Lowering soluble alphaSyn levels is a promising therapeutic strategy to limit aggregation and neurotoxicity, but directly targeting this protein is hindered by its intrinsically disordered structure and other factors, such as its conformational heterogeneity and intracellular drug delivery barriers. Consequently, increasing attention has been directed toward targeting the SNCA transcript, which encodes alphaSyn. Here, we developed phosphorodiamidate morpholino oligonucleotide (PMO)-based RNA-degrading chimeras (RDCs) that selectively bind the 5' untranslated region of SNCA messenger RNA (mRNA) and recruit RNase L for targeted RNA degradation. Through the systematic evaluation of nine RDCs, we identified and optimized 4-D1, which effectively reduced SNCA mRNA and alphaSyn protein expression in HEK293T cells in an RNase L-dependent manner. 4-D1 lowered SNCA transcript and alphaSyn protein levels in both primary cortical neurons from humanized SNCA mice and in human induced pluripotent stem cell-derived cortical neurons. This reduction prevented prion-like seeding induced by patient-derived alphaSyn fibrils and protected neurons from fibril-induced cytotoxicity. Finally, in vivo studies confirmed the efficacy of 4-D1 in reducing alphaSyn mRNA expression in humanized SNCA mice. These findings indicate that PMO-based RDCs may represent a promising therapeutic modality for alpha-synucleinopathies.",
+    "date": "2026 Jul 21",
+    "pmid": "42446976",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42446976/"
   },
   {
     "title_en": "Focused ultrasound blood brain barrier opening for targeted therapeutics in neurodegenerative diseases.",
@@ -148,6 +218,26 @@
     "date": "2026 Jul 15",
     "pmid": "42458498",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42458498/"
+  },
+  {
+    "title_en": "Parkinson's disease as a multi-axis systems disorder: integrating molecular pathology and circuit-level therapeutics.",
+    "title_zh": "Parkinson's disease as a multi-axis systems disorder: integrating molecular pathology and circuit-level therapeutics.",
+    "journal": "Cell communication and signaling : CCS",
+    "impact_factor": 8.9,
+    "abstract": "Parkinson's disease (PD) has generated extensive mechanistic insight, yet nearly all candidate disease-modifying therapies have failed in clinical trials. Antibodies targeting alpha-synuclein, mitochondrial antioxidants, lysosomal interventions, and anti-inflammatory agents frequently achieve target engagement without slowing clinical progression, creating a central paradox in PD therapeutics.Here we propose that this discrepancy arises because PD is not primarily a single-pathway neurodegenerative disorder but a multi-scale systems disease. Molecular pathology, organellar dysfunction, immune activation, and large-scale network instability form a self-reinforcing cascade in which interventions acting at a single biological level cannot substantially modify disease once degeneration is embedded within distributed neural circuits.This framework generates testable predictions: pathway-targeted therapies may show benefit primarily in prodromal or biomarker-defined populations, whereas established clinical PD will likely require combination strategies coupling circuit restoration with axis-matched molecular interventions. Therapeutic responsiveness should therefore correlate more strongly with network integrity than with target engagement alone.Viewing PD as a multi-scale systems disorder provides a unifying explanation for repeated therapeutic failures and offers a framework for biomarker-guided, stage-matched disease-modifying trials.",
+    "date": "2026 Jul 14",
+    "pmid": "42449370",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449370/"
+  },
+  {
+    "title_en": "Oral disease-associated proteins implicated in neuronal disorders: Emerging roles in diagnosis and treatment.",
+    "title_zh": "Oral disease-associated proteins implicated in neuronal disorders: Emerging roles in diagnosis and treatment.",
+    "journal": "International journal of biological macromolecules",
+    "impact_factor": 8.5,
+    "abstract": "Oral health plays a crucial role in maintaining cognitive functions, reflecting a complex interplay between the oral cavity and brain health. Emerging evidence indicates that various oral disease-associated protein molecules are implicated in the pathogenesis of diverse neuronal disorders, including neurodegenerative diseases. This review comprehensively summarizes oral disease-related protein molecules implicated in several neuronal disorders, including Alzheimer's disease, Parkinson's disease, neurodegeneration, neuroinflammation, dementia, cognitive decline, and brain fog in two different contexts. Firstly, it describes protein molecules under the classical oral disease condition [Abeta42, total-Tau, phosphorylated-Tau, alpha-synuclein, DJ-1, lactoferrin, MMP-2/8/9, IL-6, IL-1beta, TNF-alpha, CRP, S100A8, S100A9, S100B, RAGE, LCN2, cathepsin B/L, HSP70/90, NfL, CXCL2/8, C3/4, defensins (alpha and beta), and lysozyme]. Secondly, in COVID-19 context [ACE2, TMPRSS2, furin-1, NRP1, spike, T1R, and T2R]. It explores oral proteins implicated in neuronal disorders, highlighting their roles in activating inflammatory pathways, contributing to memory impairment, and mediating taste dysfunction in the context of COVID-19. Furthermore, the review delineates the mechanisms underlying the oral-brain axis, highlighting the roles of systemic inflammation, microbial interactions, and blood-brain barrier dysfunction in mediating these effects. It also highlights the innovative diagnostic potential of oral disease-associated proteins as non-invasive biomarkers for early detection and monitoring of neuronal disorders in both classical and COVID-19 contexts. In addition, the emerging therapeutic significance of these proteins is discussed, emphasizing their potential as molecular targets for the prevention and treatment of neurological diseases. Understanding oral disease-associated protein molecules provides novel insights into early diagnosis and progression of neuronal disorders.",
+    "date": "2026 Jul 14",
+    "pmid": "42448200",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448200/"
   },
   {
     "title_en": "Considerations on combination therapies for disease modification in Parkinson's.",
@@ -178,6 +268,36 @@
     "date": "2026 Jul 16",
     "pmid": "42463677",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42463677/"
+  },
+  {
+    "title_en": "STN-DBS and LCIG differentially affect long-term axial symptoms in Parkinson's disease.",
+    "title_zh": "STN-DBS and LCIG differentially affect long-term axial symptoms in Parkinson's disease.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Bilateral subthalamic nucleus Deep Brain Stimulation (STN-DBS) and Levodopa-Carbidopa Intestinal Gel (LCIG) represent established treatment options for complicated Parkinson's disease (PD). Evidence regarding their effectiveness on axial symptoms remains limited, despite disability. This observational real-world cohort study included 317 PD patients who received STN-DBS (N = 203) or LCIG (N = 114) between 2005 and 2023 at two Italian centeres to compare their short- and long-term effects on axial symptoms. At baseline, LCIG group exhibited more severe axial and motor symptoms and higher prevalence of cognitive abnormalities than STN-DBS cohort. Longitudinally, LCIG treatment was associated with lower odds of long-term axial deterioration compared with STN-DBS, after adjustment for baseline differences and levodopa equivalent daily dose, despite an increased risk of dyskinesias. A significant treatment-by-time interaction suggested more favourable long-term axial symptom trajectories in the LCIG group.",
+    "date": "2026 Jul 14",
+    "pmid": "42449116",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42449116/"
+  },
+  {
+    "title_en": "fMRI during active GPi DBS uncovers target-specific networks.",
+    "title_zh": "fMRI during active GPi DBS uncovers target-specific networks.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Improved understanding of target-specific changes in brain activity during deep-brain stimulation (DBS) for Parkinson's disease (PD) may refine target selection. Here, we study the network effects of active DBS using functional magnetic resonance imaging (fMRI) during stimulation of the subthalamic nucleus (STN) and globus pallidus internus (GPi). About 36 PD patients (62.5 +/- 8.1 years, 18 GPi-DBS, 39% female) underwent prospective fMRI during active DBS. DBS produced distributed cortical modulation associated with clinical improvement at the group level. Network modeling revealed symptom-specific coupling, with somatomotor network modulation significantly associated with gait improvement (DeltaR(2) = 0.40, p(FDR) = 0.03) and showing a weaker association with bradykinesia improvement (DeltaR(2) = 0.32, p(FDR) = 0.06). Unexpectedly, somatomotor network modulation showed a nominal association with variability in verbal fluency outcomes (DeltaR(2) = 0.28, p(FDR) = 0.08), whereas language and cognitive networks demonstrated minimal explanatory value. A comparable relationship between network modulation and verbal fluency was not observed in STN-DBS. These findings demonstrate that DBS therapeutic effects are best understood as modulation of distributed functional networks rather than focal regions, with target-dependent network coupling potentially underlying differential cognitive outcomes.",
+    "date": "2026 Jul 14",
+    "pmid": "42448721",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448721/"
+  },
+  {
+    "title_en": "Slow-SPEED: protocol for three randomised trials of remotely delivered exercise to prevent Parkinson's disease.",
+    "title_zh": "Slow-SPEED: protocol for three randomised trials of remotely delivered exercise to prevent Parkinson's disease.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "We describe the design of the first non-pharmacological Parkinson's disease prevention trials worldwide: the randomised 'Slow-SPEED' trials. Three trials examine the feasibility and preliminary efficacy of a gamified, remotely administered exercise intervention vs. active control over 18-36 months in complementary prodromal subgroups: iRBD(n = 110; Netherlands), hyposmia(n = 110; United Kingdom) or LRRK2/GBA1 mutation carriers(n = 600; United States). These trials will provide unique insights for large-scale Parkinson's prevention studies. Protocols are registered at ClinicalTrials.gov(NCT06193252[1-5-2024];NCT06600438[9-19-2024];NCT06993142[5-28-2025]).",
+    "date": "2026 Jul 14",
+    "pmid": "42448717",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42448717/"
   },
   {
     "title_en": "Decoding Finely Tuned Gamma Oscillations in Chronic Deep Brain Stimulation for Parkinson's Disease.",
@@ -240,6 +360,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42456856/"
   },
   {
+    "title_en": "Ketogenic beta-hydroxybutyrate-regulated beta-hydroxybutyrylation of HSPE1 alleviates neuronal apoptosis in MPTP/MPP(+) induced Parkinson's disease models.",
+    "title_zh": "Ketogenic beta-hydroxybutyrate-regulated beta-hydroxybutyrylation of HSPE1 alleviates neuronal apoptosis in MPTP/MPP(+) induced Parkinson's disease models.",
+    "journal": "Food & function",
+    "impact_factor": 5.4,
+    "abstract": "Lysine beta-hydroxybutyrylation (Kbhb) is an emerging post-translational modification regulated by beta-hydroxybutyrate (BHB), a key metabolic intermediate elevated during ketogenic diets. Accumulating evidence indicates that ketogenic diets exert beneficial effects in Parkinson's disease (PD). However, whether BHB-mediated Kbhb modification contributes to these neuroprotective effects remains largely unknown. This study integrates bioinformatics analyses with experimental validation to identify potential Kbhb-related biomarkers associated with PD. Key candidates were further validated using in vivo and in vitro PD models, and downstream regulatory mechanisms were explored through transcriptome sequencing. Through integrative bioinformatics and machine learning analyses, HSPE1 was identified as a central hub gene associated with Kbhb modification in PD. Experimental results demonstrate that Kbhb modification of HSPE1 promotes ubiquitin-mediated degradation, thereby attenuating dopaminergic neuronal apoptosis under PD conditions. Mechanistically, HSPE1 Kbhb modification exerted neuroprotective effects by suppressing the activation of the NF-kappaB signaling pathway. Our findings reveal HSPE1 as a previously unrecognized target of lysine beta-hydroxybutyrylation in PD and uncover a protective role of HSPE1 Kbhb modification in suppressing NF-KB mediated apoptotic signaling.",
+    "date": "2026 Jul 15",
+    "pmid": "42455758",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455758/"
+  },
+  {
     "title_en": "Resveratrol and neuroprotection: modulation of cellular dynamics and signaling networks in neurodegenerative diseases.",
     "title_zh": "Resveratrol and neuroprotection: modulation of cellular dynamics and signaling networks in neurodegenerative diseases.",
     "journal": "Inflammopharmacology",
@@ -258,5 +388,25 @@
     "date": "2026 Sep",
     "pmid": "42463431",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42463431/"
+  },
+  {
+    "title_en": "Digital profiling of dysarthria in late- and early-onset Parkinson's disease.",
+    "title_zh": "Digital profiling of dysarthria in late- and early-onset Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundDigital speech analysis affords robust markers of Parkinson's disease (PD). However, most studies target late-onset PD (LOPD), neglecting early-onset PD (EOPD) -an increasingly prevalent subtype. This proof-of-concept study tackles such gap.MethodsWe used machine learning to discriminate persons with EOPD (with symptom onset before age 50) and LOPD (with symptom onset after age 50) from healthy controls (HCs) through prosodic and articulatory features from natural speech.ResultsMaximal classification between patients and HCs was afforded by combined prosodic and articulation features in LOPD (AUC = 0.90) and by articulation alone in EOPD (AUC = 0.79), with chance-level discrimination between patient groups (AUC = 0.55). Motor severity (MDS-UPDRS-III) scores predicted by these features correlated with actual motor severity scores in both LOPD (r = 0.52, p < 0.001) and EOPD (r = 0.27, p < 0.001).ConclusionsDigital speech markers offer markers of PD irrespective of age of onset.",
+    "date": "2026 Jul 15",
+    "pmid": "42455043",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455043/"
+  },
+  {
+    "title_en": "Helicobacter pylori infection, peptic ulcer, gastritis and risk of Parkinson's disease: A nationwide matched cohort study.",
+    "title_zh": "Helicobacter pylori infection, peptic ulcer, gastritis and risk of Parkinson's disease: A nationwide matched cohort study.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundGastrointestinal symptoms are frequent in Parkinson's disease (PD) and may precede diagnosis by decades, suggesting a possible role in its pathogenesis. Patients with PD have higher rates of Helicobacter pylori (H. pylori) infection than the general population, although its potential contribution to PD development remains unclear. Similarly, evidence linking gastritis and peptic ulcer to PD risk is limited.MethodsUsing the nationwide ESPRESSO cohort, we investigated associations between H. pylori infection, peptic ulcer, gastritis, and future risk of PD. Individuals diagnosed with these conditions between 1987 or 1990 and 2017 were matched to </=5 referents from the general population by age, sex, calendar year, and county of residence. Stratified Cox models estimated hazard ratios (HRs), adjusting for country of birth, education, chronic obstructive pulmonary disease, and number of healthcare visits. Incident PD was identified from the National Patient Register.ResultsThe H. pylori cohort included 48,258 exposed individuals and 231,805 referents; the peptic ulcer cohort included 52,761 exposed individuals and 274,313 referents, while the gastritis cohort included 242,325 exposed individuals and 1,053,688 referents. H. pylori infection (HR: 1.14, 95% CI: 1.02-1.28) and gastritis (HR: 1.14, 95% CI: 1.09-1.19) were associated with a marginally increased PD risk, but we found no significant association in peptic ulcer (HR: 1.08, 95% CI: 0.98-1.19). We observed increased PD risk up to ten years after gastritis diagnosis and no time-varying association for H. pylori and peptic ulcer.ConclusionsH. pylori and gastritis may have some relevance for PD development but are unlikely to be major contributors to its pathogenesis.",
+    "date": "2026 Jul 15",
+    "pmid": "42455020",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42455020/"
   }
 ]
