@@ -1,5 +1,15 @@
 [
   {
+    "title_en": "Parkinson's disease genetics across diverse ancestries: an observational genetic study of causal and risk variants with translational implications.",
+    "title_zh": "Parkinson's disease genetics across diverse ancestries: an observational genetic study of causal and risk variants with translational implications.",
+    "journal": "The Lancet. Neurology",
+    "impact_factor": 45.5,
+    "abstract": "BACKGROUND: The genetic architecture of Parkinson's disease varies considerably across ancestries, yet most previous genetic studies have focused on individuals of European ancestry. We aimed to characterise the distribution of established Parkinson's disease causal variants, as well as risk-associated variants with clinical implications (ie, variants in genes involved in pathways targeted by ongoing clinical trials), across ancestrally diverse populations. METHODS: We conducted a multi-ancestry, observational, cross-sectional genetic study using retrospective data from the Global Parkinson's Genetics Program (GP2) release 11 (released in December, 2025). The study investigated causal and risk variants, including copy number variants, in established Parkinson's disease and parkinsonism-associated genes, following the recommendations of the Movement Disorder Society (MDS) Task Force on the Nomenclature of Genetic Movement Disorders, including GBA1, LRRK2, SNCA, VPS35, RAB32, PINK1, PRKN, PARK7, ATP13A2, DCTN1, DNAJC6, FBXO7, JAM2, RAB39B, SLC20A2, SYNJ1, VPS13C, and WDR45. Individuals with Parkinson's disease were diagnosed based on established clinical criteria, including the Parkinson's UK Brain Bank or MDS diagnostic criteria (or both), and healthy control participants were defined as individuals without evidence of neurodegenerative disease and unrelated to participants with Parkinson's disease. We analysed genome and exome sequencing and array genotyping data of 99 783 individuals, including 58 559 individuals with Parkinson's disease and 41 224 controls, from 11 genetically inferred ancestries (African, African admixed, Ashkenazi Jewish, Latino and Indigenous people of the Americas, central Asian, complex admixture, east Asian, European, Finnish, Middle Eastern, and south Asian), defined using reference population-based ancestry inference methods. We calculated allele frequencies for all investigated variants in individuals with Parkinson's disease and controls, both overall and stratified by ancestry. FINDINGS: Approximately 29% of individuals (29 001 of 99 783; 15 443 [26.4%] of 58 559 individuals with Parkinson's disease and 13 558 [32.9%] of 41 224 controls) were from under-represented populations (ie, non-European and non-Ashkenazi Jewish). Our findings indicated both shared genetic contributors across ancestries as well as ancestry-specific differences in variant frequencies and the spectrum of variants within Parkinson's disease-associated genes. Overall, 1217 (2.1%) of 58 559 individuals with Parkinson's disease carried a causal variant, with substantial variations across ancestries ranging from ten (0.4%) of 2844 African individuals to 251 (10.7%) of 2343 individuals of Ashkenazi Jewish ancestry. Risk variants in GBA1 and LRRK2 were identified in 6893 (11.8%) of 58 559 individuals with Parkinson's disease and 3578 (8.7%) of 41 224 controls. GBA1 risk variants were most frequent overall and identified across all ancestries, but variant frequency and spectra differed substantially between ancestries, from 195 (4.1%) of 4773 in the east Asian ancestry group to 1505 (52.9%) of 2844 in the African ancestry group. Similarly, LRRK2 causal and risk variants showed ancestry-specific enrichment, with the highest frequencies of causal variants in the Ashkenazi Jewish (250 [10.7%] of 2343) and Middle Eastern (59 [4.4%] of 1347) ancestry groups, whereas risk variants were predominantly identified in the east Asian ancestry group (601 [12.6%] of 4773). Carriers of biallelic causal variants in PRKN, commonly including deletions and duplications, were also identified across all ancestries except Ashkenazi Jewish; the highest frequency was in the Middle Eastern ancestry group (17 [1.3%] of 1347), and frequencies in all other ancestries were less than 1%. INTERPRETATION: This large-scale, multi-ancestry genetic study offers crucial insights into the population-specific genetic architecture of Parkinson's disease. Whereas clinical trials targeting GBA1 and LRRK2 variant carriers are primarily performed in Europe and the USA, increased ancestral diversity in Parkinson's disease research will be crucial to improve diagnostic accuracy, enhance our understanding of disease mechanisms across populations, and ensure equitable application of and access to emerging genetically informed therapies. FUNDING: Aligning Science Across Parkinson's (ASAP) through the Global Parkinson's Genetics Program (GP2).",
+    "date": "2026 Aug",
+    "pmid": "42456684",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42456684/"
+  },
+  {
     "title_en": "Chemically Programmed Prodrug Nanoparticles for Precise Oral Dopamine Delivery to Deep Brain Regions in Parkinson's Disease.",
     "title_zh": "Chemically Programmed Prodrug Nanoparticles for Precise Oral Dopamine Delivery to Deep Brain Regions in Parkinson's Disease.",
     "journal": "Advanced materials (Deerfield Beach, Fla.)",
@@ -30,6 +40,36 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42475104/"
   },
   {
+    "title_en": "The Parkinson's disease-linked G2019S mutation of LRRK2 increases NADPH oxidase-2 activity in neutrophils for superior control of bacterial infections.",
+    "title_zh": "The Parkinson's disease-linked G2019S mutation of LRRK2 increases NADPH oxidase-2 activity in neutrophils for superior control of bacterial infections.",
+    "journal": "Cellular & molecular immunology",
+    "impact_factor": 19.8,
+    "abstract": "Allelic variants in the leucine-rich repeat kinase-2 (LRRK2) gene are linked to Parkinson's disease, Crohn's disease and leprosy; however, a consensus role of LRRK2 in infection has not yet emerged. Parkinson's disease-linked p.G2019S mutation of LRRK2 results in increased kinase activity. We evaluated the impact of the p.G2019S mutation during the infection of mice with Salmonella typhimurium (ST) or Listeria monocytogenes. We demonstrate that the p.G2019S mutation promotes the phosphorylation of the p40phox and p47phox subunits of the NADPH oxidase-2 complex in the cytosol of neutrophils, leading to their relocation to lysosomes for enhanced bacterial control. Activation of Cathepsin B, Rab10 or PKC was not modulated by p.G2019S. Activation of the cytosolic subunits of NADPH oxidase-2 subunits was inhibited by the virulence factor SifA, which promotes the phagosomal localization of ST. Deletion of SifA resulted in an even greater effect of the p.G2019S mutation on the control of ST by neutrophils. These results suggest a mechanism by which the p.G2019S mutation promotes better control of infections at the cost of excessive tissue damage via NADPH oxidase-2 activity under chronic inflammatory conditions.",
+    "date": "2026 Jul 17",
+    "pmid": "42463806",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463806/"
+  },
+  {
+    "title_en": "Development of an RNA aptamer as a therapeutic agent for synucleinopathies.",
+    "title_zh": "Development of an RNA aptamer as a therapeutic agent for synucleinopathies.",
+    "journal": "Nature communications",
+    "impact_factor": 15.7,
+    "abstract": "The aggregation of alpha-synuclein (alphaSyn), a 140-mer protein, has been implicated in the pathogenesis of Parkinson's disease, multiple system atrophy, and dementia with Lewy bodies. KTKEGV pseudo-repeats (KRs) in the sequence of alphaSyn are key mediators of its prion-like propagation and neurodegeneration. Despite the availability of symptomatic treatments, no current therapy effectively delays disease progression. Here we report a 77-nucleotide RNA aptamer called 1R6, obtained through in vitro selection, that binds with high affinity and selectivity to alphaSyn1-95. 1R6 significantly inhibits alphaSyn oligomerization and beta-sheet-rich fibril assembly and promotes disaggregation of preformed fibrils. Additionally, 1R6 suppresses alphaSyn seeding, as determined by a FRET-based biosensor-cell assay. Cellular studies reveal that 1R6 co-transfection completely prevents alphaSyn-induced cytotoxicity. To assess the protective effects of 1R6 in vivo, we use a Drosophila melanogaster model expressing human alphaSyn in neurons. Flies fed 1R6 show improved locomotor activity, reduced photoreceptor degeneration, and decreased alphaSyn levels in the head. Structural characterization using (1)H-(15)N heteronuclear multiple quantum correlation nuclear magnetic resonance experiments demonstrates that 1R6 targets KR motifs, a finding further supported by in silico simulations. Our findings support further development of RNA aptamers, such as 1R6, including evaluation of efficacy, stability, delivery, and immune responses in mammalian systems, highlighting their potential as therapeutic candidates for synucleinopathies.",
+    "date": "2026 Jul 15",
+    "pmid": "42457682",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42457682/"
+  },
+  {
+    "title_en": "Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment.",
+    "title_zh": "Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment.",
+    "journal": "NPJ digital medicine",
+    "impact_factor": 15.1,
+    "abstract": "Artificial intelligence (AI) is increasingly explored across deep brain stimulation (DBS) for movement disorders, yet whether current systems are approaching deployment remains unclear. To characterise their scope, validation maturity, and translational readiness, we systematically evaluated 239 peer-reviewed studies published between 2000 and 2025, assessing AI methods, validation practices, and barriers constraining clinical translation. Research was dominated by Parkinson's disease and subthalamic nucleus targeting, with limited coverage of other disorders and targets. Most studies reported encouraging internal performance; however, external validation was rare, evaluations remained predominantly retrospective and single-centre, and more than one-quarter involved small-sample, high-dimensional datasets with elevated overfitting risk. Technology readiness assessment revealed that most systems remain at early-to-intermediate translational stages, constrained more by limited validation than by algorithmic inadequacy, compounded by the biological heterogeneity and dynamic complexity inherent to DBS. Nevertheless, emerging external and prospective studies suggest a field moving toward clinical maturity, with promising applications in targeting, programming, outcome prediction, and adaptive therapy delivery.",
+    "date": "2026 Jul 16",
+    "pmid": "42463513",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463513/"
+  },
+  {
     "title_en": "Phytochemicals modulating HSF-1-associated pathways: A systematic review of longevity-extending mechanisms in Caenorhabditis elegans.",
     "title_zh": "Phytochemicals modulating HSF-1-associated pathways: A systematic review of longevity-extending mechanisms in Caenorhabditis elegans.",
     "journal": "Ageing research reviews",
@@ -40,6 +80,36 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42472607/"
   },
   {
+    "title_en": "Targeting Neuroinflammation and Neurodegeneration in Parkinson's Disease: Emerging Natural and Synthetic Therapeutic Strategies.",
+    "title_zh": "Targeting Neuroinflammation and Neurodegeneration in Parkinson's Disease: Emerging Natural and Synthetic Therapeutic Strategies.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Parkinson's disease (PD) is the second most prevalent neurodegenerative disorder worldwide. It is associated with the ongoing degeneration of dopaminergic neurons in the substantia nigra and the formation of Lewy bodies that contain alpha-synuclein. These pathological changes lead to abnormalities of motor symptoms (tremor, rigidity, bradykinesia) and non-motor symptoms (cognitive decline, sleep abnormalities, psychiatric abnormalities). The pathogenesis of PD is complex and multifactorial, involving interconnected mechanisms such as oxidative stress, mitochondrial dysfunction, neuroinflammation, impaired autophagy, ferroptosis, and genetic factors. To develop effective therapeutic interventions, these pathways need to be understood. Current treatments, such as levodopa and deep-brain stimulation (DBS), are symptom-based and do not break disease progression. Thus, considerable research efforts have been geared towards finding disease-modifying therapeutic strategies. Natural bioactive compounds, gene-based therapies, stem cell-based therapies, and nanotechnology-assisted drug delivery systems are promising alternatives as suggested by recent advances. Antioxidant compounds like curcumin, resveratrol, and epigallocatechin gallate (EGCG) show promising antioxidant and neuroprotective effects, and nanomedicine provides boosted delivery to the brain and targeted drug distribution. In future clinical applications, these new strategies could help to more effectively and permanently manage PD.",
+    "date": "2026 Jul 17",
+    "pmid": "42468577",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42468577/"
+  },
+  {
+    "title_en": "alpha-Synuclein Seeds Amplification Assays for Parkinson's Disease and Related Synucleinopathies.",
+    "title_zh": "alpha-Synuclein Seeds Amplification Assays for Parkinson's Disease and Related Synucleinopathies.",
+    "journal": "Medicinal research reviews",
+    "impact_factor": 11.6,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the pathological misfolding and aggregation of alpha-synuclein (alpha-syn), which leads to dopaminergic neuronal loss and multisystem dysfunction. Conventional clinical diagnosis is often delayed until after substantial neuronal degeneration has occurred. Recent advances in alpha-syn seed amplification assays (alpha-syn SAAs), including real-time quaking-induced conversion (RT-QuIC) and protein misfolding cyclic amplification (PMCA), have revolutionized PD biomarker research. These assays exploit the prion-like seeding and propagation properties of pathological alpha-syn to amplify trace aggregates in biological samples with exceptional sensitivity and specificity. Here, we summarize the mechanistic principles and biophysical underpinnings of alpha-syn SAAs, compare their diagnostic performance across biospecimens such as cerebrospinal fluid, skin, blood, and saliva, and evaluate their potential for differential diagnosis among synucleinopathies. We further discuss the integration of SAAs with other biomarkers including alpha-syn oligomer ELISAs, neurofilament light chain assays, and dopaminergic PET/SPECT imaging. Emerging developments, such as same-day RT-QuIC, quantitative kinetic readouts, and peripheral blood-based assays, are accelerating clinical translation. Despite challenges in assay standardization, strain discrimination, and regulatory validation, alpha-syn SAAs hold transformative potential for early diagnosis, patient stratification, and monitoring of therapeutic efficacy in PD. Their convergence with artificial intelligence, organoid modeling, and multimodal biomarker frameworks promises to redefine precision medicine in PD and other synucleinopathies.",
+    "date": "2026 Jul 16",
+    "pmid": "42460688",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42460688/"
+  },
+  {
+    "title_en": "From neural loss to regeneration: modulating cell death to enhance pluripotent stem cell graft survival and integration.",
+    "title_zh": "From neural loss to regeneration: modulating cell death to enhance pluripotent stem cell graft survival and integration.",
+    "journal": "Cell death & disease",
+    "impact_factor": 9.6,
+    "abstract": "Cerebrovascular and neurodegenerative diseases rank among the leading causes of death worldwide and represent an increasing socioeconomic burden, particularly in aging populations. Pluripotent stem cell (PSC)-based therapies have emerged as promising strategies for replacing lost neurons and restoring neural circuits in disorders of the central nervous system (CNS). However, major barriers remain, including poor survival, limited integration, and variable functional maturation of transplanted cells. These challenges currently limit the reproducibility and clinical translation of PSC-based therapies. Here, we examine these barriers with a particular focus on ischemic stroke and Parkinson's disease, two conditions that represent complementary models of acute and chronic neuronal loss and are among the most advanced indications for PSC-based transplantation. We discuss how programmed cell death signaling contributes not only to neuronal loss in these disorders but also to the limited survival of transplanted PSC-derived grafts. Building on this mechanistic framework, we highlight strategies that may improve graft survival and functional integration. Specifically, we propose an integrated approach that combines modulation of programmed cell death pathways, targeted activation of RAS signaling, optimization of mitochondrial health, and use of biocompatible scaffolds to support neuronal maturation and network integration. Together, these strategies provide a conceptual framework for improving the reliability and therapeutic efficacy of PSC-based cell transplantation therapies and accelerating their translation toward clinical application.Overview of strategies to enhance PSC-derived neural graft survival and integration through modulation of cell death pathways, RAS signaling, mitochondrial function, and extracellular scaffolds. Created in BioRender. Raudzus, F. (2026) https://BioRender.com/blr0ycj.",
+    "date": "2026 Jul 17",
+    "pmid": "42469204",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42469204/"
+  },
+  {
     "title_en": "Complement dysregulation during the early phases of synucleinopathy.",
     "title_zh": "Complement dysregulation during the early phases of synucleinopathy.",
     "journal": "Acta neuropathologica",
@@ -48,6 +118,26 @@
     "date": "2026 Jul 20",
     "pmid": "42477211",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42477211/"
+  },
+  {
+    "title_en": "Focused ultrasound blood brain barrier opening for targeted therapeutics in neurodegenerative diseases.",
+    "title_zh": "Focused ultrasound blood brain barrier opening for targeted therapeutics in neurodegenerative diseases.",
+    "journal": "Biological psychiatry",
+    "impact_factor": 9.0,
+    "abstract": "Therapeutic focused ultrasound (FUS) leverages the non-invasive ultrasonic waves to modify the biological tissue. When administered alongside intravenous microbubbles, low-intensity FUS enables transient, targeted disruption of the blood-brain barrier (BBB), permitting passage of systemically administered therapeutics into the central nervous system (CNS) with high spatial precision. The ability to selectively modulate BBB permeability at the disease site has the potential to substantially expand the number of therapeutics that can be utilized in treating illnesses afflicting the CNS. Herein, we review the current applications of FUS for treating neurodegenerative disorders and diseases, including Alzheimer's disease (AD), Parkinson's disease (PD), and Amyotrophic lateral sclerosis (ALS). We discuss the research developments to date and future directions.",
+    "date": "2026 Jul 17",
+    "pmid": "42468901",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42468901/"
+  },
+  {
+    "title_en": "TREM2 in neurodegenerative diseases and acute neurological injuries: mechanisms to targeted therapies.",
+    "title_zh": "TREM2 in neurodegenerative diseases and acute neurological injuries: mechanisms to targeted therapies.",
+    "journal": "Cell communication and signaling : CCS",
+    "impact_factor": 8.9,
+    "abstract": "Triggering receptor expressed on myeloid cells 2 (TREM2) is a critical myeloid receptor expressed on the surface of central nervous system microglia, capable of integrating signals from lipids, damage-associated molecular patterns, and abnormal protein aggregates to regulate phagocytosis, metabolic adaptation, inflammatory remodeling, and pathology-associated responses. Accumulating evidence indicates that TREM2 is neither uniformly protective nor uniformly pathogenic; rather, its biological effects are highly context-dependent, governed collectively by disease stage, pathological substrates, cellular compartments, and the local microenvironment. By coupling with TYROBP/DAP12 or DAP10, TREM2 actively drives the state remodeling of pathology-associated microglia. It profoundly influences the onset and progression of neurodegenerative diseases, such as Alzheimer's disease (AD), Parkinson's disease (PD), multiple sclerosis (MS), and amyotrophic lateral sclerosis (ALS), as well as acute central nervous system injuries, including ischemic stroke, spinal cord injury (SCI), and traumatic brain injury (TBI). Concurrently, soluble TREM2 (sTREM2) holds significant potential not only as a biomarker but also as a context-dependent effector molecule actively participating in pathological regulation. This review synthesizes current advancements by focusing on four core themes: the structural and signaling logic of the TREM2 axis; its regulation of disease-associated microglia (DAM) remodeling; the cross-disease significance of sTREM2; and the mechanistic basis for the divergent outcomes observed with TREM2-targeted therapies across different experimental models and disease stages. The objective is to elucidate the context-dependent roles of TREM2 by analyzing consensus mechanisms, sources of discrepancy, and translational implications, thereby providing a theoretical framework and strategic direction for more precise TREM2-targeted interventions.",
+    "date": "2026 Jul 15",
+    "pmid": "42458498",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42458498/"
   },
   {
     "title_en": "Sustainable next-generation prebiotics for brain health: microbiota-gut-brain axis in neurodegenerative and demyelinating diseases.",
@@ -78,6 +168,26 @@
     "date": "2026 Jul 17",
     "pmid": "42469274",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42469274/"
+  },
+  {
+    "title_en": "Plasma ceramide ratios define metabolic-inflammatory associations with cognitive impairment in Parkinson's disease.",
+    "title_zh": "Plasma ceramide ratios define metabolic-inflammatory associations with cognitive impairment in Parkinson's disease.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Cognitive impairment in Parkinson's disease (PD) remains difficult to stratify using accessible fluid biomarkers, and the metabolic-inflammatory relationships associated with cognitive decline remain incompletely quantified. Here, we examined the relationships among plasma ceramides, inflammatory cytokines, neurodegeneration biomarkers, and cognitive function in PD patients with varying degrees of cognitive impairment, patients with multiple system atrophy (MSA), and healthy controls. MSA was distinguished from PD by higher Cer 18:0/Cer 24:0 and Cer 24:1/Cer 24:0 ratios, despite overlapping cytokine and neurofilament light chain (NFL) profiles. Within PD, worsening cognitive status was accompanied by graded increases in specific ceramide ratios, inflammatory cytokines, and NFL. Cer 24:1/Cer 24:0 was independently associated with cognitive performance (B = - 2.01, P = 0.003). Structural equation modeling identified two association pathways between ceramide-related measures and cognition: a larger direct association (standardized beta = -0.223; 60.8% of the total effect) and a smaller inflammation-related indirect association (standardized beta = -0.133; 36.2%), whereas pathways involving NFL were not significant. These findings establish a ceramide-centered quantitative framework integrating metabolic and inflammatory dimensions of cognitive impairment in PD, supporting stratified biomarker development.",
+    "date": "2026 Jul 16",
+    "pmid": "42463685",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463685/"
+  },
+  {
+    "title_en": "Repurposing the antiplatelet drug prasugrel for Parkinson's disease: evidence of neuroprotective effects and proteomic profiles.",
+    "title_zh": "Repurposing the antiplatelet drug prasugrel for Parkinson's disease: evidence of neuroprotective effects and proteomic profiles.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Chronic neuroinflammation is a hallmark pathological feature of Parkinson's disease (PD) that contributes to progressive neuronal death. Current medications are largely palliative, underscoring the need for alternative therapeutic strategies. Drug repurposing offers a cost-effective and time-efficient approach by leveraging established safety profiles. Here, we screened the U.S. Food and Drug Administration-approved drug library using two in vitro PD models: 1-methyl-4-phenylpyridinium (MPP(+))-induced primary cortical neurons and lipopolysaccharide (LPS)-induced BV2 microglial cells. Proteomic alterations following prasugrel treatment were profiled using Ingenuity Pathway Analysis. Neuroprotective effects were validated by biochemical assays and further confirmed in a 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD mouse model. We found that prasugrel, an antiplatelet drug used for acute coronary syndrome, exhibited significant neuroprotective and anti-inflammatory effects. It reduced the expression of apoptosis- and inflammation-related proteins, inhibited mitogen-activated protein kinase (MAPK)-mediated neuronal death and suppressed nuclear factor kappa B (NF-kappaB)-dependent inflammatory signaling. In vivo, prasugrel administration preserved dopaminergic neurons and improved motor performance in MPTP-treated mice. These findings demonstrate that prasugrel mitigates neuronal apoptosis and microglial activation through modulation of MAPK and NF-kappaB signaling pathways, supporting its development as a repurposed therapeutic candidate for PD.",
+    "date": "2026 Jul 16",
+    "pmid": "42463677",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463677/"
   },
   {
     "title_en": "Association Between Plasma Phosphorylated Tau-217 and Cognition in Parkinson's Disease.",
@@ -120,6 +230,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42469930/"
   },
   {
+    "title_en": "NKX2-1 Downstream Regulatory Structural Variants Explain a Substantial Proportion of Molecular Diagnoses in Patients With Benign Hereditary Chorea.",
+    "title_zh": "NKX2-1 Downstream Regulatory Structural Variants Explain a Substantial Proportion of Molecular Diagnoses in Patients With Benign Hereditary Chorea.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: NKX2-1-related disorders (NKX2-1-RDs) classically present with a triad of neurological, endocrine, and pulmonary manifestations, including benign hereditary chorea. However, in a fraction of patients, NKX2-1 coding variants are not detected, and variants outside the NKX2-1 locus have been reported. OBJECTIVE: The objective of this study was to evaluate the clinical spectrum and frequency of regulatory variants in NKX2-1-RDs. METHODS: Eight families carrying structural variants near NKX2-1 without disruption of the coding sequence were recruited, and clinical data were systematically collected. Regulatory activity was assessed using EpiMap data. Frequency and diagnostic yield were evaluated in a cohort of 26 individuals with molecularly confirmed NKX2-1-RD. RESULTS: Eight families comprising 13 affected individuals were identified: five with downstream deletions and three with complex structural rearrangements. Neurological manifestations were universal, including chorea, myoclonus, and ataxia, while cognitive or behavioral abnormalities occurred in a subset. Individuals with deletions rarely presented extraneurological features, whereas all carriers of complex structural variants showed the complete triad. All deletions and breakpoints were located downstream of NKX2-1. The core shared deleted region showed open chromatin and H3K27ac peaks in fetal brain, lung, and thyroid tissues, suggesting regulatory activity. Regulatory variants accounted for 27% of NKX2-1-RD diagnoses in our institutions. Exome sequencing combined with copy-number variant analysis captured 92% of diagnoses when MBIP was evaluated as a target for downstream variants. CONCLUSIONS: Downstream regulatory variants are a substantial cause of NKX2-1-RDs. Diagnostic strategies should include this regulatory region and systematic structural variant detection, particularly when coding variants have been excluded. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 16",
+    "pmid": "42464514",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42464514/"
+  },
+  {
     "title_en": "Expression of concern: \"Design and synthesis of benzo[d]thiazol-2-yl-methyl-4-(substituted)-piperazine-1-carbothioamide as novel neuronal nitric oxide inhibitors and evaluation of their neuroprotecting effect in 6-OHDA-induced unilateral lesioned rat model of Parkinson's disease\" [Biomed. Pharmacother. 156 (2022) 113838].",
     "title_zh": "Expression of concern: \"Design and synthesis of benzo[d]thiazol-2-yl-methyl-4-(substituted)-piperazine-1-carbothioamide as novel neuronal nitric oxide inhibitors and evaluation of their neuroprotecting effect in 6-OHDA-induced unilateral lesioned rat model of Parkinson's disease\" [Biomed. Pharmacother. 156 (2022) 113838].",
     "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
@@ -138,6 +258,16 @@
     "date": "2026 Jul 17",
     "pmid": "42469894",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42469894/"
+  },
+  {
+    "title_en": "Brain organoids in Parkinson's disease drug development: Human-specific models for translational discovery.",
+    "title_zh": "Brain organoids in Parkinson's disease drug development: Human-specific models for translational discovery.",
+    "journal": "Drug discovery today",
+    "impact_factor": 7.5,
+    "abstract": "Parkinson's disease (PD) poses a major unmet therapeutic challenge, with most drug candidates failing in clinical translation despite promising animal model data. Human induced pluripotent stem cell-derived midbrain organoids recapitulate key PD pathological hallmarks - including dopaminergic neuron loss, alpha-synuclein aggregation, and neuroinflammation - in a genetically defined, human-specific context. This review summarizes drug screening studies in midbrain organoids across genetic, toxin-based, and alpha-synuclein preformed fibril models. We highlight therapeutic interventions that rescue PD phenotypes, compare organoid and animal model systems, and discuss the personalized medicine potential of patient-derived organoids. We also critically assess current limitations and outline how artificial intelligence integration and assembloid platforms are advancing organoid-based drug discovery towards regulatory acceptance.",
+    "date": "2026 Jul 17",
+    "pmid": "42468620",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42468620/"
   },
   {
     "title_en": "Heterojunction-Mediated Dual-Site Synergistic Catalysis for Enhanced Electrochemiluminescence Detection of alpha-Synuclein.",
@@ -170,6 +300,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42477717/"
   },
   {
+    "title_en": "Dual-tasking reveals severity-dependent reorganization of cortical beta energy landscapes in Parkinson's disease.",
+    "title_zh": "Dual-tasking reveals severity-dependent reorganization of cortical beta energy landscapes in Parkinson's disease.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Dual-task impairment is a hallmark of Parkinson's disease (PD), yet the large-scale neural mechanisms underlying postural-motor interference remain poorly understood. In particular, it is unclear how cortical network dynamics reorganize across disease severity when postural control competes with concurrent task demands. This study investigated EEG-derived beta-band cortical energy landscapes in healthy older adults, early-stage PD, and mid-stage PD during single- and dual-task conditions. Dual-task behavioral cost increased with disease severity for concurrent manual performance (p < 0.001), whereas a quadratic pattern was observed for postural performance. Energy landscape analysis revealed severity-dependent reconfiguration of cortical beta dynamics. Dual-task-related landscape changes in effective network flexibility (DeltaN(eff)), landscape geometry (DeltaE(var) and DeltaE(mag)), and dominant low-energy attractor organization (DeltaLow mass and DeltaLow area) showed significant monotonic trends (p < 0.05), reflecting progressive constrained cortical network dynamics with advancing PD severity. In addition, dual-task-related landscape alterations were associated with clinical severity, as indexed by Hoehn and Yahr stage (|r| = 0.353-0.423, p = 0.016-0.048), and showed associations with motor impairment, as measured by MDS-UPDRS part III scores (|r| = 0.333-0.455, p = 0.009-0.063). These findings demonstrate that dual-task demands induce severity-dependent reconfiguration of cortical beta energy landscapes in PD. Energy landscape geometry may capture systems-level neural constraints associated with dual-task susceptibility in PD, providing a physiologically grounded framework to characterize disease-related functional vulnerability.",
+    "date": "2026 Jul 16",
+    "pmid": "42462893",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42462893/"
+  },
+  {
+    "title_en": "Selenium nanoparticles modulate gut-brain axis via NRF2 to attenuate Parkinsonian neurotoxicity.",
+    "title_zh": "Selenium nanoparticles modulate gut-brain axis via NRF2 to attenuate Parkinsonian neurotoxicity.",
+    "journal": "NanoImpact",
+    "impact_factor": 5.5,
+    "abstract": "Parkinson's disease (PD) is characterized by progressive dopaminergic neurodegeneration driven by mitochondrial dysfunction, oxidative stress, neuroinflammation, and impaired gut-brain communication. Here, we report a biogenic selenium nanoparticle (Se-NP) platform derived from mussel tissue and demonstrate its nano-enabled neuroprotective efficacy in a rotenone-induced zebrafish model of Parkinsonian neurotoxicity. Selenium was extracted from the tissue of Perna viridis (mussel) and used for the biogenic synthesis of Se-NPs through a green reduction approach under controlled conditions. The mussel-derived Se-NPs exhibited high redox-buffering capacity, enabling efficient attenuation of rotenone-induced oxidative stress, lipid peroxidation, and nitric oxide accumulation. Se-NP treatment preserved dopaminergic neuronal architecture, reduced microglial activation, and maintained gut epithelial integrity, indicating coordinated neuro-intestinal protection. Mechanistically, Se-NPs activated NRF2-driven antioxidant signaling through upregulation of NFE2L2a and HMOX1a and suppression of KEAP1a, thereby restoring endogenous antioxidant defences. At the neurovascular interface, Se-NPs enhanced blood-brain barrier integrity by upregulating tight junction proteins Claudin-5a and ZO-1, linking redox regulation to barrier stabilization. Notably, Se-NPs restored dopaminergic gene expression, modulated inflammatory signaling pathways, and normalized gut-associated microbial markers, thereby supporting nano-mediated regulation of the gut-brain axis. Collectively, this study establishes biogenic Se-NPs as a multifunctional nanotherapeutic that integrates antioxidant signaling, neurovascular protection, and gut-brain axis modulation to counteract rotenone-induced neurodegeneration, highlighting their potential as a nano-enabled strategy for PD intervention.",
+    "date": "2026 Jul 15",
+    "pmid": "42456856",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42456856/"
+  },
+  {
     "title_en": "Performance of the SmartMe&You serious video games for home telemonitoring is related to cognitive status and resting-state electroencephalographic markers in healthy and Parkinson's disease participants.",
     "title_zh": "Performance of the SmartMe&You serious video games for home telemonitoring is related to cognitive status and resting-state electroencephalographic markers in healthy and Parkinson's disease participants.",
     "journal": "GeroScience",
@@ -198,6 +348,26 @@
     "date": "2026 Jul 17",
     "pmid": "42474003",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42474003/"
+  },
+  {
+    "title_en": "Resveratrol and neuroprotection: modulation of cellular dynamics and signaling networks in neurodegenerative diseases.",
+    "title_zh": "Resveratrol and neuroprotection: modulation of cellular dynamics and signaling networks in neurodegenerative diseases.",
+    "journal": "Inflammopharmacology",
+    "impact_factor": 5.3,
+    "abstract": "Progressive loss of neurons, oxidative stress, neuroinflammation, and mitochondrial dysfunction are hallmarks of neurodegenerative diseases (NDs), such as Alzheimer's disease (AD), Parkinson's disease (PD), Huntington's disease (HD), and amyotrophic lateral sclerosis (ALS). Resveratrol, a polyphenolic phytoalexin mainly found in grapes and red wine, is a promising treatment candidate due to its diverse biological effects and neuroprotective properties. This review demonstrates the regulatory effects of resveratrol on cellular signaling pathways linked to NDs and its neuroprotective mechanisms. Resveratrol enhances neuronal survival, boosts mitochondrial biogenesis, and mitigates oxidative stress by affecting key molecular pathways, including SIRT1/AMPK, PI3K/Akt, MAPK, and Nrf2/ARE. The PI3K/Akt and ERK1/2 pathways promote neuronal regeneration by modulating pro-apoptotic and anti-apoptotic factors. Resveratrol inhibits NF-kappaB, reducing cytokine release and microglial activation, thereby exhibiting anti-inflammatory properties. It improves cognitive function, synaptic plasticity, and neuronal survival. Despite an increasing pharmacological profile, its practical applicability is limited by inadequate bioavailability, rapid metabolism, and restricted brain penetration. This review demonstrates resveratrol's effect on interconnected signaling networks related to neurodegeneration. We critically compare evidence from preclinical and clinical studies, demonstrating both therapeutic potential and translational limitations. Emerging nanotechnology-based delivery strategies are demonstrated to overcome bioavailability and blood-brain barrier penetration challenges. These insights provide a translational perspective for the future development of resveratrol-based interventions in NDs.",
+    "date": "2026 Jul 17",
+    "pmid": "42467293",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42467293/"
+  },
+  {
+    "title_en": "VPS35 Regulates Microglial Lipid Droplet Accumulation in Parkinson's Disease via Rab7.",
+    "title_zh": "VPS35 Regulates Microglial Lipid Droplet Accumulation in Parkinson's Disease via Rab7.",
+    "journal": "Glia",
+    "impact_factor": 5.1,
+    "abstract": "Microglial dysfunction and aberrant lipid metabolism are emerging as key contributors to Parkinson's disease (PD) pathogenesis. However, the specific role and regulation of lipid droplets (LDs) within microglia remain poorly defined. In this study, we employed MPTP- and LPS-induced PD mouse models and an in vitro system utilizing astrocyte-conditioned medium to model disease-relevant lipid stress and found enhanced LD accumulation in microglia. VPS35 expression was decreased in microglia, correlating with elevated microglial LD levels in PD mouse models. We then performed genetic manipulations (knockdown and overexpression) of VPS35, including the PD-associated D620N mutant, in primary microglia and assessed LD accumulation, phagocytic function, inflammatory responses, and integrated stress pathways. We showed that VPS35 knockdown exacerbated the accumulation of LDs in microglia. Conversely, VPS35 overexpression ameliorated LD formation, improved phagocytic function, and reduced inflammatory and integrated stress responses in microglia. The PD-related VPS35[D620N] mutation abolished these protective effects. We further found that VPS35 interacts with Rab7 to maintain lysosomal function, and the D620N mutation disrupts this interaction, leading to defective LD clearance. Our findings reveal VPS35 dysfunction as a key pathogenic mechanism in PD, where the D620N mutation disrupts microglial lipid handling to promote disease progression, thereby nominating VPS35 restoration as a promising therapeutic strategy.",
+    "date": "2026 Sep",
+    "pmid": "42463431",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42463431/"
   },
   {
     "title_en": "Return of genetic results to persons with Parkinson's disease: Blessing or foe?",
