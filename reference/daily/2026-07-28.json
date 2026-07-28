@@ -1,0 +1,22 @@
+[
+  {
+    "title_en": "A wearable patch for continuous levodopa monitoring in sweat: Towards exertion and power-free pharmacodynamic assessment in Parkinson's disease.",
+    "title_zh": "A wearable patch for continuous levodopa monitoring in sweat: Towards exertion and power-free pharmacodynamic assessment in Parkinson's disease.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "Precision management of Parkinson's disease (PD) requires frequent levodopa (L-dopa) dose adjustments, yet current monitoring relies on subjective symptom reporting and infrequent blood testing. Here, we present a soft, fingertip-mounted wearable platform for continuous, noninvasive L-dopa monitoring. By combining osmotically harvested passive sweat with soft hydrogels, a potentiometric sensing strategy, and individualized calibration, the platform estimates blood L-dopa information from sweat without external power or iontophoresis. Strong correlations between sweat and high-performance liquid chromatography (HPLC)-measured blood L-dopa concentrations were observed in healthy ([Formula: see text]) and PD subjects ([Formula: see text]) following a single immediate-release L-dopa/carbidopa dose. Low motor symptom scores aligned with peak L-dopa levels, confirming pharmacodynamic relevance. L-dopa cleared faster in PD patients despite similar bioavailability to healthy subjects, while recorded hemodynamic responses showed short hypotensive trends for both groups. Machine learning identified sweat and blood pressure as key contributors toward accurate estimation of blood L-dopa levels (mean absolute error = 2.02 microM vs. ground truth). Overall, our easy-to-use, energy-efficient wearable supports real-time, stimulation-free monitoring, potentially enabling at-home dosage adjustments and paving the way for future autonomous closed-loop L-dopa therapeutic system development.",
+    "date": "2026 Aug 11",
+    "pmid": "42507913",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507913/"
+  },
+  {
+    "title_en": "The Drosophila CEBPG homolog Irbp18 partners with crc (ATF4) to mediate the integrated stress response in degenerative disease models.",
+    "title_zh": "The Drosophila CEBPG homolog Irbp18 partners with crc (ATF4) to mediate the integrated stress response in degenerative disease models.",
+    "journal": "Cell reports",
+    "impact_factor": 6.9,
+    "abstract": "The integrated stress response (ISR) coordinates cellular adaptation to diverse stress conditions. In Drosophila, two bZIP transcription factors, Xrp1 and crc (ATF4 homolog), are induced during ISR. Crc protein can dimerize with two CEBP factors in vitro, but the in vivo relevance of those interactions remained unknown. Here, we report that the CEBPG homolog, Irbp18, is an essential partner of crc during ISR. Specifically, Irbp18 is broadly required for the transcriptional induction of ISR target genes in the photoreceptors of ninaE(G69D), a Drosophila model of retinitis pigmentosa. Moreover, CUT&RUN analysis indicates that Irbp18 loss reduces or abolishes crc binding to target DNAs in photoreceptors and impairs crc's ability to induce target transcripts upon overexpression. Functionally, Irbp18 loss causes retinal degeneration and suppresses ISR signaling in parkin mutants, a model of Parkinson's disease. Together, these findings identify Irbp18 as a cofactor for crc, impacting pathological outcomes in Drosophila models of degeneration.",
+    "date": "2026 Jul 27",
+    "pmid": "42507551",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507551/"
+  }
+]

@@ -10,6 +10,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42485161/"
   },
   {
+    "title_en": "Environmental Risk in Parkinson Disease-Bring the Noise.",
+    "title_zh": "Environmental Risk in Parkinson Disease-Bring the Noise.",
+    "journal": "JAMA neurology",
+    "impact_factor": 21.3,
+    "abstract": "暂无摘要",
+    "date": "2026 Jul 20",
+    "pmid": "42475105",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475105/"
+  },
+  {
+    "title_en": "Road Traffic Noise, Noise Difference Between Residential Facades, and Risk of Parkinson Disease.",
+    "title_zh": "Road Traffic Noise, Noise Difference Between Residential Facades, and Risk of Parkinson Disease.",
+    "journal": "JAMA neurology",
+    "impact_factor": 21.3,
+    "abstract": "IMPORTANCE: Transportation noise has been proposed as a risk factor for Parkinson disease (PD), but epidemiological evidence remains limited and inconsistent. OBJECTIVE: To investigate whether long-term residential exposure to road traffic noise is associated with a higher risk of PD. DESIGN, SETTING, AND PARTICIPANTS: This was a Danish nationwide prospective cohort study with follow-up from 2000 to 2017. Danish residents 40 years and older were eligible. Analyses were conducted from April to May 2026. EXPOSURES: Based on complete residential address history from 1990 onward, 10-year time-weighted residential exposure to road traffic noise (LDEN) at the most and least exposed facades were assessed for all participants. MAIN OUTCOME AND MEASURES: Incident PD cases during follow-up were identified in the National Patient Register. Analyses were conducted using Cox proportional hazards models. RESULTS: Of 3 542 488 eligible individuals, 438 911 were excluded (prevalent PD, incomplete address history, or missing covariates), leaving 3 103 577 participants (mean [SD] baseline age, 50.9 [11.7] years, 1 588 658 female [51.2%]). Among 3 103 577 participants, 20 587 developed PD during follow-up. Road traffic noise at the most exposed facade (LDEN-Max) was associated with a hazard ratio (HR) of 1.03 (95% CI, 1.00-1.05) per interquartile increment of 11.5 dB in models adjusted for individual- and area-level sociodemographics, air pollution (fine particulate matter with a diameter of 2.5 microm or less [PM2.5] and ultrafine particles), and green space covariates. Having a difference between noise at the most and least exposed facades (Deltanoise, indicator of having a quiet side) of 10 dB or more was associated with a decline in PD risk across different levels of LDEN-Max above 50 dB. Also, accounting for Deltanoise strengthened the association between LDEN-Max and PD (HR, 1.06; 95% CI, 1.02-1.09). Noise at the least exposed facade was associated with PD, with an HR of 1.04 (95% CI, 1.02-1.07) per interquartile increment of 8.9 dB. Associations were consistent across strata of sex, education, income, cohabiting status, and population density and after additional adjustment for smoking and physical activity in a subpopulation. CONCLUSIONS AND RELEVANCE: Results of this cohort study show that long-term exposure to road traffic noise was associated with higher PD risk. Having a quiet facade mitigated this association. These findings suggest noise as a novel risk factor for PD and support mitigation strategies ensuring a quiet residential side.",
+    "date": "2026 Jul 20",
+    "pmid": "42475104",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42475104/"
+  },
+  {
     "title_en": "Dissecting divergent outcomes in stem cell-derived dopamine cell therapy trials for Parkinson's disease.",
     "title_zh": "Dissecting divergent outcomes in stem cell-derived dopamine cell therapy trials for Parkinson's disease.",
     "journal": "Cell stem cell",
@@ -90,6 +110,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42493609/"
   },
   {
+    "title_en": "Complement dysregulation during the early phases of synucleinopathy.",
+    "title_zh": "Complement dysregulation during the early phases of synucleinopathy.",
+    "journal": "Acta neuropathologica",
+    "impact_factor": 9.3,
+    "abstract": "Parkinson's disease (PD) is characterized by progressive degeneration of nigrostriatal dopamine neurons and synucleinopathy, which is the accumulation of aggregated alpha-synuclein (alpha-syn). Increasing evidence implicates alpha-syn-associated neuroinflammation as a contributor to PD pathogenesis, yet immune mechanisms linking synucleinopathy to neurodegeneration remain incompletely defined. Activation of the complement cascade occurs in PD and other synucleinopathies, but most studies report complement activation after overt neurodegeneration, making it difficult to conclude if complement is directly activated by pathological alpha-syn or secondarily following neurodegeneration. We used the rat alpha-syn preformed fibril (PFF) model, in vitro complement assays and postmortem human PD tissue to investigate whether pathological alpha-syn directly activates complement prior to overt neurodegeneration. The alpha-syn PFF model exhibits a protracted pathological time course and distinct temporal separation between peak alpha-syn aggregation and nigrostriatal degeneration. Thus, we quantified complement expression, activation, and regulation during the aggregation phase. Synucleinopathy caused complement activation prior to nigrostriatal degeneration, including upregulation of components of both the classical (C1qa, C1r, C4b) and alternative (Cfd, Cfb) pathways, the anaphylatoxin (C3aR, C5aR) and phagocytic (CR3) complement receptors, and activation of complement C3. During early synucleinopathy microglia upregulated C3, which significantly correlated with synucleinopathy burden across several brain regions, including the substantia nigra pars compacta (SNc) and cortex. Concurrently, complement regulators, including Cd55, Cd59, neuronal pentraxin-1 (Nptx1), and the neuronal pentraxin receptor were downregulated in the synucleinopathy-affected SNc. Importantly, increased levels of C1q and iC3b along with downregulation of CD55 and NPTX1 protein were also observed in human postmortem PD SNc tissue, supporting the translational relevance of our findings. Mechanistically, we demonstrate that aggregated, but not monomeric, alpha-syn directly binds C1q and activates the complement cascade in a C1q-dependent manner. These data provide the first in vivo evidence that synucleinopathy triggers complement activation and dysregulation prior to neurodegeneration.",
+    "date": "2026 Jul 20",
+    "pmid": "42477211",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477211/"
+  },
+  {
     "title_en": "Retraction notice to \"The role and molecular mechanism of alpha synuclein in Parkinson's disease: A diagnostic model for corneal nerve fiber injury\" [Int. J. Biol. Macromol. 306 (2025) 141238].",
     "title_zh": "Retraction notice to \"The role and molecular mechanism of alpha synuclein in Parkinson's disease: A diagnostic model for corneal nerve fiber injury\" [Int. J. Biol. Macromol. 306 (2025) 141238].",
     "journal": "International journal of biological macromolecules",
@@ -118,6 +148,16 @@
     "date": "2026 Jul 21",
     "pmid": "42481462",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42481462/"
+  },
+  {
+    "title_en": "APCDD1 shows high specificity for ventral midbrain dopaminergic progenitors in a cell surface marker benchmarking study.",
+    "title_zh": "APCDD1 shows high specificity for ventral midbrain dopaminergic progenitors in a cell surface marker benchmarking study.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Cell surface markers are important tools for quality control (QC) and enrichment of cellular subtypes, such as the dopaminergic (DA) progenitors used for treatment of Parkinson's disease (PD). However, the regional specificity of many published surface markers is not fully known. Here, we identified APCDD1 as a surface marker with high regional selectivity for caudal ventral midbrain DA fate, outperforming the specificity of seven other previously published markers in flow cytometry analysis. APCDD1 expression correlated with key markers of caudal ventral midbrain DA fate, and antibody-based sorting for APCDD1 enabled enrichment of DA progenitors and depletion of non-DA populations. In regionally mixed neural populations, APCDD1-high, but not APCDD1-low cells, yielded full motoric amelioration after grafting in a rat model of PD, and the APCDD1-high cells produced a higher proportion of DA neurons co-expressing ventral midbrain markers FOXA2 and LMX1A. Taken together, APCDD1 is a promising tool for improving the QC and enrichment of clinically applied cell products for PD.",
+    "date": "2026 Jul 20",
+    "pmid": "42477011",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477011/"
   },
   {
     "title_en": "A systematic review and meta-analysis of visuospatial attentional deficits in Parkinson's patients.",
@@ -190,6 +230,36 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42482420/"
   },
   {
+    "title_en": "Association Between Plasma Phosphorylated Tau-217 and Cognition in Parkinson's Disease.",
+    "title_zh": "Association Between Plasma Phosphorylated Tau-217 and Cognition in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Alzheimer's disease (AD) co-pathology contributes to dementia in PD, but its role in earlier cognitive impairment remains uncertain. OBJECTIVE: To determine if p-tau217, a biomarker of early AD, is associated with cognitive impairment in PD. METHODS: Plasma p-tau217 levels in 167 PD patients without dementia and 63 controls were related to performance on standard neuropsychological testing, and to cognitive impairment as defined by a MoCA score <26 and by self-report. Plasma GFAP, NfL and APOE epsilon4 carrier status were also examined. RESULTS: No significant differences in p-tau217, GFAP and NfL level were observed between groups (pFDR > 0.08). Higher p-tau217 was associated with worse visuospatial function and greater self-reported cognitive impairment, but these associations did not survive correction (pFDR > 0.08). There was no association with cognitive impairment (pFDR > 0.08). CONCLUSION: These results suggest that co-morbid AD pathology is not a major contributor to early cognitive changes in this sample of PD patients without dementia. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 19",
+    "pmid": "42473272",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42473272/"
+  },
+  {
+    "title_en": "DNA Repair Pathway Variants Are Enriched in Individuals with Biallelic AAGGG CANVAS and RFC1-Related Disease.",
+    "title_zh": "DNA Repair Pathway Variants Are Enriched in Individuals with Biallelic AAGGG CANVAS and RFC1-Related Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Cerebellar ataxia, neuropathy and vestibular are flexia syndrome (CANVAS) and RFC1-related disease are most commonly caused by biallelic AAGGG repeat expansions in RFC1. The high population frequency of this expansion compared to the frequency of CANVAS suggests incomplete penetrance. OBJECTIVE: To determine whether polygenic risk factors influence incomplete penetrance in RFC1-related disease. METHODS: Biallelic RFC1 AAGGG status was profiled in Genomics England (GEL) and the UK Biobank (UKB) discovery cohorts and a replication Australian ataxia cohort (AAC). Polygenic score (PGS) analysis was performed with variants identified in a Huntington's Disease age at onset study. RESULTS: We identified 56 (GEL) and 18 (UKB) biallelic individuals with ataxia and/or neuropathy, and 26 (GEL) and 207 (UKB) age-matched biallelic carriers with no report of ataxia or neuropathy. Meta-analysis of GEL and UKB identified elevated PGS in biallelic affected individuals (OR = 1.43, p = 2.2 x 10(-3)) compared to controls, but not in the biallelic carriers (OR = 1.01, P = 0.92). The variant rs245100, upstream MSH3, was the biggest contributor to this elevated risk (OR = 2.35, adjusted p = 0.02). Replication in the AAC showed elevated PGS in individuals with molecular confirmation of CANVAS or RFC1-related disease (n = 54) (OR = 1.93, P = 4.4 x 10(-5)), and enrichment of rs245100 (OR = 4.24, p = 1.0 x 10(-4)). CONCLUSION: These results indicate that modifier variant burden alters disease penetrance and presentation in RFC1-related disease and determines an increased incidence of ataxia and neuropathy in biallelic individuals. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 19",
+    "pmid": "42473260",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42473260/"
+  },
+  {
+    "title_en": "Expression of concern: \"Design and synthesis of benzo[d]thiazol-2-yl-methyl-4-(substituted)-piperazine-1-carbothioamide as novel neuronal nitric oxide inhibitors and evaluation of their neuroprotecting effect in 6-OHDA-induced unilateral lesioned rat model of Parkinson's disease\" [Biomed. Pharmacother. 156 (2022) 113838].",
+    "title_zh": "Expression of concern: \"Design and synthesis of benzo[d]thiazol-2-yl-methyl-4-(substituted)-piperazine-1-carbothioamide as novel neuronal nitric oxide inhibitors and evaluation of their neuroprotecting effect in 6-OHDA-induced unilateral lesioned rat model of Parkinson's disease\" [Biomed. Pharmacother. 156 (2022) 113838].",
+    "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "impact_factor": 7.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug",
+    "pmid": "42477980",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477980/"
+  },
+  {
     "title_en": "Neuroprotective effect of mesenchymal stem cell-derived miR-143-3p on dopaminergic neurons via the TLR3/NF-kappaB/p53 signaling pathway.",
     "title_zh": "Neuroprotective effect of mesenchymal stem cell-derived miR-143-3p on dopaminergic neurons via the TLR3/NF-kappaB/p53 signaling pathway.",
     "journal": "Stem cell research & therapy",
@@ -220,6 +290,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42479881/"
   },
   {
+    "title_en": "Integrating remote testing and machine learning to identify markers of cerebellar ataxia at home.",
+    "title_zh": "Integrating remote testing and machine learning to identify markers of cerebellar ataxia at home.",
+    "journal": "Communications medicine",
+    "impact_factor": 6.3,
+    "abstract": "BACKGROUND: In-person assessments face accessibility, scalability, and geographic diversity challenges, especially for rare diseases. Additionally, Cerebellar Ataxia (CA) non-motor symptoms(NMS) are often overlooked. We aimed to address these gaps by leveraging the Internet and machine-learning. METHODS: In a bi-center study, we assessed 100 participants: 30 CA, 45 neurotypically healthy(NH), and 25 Parkinson's disease(PD), recruited from 57 geographical locations across two countries. We evaluated multiple domains-cognition, anxiety, depression, social support, and personality-using accessible online tools. We applied leave-one-out cross-validation and feature importance analysis to examine the machine-learning model's ability to distinguish between groups and identify the most sensitive and specific CA predictors. RESULTS: Machine-learning models trained on these remote non-motor features alone, yield AUCs of 0.74/0.76(CA vs. NH) and 0.78/0.79 (CA vs. PD) using leave-one-out cross-validation, demonstrating classification power exceeding 20%. CONCLUSION: These findings highlight the value of integrating digital-health technologies and machine-learning models for CA NMS evaluation, potentially serving as scalable digital-markers.",
+    "date": "2026 Jul 20",
+    "pmid": "42477497",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477497/"
+  },
+  {
     "title_en": "The centrosome-cilium-centriolar satellite axis in neurodegenerative diseases.",
     "title_zh": "The centrosome-cilium-centriolar satellite axis in neurodegenerative diseases.",
     "journal": "EMBO reports",
@@ -248,6 +328,26 @@
     "date": "2026 Jul 22",
     "pmid": "42484778",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42484778/"
+  },
+  {
+    "title_en": "Amygdalar nuclei vulnerability to protein aggregates in Lewy body diseases.",
+    "title_zh": "Amygdalar nuclei vulnerability to protein aggregates in Lewy body diseases.",
+    "journal": "Acta neuropathologica communications",
+    "impact_factor": 5.7,
+    "abstract": "The amygdala is highly vulnerable to protein aggregation and heavily affected in Lewy body diseases (LBDs). However, vulnerability might vary per amygdalar nucleus and it is unclear if the pattern of vulnerability across the nuclei differs between types of protein aggregation and between LBDs. In this study, we aimed to assess the vulnerability of amygdalar nuclei to multiple types of protein aggregation across LBDs. Post-mortem amygdala tissue of donors with incidental LBD (iLBD, n = 6), Parkinson's disease (PD; n = 18), dementia with Lewy bodies (DLB; n = 9) and Alzheimer's disease with Lewy bodies (AD + LB; n = 15) was immunostained with antibodies against alpha-synuclein (aSyn; EP1536Y and 5G4), amyloid beta (Abeta; 4G8), phosphorylated tau (p-tau; AT8) and phosphorylated TDP-43 (p-TDP-43; 11-9), and quantitatively analyzed using QuPath. Neuronal and astrocytic aSyn pathology were most pronounced in the parahippocampal-amygdaloid transition area (PHA) and the basal nucleus, a pattern shared by all disease groups. Vulnerability to Abeta pathology varied per group but was highest in the PHA in AD + LB, whereas diffuse plaques were most common in the accessory basal nucleus. The PHA of DLB and both the basal and accessory basal nucleus of AD + LB cases were most susceptible to p-tau pathology, with fine granular cytoplasmic neuronal tau inclusions being mostly observed in the basal nucleus and neurofibrillary tangles in the accessory basal nucleus. The nuclei in the ventromedial part of the amygdala (PHA, ventral part of the basal nucleus, and cortical nucleus) were found to be hotspots for protein aggregation across LBDs. aSyn pathology in these nuclei predominantly correlated with dementia, hallucinations and anxiety. Our results show that amygdalar nuclei vulnerability differs per protein aggregate and disease entity, although the PHA, basal nucleus and cortical nucleus are generally more vulnerable. Together, our study provides a deeper insight into the selective vulnerability of amygdalar nuclei to protein aggregates and their relation to clinical characteristics in LBDs.",
+    "date": "2026 Jul 21",
+    "pmid": "42477717",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477717/"
+  },
+  {
+    "title_en": "Performance of the SmartMe&You serious video games for home telemonitoring is related to cognitive status and resting-state electroencephalographic markers in healthy and Parkinson's disease participants.",
+    "title_zh": "Performance of the SmartMe&You serious video games for home telemonitoring is related to cognitive status and resting-state electroencephalographic markers in healthy and Parkinson's disease participants.",
+    "journal": "GeroScience",
+    "impact_factor": 5.4,
+    "abstract": "Unsupervised serious video games on the SmartMe&You home telemonitoring platform may enable the assessment of cognitive fluctuations in older individuals, with or without cognitive deficits. Here, we tested their validity in cognitively unimpaired older adults (Healthy) and patients with mild cognitive impairment and mild to moderate dementia due to Parkinson's disease (PDCD). Such validity was assessed using Mini-Mental State Examination (MMSE) scores and resting-state eyes-closed electroencephalography (rsEEG) activity. Clinical, demographic, and rsEEG datasets were collected from 34 healthy and 68 PDCD participants. The SmartMe&You video games included 7 unsupervised cognitive tasks implemented on a commercial tablet. The rsEEG source activities in the individual delta, theta, and alpha frequency bands were estimated using the eLORETA freeware. As novel findings, we showed that game performance: (1) discriminated between healthy participants and PDCD patients, with overall accuracy exceeding 90%; (2) was positively associated with MMSE scores across all participants (p < 0.00001); and (3) was negatively associated with global rsEEG source activity in the delta and theta frequency bands (p < 0.00001). These findings suggest that serious videogames of the SmartMe&You home telemonitoring platform were feasible and sensitive to cognitive status across the spectrum from normal aging to Parkinson's disease-related dementia. This approach provides a scalable, low-cost, and ecologically valid tool for remote cognitive monitoring, with future potential applications in both early detection and longitudinal tracking of cognitive decline.",
+    "date": "2026 Jul 20",
+    "pmid": "42477234",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42477234/"
   },
   {
     "title_en": "The Neurology of Menopause.",
@@ -338,5 +438,15 @@
     "date": "2026 Jul 21",
     "pmid": "42481917",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42481917/"
+  },
+  {
+    "title_en": "Return of genetic results to persons with Parkinson's disease: Blessing or foe?",
+    "title_zh": "Return of genetic results to persons with Parkinson's disease: Blessing or foe?",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Parkinson's disease (PD) is increasingly understood as a biologically heterogeneous disorder, with genetic contributions ranging from high-penetrance monogenic variants to common polygenic risk. As testing becomes more accessible and clinically relevant, the key question has shifted from whether to test to whether -and how- to return results. Most PD associated variants confer probabilistic risk rather than deterministic outcomes, limiting individual-level prediction and complicating disclosure. Yet genetic findings may inform prognosis and increasingly determine eligibility for targeted therapies and clinical trials. Large-scale genetic studies show both feasibility, demand and utility with pathogenic variants identified in approximately 10-20% of patients. The ethical balance differs by context. In patients with established PD, results may provide insight and research access but require careful framing to avoid overinterpretation. In at-risk individuals, predictive testing offers limited clinical utility and can introduce psychological, familial, and insurance implications but can also allow informed family planning and participation in follow up and prevention trials. Current practice remains inconsistent, with major gaps in access to testing and counselling. Expanding disclosure without the appropriate infrastructure risks misinterpretation and widening disparities. We argue that return of genetic results in PD and at-risk individuals should be structured, and longitudinal. As clinical utility evolves, preparedness, will determine whether genetic testing becomes a part of standard care.",
+    "date": "2026 Jul 20",
+    "pmid": "42474300",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42474300/"
   }
 ]
