@@ -30,6 +30,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42522048/"
   },
   {
+    "title_en": "Targeting FBXO48 with BC1618 promotes axon regeneration and alleviates symptoms of Parkinson's disease.",
+    "title_zh": "Targeting FBXO48 with BC1618 promotes axon regeneration and alleviates symptoms of Parkinson's disease.",
+    "journal": "Journal of advanced research",
+    "impact_factor": 13.0,
+    "abstract": "INTRODUCTION: Neurons depend on the ubiquitin system to maintain proteostasis, which plays crucial roles in processes of neuronal death and axon regeneration after injuries and diseases. Developing druggable targets within the ubiquitin system that simultaneously support neuroprotection and axon regeneration has been considered an attractive therapeutic strategy. OBJECTIVES: To systematically identify druggable molecules within the ubiquitin signaling pathway and evaluate their efficacy in neuroprotection. METHODS: To this end, we screened 181 ubiquitination-related small-molecule compounds for neuroprotective effects by performing excitotoxic interventions in HT22 cell lines and mouse primary neurons. Subsequently, using a mouse optic nerve crush model, we demonstrated the neuroprotective effect of BC1618 through RGC survival and axon regeneration. To investigate the mechanism, we employed LC-MS, co-IP, and RNA-seq to delineate the BC1618-FBXO48-SERBP1 regulatory axis and its downstream regulation of mRNA expression. To further evaluate the translational potential of BC1618, we assessed cell survival rates and behavioral impairments using both MPTP-induced mouse Parkinson's disease model and MPP(+)-induced apoptosis model of iPSC-derived dopaminergic neurons. RESULTS: We identified BC1618 as an effective neuroprotectant that prevented glutamate-induced excitotoxicity in vitro and enhanced neurite outgrowth in immature neurons. Additionally, we showed its effectiveness in an optic nerve crush model, where BC1618 supported RGC survival and encouraged axon regeneration. Mechanistically, BC1618 inhibited FBXO48-mediated K63-linked ubiquitination of SERBP1 at K52, which protected SERBP1 from autophagic degradation. Our findings established SERBP1 as a key regulator that coordinates downstream mRNA expression to mediate neuroprotection. Notably, our results demonstrated that BC1618 mitigated MPTP-induced degeneration of dopaminergic neurons and motor deficits, while also exhibiting robust neuroprotective effects in MPP(+)-stimulated human-derived dopaminergic neurons. CONCLUSIONS: These findings highlight that targeting FBXO48 with BC1618 promotes axon regeneration and alleviates symptoms of Parkinson's disease by reducing the degradation of SERBP1, revealing a novel therapeutic target for clinical translation.",
+    "date": "2026 Jul 25",
+    "pmid": "42501864",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42501864/"
+  },
+  {
     "title_en": "Shared striatal neurons exhibit context-specific dynamics for internally and externally driven actions.",
     "title_zh": "Shared striatal neurons exhibit context-specific dynamics for internally and externally driven actions.",
     "journal": "Science advances",
@@ -58,6 +68,36 @@
     "date": "2026 Jul 29",
     "pmid": "42522567",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42522567/"
+  },
+  {
+    "title_en": "Eckol-rich phlorotannins and fucoidan from brown seaweeds promote lactic acid Bacteria growth and postbiotic production.",
+    "title_zh": "Eckol-rich phlorotannins and fucoidan from brown seaweeds promote lactic acid Bacteria growth and postbiotic production.",
+    "journal": "Food chemistry",
+    "impact_factor": 9.8,
+    "abstract": "Emerging evidence shows that gut microbiota-derived metabolites regulate enteric and central nervous systems, and patients with Parkinson's disease (PD) exhibit reduced levels of lactic acid bacteria (LAB)-derived postbiotics, particularly short-chain fatty acids (SCFAs) and gamma-amino butyric acid (GABA). This study examines the structures of brown seaweed prebiotics, phlorotannins and polysaccharides, and their effects on LAB growth and postbiotic production. Phlorotannins profiling revealed an abundance of eckol and its derivatives. Monosaccharide analysis identified fucoidan as the predominant polysaccharide. Furthermore, both classes of compounds enhanced LAB growth, with their combinations showing synergistic effects. Among the strains tested, Lactiplantibacillus plantarum showed the highest efficacy in enhancing SCFA (143.7 +/- 1.5 mM) and GABA (29.1 +/- 0.6 mM) production and in mitigating oxidative stress, a key hallmark of PD's pathogenesis. Collectively, our in vitro data demonstrate enhanced probiotic metabolite production and suggest potential neuroprotective relevance, supporting future confirmatory in vivo investigations.",
+    "date": "2026 Jul 24",
+    "pmid": "42501490",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42501490/"
+  },
+  {
+    "title_en": "Exercise and Pain in Multiple Sclerosis, Parkinson's Disease, Alzheimer's Disease, and Stroke: A Systematic Review and Meta-analysis.",
+    "title_zh": "Exercise and Pain in Multiple Sclerosis, Parkinson's Disease, Alzheimer's Disease, and Stroke: A Systematic Review and Meta-analysis.",
+    "journal": "Sports medicine (Auckland, N.Z.)",
+    "impact_factor": 9.4,
+    "abstract": "BACKGROUND: Pain affects up to 85% of people living with common neurodegenerative diseases, yet evidence on the analgesic effects of exercise remains limited. This systematic review and meta-analysis examined whether exercise reduces pain in people with multiple sclerosis (MS), stroke, Parkinson's disease (PD), and Alzheimer's disease (AD). METHODS: A systematic search was conducted across six databases (PubMed, Embase, Cochrane Library, PEDro, CINAHL, and SPORTDiscus) from November 2024 up to November 2025 to identify randomized controlled trials examining the effects of exercise (across different modalities) on pain (across different outcomes) in MS, stroke, PD, or AD. Qualitative and quantitative analyses were performed. Quality was assessed using TESTEX. RESULTS: A total of 39 studies were identified, of which 36 were included in the meta-analyses. The overall meta-analysis showed that exercise substantially reduced pain in people with neurodegenerative diseases compared with control conditions (- 0.83 [- 1.10; - 0.57], standardized mean difference [95% CI]). Large comparable effects were observed in MS (22 studies; - 0.63 [- 0.89; - 0.38]) and stroke (12 studies; - 1.07 [- 1.63; - 0.52]). Only one eligible study was found for PD and AD, respectively, highlighting a critical gap in the literature. CONCLUSIONS: This review provides strong evidence that exercise alleviates pain in people with MS and stroke and emphasizes its potential as a non-pharmacological analgesic strategy for managing pain in neurodegenerative diseases. More high-quality studies are needed, particularly in PD and AD. TRIAL REGISTRY: PROSPERO (CRD42024583498).",
+    "date": "2026 Jul 27",
+    "pmid": "42507062",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507062/"
+  },
+  {
+    "title_en": "A wearable patch for continuous levodopa monitoring in sweat: Towards exertion and power-free pharmacodynamic assessment in Parkinson's disease.",
+    "title_zh": "A wearable patch for continuous levodopa monitoring in sweat: Towards exertion and power-free pharmacodynamic assessment in Parkinson's disease.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "Precision management of Parkinson's disease (PD) requires frequent levodopa (L-dopa) dose adjustments, yet current monitoring relies on subjective symptom reporting and infrequent blood testing. Here, we present a soft, fingertip-mounted wearable platform for continuous, noninvasive L-dopa monitoring. By combining osmotically harvested passive sweat with soft hydrogels, a potentiometric sensing strategy, and individualized calibration, the platform estimates blood L-dopa information from sweat without external power or iontophoresis. Strong correlations between sweat and high-performance liquid chromatography (HPLC)-measured blood L-dopa concentrations were observed in healthy ([Formula: see text]) and PD subjects ([Formula: see text]) following a single immediate-release L-dopa/carbidopa dose. Low motor symptom scores aligned with peak L-dopa levels, confirming pharmacodynamic relevance. L-dopa cleared faster in PD patients despite similar bioavailability to healthy subjects, while recorded hemodynamic responses showed short hypotensive trends for both groups. Machine learning identified sweat and blood pressure as key contributors toward accurate estimation of blood L-dopa levels (mean absolute error = 2.02 microM vs. ground truth). Overall, our easy-to-use, energy-efficient wearable supports real-time, stimulation-free monitoring, potentially enabling at-home dosage adjustments and paving the way for future autonomous closed-loop L-dopa therapeutic system development.",
+    "date": "2026 Aug 11",
+    "pmid": "42507913",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507913/"
   },
   {
     "title_en": "A Ligand-Triggered Receptor Conformation Enables the Design of Selective Agonists for the Dopamine 3 Receptor (D(3)R) Using a Bitopic Strategy.",
@@ -118,6 +158,86 @@
     "date": "2026 Jul 28",
     "pmid": "42521649",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42521649/"
+  },
+  {
+    "title_en": "Why Use Immersive Virtual Reality to Assess Gait in Functional Motor Disorders?",
+    "title_zh": "Why Use Immersive Virtual Reality to Assess Gait in Functional Motor Disorders?",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Functional motor disorders (FMD) are disabling conditions modulated by attentional demands. Immersive virtual reality (iVR) engages multiple attentional and sensory networks, but its application in people with FMD (PwFMD) remains limited. OBJECTIVE: We investigated whether iVR modulates spatiotemporal gait parameters in PwFMD differently from people with Parkinson's disease (PwPD) and healthy controls (HC). METHODS: Wearable insoles tracked spatiotemporal gait parameters in the PwFMD (n = 30), the PwPD (n = 32), and HCs (n = 42) across three real-world (C1-C3) and three iVR (C4-C6) walking conditions with increasing cognitive and sensory load. Discriminative performance was evaluated using receiver operating characteristic (ROC) analysis, whereas group and condition effects were examined using repeated-measures analysis of variance (ANOVA) adjusted for age, sex, and body mass index (BMI). The dual-task effect (DTE) quantified the impact of cognitive load. RESULTS: In the iVR condition (C4-C6), gait speed, stride length, and swing-time variability discriminated both PwFMD and PwPD from the HCs with good accuracy (AUC > 0.8), particularly under higher dual-task load (C5 and C6), whereas no parameter reliably differentiated the PwFMD from the PwPD using ROC analysis (AUC < 0.7). Adjusted ANOVA revealed significant group x condition interactions for multiple gait parameters (P < 0.05). DTE analysis revealed distinct responses to cognitive load: dual-task cost was greater in PwPD than in PwFMD, which was often comparable to the HCs, particularly under cognitive dual-task conditions (C3 and C6). CONCLUSIONS: iVR revealed context-dependent gait abnormalities and differential responses to cognitive load in PwFMD and PwPD, which suggests its use as a paradigm to probe underlying mechanisms. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 27",
+    "pmid": "42504425",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42504425/"
+  },
+  {
+    "title_en": "Exploring ageing as a potential new therapeutic target for schizophrenia.",
+    "title_zh": "Exploring ageing as a potential new therapeutic target for schizophrenia.",
+    "journal": "The British journal of psychiatry : the journal of mental science",
+    "impact_factor": 7.6,
+    "abstract": "Increased age-related biological changes have been causally linked to various pathologies in the brain, including Alzheimer's and Parkinson's diseases. There is also evidence that schizophrenia could be included in this group of brain disorders that may actually be manifestations of a broader multisystemic premature ageing phenotype.",
+    "date": "2026 Jul 27",
+    "pmid": "42504106",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42504106/"
+  },
+  {
+    "title_en": "Pre-Diagnostic Factors Associated with Coding-Based Incident Multiple System Atrophy: A Nested Case-Control Study of the UK Biobank.",
+    "title_zh": "Pre-Diagnostic Factors Associated with Coding-Based Incident Multiple System Atrophy: A Nested Case-Control Study of the UK Biobank.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Multiple system atrophy (MSA) is a rare neurodegenerative synucleinopathy whose epidemiological risk factors remain poorly characterized. OBJECTIVES: To characterize pre-diagnostic features and identify candidate risk factors for coding-based incident MSA in the UK Biobank (UKB), compared with Parkinson's disease (PD) and healthy controls. METHODS: Iterative logistic regression models were used to derive risk factors from sociodemographic, lifestyle, environmental, and medical factors, adjusting for baseline age and sex, with Benjamini-Hochberg correction in the fully adjusted model. Candidate risk factors were evaluated in multivariate models at baseline and using 5- and 10-year latency windows to assess reverse causation. RESULTS: We identified 114 coding-based incident MSA diagnoses, 1139 age- and sex-matched incident PD cases, and 1075 matched controls. We identified several baseline associations that attenuated with latency windows, including antihistamine use, alcohol use, and reduced physical activity, suggesting reverse causation. Statin use was associated with reduced risk at baseline (odds ratio [OR] 0.34, 95% confidence interval [95% CI] 0.17-0.69) and 5 years' latency but attenuated at 10 years, and was discordant with findings of reduced risk with moderately elevated cholesterol (OR 0.41, 95% CI 0.24-0.72). Rural living was the only candidate exposure whose effect strengthened with longer latency windows (5-year OR 2.73, 95% CI 1.32-5.65). CONCLUSIONS: Coding-based incident MSA in the UKB exhibits a long pre-diagnostic phase consistent with autonomic and lifestyle changes several years prior to the diagnosis of an autonomic or parkinsonian disorder. Rural living may be an environmental signal warranting further investigation. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 25",
+    "pmid": "42502215",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42502215/"
+  },
+  {
+    "title_en": "KIF1A-Associated Neurological Disorder (KAND): Spectrum of Movement and Motor Disorders in a Cohort of 51 Patients.",
+    "title_zh": "KIF1A-Associated Neurological Disorder (KAND): Spectrum of Movement and Motor Disorders in a Cohort of 51 Patients.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: KIF1A-associated neurological disorder (KAND) encompasses a broad neurodevelopmental and neurodegenerative spectrum in which motor and movement disorders are common but incompletely defined. OBJECTIVES: To systematically characterize motor and movement disorder phenotypes in KAND. METHODS: In this cross-sectional study, 51 individuals with likely-pathogenic or pathogenic KIF1A variants underwent standardized neurological assessment using the Spastic Paraplegia Rating Scale (SPRS), SPATAX disability scale, Gross Motor Function Classification System (GMFCS), and Modified Ashworth Scale. RESULTS: A history of global developmental delay was present in 96.1% and neonatal or infantile hypotonia in 62.7%. Progressive spasticity occurred in 72.5%, predominantly affecting the lower extremities and correlated with age (beta = 0.45, odds ratio [OR] = 1.56, 95% confidence intervals [95% CI] 1.09-2.25, P = 0.016). Lower extremity weakness was nearly universal (88.2%) and inversely related with age (beta = -0.08, OR = 0.93, 95% CI 0.86-0.99, P = 0.032). Independent walking was achieved by 62.7% at a median age of 24 months, but only 31.4% retained independent ambulation at last evaluation. Movement disorders included motor stereotypies (43.1%), ataxia (19.6%), action tremor (15.6%), and dystonia (3.9%). Cerebellar signs were present in 37.2%. The p.Glu253Lys variant was associated with the most severe phenotype. CONCLUSIONS: KAND encompasses a continuous spectrum of motor and movement disorders that integrates developmental and neurodegenerative features. These findings inform clinical management, genetic counseling, and the design of future clinical trials. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 25",
+    "pmid": "42500835",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42500835/"
+  },
+  {
+    "title_en": "Teaching Deep Brain Stimulation to Walk.",
+    "title_zh": "Teaching Deep Brain Stimulation to Walk.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Jul 24",
+    "pmid": "42499138",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42499138/"
+  },
+  {
+    "title_en": "Interplay between RNA m(6)A modification and transglutaminase 2 inhibitor effects on mitophagy dysfunction in Alzheimer's disease.",
+    "title_zh": "Interplay between RNA m(6)A modification and transglutaminase 2 inhibitor effects on mitophagy dysfunction in Alzheimer's disease.",
+    "journal": "Drug discovery today",
+    "impact_factor": 7.5,
+    "abstract": "Alzheimer's disease (AD) involves amyloid-beta aggregation, tau hyperphosphorylation and mitochondrial dysfunction with defective mitophagy. Emerging evidence implicates RNA N6-methyladenosine (m(6)A) modification and transglutaminase 2 (TG2) as critical regulators of mitochondrial quality control in AD. Downregulation of METTL3/METTL14 and upregulation of fat mass and obesity-associated protein reduce m(6)A methylation, impair PTEN-induced putative kinase 1/Parkinson protein 2-mediated mitophagy and promote reactive oxygen species accumulation and synaptic loss. Conversely, TG2 overexpression exacerbates mitochondrial stress by crosslinking Abeta and tau, disturbing dynamin-related protein 1- and mitochondrial fission 1 protein-mediated dynamics and suppressing mitophagy. Crosstalk between TG2-induced oxidative stress and m(6)A dysregulation amplifies neuronal damage. Pharmacological modulation, using TG2 inhibitors (e.g. Z-DON) and m(6)A enhancers (e.g. METTL3 overexpression), restores mitophagic flux and mitigates pathology in preclinical models, suggesting dual m(6)A-TG2 targeting as a promising disease-modifying approach in AD.",
+    "date": "2026 Jul 27",
+    "pmid": "42508529",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508529/"
+  },
+  {
+    "title_en": "The Drosophila CEBPG homolog Irbp18 partners with crc (ATF4) to mediate the integrated stress response in degenerative disease models.",
+    "title_zh": "The Drosophila CEBPG homolog Irbp18 partners with crc (ATF4) to mediate the integrated stress response in degenerative disease models.",
+    "journal": "Cell reports",
+    "impact_factor": 6.9,
+    "abstract": "The integrated stress response (ISR) coordinates cellular adaptation to diverse stress conditions. In Drosophila, two bZIP transcription factors, Xrp1 and crc (ATF4 homolog), are induced during ISR. Crc protein can dimerize with two CEBP factors in vitro, but the in vivo relevance of those interactions remained unknown. Here, we report that the CEBPG homolog, Irbp18, is an essential partner of crc during ISR. Specifically, Irbp18 is broadly required for the transcriptional induction of ISR target genes in the photoreceptors of ninaE(G69D), a Drosophila model of retinitis pigmentosa. Moreover, CUT&RUN analysis indicates that Irbp18 loss reduces or abolishes crc binding to target DNAs in photoreceptors and impairs crc's ability to induce target transcripts upon overexpression. Functionally, Irbp18 loss causes retinal degeneration and suppresses ISR signaling in parkin mutants, a model of Parkinson's disease. Together, these findings identify Irbp18 as a cofactor for crc, impacting pathological outcomes in Drosophila models of degeneration.",
+    "date": "2026 Jul 27",
+    "pmid": "42507551",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507551/"
+  },
+  {
+    "title_en": "Phosphorus Dendrimer-Mediated Protein Delivery.",
+    "title_zh": "Phosphorus Dendrimer-Mediated Protein Delivery.",
+    "journal": "Biomacromolecules",
+    "impact_factor": 5.4,
+    "abstract": "Phosphorus dendrimers represent a next-generation nanoplatform that has garnered increasing attention for delivering diverse protein therapeutics. Compared with conventional organic and inorganic protein carriers, phosphorus dendrimers possess distinct advantages, including intrinsic bioactivity, well-defined molecular architecture, multimodal protein-loading mechanisms, considerable structural modifiability, reliable stability, and desired biocompatibility, realizing simple and mild protein complexation merely through physical interactions to construct phosphorus dendrimer-based protein nanomedicines. Recent studies have demonstrated the synergistic therapeutic enhancement against multiple diseases, such as osteoarthritis, cancer, ischemic stroke, Alzheimer's disease, and Parkinson's disease, based on these nanomedicines. In this Perspective, the primary synthesis routes of phosphorus dendrimers are systematically outlined at first, and their superiority as protein nanoplatforms over other carriers is comparatively analyzed. Then, the latest advances of the above nanomedicines in disease therapies are summarized in detail, and the current challenges hindering their applications from bench to bedside are also discussed.",
+    "date": "2026 Jul 27",
+    "pmid": "42504877",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42504877/"
   },
   {
     "title_en": "PP2A: Decoding Its Structure, Regulation and Therapeutic Applications in Neurological Disorders.",
@@ -198,5 +318,15 @@
     "date": "2026 Jul 28",
     "pmid": "42517718",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42517718/"
+  },
+  {
+    "title_en": "Qualitative assessment of the clinical meaningfulness of MDS-UPDRS part III items in early-stage Parkinson's.",
+    "title_zh": "Qualitative assessment of the clinical meaningfulness of MDS-UPDRS part III items in early-stage Parkinson's.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "IntroductionDevelopers of disease-modifying therapies (DMTs) for early-stage Parkinson's are in dialogue with regulators to identify the relative merits of the Movement Disorder Society - Unified Parkinson's Disease Rating Scale (MDS-UPDRS) for detecting clinically meaningful changes in patients' daily functioning during early-stage disease. We report the first qualitative assessment of MDS-UPDRS part III items' clinical meaningfulness for use in DMT pivotal trials.MethodsSemi-structured interviews were conducted with 40 patients and 20 movement disorder neurologists. Evidence was synthesized using an interpretation framework to evaluate items according to four appraisal components.ResultsBased on synthesized evidence for each appraisal component: Patient feedback indicated all items were at least somewhat meaningful to patients; 12/18 items were classified as \"highly meaningful\" given their linkage to motor/daily activities functioning. See Interactive Supplement.4/18 items were endorsed by >90% of neurologists as clinically relevant in early-stage Parkinson's (\"highly relevant\").Evidence from neurologists was supportive of 6/18 items in terms of their usefulness for capturing disease progression (\"highly useful\").Neurologist feedback suggested response option distinction/assessment specificity is inconsistent across items.Together, qualitative evidence endorsed the value of items 3.3 Rigidity, 3.4 Finger tapping, 3.5 Hand movements, 3.6 Pronation-supination, 3.7 Toe tapping, and 3.8 Leg agility across all four appraisal components.ConclusionsA subset of limb-related rigidity/bradykinesia items may be most clinically meaningful for detecting changes in early-stage Parkinson's. Consolidation of quantitative data with evidence from this large qualitative sample will inform final decision-making for a primary efficacy outcome measure in DMT pivotal trials.",
+    "date": "2026 Jul 27",
+    "pmid": "42506905",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42506905/"
   }
 ]
