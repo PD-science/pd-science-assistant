@@ -1,0 +1,292 @@
+[
+  {
+    "title_en": "Surfacing brain stimulation.",
+    "title_zh": "Surfacing brain stimulation.",
+    "journal": "Science (New York, N.Y.)",
+    "impact_factor": 45.8,
+    "abstract": "Brain functional circuits can guide precision surface brain stimulation.",
+    "date": "2026 Jul 30",
+    "pmid": "42531400",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42531400/"
+  },
+  {
+    "title_en": "Rapid Hematological Profiling of the GPNMB/GRN Ratio via Bioelectronic Platform for Early Diagnosis of Parkinson's Disease.",
+    "title_zh": "Rapid Hematological Profiling of the GPNMB/GRN Ratio via Bioelectronic Platform for Early Diagnosis of Parkinson's Disease.",
+    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "impact_factor": 26.8,
+    "abstract": "Early blood-based diagnosis of Parkinson's disease (PD) remains challenging owing to the lack of reliable composite biomarkers and rapid, sensitive, and cost-effective detection platforms. Here, we report a bioelectronic sensor based on an organic electrochemical transistor (OECT) driven by a laser-induced graphene (LIG) array. By integrating an alternating-current (AC)-mediated LIG rapid incubation system (LRIS), the platform enables multiplexed protein profiling directly from clinical samples within approximately 6 min, with attomolar-level detection limits. We identify the glycoprotein non-metastatic melanoma protein B (GPNMB)/granulin (GRN) ratio as a sensitive composite biomarker of neuroinflammatory dysregulation, showing pronounced alterations at early disease stages and complementing alpha-synuclein for PD assessment. In PD mouse models spanning mild to severe stages (n = 32), this ratio correlated with disease progression and enabled the detection of mild neuronal loss. Clinical validation in healthy individuals and patients with PD or prodromal PD (n = 54) showed that the GPNMB/GRN ratio distinguished patients with PD from healthy controls with 80% sensitivity, 90% specificity, and 85% accuracy. Incorporating alpha-synuclein further improved diagnostic accuracy. This biomarker-platform strategy provides a rapid, ultrasensitive, and scalable framework for blood-based PD screening and early risk assessment.",
+    "date": "2026 Jul 28",
+    "pmid": "42517556",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517556/"
+  },
+  {
+    "title_en": "Intranasal drug delivery to the brain for neurodegenerative diseases: Current efforts and challenges in delivery platforms and modeling.",
+    "title_zh": "Intranasal drug delivery to the brain for neurodegenerative diseases: Current efforts and challenges in delivery platforms and modeling.",
+    "journal": "Advanced drug delivery reviews",
+    "impact_factor": 17.6,
+    "abstract": "Neurodegenerative diseases, such as Parkinson's disease (PD) and Alzheimer's disease (AD), globally pose a significant challenge with an aging population. Despite the presence of various therapeutic agents, AD and PD treatments with small molecules currently only address the symptoms; certain biologic agents for AD have been approved for their disease-modifying effects, but the risk of intracerebral hemorrhage severely limits their use. Moreover, the bioavailability of orally administered agents in the brain is challenged by the blood-brain barrier, complicating brain-targeted drug development. Extensive efforts are currently underway to develop intranasal platforms with nanoparticles for direct nose-to-brain drug delivery. Additionally, various in vitro designs involving brain organoids, and in vivo models, such as rodents and zebrafish, have been explored to improve the efficiency and accuracy of preclinical models. Efforts to develop sophisticated computational modeling of intranasal drug delivery, including computational fluid dynamics (CFD) deposition and physiologically based pharmacokinetics (PBPK) modeling, also continue to advance the intranasal drug delivery research and potentially improve the feasibility of developing clinically relevant intranasal platforms for neurodegenerative disease.",
+    "date": "2026 Jul 29",
+    "pmid": "42526715",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42526715/"
+  },
+  {
+    "title_en": "Neuroinflammation in Alzheimer's and Parkinson's diseases: pathogenic mechanisms and therapeutic strategies.",
+    "title_zh": "Neuroinflammation in Alzheimer's and Parkinson's diseases: pathogenic mechanisms and therapeutic strategies.",
+    "journal": "Translational neurodegeneration",
+    "impact_factor": 15.2,
+    "abstract": "Neuroinflammation is increasingly recognized as a key contributor and amplifier associated with the pathogenesis of Alzheimer's disease (AD) and Parkinson's disease (PD). Neuroinflammation occurs throughout various stages of these diseases with expanding complexity. Currently, no effective therapies exist that specifically target neuroinflammatory processes in these disorders. In this review, we synthesize current understanding of central and peripheral inflammatory mechanisms implicated in both diseases. We illustrate how endogenous pathological triggers, such as amyloid-beta (Abeta) peptide, hyperphosphorylated tau, and alpha-synuclein, activate glial cells, contributing to chronic neuroinflammation that exacerbates neurodegeneration. Additionally, peripheral factors, including systemic inflammation, environmental exposures, and gut-brain axis interactions, are discussed for their roles in modulating neuroinflammatory responses. Notably, the underappreciated roles of oligodendrocyte precursor cells and oligodendrocytes in neuroimmune crosstalk are also highlighted. Advanced methodologies, including glial cell imaging, single-cell transcriptomics, and human induced pluripotent stem cell-derived organoid models, are providing unprecedented insights into the molecular and cellular mechanisms underlying neuroinflammation. Finally, we evaluate emerging therapeutic strategies and ongoing clinical trials targeting neuroinflammatory pathways and analyze the potential of immunomodulatory approaches to slow disease progression. This comprehensive review emphasizes that precise targeting of neuroinflammation represents a tractable strategy for developing effective disease‑modifying treatments for AD and PD.",
+    "date": "2026 Jul 29",
+    "pmid": "42522048",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42522048/"
+  },
+  {
+    "title_en": "Single-neuron resolution mapping of dopaminergic connectivity across development, adulthood, and degeneration.",
+    "title_zh": "Single-neuron resolution mapping of dopaminergic connectivity across development, adulthood, and degeneration.",
+    "journal": "Neuron",
+    "impact_factor": 15.0,
+    "abstract": "Individual midbrain dopamine (mDA) neurons exhibit complex morphologies, a feature that may underlie their different functions and disease vulnerability. However, the developmental programs and wiring principles underlying this morphological complexity, particularly in terms of axonal and dendritic architecture, remain largely unknown. To address this, we developed and employed a unique intersectional genetic strategy in mice (Gucy2c-iCre:Pitx3-FlpE:Ai65D [GPA]) that enables specific sparse labeling of mDA neurons across the midbrain from early developmental stages onward. Using this approach, we generated the largest dataset to date of 3D-reconstructed mDA neurons at key developmental stages, in adulthood, and in models simulating Parkinson's disease-related degeneration. Our work identifies previously uncharacterized morphological features across anatomical and molecular mDA neuron subtypes and during axonal degeneration. Moreover, we identify organizational principles-including pre-target axon sorting and subtype-specific connectivity patterns among ventral tegmental area (VTA) neurons-that offer key entry points for understanding how mDA circuitry is established and functions.",
+    "date": "2026 Jul 31",
+    "pmid": "42537639",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42537639/"
+  },
+  {
+    "title_en": "Trafficking Deficiency of TMEM175 Variants in Parkinson's Disease Pathogenesis and the Prospects of Precision Medicine.",
+    "title_zh": "Trafficking Deficiency of TMEM175 Variants in Parkinson's Disease Pathogenesis and the Prospects of Precision Medicine.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "The transmembrane protein 175 (TMEM175) is a high-risk gene for Parkinson's disease (PD) and encodes an ion channel in lysosomes. Many PD-associated variants in TMEM175 lead to the loss of ion channel function. In this study, we identified the PD-associated TMEM175-L156P variant is a missense mutation with trafficking deficiency. Using imaging, biochemical, and whole-endolysosomal electrophysiological approaches, we identified that L156P abolished the lysosomal expression of TMEM175; instead, it accumulates in the endoplasmic reticulum (ER). The cytosolic segment of the fourth transmembrane helix (TM4-1), where the L156 resides, determined the lysosomal localization of TMEM175. Having understood the structural basis, we evaluated wild-type (WT) TMEM175 and pharmacological chaperones previously used in cystic fibrosis treatment. We elucidated that WT partially rescued the aberrant expression of L156P. Moreover, the chaperones substantially reduced the ER-retained L156P and facilitated its trafficking to lysosomes. We further screened and identified a bifunctional chemical molecule that both corrected the trafficking defects and potentiated the ion channel function of L156P. Notably, the chemical-restored L156P is functional, as it relieves the lysosomal over-acidification. Conclusively, we establish the relationship between aberrant trafficking and pathogenesis in PD, demonstrating the potential of utilizing \"chaperone plus agonist\" bifunctional chemical molecules as personalized treatment for PD.",
+    "date": "2026 Jul 31",
+    "pmid": "42535851",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535851/"
+  },
+  {
+    "title_en": "Shared striatal neurons exhibit context-specific dynamics for internally and externally driven actions.",
+    "title_zh": "Shared striatal neurons exhibit context-specific dynamics for internally and externally driven actions.",
+    "journal": "Science advances",
+    "impact_factor": 12.5,
+    "abstract": "Animals can initiate movements either in response to external cues or from internal drive, yet how the brain flexibly supports both remains unclear. Disorders such as Parkinson's disease disrupt these modes differently, suggesting distinct underlying mechanisms. These differences could arise from specialized circuits or from shared neuronal populations that shift their dynamics across contexts. To distinguish between these possibilities, we performed two-photon calcium imaging in the dorsolateral striatum as mice executed the same lever press either spontaneously or in response to a cue. Unsupervised clustering identified neurons modulated during cue, movement, or postaction periods. Critically, the same neurons encoded movement across initiation contexts, but their population dynamics diverged before movement. Both D1- and D2-expressing spiny projection neurons contributed to these dynamics, with D1-SPNs more active at the time of the sensory stimulus. These results show that context shapes neural dynamics within a shared movement-encoding population, revealing a context-generalizable striatal code that supports flexible movement initiation across internal and external drives.",
+    "date": "2026 Jul 31",
+    "pmid": "42525769",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42525769/"
+  },
+  {
+    "title_en": "Movement dependent neural substates within levodopa-induced dyskinesia in Parkinson's disease.",
+    "title_zh": "Movement dependent neural substates within levodopa-induced dyskinesia in Parkinson's disease.",
+    "journal": "Brain : a journal of neurology",
+    "impact_factor": 11.7,
+    "abstract": "Parkinson patients suffer from levodopa-induced dyskinesia, which occur adversely to chronic dopaminergic treatment. These abnormal involuntary movements can only partly be actively suppressed and affect quality of life. A lowered motor inhibition during hyperdopaminergic states, associated with structural and plasticity changes in the cortico-basal-ganglia motor network, is hypothesized to enable dyskinesia. Multiple oscillatory cortico-subthalamic patterns associated with dyskinesia have been described but their dependence on behavioral states such as movement presence remains unknown, which is crucial for its use in real-life application of adaptive neuromodulation. We studied invasive cortico-subthalamic oscillations in 22 patients with Parkinson's disease during dyskinesia-evoking protocols. Clinical assessments differentiated between non-dyskinetic and dyskinetic periods, and kinematic monitoring detected movement presence, leading to four behavioral states containing rest, voluntary movements, movement suppression during dyskinesia, and dyskinetic movements. Data-driven methods reduced data dimensionalities and optimized frequency-specific signal-to-noise ratios in the neural recordings and allowed feature extraction of spectral magnitudes, variances, and inter-subthalamic and cortico-subthalamic coherences. Subthalamic theta-activity and attenuated beta-activity were elevated during both dyskinetic movement suppression and execution, while cortico-subthalamic gamma-activity was only increased during dyskinetic movement execution. The subthalamic oscillations predicted dyskinesia presence, but varying behavioral states containing fluctuating movement presence affected the predictive performance. Movement-aware classifications improved dyskinesia detection based on cortical and on gamma oscillations. Introducing a movement-aware classification which considered the current behavioral state improved the neural detection of therapeutic states. We propose movement execution during dyskinesia should be considered as a distinct behavioral and neural microstate within a dopamine-depending hyperdopaminergic macrostate. Integrating this state concept may inform future adaptive neuromodulation and enhance its naturalistic robustness during every-day life.",
+    "date": "2026 Jul 31",
+    "pmid": "42533668",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42533668/"
+  },
+  {
+    "title_en": "Subthalamic spatio-spectral-connectivity of psychiatric symptoms in Parkinson's disease.",
+    "title_zh": "Subthalamic spatio-spectral-connectivity of psychiatric symptoms in Parkinson's disease.",
+    "journal": "Brain : a journal of neurology",
+    "impact_factor": 11.7,
+    "abstract": "Psychiatric symptoms in Parkinson's disease (PD) are highly prevalent and challenging to treat. This study maps oscillatory neural activity to diverse psychiatric symptoms in PD, using resting-state subthalamic nucleus (STN) local field potentials (LFPs) and frontal EEG in 55 PD patients undergoing deep brain stimulation (DBS). We tested whether 1) distinct psychiatric symptoms are associated with frequency-specific neural signatures using power spectral analyses and machine learning, across both eyes-open and eyes-closed sensory-attentional states. 2) symptom encoding is spatially segregated within the STN, with electrophysiological (defined by peak spectral power) and anatomical (defined by STN boundaries) mappings providing complementary information. 3) these regions exhibit distinct structural connectivity profiles, assessed using STN-seeded tractography from the UK Biobank normative connectome. Our analysis revealed spectral, spatial, and connectivity segregation. Depression was associated with increased alpha power, primarily detected by anatomical mapping, whereas apathy (increased high beta) and trait impulsivity (reduced low gamma) were detected with both anatomical and electrophysiological STN mapping. UK Biobank analyses further showed that STN-based alpha clusters (depression-related) preferentially connected with prefrontal, orbitofrontal, and cingulate cortices, while peak low-beta clusters (motor-related) connected with SMA and premotor areas. High-beta and low-gamma bands showed convergent connectivity across peak and STN-based clusters despite ventral-dorsal differences. These findings disentangle neurophysiological substrates of PD psychiatry, identifying symptom-specific biomarkers and informing targeted neuromodulation strategies.",
+    "date": "2026 Jul 29",
+    "pmid": "42524869",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42524869/"
+  },
+  {
+    "title_en": "Distinct roles of the human cuneiform and pedunculopontine nuclei in gait and freezing of gait.",
+    "title_zh": "Distinct roles of the human cuneiform and pedunculopontine nuclei in gait and freezing of gait.",
+    "journal": "Brain : a journal of neurology",
+    "impact_factor": 11.7,
+    "abstract": "Freezing of gait (FOG) in Parkinson's disease (PD) is a major cause of disability, often resistant to dopaminergic therapy and deep brain stimulation (DBS). Its underlying neural mechanisms remain unclear. The mesencephalic locomotor region (MLR) is a critical hub for gait control and a therapeutic target for DBS, but the respective functional roles of its two main nuclei, i.e. the cuneiform nucleus (CuN) and the pedunculopontine nucleus (PPN), remain unclear in human gait. Here, we combined local field potential recordings from both the CuN and PPN with detailed biomechanical analyses of gait initiation in four PD patients suffering from dopa-resistant FOG. Neural activity was aligned to anticipatory postural adjustments (APA) and step execution to characterize the temporal organization of MLR dynamics during gait initiation and to identify alterations preceding freezing episodes. We also examined the effects of CuN, PPN and sham stimulation on gait initiation. During gait initiation, the CuN and PPN exhibited distinct temporal and spectral neuronal activity patterns associated with different phases of gait initiation. Alpha-band activity in the CuN increased prior to APA and correlated with stepping rhythm, whereas the PPN showed prominent beta-band desynchronization during postural adjustments followed by alpha modulation during step execution. When FOG occurred after gait initiation (FOG + trials, n = 38), we observed a breakdown of this spatiotemporal organization. Specifically, freezing was preceded by exaggerated and mistimed alpha-band synchronization across the MLR and abnormal modulation of PPN beta activity compared with non-freezing trials (FOG- trials, n = 115, p < 0.05). CuN stimulation selectively improved gait rhythm, whereas PPN stimulation worsened forward propulsion. Across patients, excessive mesencephalic alpha activity predicted impaired gait initiation and reduced responsiveness to stimulation. Together, these findings reveal a functional dissociation within the human MLR, with CuN activity linked to rhythmic step preparation and PPN activity associated with postural and execution-related processes, and subsequent FOG was associated with disruption of MLR dynamics during gait initiation, rather than a uniform loss of locomotor drive. By clarifying the distinct roles of the CuN and PPN and identifying frequency-specific biomarkers associated with gait failure, this study provides a mechanistic framework for understanding variable outcomes of MLR-DBS and supports the development of spatially and temporally adaptive neuromodulation strategies for gait disorders.",
+    "date": "2026 Jul 29",
+    "pmid": "42522567",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42522567/"
+  },
+  {
+    "title_en": "A wearable patch for continuous levodopa monitoring in sweat: Towards exertion and power-free pharmacodynamic assessment in Parkinson's disease.",
+    "title_zh": "A wearable patch for continuous levodopa monitoring in sweat: Towards exertion and power-free pharmacodynamic assessment in Parkinson's disease.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "Precision management of Parkinson's disease (PD) requires frequent levodopa (L-dopa) dose adjustments, yet current monitoring relies on subjective symptom reporting and infrequent blood testing. Here, we present a soft, fingertip-mounted wearable platform for continuous, noninvasive L-dopa monitoring. By combining osmotically harvested passive sweat with soft hydrogels, a potentiometric sensing strategy, and individualized calibration, the platform estimates blood L-dopa information from sweat without external power or iontophoresis. Strong correlations between sweat and high-performance liquid chromatography (HPLC)-measured blood L-dopa concentrations were observed in healthy ([Formula: see text]) and PD subjects ([Formula: see text]) following a single immediate-release L-dopa/carbidopa dose. Low motor symptom scores aligned with peak L-dopa levels, confirming pharmacodynamic relevance. L-dopa cleared faster in PD patients despite similar bioavailability to healthy subjects, while recorded hemodynamic responses showed short hypotensive trends for both groups. Machine learning identified sweat and blood pressure as key contributors toward accurate estimation of blood L-dopa levels (mean absolute error = 2.02 microM vs. ground truth). Overall, our easy-to-use, energy-efficient wearable supports real-time, stimulation-free monitoring, potentially enabling at-home dosage adjustments and paving the way for future autonomous closed-loop L-dopa therapeutic system development.",
+    "date": "2026 Aug 11",
+    "pmid": "42507913",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507913/"
+  },
+  {
+    "title_en": "A Ligand-Triggered Receptor Conformation Enables the Design of Selective Agonists for the Dopamine 3 Receptor (D(3)R) Using a Bitopic Strategy.",
+    "title_zh": "A Ligand-Triggered Receptor Conformation Enables the Design of Selective Agonists for the Dopamine 3 Receptor (D(3)R) Using a Bitopic Strategy.",
+    "journal": "JACS Au",
+    "impact_factor": 8.7,
+    "abstract": "While G protein-coupled receptors (GPCRs) represent the largest drug target family, designing subtype-selective molecules is still a challenge, especially to distinguish among closely related subtypes. One of the most challenging cases is the distinction between dopamine D(2)R and D(3)R, pivotal receptors in motor functions and cognition, and targets of Parkinson's disease treatments, schizophrenia, or substance use disorders. Attempts to design D(3)R-selective molecules with ligands binding toward the first transmembrane helix (the most sequence-diverse and conformationally flexible segment in GPCRs but rarely participating in ligand binding) allowed us to discover a ligand-induced ordering of TM1 unique to D(3)R, yielding an unexploited selectivity site for drug development. Using rational bitopic drug design and the ligand-triggered conformation of the D(3)R we designed, synthesized, and characterized the most selective D(3)R agonists to date, >100,000-fold more selective than available ligands. More specifically, we report D(3)R partial agonists AB12-82 (6d) and AB13-73A (11), with >575,000- and >750,000-fold subtype selectivity, picomolar potency, and 85% and 49% efficacy, respectively. We also present the most selective full agonists reported to date, AB13-08 (4b) and AB13-46A (9), presenting low and subnanomolar potencies with >2,800- and 6,300-fold selectivity for D(3)R. Overall, we introduce a first-in-class pharmacological toolbox to dissect the (patho)-physiology of D(3)R, open new avenues for the design of improved neurotherapeutics, and show that using ligand-induced TM1 reorganizations might represent a promising strategy for the design of subtype-selective molecules in other GPCRs.",
+    "date": "2026 Jul 27",
+    "pmid": "42529391",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42529391/"
+  },
+  {
+    "title_en": "The Critical Role of Microglia in the Stress Response.",
+    "title_zh": "The Critical Role of Microglia in the Stress Response.",
+    "journal": "Neuroscience and biobehavioral reviews",
+    "impact_factor": 7.9,
+    "abstract": "Microglia are the principal resident innate immune cells of the central nervous system (CNS). Beyond maintaining brain homeostasis via cytokine secretion and phagocytic clearance, they fulfill essential roles in synaptic pruning, oligodendrocyte maturation, and higher-order functions including learning and memory. In response to stress exposure, microglia undergo robust activation, characterized by morphological remodeling, altered phagocytic activity, and dysregulated inflammatory signaling, positioning them as active mediators of the integrated systemic stress response. This review systematically synthesizes preclinical and clinical evidence regarding the multifaceted contributions of microglia to stress processing, their mechanistic involvement in the pathogenesis of major stress-related disorders-including post-traumatic stress disorder (PTSD), major depressive disorder (MDD), Alzheimer's disease (AD), and Parkinson's disease (PD)-and summarizes emerging microglia-targeted therapeutic strategies. We underscore the substantial mechanistic and translational value of microglial research for advancing our understanding of stress adaptation and associated brain pathologies.",
+    "date": "2026 Jul 31",
+    "pmid": "42537957",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42537957/"
+  },
+  {
+    "title_en": "SPG4 Hereditary Spastic Paraplegia: From Etiology to Therapy.",
+    "title_zh": "SPG4 Hereditary Spastic Paraplegia: From Etiology to Therapy.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "Hereditary spastic paraplegias (HSPs) comprise a heterogeneous group of heritable neurodegenerative disorders resulting from mutations in a wide variety of genes. HSP locomotor symptoms include lower limb weakness and spasticity that arise from progressive degeneration of corticospinal axons projecting from the motor cortex to the distal spinal cord. Ensuing gait defects typically lead to wheelchair dependence. Degeneration of other tracts can also occur, expanding the constellation of symptoms to potentially include urinary, fecal, and speech problems, as well as intellectual disability. SPG4-HSP, the most common variant, is caused by mutations in the SPAST gene, which encodes spastin, a microtubule-severing protein with membrane-related properties. Significant progress has been made in developing preclinical models for SPG4-HSP and in elucidating its mechanistic etiology. On this basis, progress is being made on developing a flexible therapeutic regimen for patients at all stages of disease progression. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 31",
+    "pmid": "42538614",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42538614/"
+  },
+  {
+    "title_en": "Parabrachial Npy1r-Expressing Neurons Drive Pain in a Mouse Model of Parkinson's Disease.",
+    "title_zh": "Parabrachial Npy1r-Expressing Neurons Drive Pain in a Mouse Model of Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Pain is a common and debilitating non-motor symptom of Parkinson's disease (PD), yet its underlying neural mechanisms remain poorly defined. OBJECTIVES: The aim was to test whether neuropeptide Y Y1 receptor (Npy1r)-expressing parabrachial neuronsdrive PD-associated pain. METHODS: In a unilateral 6 hydroxydopamine (6-OHDA) mouse model, pain-related behaviors, neuronal activation, and intrinsic excitability of parabrachial nucleus (PBN) neurons were assessed using behavioral assays, fluorescence in situ hybridization, and ex vivo whole-cell patch-clamp electrophysiology. Cell type-specific chemogenetic inhibition. RESULTS: Following 6-OHDA injection, mice developed robust multimodal hypersensitivity accompanied by increased recruitment of Npy1r-expressing PBN neurons. Chemogenetic silencing of Npy1r-expressing PBN neurons abolished PD-associated hypersensitivity, whereas activation induced pain-like behaviors in naive mice. CONCLUSIONS: Npy1r-expressing PBNs are a discrete supraspinal population that drives pain in a preclinical model of PD. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 30",
+    "pmid": "42533382",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42533382/"
+  },
+  {
+    "title_en": "DNAJC13 Variants Show No Robust Association With Parkinson's Disease in a Multiancestry Cohort.",
+    "title_zh": "DNAJC13 Variants Show No Robust Association With Parkinson's Disease in a Multiancestry Cohort.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: DNAJC13 was initially linked to autosomal dominant (AD) Parkinson's disease (PD) in a European Mennonite family carrying the p.N855S variant. However, imperfect segregation and conflicting reports of pathogenicity raised uncertainty of the role of DNAJC13 in the disease. OBJECTIVE: The objective for this study was to explore the association between common and rare variants in DNAJC13 and PD. METHODS: We leveraged the largest available PD genetics data from the Accelerating Medicines Partnership-Parkinson Disease and the diverse ancestry available through the Global Parkinson's Genetics Program (GP2), consisting of 2471 patients and 3098 control subjects and 44,186 patients and 27,066 control subjects, respectively, to perform burden tests and association tests for rare and common variants, respectively. RESULTS: Burden analysis showed no association between rare variants in DNAJC13 and PD. However, association analysis within common nonsynonymous variants nominated five variants within DNAJC13. Nevertheless, these associations require further investigation. CONCLUSIONS: Our analysis did not find further evidence supporting DNAJC13 involvement in PD. However, studies of even larger cohorts and AD-PD families may bring definite answers about the role of DNAJC13 in PD. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 30",
+    "pmid": "42532853",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42532853/"
+  },
+  {
+    "title_en": "Distal Electroacupuncture Modulates Maladaptive Brainstem and Motor Cortex Plasticity to Alleviate Hemifacial Spasm.",
+    "title_zh": "Distal Electroacupuncture Modulates Maladaptive Brainstem and Motor Cortex Plasticity to Alleviate Hemifacial Spasm.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Hemifacial spasm (HFS) is characterized by maladaptive brain plasticity, yet whether modulating this plasticity can alleviate symptoms remains unclear. OBJECTIVE: To evaluate the efficacy of electroacupuncture (EA)-a form of peripheral nerve stimulation-for HFS and elucidate its underlying neuroplastic mechanisms. METHODS: In this randomized, double-blind, sham-controlled trial (conducted 2016-2023), 84 HFS patients and 84 healthy controls were enrolled. Patients received 30 sessions of distal (hand), local (facial), or sham EA over 15 weeks. Clinical outcomes included Jankovic and Global Rating Scales. Physiological markers, including lateral spread response (LSR), synkinetic response (SR), and blink reflex (BR) excitability, were measured by electromyography (EMG). Motor cortex (M1) excitability was quantified via motor evoked potentials (MEPs) induced by transcranial magnetic stimulation (TMS). Parameter-probing experiments in healthy controls identified optimal stimulation characteristics. RESULTS: At baseline, HFS patients exhibited profound brainstem (BR R1/R2: P < 0.001) and facial M1 hyperexcitability versus controls. Low-frequency, low-intensity hand EA (2 Hz, 0.5-1 mA) significantly reduced Jankovic scores by 3.32 points (95% CI -4.12 to -2.52; P < 0.001; Cohen's d = 1.86) versus sham EA. This clinical improvement was mechanistically linked to a significant suppression of LSR (P < 0.01) and BR amplitude (P < 0.001), a reduction in facial M1 excitability (P < 0.05), and a compensatory increase in hand M1 excitability (P < 0.001). Notably, these neurophysiological and clinical benefits were maintained for 6 months post-treatment. CONCLUSION: Distal low-frequency, low-intensity peripheral stimulation effectively alleviates HFS by modulating maladaptive brainstem and M1 plasticity. These findings highlight the potential of this approach as a promising neuromodulatory strategy for hyperkinetic movement disorders. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 29",
+    "pmid": "42527851",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527851/"
+  },
+  {
+    "title_en": "Understanding Hereditary Ataxias: A Historical Quest for Definition and Classification.",
+    "title_zh": "Understanding Hereditary Ataxias: A Historical Quest for Definition and Classification.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "The classification of hereditary ataxias has evolved over two centuries, from anatomical descriptions to genetically informed frameworks. Initially grounded in clinicopathological observation, early models emphasized familial patterns and structural lesions. Key figures, including Gordon Holmes, Joseph Greenfield, and Anita Harding, shaped the nosology, culminating in Harding's inheritance-based classification in the 1980s. This model enabled significant genetic discoveries, including the identification of spinocerebellar ataxia type 1 (SCA1) and the emergence of the SCA nomenclature. However, despite advances in molecular genetics, current classifications remain limited in clinical practice. They offer little guidance for diagnosis or therapy and often function as expanding gene catalogues rather than coherent clinical tools. Recent efforts to standardize nomenclature for autosomal recessive cerebellar ataxias have improved clarity but have not resolved broader challenges. The overlap between hereditary and secondary forms, phenotypic variability, and inconsistent terminology continue to complicate classification. This review retraces the historical trajectory of hereditary ataxia classification to provide insights for future developments. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 29",
+    "pmid": "42527844",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527844/"
+  },
+  {
+    "title_en": "Longitudinal Systemic Transcriptomic Profiling and Neuropathological Deposition of Neutrophil Extracellular Traps in Parkinson's Disease.",
+    "title_zh": "Longitudinal Systemic Transcriptomic Profiling and Neuropathological Deposition of Neutrophil Extracellular Traps in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Altered immune responses including increased neutrophils have been reported in Parkinson's disease (PD); however, the role of neutrophil extracellular traps (NETs) remains unclear. OBJECTIVE: The aim of this study was to evaluate the contribution of NETs to the systemic immunity and central nervous system (CNS) in PD pathogenesis. METHODS: Transcriptomic analysis from the Parkinson's Progression Markers Initiative (PPMI) cohort was performed. Serum NETs were measured by myeloperoxidase (MPO)-DNA and citrullinated histone H3 (CitH3)-DNA complexes using enzyme-linked immunosorbent assay (ELISA). In addition, NET structures in postmortem brains of individuals with PD and multiple system atrophy (MSA) were quantified using ELISA and visualized by confocal microscopy. RESULTS: Differential expression gene analysis showed significant systemic upregulation of PADI4 expression, which encodes the NET-priming enzyme peptidylarginine deiminase 4, in patients with PD compared with control subjects. In the regional cross-sectional cohort, serum MPO-DNA complexes were reduced in patients with PD compared with control subjects and showed a graded reduction with disease severity; this reduction was independently replicated using a CitH3-DNA ELISA. In contrast, NET structures were markedly increased in postmortem brain tissues from individuals with PD and MSA compared with control subjects. Confocal imaging further confirmed the presence of NETs in the PD brain cortex, with an increased density in the substantia nigra and in close proximity to Lewy bodies. CONCLUSIONS: These findings demonstrated systemic priming of NET-associated pathways accompanied by reduced circulating NET complexes in PD, alongside substantial NETs deposition within the CNS. Together, these observations identify the PADI4-NET axis as a candidate immune feature of PD that warrants further mechanistic investigation. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 29",
+    "pmid": "42527820",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527820/"
+  },
+  {
+    "title_en": "Amyloid Co-Pathology and Clinical Heterogeneity of Parkinson's Disease.",
+    "title_zh": "Amyloid Co-Pathology and Clinical Heterogeneity of Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Jul 29",
+    "pmid": "42527385",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42527385/"
+  },
+  {
+    "title_en": "Greater Motor and Nonmotor Burden at Diagnosis Is Associated With Amyloid Copathology in Parkinson's Disease.",
+    "title_zh": "Greater Motor and Nonmotor Burden at Diagnosis Is Associated With Amyloid Copathology in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Concurrent Alzheimer's disease pathology is increasingly recognized as a poor prognostic factor in Parkinson's disease (PD), yet reliable clinical indicators for early identification of AD copathology remain poorly established. OBJECTIVE: To investigate baseline motor and nonmotor symptom profiles associated with amyloid-beta (Abeta) copathology in newly diagnosed PD. METHODS: Among patients with PD who underwent Abeta imaging, we retrospectively identified 152 patients who completed the Cross-Cultural Smell Identification Test (CC-SIT), autonomic function tests, neuropsychological assessment, and Neuropsychiatric Inventory Questionnaire (NPI-Q) at drug-naive state. Predictors of Abeta positivity were identified using stepwise multivariable logistic regression and validated with Random Forest classifiers employing Boruta feature selection. RESULTS: Compared with Abeta-negative counterparts (n = 93), Abeta-positive (Abeta + PD, n = 59) patients demonstrated greater olfactory dysfunction (CC-SIT, P = 0.002), dysautonomia (Composite Autonomic Severity Scale [CASS], P < 0.001), and mood disturbance (NPI-Q-mood, P < 0.001) and higher prevalence of probable rapid eye movement sleep behavior disorder (P = 0.009) and neurogenic orthostatic hypotension (P = 0.006). Abeta + PD patients showed greater motor disability (Unified Parkinson's Disease Rating Scale Part III [UPDRS-III], P < 0.001) despite comparable striatal dopamine transporter uptake. Logistic regression identified lower CC-SIT scores (odds ratio [OR] = 0.821, 95% confidence interval [CI(95%)]: 0.703-0.959), higher CASS scores (OR = 1.380, CI(95%): 1.144-1.666), higher NPI-Q-mood scores (OR = 1.057, CI(95%): 1.005-1.111), higher UPDRS-III (OR = 1.080, CI(95%): 1.030-1.132), and APOE epsilon4 carrier status (OR = 3.643, CI(95%): 1.479-8.969) as independent predictors of Abeta positivity, which were also confirmed as important variables by Boruta feature selection. CONCLUSIONS: Our findings suggest that greater motor and nonmotor symptom burden at diagnosis, characterized by olfactory/autonomic dysfunction, mood disturbance, and motor deficits disproportionate to dopaminergic denervation, was associated with Abeta positivity in PD. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 28",
+    "pmid": "42521649",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42521649/"
+  },
+  {
+    "title_en": "Interplay between RNA m(6)A modification and transglutaminase 2 inhibitor effects on mitophagy dysfunction in Alzheimer's disease.",
+    "title_zh": "Interplay between RNA m(6)A modification and transglutaminase 2 inhibitor effects on mitophagy dysfunction in Alzheimer's disease.",
+    "journal": "Drug discovery today",
+    "impact_factor": 7.5,
+    "abstract": "Alzheimer's disease (AD) involves amyloid-beta aggregation, tau hyperphosphorylation and mitochondrial dysfunction with defective mitophagy. Emerging evidence implicates RNA N6-methyladenosine (m(6)A) modification and transglutaminase 2 (TG2) as critical regulators of mitochondrial quality control in AD. Downregulation of METTL3/METTL14 and upregulation of fat mass and obesity-associated protein reduce m(6)A methylation, impair PTEN-induced putative kinase 1/Parkinson protein 2-mediated mitophagy and promote reactive oxygen species accumulation and synaptic loss. Conversely, TG2 overexpression exacerbates mitochondrial stress by crosslinking Abeta and tau, disturbing dynamin-related protein 1- and mitochondrial fission 1 protein-mediated dynamics and suppressing mitophagy. Crosstalk between TG2-induced oxidative stress and m(6)A dysregulation amplifies neuronal damage. Pharmacological modulation, using TG2 inhibitors (e.g. Z-DON) and m(6)A enhancers (e.g. METTL3 overexpression), restores mitophagic flux and mitigates pathology in preclinical models, suggesting dual m(6)A-TG2 targeting as a promising disease-modifying approach in AD.",
+    "date": "2026 Jul 27",
+    "pmid": "42508529",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42508529/"
+  },
+  {
+    "title_en": "The Drosophila CEBPG homolog Irbp18 partners with crc (ATF4) to mediate the integrated stress response in degenerative disease models.",
+    "title_zh": "The Drosophila CEBPG homolog Irbp18 partners with crc (ATF4) to mediate the integrated stress response in degenerative disease models.",
+    "journal": "Cell reports",
+    "impact_factor": 6.9,
+    "abstract": "The integrated stress response (ISR) coordinates cellular adaptation to diverse stress conditions. In Drosophila, two bZIP transcription factors, Xrp1 and crc (ATF4 homolog), are induced during ISR. Crc protein can dimerize with two CEBP factors in vitro, but the in vivo relevance of those interactions remained unknown. Here, we report that the CEBPG homolog, Irbp18, is an essential partner of crc during ISR. Specifically, Irbp18 is broadly required for the transcriptional induction of ISR target genes in the photoreceptors of ninaE(G69D), a Drosophila model of retinitis pigmentosa. Moreover, CUT&RUN analysis indicates that Irbp18 loss reduces or abolishes crc binding to target DNAs in photoreceptors and impairs crc's ability to induce target transcripts upon overexpression. Functionally, Irbp18 loss causes retinal degeneration and suppresses ISR signaling in parkin mutants, a model of Parkinson's disease. Together, these findings identify Irbp18 as a cofactor for crc, impacting pathological outcomes in Drosophila models of degeneration.",
+    "date": "2026 Jul 27",
+    "pmid": "42507551",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507551/"
+  },
+  {
+    "title_en": "Chitosan-based hydrogel for intranasal drug delivery; current advances in the brain diseases treatment.",
+    "title_zh": "Chitosan-based hydrogel for intranasal drug delivery; current advances in the brain diseases treatment.",
+    "journal": "International journal of pharmaceutics",
+    "impact_factor": 5.2,
+    "abstract": "Neurodegenerative diseases represent a growing health concern that is projected to become more prevalent and affect more people in the upcoming decades. One of the most complicated components of recent neurodegenerative disease therapies is the penetration and delivery of therapeutics to the central nervous system (CNS), which are hindered via the blood-brain barrier (BBB). In response, innovative treatment approaches leveraging noninvasive techniques including nanosized drug delivery systems and intranasal (IN) administration with higher treatment efficacy and patient satisfaction are developing as potential options. IN administration delivers medications directly to the brain through both the olfactory and trigeminal pathways, with the olfactory pathway representing the primary route for nose-to-brain transport. Among various IN platforms, chitosan (CS)-based hydrogels have attracted considerable attention because of their excellent biocompatibility, biodegradability, mucoadhesive properties, and ability to enhance drug permeation by prolonging nasal residence time and transiently modulating epithelial tight junctions. This review critically summarizes recent advances in CS-based hydrogels for IN drug delivery for the treatment of brain diseases including Alzheimer's disease (AD), Parkinson's disease (PD), depressive manifestations, ischemia,brain tumors,epilepsy, seizures, and schizophrenia. In addition, the review discusses the relationships between hydrogel design and therapeutic performance, highlights current translational challenges, and outlines future perspectives for the clinical development of CS-based IN hydrogel systems.",
+    "date": "2026 Jul 31",
+    "pmid": "42537824",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42537824/"
+  },
+  {
+    "title_en": "Aggregation of Amyloid-like Peptides in Different Solvents.",
+    "title_zh": "Aggregation of Amyloid-like Peptides in Different Solvents.",
+    "journal": "Journal of molecular liquids",
+    "impact_factor": 5.2,
+    "abstract": "The aggregation of amphipathic peptides into beta-sheet rich structures is a hallmark of several neurodegenerative disorders such as Alzheimer's disease and Parkinson's disease. At the molecular level, the toxic mechanism of these peptides involves an increase in the permeation of the cellular membrane, which starts with the partition of nonpolar and polar residues at the water-lipid interface that facilitates aggregation. Here, we study this process using all-atom molecular dynamics simulations in four model peptides composed of 4 phenylalanine (F), 2 lysine (K), and 2 glutamic acid (E) under three solvent conditions. In two sequences, nonpolar and charged amino acids alternate along the chain (FKFEFKFE and FFKKFFEE), and, in the other two sequences (FFFKFEKE and FFFFKKEE), they are segregated to the N- and C-terminals. Peptides are solvated in water and octane to study aggregation in hydrophilic and hydrophobic solvents, respectively. In all simulations, peptides aggregate promptly, adopting mostly random coil conformations; except for FKFEFKFE, which spontaneously forms beta-sheet conformations in water that resemble the cross-beta structures found in amyloid diseases. Aggregation takes place with a lower free energy of dimerization in octane compared to water. Simulations are also performed in a water-octane to mimic the water-lipid interface where amyloid peptides aggregate before damaging cell membranes. All peptides are spontaneously attracted to this polar-nonpolar interface which corresponds to a minimum in the free energy profile. At the interface, peptides generally exhibit low backbone interaction energies with a high content of secondary structure. The types of secondary structure formed in the system depend on the sequence pattern. In addition, the arrangement of polar and nonpolar residues modulates the free energy profile of peptide transfer from water to octane, and monomers adsorb at the interface more preferentially than the beta-sheet dimer. These findings provide insights into how sequence pattern and solvent environment influence peptide aggregation, secondary structure formation, and interfacial behavior.",
+    "date": "2026 Sep 1",
+    "pmid": "42524462",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42524462/"
+  },
+  {
+    "title_en": "Full recovery after severe bacterial encephalitis and brain abscess following deep brain stimulation surgery for Parkinson's disease.",
+    "title_zh": "Full recovery after severe bacterial encephalitis and brain abscess following deep brain stimulation surgery for Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Encephalitis and cerebral abscesses are rare, serious complications of deep brain stimulation (DBS) surgery. We report on two patients with Parkinson's disease (PD) who developed a critical condition with focal neurological symptoms and decreased consciousness, after an initially uncomplicated subthalamic nucleus DBS implantation. Because of the clinical and radiological suspicion of encephalitis and brain abscess, DBS was explanted and the abscess drained. After prolonged antibiotic treatment they gradually fully recovered, with persistently improved PD symptoms in patient 1. Concluding, patients with DBS-related encephalitis or brain abscesses in a critical condition can have a favourable prognosis with proper and timely treatment.",
+    "date": "2026 Jul 30",
+    "pmid": "42530887",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530887/"
+  },
+  {
+    "title_en": "Where does excessive beta in Parkinson's disease originate? Insights from a case of unilateral cortico-pallidal pathway dysfunction.",
+    "title_zh": "Where does excessive beta in Parkinson's disease originate? Insights from a case of unilateral cortico-pallidal pathway dysfunction.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Plain language summaryDetecting the source of abnormal beta oscillations in Parkinson's Disease: evidence from a case of impaired connection between cerebral cortex and basal ganglia.In Parkinson's Disease, a key feature is an exaggerated, oscillatory activity in the brain called the \"beta rhythm\", which occurs in the circuit, particularly relevant for motor functions, connecting the cortex (the outer brain layer) and the basal ganglia (the deeper structures). Scientists have long debated whether the exact source of this pathological activity was located in the cortex or in the basal ganglia. This report describes a critical clue from an unexpected event: a person with Parkinson's disease developed temporary swelling (edema) that affected both the sensorimotor cortex and the basal ganglia. Notably, this event was limited to one side of the brain and occurred in a subject who carried a medical device that enables recordings of the beta rhythm from inside the basal ganglia. In this peculiar case, the excessive beta rhythm on the affected side was completely suppressed and only returned once the swelling in the overlying sensorimotor cortex had resolved, even though the edema in the basal ganglia itself had recovered earlier. This unique observation suggests that the integrity of the cortex is essential for the pathological beta rhythm to occur in Parkinson's Disease, lending strong support to the theory that this disruptive electrical rhythm is generated in the cortex before spreading to deeper brain structures such as the basal ganglia.",
+    "date": "2026 Jul 30",
+    "pmid": "42530557",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42530557/"
+  },
+  {
+    "title_en": "Accelerated Biological Aging, Neurodegenerative Disease, and Mortality in Cardiovascular Disease Patients: Mediation and Modification Analysis.",
+    "title_zh": "Accelerated Biological Aging, Neurodegenerative Disease, and Mortality in Cardiovascular Disease Patients: Mediation and Modification Analysis.",
+    "journal": "CNS neuroscience & therapeutics",
+    "impact_factor": 5.0,
+    "abstract": "AIMS: Cardiovascular disease (CVD) patients exhibit increased neurodegenerative diseases and mortality risks, implying a shared heart-brain aging pathway. As a composite biological aging predictor, the association of Phenotypic age (PhenoAge) with mortality and the mediating role of brain health remain unclear in CVD patients. METHODS: In 4104 CVD patients (57.3% male, mean age 67.3 years) from the National Health and Nutrition Examination Survey (median follow-up of 7.2 years), weighted regression models examined associations of PhenoAge and its acceleration with Alzheimer's disease (AD), Parkinson's disease (PD), and mortality. Mediation effects of the association between PhenoAge and mortality explained by AD and PD were quantified. RESULTS: The mean PhenoAge was 69.9 years, and AD and PD prevalences were 7.6% and 1.8%. Each 5-year increment of PhenoAge acceleration independently increased risks of AD (OR = 1.24; 95% CI:1.13,1.36), PD (OR = 1.22; 95% CI:1.02,1.46), and all-cause mortality (HR = 1.30; 95% CI:1.24,1.36). AD and PD mediated 20.46%-33.18% of the association between PhenoAge and mortality. Early-onset CVD amplified biological aging-related mortality risk, while a healthier lifestyle attenuated the CVD mortality risk (P(interaction) < 0.05). CONCLUSION: Accelerated biological aging was associated with adverse brain health outcomes and mortality in CVD patients, with AD and PD as significant mediators. PhenoAge assessment may identify high-risk individuals for personalized heart-brain aging prevention.",
+    "date": "2026 Aug",
+    "pmid": "42524837",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42524837/"
+  },
+  {
+    "title_en": "Social interaction enhances the pleasurable urge to move to music in people with Parkinson's disease.",
+    "title_zh": "Social interaction enhances the pleasurable urge to move to music in people with Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundMusic- and dance-based interventions can improve motor symptoms in people with Parkinson's disease (PD), but two key questions remain: whether the rhythmic complexity of music influences intervention outcomes, and whether social interaction further enhances these effects.ObjectivesTo examine the effects of rhythmic complexity and interpersonal synchronization on subjective and objective movement responses to music in PD.MethodParticipants tapped to the beat of music with varying levels of rhythmic complexity across three cueing conditions: music alone, music with a visual beat cue, and socially with an assistant who also tapped to the beat. We measured pleasurable urge to move to music (PLUMM - or groove), felt synchrony with the music, beat-related movement energy, and synchronization variability in 40 individuals with mild-to-moderate PD and 36 age-matched controls.ResultsCompared to music alone, social interaction increased PLUMM, felt synchrony, beat-related movement, and synchronization stability, with the strongest effects for moderate to high rhythmic complexity. These effects were stronger in participants with PD than in controls. In contrast, visual cues had no effect. Moreover, PLUMM ratings were positively associated with social closeness toward the assistant, trait empathy, and the experience of social reward through music.ConclusionSocial interaction while moving to the beat of music enhanced both the urge to move and objective motor performance. Our findings show that improvements of motor symptoms through music- and dance-based interventions extend beyond enhanced temporal prediction through motor simulation; they also include socio-emotional mechanisms that promote pleasure and strengthen social bonding.",
+    "date": "2026 Jul 28",
+    "pmid": "42517718",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42517718/"
+  }
+]
