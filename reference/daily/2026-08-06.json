@@ -1,0 +1,62 @@
+[
+  {
+    "title_en": "Systematic Multi-Level Analyses Decode the Arthritis-Neurodegeneration Axis With In Vivo Validation.",
+    "title_zh": "Systematic Multi-Level Analyses Decode the Arthritis-Neurodegeneration Axis With In Vivo Validation.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "Arthritis may influence neurodegenerative risk, but directionality and mediators remain unclear. This study integrates population survival analysis, Mendelian randomization, transcriptomic mapping, and mouse perturbation to map osteoarthritis (OA)/rheumatoid arthritis (RA) links with five neurodegenerative outcomes and prioritize mediators. In 310 162 European-ancestry UK Biobank participants, Cox models associate OA with higher risks of Alzheimer's disease (AD; hazard ratio: 1.13, 95% confidence interval: 1.04-1.22), Parkinson's disease (PD; 1.10, 1.00-1.21), and disorders of autonomic nervous system (DANS; 1.36, 1.06-1.74), and RA with higher AD risk (1.37, 1.13-1.67) (all p < 0.05), but not incident PD. Mendelian randomization prioritizes a modest protective genetic effect of RA on PD (odds ratio: 0.93, 0.88-0.99; p = 0.015), without reverse causation. Transcriptome-wide association and colocalization analyses identify shared RA-PD genes and prioritize Ring Finger Protein 40 (RNF40). In a collagen-induced arthritis (CIA) and 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) mouse model, CIA attenuates dopaminergic injury, whereas systemic Rnf40 knockdown alleviates arthritis but exacerbates Parkinsonian pathology. Endogenous RNF40 is induced in arthritic joints but remains stable in midbrain. These cross-layer data define arthritis-neurodegeneration connections and nominate RNF40 as a context-dependent joint-brain candidate linking inflammatory arthritis with dopaminergic vulnerability.",
+    "date": "2026 Aug 5",
+    "pmid": "42554607",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42554607/"
+  },
+  {
+    "title_en": "Dopamine depletion in Parkinson's increases directed but not random exploration.",
+    "title_zh": "Dopamine depletion in Parkinson's increases directed but not random exploration.",
+    "journal": "Science advances",
+    "impact_factor": 12.5,
+    "abstract": "We investigated how patients with Parkinson's disease (PD) manage the explore-exploit trade-off in a structured reward-learning task. Patients were tested either on (n = 34) or off (n = 34) dopaminergic medication (levodopa), with age-matched polyneuropathy patients serving as controls (n = 35). Behaviorally, patients off medication showed marked learning and decision-making deficits, characterized by overexploration (excessive sampling of novel options) and insufficient exploitation (re-selection of previously rewarding options). To clarify the underlying mechanisms, we applied a Gaussian process-upper confidence bound (GP-UCB) model that combines generalization across spatially similar options with uncertainty-directed exploration (targeted sampling of uncertain options) and random exploration (undirected choice variability). Modeling results showed that patients off medication exhibited increased uncertainty-directed exploration compared to both controls and patients with PD on medication, whereas random exploration did not differ across groups. Relative to controls, patients off medication also showed reduced generalization. In contrast, directed exploration and generalization in patients on medication were comparable to the control group. Our findings highlight how dopamine depletion in PD affects reward learning under uncertainty, suggesting a key role of dopamine in exploration and generalization.",
+    "date": "2026 Aug 7",
+    "pmid": "42555713",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555713/"
+  },
+  {
+    "title_en": "Gastrointestinal In Situ Self-Assembled Gastrodia Elata Polysaccharide Hydrogel Enables Parkinson's Disease Therapy via Gut-Brain Axis Modulation.",
+    "title_zh": "Gastrointestinal In Situ Self-Assembled Gastrodia Elata Polysaccharide Hydrogel Enables Parkinson's Disease Therapy via Gut-Brain Axis Modulation.",
+    "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+    "impact_factor": 12.1,
+    "abstract": "Parkinson's disease (PD) is closely associated with abnormal alpha-synuclein propagation along the gut-brain axis and progressive dopaminergic neuronal loss. Traditional oral preparations suffer from weak gastrointestinal resistance, rapid degradation and poor gut-brain axis regulation. Here, we constructed a gastrodia elata polysaccharide-functionalized dual-network GEPH hydrogel via thiol-maleimide click crosslinking. GEPH possesses favorable biocompatibility, regular porous microstructure and tailored rheological properties suitable for gastrointestinal delivery, showing outstanding erosion resistance and structural stability in simulated intestinal fluid. It achieves in situ gelation in the gastrointestinal tract and maintains 24 h long-term retention after oral administration. GEPH modulates gut microbiota composition and metabolite profiles, repairs intestinal barrier and neuronal injury in PD mice such as Corynebacterium, CAG_95, and Akkermansia, while regulated metabolite abundance such as 3-methyl-4-cis-hydroxy-2-butenal, Nicotinic acid, Linolenate. By regulating the TLR4/NF-kappaB pathway and gut-brain axis, it inhibits abnormal aggregation and spread of intestinal and cerebral alpha-synuclein, alleviates neuroinflammation and neuronal apoptosis, protects dopaminergic neurons and ameliorates motor dysfunction. This study proposes GEPH as a new type of oral functionalized dual-network hydrogel formulation that regulates the gut-brain axis, promoting the clinical application of a new strategy for oral drug administration for gastrointestinal prevention and treatment of PD.",
+    "date": "2026 Aug 5",
+    "pmid": "42554035",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42554035/"
+  },
+  {
+    "title_en": "Cognitive training and promoting a healthy lifestyle in isolated REM sleep behavior disorder: The randomized controlled trial CogTrAiL-RBD.",
+    "title_zh": "Cognitive training and promoting a healthy lifestyle in isolated REM sleep behavior disorder: The randomized controlled trial CogTrAiL-RBD.",
+    "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "impact_factor": 11.1,
+    "abstract": "INTRODUCTION: Isolated rapid eye movement (REM) sleep behavior disorder (iRBD) is a prodromal phase of Lewy body diseases and linked to a high risk for cognitive decline. Therefore, iRBD provides a suitable window for early intervention. METHODS: In the monocentric randomized controlled trial \"Cognitive Training & a Healthy, Active Lifestyle Program for People with Isolated REM Sleep Behaviour Disorder\" (CogTrAiL-RBD), the feasibility and behavioral effects of a 5-week digital, adaptive, multidomain cognitive training alongside a module promoting a healthy lifestyle (INT) were compared to a waiting-list control group (CON) in 82 individuals with polysomnography-confirmed iRBD. The primary outcome was change in executive functions at 6 weeks post-allocation (t1) and at 6-month follow-up (t2). RESULTS: For executive functions, we found positive intervention effects for the INT versus CON with a medium effect at t1 (d = 0.500, 95% confidence interval [CI]: 0.221-0.779) and a small effect at t2 (d = 0.397, 95% CI: 0.115-0.679). DISCUSSION: CogTrAiL-RBD provides initial evidence for the feasibility and potential cognitive benefits of cognitive training within a lifestyle-guidance framework in individuals with iRBD. Its suitability for dementia prevention warrants further investigation.",
+    "date": "2026 Aug",
+    "pmid": "42555286",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555286/"
+  },
+  {
+    "title_en": "Functional nanoprobes for early diagnosis and precision theranostics of Parkinson's disease: a review of material strategies and multimodal sensing.",
+    "title_zh": "Functional nanoprobes for early diagnosis and precision theranostics of Parkinson's disease: a review of material strategies and multimodal sensing.",
+    "journal": "Journal of materials chemistry. B",
+    "impact_factor": 5.7,
+    "abstract": "The pressing need for early and accurate diagnosis of Parkinson's disease (PD) has motivated the development of advanced nanoscale diagnostic tools. Functional nanoprobes, owing to their tunable physicochemical properties and versatile surface chemistry, have emerged as powerful platforms for the sensitive and selective detection of PD-related biomarkers, including alpha-synuclein aggregates, dysregulated metal ions, and neurotransmitters. Unlike conventional diagnostic modalities such as cerebrospinal fluid analysis or neuroimaging, which suffer from invasiveness, high cost, and limited specificity, nanoprobe-based strategies enable minimally invasive, real-time, and multimodal sensing with high spatial and temporal resolution. Prior reviews of PD nanotechnology have focused on drug delivery systems or individual nanomaterial categories. The present review addresses three under-explored aspects: (i) the rational design and functional modification of nanoprobes for enhanced blood-brain barrier penetration and targeted delivery, (ii) the systematic integration of multimodal sensing architectures across multiple PD biomarker types (protein aggregates, neurotransmitters, metal ions, and enzyme activities), and (iii) the logical continuum from precision diagnosis to closed-loop theranostic platforms. We highlight key material strategies, including organic, inorganic, and hybrid nanosystems, as well as surface functionalization approaches for enhanced blood-brain barrier penetration and targeted biomarker identification. Furthermore, we examine the emerging opportunities for combining diagnostic and therapeutic functions within a single nanoprobe platform, paving the way for precision theranostics. Finally, a critical assessment of current challenges and future perspectives for clinical translation provides insights for the development of next-generation nanomaterial-based tools for early PD management.",
+    "date": "2026 Aug 5",
+    "pmid": "42555860",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555860/"
+  },
+  {
+    "title_en": "Juvenile Parkinson's disease: Symptom burden and treatment challenges.",
+    "title_zh": "Juvenile Parkinson's disease: Symptom burden and treatment challenges.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Juvenile Parkinson's disease (JPD) is a rare condition characterized by the onset of parkinsonian motor symptoms before the age of 21. Sixteen patients with JPD who presented to the Mayo Clinic between 1990-2020 were included. The median age of symptoms onset was 18.5 years, and six cases had pathogenic PRKN mutations. Resting tremor was the most frequent initial symptom (81.3%), and non-motor symptoms were notably common, including mild cognitive impairment (56.3%), anxiety (62.5%), and depression (56.3%). Levodopa responsiveness was suboptimal in 9 patients and 14 exhibited motor fluctuations. JPD demonstrates distinct clinical characteristics compared with early-onset and late-onset PD.",
+    "date": "2026 Aug 5",
+    "pmid": "42555091",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42555091/"
+  }
+]
