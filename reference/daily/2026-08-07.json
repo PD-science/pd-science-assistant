@@ -1,0 +1,82 @@
+[
+  {
+    "title_en": "Vestibular nucleus stimulation for ameliorating locomotor dynamics in a Parkinsonian mouse model.",
+    "title_zh": "Vestibular nucleus stimulation for ameliorating locomotor dynamics in a Parkinsonian mouse model.",
+    "journal": "Nature communications",
+    "impact_factor": 15.7,
+    "abstract": "Postural and locomotor dysfunction represent axial symptoms of Parkinson's disease (PD), which remain poorly treated by medication and deep brain stimulation. Whilst non-invasive neuromodulation of the vestibular system via the vestibular nucleus complex (VNC) offers a novel therapeutic avenue, the underlying circuits are still poorly characterized. Here we show that the mouse VNC feeds extensive Vglut2-defined projections into striato-thalamo-subthalamic and caudal medulla motor hubs and receives substantial input from the sensorimotor cortex. Optogenetic activation of excitatory VNC neurons at sub-symptomatic intensities increased cFos-based activity in basal ganglia-associated and brainstem motor targets. Unbiased pose dynamics and motion analysis respectively showed enhancement of behavioural modularity and locomotion with threshold-level stimulation. In a mouse model of PD, the latter further favored naturalistic gait patterns through improved motor coordination. Our data identify excitatory VNC processes as candidates for therapeutic targeting of axial motor dysfunction in the context of PD.",
+    "date": "2026 Aug 4",
+    "pmid": "42552316",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42552316/"
+  },
+  {
+    "title_en": "Data-driven trajectories of atrophy explain clinical heterogeneity across Lewy body diseases.",
+    "title_zh": "Data-driven trajectories of atrophy explain clinical heterogeneity across Lewy body diseases.",
+    "journal": "EBioMedicine",
+    "impact_factor": 10.8,
+    "abstract": "BACKGROUND: Lewy body diseases (LBD) collectively share alpha-synuclein Lewy pathology, yet present wide clinical heterogeneity, with overlapping motor and non-motor features and progression patterns that challenge traditional diagnostic boundaries. METHODS: To resolve this spatiotemporal heterogeneity at the biological level, we applied a data-driven atrophy progression framework to MRI data from 833 individuals across Parkinson's disease, dementia with Lewy bodies, and prodromal isolated REM sleep behaviour disorder using the Subtype and Stage Inference algorithm. FINDINGS: Four transdiagnostic subtypes (A: Early cortico-limbic/late basal ganglia, B: Early basal ganglia/late limbic, C: Early temporo-limbic/late basal ganglia, and D: Early basal ganglia-cingulate/late cortex) emerged, each defined by a distinct spatiotemporal progression of atrophy that explained cognitive, motor, and psychiatric variability. An early cortico-limbic/late basal ganglia subtype represented a dementia-prone subtype across clinical diagnoses, with limbic involvement associating with the emergence of visual hallucinations. INTERPRETATION: These biologically relevant spatiotemporal atrophy subtypes provide an interpretable stratification of patients with LBD, with the potential to refine prognosis, improve clinical trial stratification, and guide precision therapeutic approaches. FUNDING: This work was made possible by an Ignition grant from the University of Sydney and University College London (Global Engagement Fund).",
+    "date": "2026 Aug 5",
+    "pmid": "42556137",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42556137/"
+  },
+  {
+    "title_en": "Pesticide exposure and multidomain symptom burden in Parkinson's disease: a longitudinal triangulation study.",
+    "title_zh": "Pesticide exposure and multidomain symptom burden in Parkinson's disease: a longitudinal triangulation study.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Although pesticide exposure has been linked to worse motor symptoms in Parkinson's disease (PD), its associations with non-motor burden and with post-diagnostic progression rate remain unclear. We analyzed two large longitudinal cohorts, PPMI Online (n = 7190) and Fox Insight (n = 2298), using linear mixed-effects models and Cox regression, with supportive triangulation in an EHR cohort. In PPMI Online, pesticide exposure was associated with higher MDS-UPDRS Part II scores (beta = 1.97, 95% CI 1.34-2.60), lower PDAQ-15 scores (beta = -2.40, 95% CI -3.23 to -1.57), and greater anxiety, daytime sleepiness, and sleep disturbance. Motor and cognition-related estimates were directionally similar in Fox Insight. Time interaction estimates showed no consistent exposure-related differences. Primary Cox models indicated earlier motor milestones in both cohorts and earlier sleepiness and anxiety milestones in the PPMI Online cohort. Co-exposure to more pesticide classes was associated with worse motor function in both cohorts. TriNetX also showed elevated risks across five ICD-coded symptom domains (RRs 1.44-1.87), although these findings should be interpreted cautiously because the outcomes were defined differently. Further longitudinal studies using harmonised exposure assessments and repeated multidomain measures are needed to clarify the relationship between pesticide exposure and symptom trajectories after PD diagnosis.",
+    "date": "2026 Aug 5",
+    "pmid": "42557251",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42557251/"
+  },
+  {
+    "title_en": "A Human Gait Circuit Derived from Brain Lesions and Deep Brain Stimulation.",
+    "title_zh": "A Human Gait Circuit Derived from Brain Lesions and Deep Brain Stimulation.",
+    "journal": "Annals of neurology",
+    "impact_factor": 7.7,
+    "abstract": "OBJECTIVES: The human neuroanatomy for gait dysfunction remains unclear. We sought (1) to identify a brain circuit for gait impairment post stroke, (2) to identify a brain circuit for gait changes after subthalamic deep brain stimulation (DBS) for Parkinson's disease (PD), and (3) to test for convergence between these 2 circuits. METHODS: This cross-sectional retrospective study used data from 4 independent datasets including 109 individuals with stroke and 125 PD patients who received subthalamic DBS. Gait impairment post-stroke was measured using the Combined Walking Index. Gait changes after DBS were measured using the gait subscore on the Unified Parkinson Disease Rating Scale part III. Connectivity between lesion locations or DBS sites and 2 a priori locomotor regions (pedunculopontine nucleus and cerebellar locomotor region) was computed using a large normative connectome. We repeated this analysis in a data-driven fashion to identify additional connections. RESULTS: Connectivity between lesion locations and a priori regions were associated with gait impairment post-stroke (p < 0.05), along with connectivity to a distributed circuit of other brain regions. Connectivity between DBS sites and our a priori gait regions and connectivity between DBS sites and our lesion-based gait circuit were all associated with gait changes post DBS (p < 10(-3)). Data-driven gait circuits derived from lesions and DBS showed similar topography and converged on a common brain circuit (spatial r = 0.68, p = 0.0063, 10,000 permutations). INTERPRETATION: Lesion locations impairing gait and DBS sites modulating gait converge on a common brain circuit. ANN NEUROL 2026.",
+    "date": "2026 Aug 6",
+    "pmid": "42558032",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42558032/"
+  },
+  {
+    "title_en": "Rare Heterozygous Loss-of-Function Variants in MCOLN1 Identified in Two Sporadic Patients with alpha-Synucleinopathies.",
+    "title_zh": "Rare Heterozygous Loss-of-Function Variants in MCOLN1 Identified in Two Sporadic Patients with alpha-Synucleinopathies.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Growing evidence links lysosomal dysfunction to parkinsonism. TRPML1, a lysosomal cation channel encoded by the MCOLN1 gene, is essential for lysosomal function. Biallelic loss-of-function variants in MCOLN1 cause mucolipidosis type IV. However, the role of heterozygous MCOLN1 variants remains unclear. METHODS: Two patients with alpha-synucleinopathies underwent clinical evaluation and whole-genome sequencing. The functional effects of TRPML1 variants were assessed using immunofluorescence, lysosomal patch-clamp recording, and autophagic flux assay. RESULTS: Two heterozygous MCOLN1 variants were identified: p.E376K in a patient with multiple system atrophy and p.L315del in a patient with early-onset Parkinson's disease. Functional analyses showed that p.L315del disrupted lysosomal localization, and both variants significantly reduced lysosomal currents upon TRPML1 agonist stimulation, with a trend toward impaired autophagic flux, indicating loss of function. CONCLUSIONS: These findings demonstrate that both variants impair TRPML1 function in vitro, identifying MCOLN1 as a candidate gene for alpha-synucleinopathies that warrants further investigation in larger cohorts. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 5",
+    "pmid": "42557761",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42557761/"
+  },
+  {
+    "title_en": "Cholesterol enhances lysosome-autophagosome fusion for better alpha-synuclein clearance in GBA L444P-mutated Parkinson disease.",
+    "title_zh": "Cholesterol enhances lysosome-autophagosome fusion for better alpha-synuclein clearance in GBA L444P-mutated Parkinson disease.",
+    "journal": "Cell reports",
+    "impact_factor": 6.9,
+    "abstract": "Mutations in lysosomal enzyme glucocerebrosidase (GBA), the most common genetic risk factor for Parkinson disease (PD), exacerbate alpha-synuclein pathology through unclear mechanisms. Here, we report, in a large cohort, that GBA-mutated PD patients exhibit lower serum cholesterol levels. By introducing the most common GBA variant in our cohort, L444P, into human alpha-synuclein knock-in mice, we noted that the mice exhibited behavioral and molecular pathological PD features at 12 months of age. Mechanistically, lysosomal proteomics identified the loss of lysosome-cytoplasmic vesicle interactions and cholesterol-containing lipid microdomains in both PD patients and mice. Autophagic flux monitoring revealed impaired autophagosome-lysosome fusion in Gba(L444P/+) neurons. Gain- and loss-of-function experiments uncovered cholesterol synthesis impairment via glycosphingolipid-reduced SREBP2 levels. Importantly, cholesterol supplementation was found to enhance the autophagic flux and mitigate alpha-synuclein accumulation in vitro, whereas AAV-Srebp2 delivery increased alpha-synuclein clearance in Gba(L444P/+) mice. Our study provides animal models and mechanistic insights into GBA-associated PD and offers a therapeutic paradigm by facilitating cholesterol-associated alpha-synuclein autophagic clearance.",
+    "date": "2026 Aug 6",
+    "pmid": "42560815",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42560815/"
+  },
+  {
+    "title_en": "Lack of genetic evidence for a role of SLC25A46 in alpha-synucleinopathies.",
+    "title_zh": "Lack of genetic evidence for a role of SLC25A46 in alpha-synucleinopathies.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundThe SLC25A46 gene encodes a mitochondrial carrier protein previously implicated in neuropathy and optic atrophy. Biallelic variants in SLC25A46 have been described in patients with Parkinson's disease (PD) with optic atrophy, but the evidence supporting a role in PD remains limited.ObjectiveTo assess whether SLC25A46 variants contribute to PD, REM sleep behavior disorder (RBD), or dementia with Lewy bodies (DLB).MethodsWe examined common variants using four representative PD genome-wide association studies (GWAS) and an RBD GWAS and applied summary-data-based Mendelian randomization (SMR) to evaluate whether genetically regulated expression of SLC25A46 shows a causal association with the risk of PD or RBD. Rare variant analyses were conducted in four cohorts of European descent: Accelerating Medicines Partnership: Parkinson's Disease (AMP-PD) PD (3,051 PD, 3,667 controls), UK Biobank (3,267 PD, 14,939 proxy, 54,800 controls), RBD (1,376 RBD, 2,580 controls), and AMP-PD DLB (2,605 DLB, 1,894 controls). Optimal sequence kernel association test (SKAT-O) and meta-analysis were used to assess rare variants.ResultsNo associations were observed between SLC25A46 variants and PD, RBD, or DLB. SMR analyses revealed no evidence supporting a causal relationship between SLC25A46 expression and PD or RBD risk. Rare variant burden analyses did not identify significant associations after multiple-testing correction across cohorts or meta-analyses.ConclusionSLC25A46 variants showed no evidence of association, suggesting the gene does not play a major role in PD, RBD, or DLB risk.",
+    "date": "2026 Aug 6",
+    "pmid": "42558006",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42558006/"
+  },
+  {
+    "title_en": "Blue light therapy delivered through light glasses improves sleep quality and daytime sleepiness in Parkinson's disease: A randomized trial.",
+    "title_zh": "Blue light therapy delivered through light glasses improves sleep quality and daytime sleepiness in Parkinson's disease: A randomized trial.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundSleep disturbances, including excessive daytime sleepiness (EDS) and fragmented nocturnal sleep, are common in Parkinson's disease (PD) and significantly reduce quality of life. This pilot study evaluated the efficacy of a novel approach using blue light, delivered via dedicated glasses with integrated LED lights, to improve sleep and non-motor symptoms.MethodsRandomised, placebo-controlled, single-blind pilot study with a 2-week light intervention. Participants were assessed at baseline, two weeks, and five weeks. The study was designed to evaluate between- and within-group changes. Participants were randomly allocated to receive blue light therapy (n = 15) or red light placebo (n = 15), delivered via LED-integrated glasses for one hour, twice daily, given for a 2-week period. Primary outcome was improvement in sleep quality, assessed via the Pittsburgh Sleep Quality Index. Secondary outcomes included diary-based sleep outcomes, excessive daytime sleepiness, mood, anxiety, and motor symptoms.ResultsThere was a significant group x time effect with blue light therapy leading to better Pittsburgh Sleep Quality Index scores (p = 0.021). Between-group analyses showed that at two weeks a trend toward significance was observed (p = 0.065), while sleep quality significantly improved at five weeks compared to placebo (p = 0.029) with a large effect size (0.896). Excessive sleepiness improved in the blue light group (p < 0.001), with a reduction in clinically relevant sleepiness from 50.0% to 6.7% (p = 0.005).ConclusionsBlue light therapy delivered through dedicated glasses appeared to show an improvement in sleep quality and daytime sleepiness in individuals with PD. Blue light therapy offers a promising alternative to traditional light therapy utilising lower light intensities and eliminating the need for light boxes.",
+    "date": "2026 Aug 6",
+    "pmid": "42558005",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42558005/"
+  }
+]

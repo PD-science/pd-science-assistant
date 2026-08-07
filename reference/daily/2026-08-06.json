@@ -1,5 +1,55 @@
 [
   {
+    "title_en": "Peptide-targeted cubosome and hexosome nanoassemblies mitigate mitochondrial dysfunction in a MitoPark model.",
+    "title_zh": "Peptide-targeted cubosome and hexosome nanoassemblies mitigate mitochondrial dysfunction in a MitoPark model.",
+    "journal": "Signal transduction and targeted therapy",
+    "impact_factor": 52.7,
+    "abstract": "Mitochondrial dysfunction is a primary pathogenic mechanism underlying dopaminergic neuron loss in the nigrostriatal pathway in Parkinson's disease (PD). To investigate mitochondrion-targeted therapeutic strategies, we utilized the MitoPark mouse model, in which mitochondrial transcription factor A (Tfam) is selectively ablated in midbrain dopamine neurons, resulting in progressive neurodegeneration. We designed multifunctional lyotropic liquid crystalline nanoparticles (LCNPs) of the cubosome and hexosome types for noninvasive nose-to-brain delivery. These nanocarriers were engineered with lipids essential for membrane integrity (plasmalogens and omega-3 polyunsaturated fatty acids (PUFAs)) and a nonlamellar structural lipid (monoolein). They coencapsulated the neuroprotective antioxidants ginkgolide B and quercetin. To facilitate neuronal targeting and uptake, the surface of the LCNP was modified by conjugation with pituitary adenylate cyclase-activating polypeptide (PACAP) and a rabies virus glycoprotein (RVG)-derived peptide-oleic acid (RVG-OL) conjugate. In vitro studies using differentiated SH-SY5Y cells subjected to oxidative stress demonstrated that the targeted LNPs enhanced cellular uptake and activated key neuroprotective signaling cascades, including AKT, ERK, and STAT3 phosphorylation. In vivo, intranasal administration of the optimized LNPs in MitoPark mice was associated with a trend toward the preservation of dopaminergic neuronal markers (such as tyrosine hydroxylase) and the regulation of mitochondrial-related proteins such as ATP5A1. Transcriptomic profiling revealed extensive molecular reprogramming. The peptide-functionalized LNPs upregulated genes enriched in mitochondrial biogenesis (Ppargc1a and Pink1) and survival (Bcl2) but downregulated the expression of neuroinflammatory mediators (Il6, Nos2, Myd88, and Trem2) and apoptotic effectors. These findings establish peptide-targeted, therapeutic lipid (plasmalogen/PUFA)-based nanoassemblies as a potent nonviral platform for noninvasive nose-to-brain delivery that may modulate mitochondrial- and neurodegeneration-related signaling pathways in a genetic model of PD.",
+    "date": "2026 Aug 4",
+    "pmid": "42547496",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42547496/"
+  },
+  {
+    "title_en": "XunZi, an AI biologist, reveals disease-modifying targets.",
+    "title_zh": "XunZi, an AI biologist, reveals disease-modifying targets.",
+    "journal": "Nature biomedical engineering",
+    "impact_factor": 26.6,
+    "abstract": "Hypothesis generation in biomedicine is constrained by human cognitive limitations in synthesizing insights from fragmented biomedical knowledge and multimodal data sources. Here we introduce XunZi, an AI biologist that integrates logical reasoning and multimodal data fusion to autonomously generate de novo therapeutic target hypotheses with testable mechanisms. XunZi has been trained on 24.4 million publications and 613.6 TB of multisource data spanning 21,008 human genes and 5,850 diseases, and outperforms existing methods in both accuracy and interpretability across diverse disease contexts. In Parkinson's disease (PD), where complex mechanisms and limited targets hamper therapy development, XunZi identifies aberrant activation of CHK2 and IRAK4 kinases across multiple models. Pharmacological or genetic inhibition of Chk2 rescues dopaminergic neuron loss and motor deficits in PD mice. We further demonstrate XunZi's broad versatility in diseases such as non-small-cell lung cancer. XunZi establishes a paradigm-shifting framework to translate fragmented biomedical knowledge and data into actionable therapeutics.",
+    "date": "2026 Aug 4",
+    "pmid": "42552442",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42552442/"
+  },
+  {
+    "title_en": "Vestibular nucleus stimulation for ameliorating locomotor dynamics in a Parkinsonian mouse model.",
+    "title_zh": "Vestibular nucleus stimulation for ameliorating locomotor dynamics in a Parkinsonian mouse model.",
+    "journal": "Nature communications",
+    "impact_factor": 15.7,
+    "abstract": "Postural and locomotor dysfunction represent axial symptoms of Parkinson's disease (PD), which remain poorly treated by medication and deep brain stimulation. Whilst non-invasive neuromodulation of the vestibular system via the vestibular nucleus complex (VNC) offers a novel therapeutic avenue, the underlying circuits are still poorly characterized. Here we show that the mouse VNC feeds extensive Vglut2-defined projections into striato-thalamo-subthalamic and caudal medulla motor hubs and receives substantial input from the sensorimotor cortex. Optogenetic activation of excitatory VNC neurons at sub-symptomatic intensities increased cFos-based activity in basal ganglia-associated and brainstem motor targets. Unbiased pose dynamics and motion analysis respectively showed enhancement of behavioural modularity and locomotion with threshold-level stimulation. In a mouse model of PD, the latter further favored naturalistic gait patterns through improved motor coordination. Our data identify excitatory VNC processes as candidates for therapeutic targeting of axial motor dysfunction in the context of PD.",
+    "date": "2026 Aug 4",
+    "pmid": "42552316",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42552316/"
+  },
+  {
+    "title_en": "Brain insulin resistance as a driver of proteinopathy in neurodegeneration: from cell-type-specific mechanisms to targeted therapeutics.",
+    "title_zh": "Brain insulin resistance as a driver of proteinopathy in neurodegeneration: from cell-type-specific mechanisms to targeted therapeutics.",
+    "journal": "Translational neurodegeneration",
+    "impact_factor": 15.2,
+    "abstract": "Neurodegenerative diseases are increasingly linked to systemic metabolic dysfunction, with brain insulin resistance (BIR) positioned as a central mediator. Yet translating this insight into effective therapies has proven remarkably difficult. This review argues that BIR-driven neurodegeneration should be interpreted at two distinct but interconnected levels: cell-type-specific disruption of brain homeostasis by BIR, and the direct, mechanistic role of BIR in driving the proteinopathies that define Alzheimer's and Parkinson's diseases. We first show how BIR produces distinct functional deficits across neurons, astrocytes, microglia, and oligodendrocytes, impairing synaptic plasticity, metabolic coupling, immunometabolic homeostasis, and myelination, resulting in a cellular milieu that favors proteinopathy. We then map molecular pathways through which BIR directly distrubs the metabolism of amyloid-beta, tau, and alpha-synuclein. We further examine how islet amyloid polypeptide cross-seeds cerebral amyloid pathology, suggesting a direct molecular interaction between the peripheral drivers of BIR and protein aggregation. In this framework, BIR functions not as a passive risk factor, but as an active, upstream driver of proteostatic collapse. Cellular dysfunction combined with proteostatic failure, defines the therapeutic target space. We evaluate interventions accordingly, distinguishing those that primarily restore cellular function from those that enhance protein clearance, and those that achieve both. For each strategy, we assess the translational evidence, critically appraising the barriers that have limited their clinical success, including patient heterogeneity, narrow therapeutic windows, and inadequate central nervous system delivery. By integrating cell-type-specific biology with proteostatic mechanisms and a clinically oriented therapeutic framework, this review aims to provide a foundation for multi-target strategies that address the BIR-neurodegeneration axis at its mechanistic roots.",
+    "date": "2026 Aug 3",
+    "pmid": "42547900",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42547900/"
+  },
+  {
+    "title_en": "Single-neuron resolution mapping of dopaminergic connectivity across development, adulthood, and degeneration.",
+    "title_zh": "Single-neuron resolution mapping of dopaminergic connectivity across development, adulthood, and degeneration.",
+    "journal": "Neuron",
+    "impact_factor": 15.0,
+    "abstract": "Individual midbrain dopamine (mDA) neurons exhibit complex morphologies, a feature that may underlie their different functions and disease vulnerability. However, the developmental programs and wiring principles underlying this morphological complexity, particularly in terms of axonal and dendritic architecture, remain largely unknown. To address this, we developed and employed a unique intersectional genetic strategy in mice (Gucy2c-iCre:Pitx3-FlpE:Ai65D [GPA]) that enables specific sparse labeling of mDA neurons across the midbrain from early developmental stages onward. Using this approach, we generated the largest dataset to date of 3D-reconstructed mDA neurons at key developmental stages, in adulthood, and in models simulating Parkinson's disease-related degeneration. Our work identifies previously uncharacterized morphological features across anatomical and molecular mDA neuron subtypes and during axonal degeneration. Moreover, we identify organizational principles-including pre-target axon sorting and subtype-specific connectivity patterns among ventral tegmental area (VTA) neurons-that offer key entry points for understanding how mDA circuitry is established and functions.",
+    "date": "2026 Jul 31",
+    "pmid": "42537639",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42537639/"
+  },
+  {
     "title_en": "Systematic Multi-Level Analyses Decode the Arthritis-Neurodegeneration Axis With In Vivo Validation.",
     "title_zh": "Systematic Multi-Level Analyses Decode the Arthritis-Neurodegeneration Axis With In Vivo Validation.",
     "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
@@ -8,6 +58,26 @@
     "date": "2026 Aug 5",
     "pmid": "42554607",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42554607/"
+  },
+  {
+    "title_en": "Highly Repeatable Fibrous Crack-Based Strain Sensor for Multichannel Continuous Tremor Monitoring in Parkinson's Disease and Essential Tremor.",
+    "title_zh": "Highly Repeatable Fibrous Crack-Based Strain Sensor for Multichannel Continuous Tremor Monitoring in Parkinson's Disease and Essential Tremor.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "Objective measurement of tremors is important for assessing the severity and preventing misdiagnosis of Parkinson's disease (PD). To address this demand, this study presents a multichannel, wireless, patch-type tremor monitoring system that integrates a high-repeatable fibrous crack-based strain (FCBS) sensor with a flexible wireless communication circuit. The FCBS sensor, incorporating crack structures, random fiber orientation, junction melting, and polymer penetration within a 3D conductive fiber network, achieves high sensitivity (gauge factor up to 476.89), a fast response time ( approximately  6.64 ms), a wide working range (>200% strain), low Young's modulus ( approximately 45 kPa), and excellent repeatability (>100 000 cycles). In addition, this study demonstrates the first clinical application of a flexible strain sensor-based tremor monitoring system in patients with PD and ET for simultaneous multilocation tremor measurement. Through clinical trials, our system measured tremor indicators (peak amplitude and fundamental frequency), and tremor indicators obtained from multilocation showed improved correlation and statistical significance with tremor scoring in UPDRS III under specific conditions. These results demonstrate the applicability and potential of the flexible strain sensor-based system as a wearable platform for quantitative and objective tremor measurement.",
+    "date": "2026 Aug 2",
+    "pmid": "42543484",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42543484/"
+  },
+  {
+    "title_en": "Trafficking Deficiency of TMEM175 Variants in Parkinson's Disease Pathogenesis and the Prospects of Precision Medicine.",
+    "title_zh": "Trafficking Deficiency of TMEM175 Variants in Parkinson's Disease Pathogenesis and the Prospects of Precision Medicine.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "The transmembrane protein 175 (TMEM175) is a high-risk gene for Parkinson's disease (PD) and encodes an ion channel in lysosomes. Many PD-associated variants in TMEM175 lead to the loss of ion channel function. In this study, we identified the PD-associated TMEM175-L156P variant is a missense mutation with trafficking deficiency. Using imaging, biochemical, and whole-endolysosomal electrophysiological approaches, we identified that L156P abolished the lysosomal expression of TMEM175; instead, it accumulates in the endoplasmic reticulum (ER). The cytosolic segment of the fourth transmembrane helix (TM4-1), where the L156 resides, determined the lysosomal localization of TMEM175. Having understood the structural basis, we evaluated wild-type (WT) TMEM175 and pharmacological chaperones previously used in cystic fibrosis treatment. We elucidated that WT partially rescued the aberrant expression of L156P. Moreover, the chaperones substantially reduced the ER-retained L156P and facilitated its trafficking to lysosomes. We further screened and identified a bifunctional chemical molecule that both corrected the trafficking defects and potentiated the ion channel function of L156P. Notably, the chemical-restored L156P is functional, as it relieves the lysosomal over-acidification. Conclusively, we establish the relationship between aberrant trafficking and pathogenesis in PD, demonstrating the potential of utilizing \"chaperone plus agonist\" bifunctional chemical molecules as personalized treatment for PD.",
+    "date": "2026 Jul 31",
+    "pmid": "42535851",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42535851/"
   },
   {
     "title_en": "Dopamine depletion in Parkinson's increases directed but not random exploration.",
@@ -40,6 +110,126 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42555286/"
   },
   {
+    "title_en": "The critical role of microglia in the stress response.",
+    "title_zh": "The critical role of microglia in the stress response.",
+    "journal": "Neuroscience and biobehavioral reviews",
+    "impact_factor": 7.9,
+    "abstract": "Microglia are the principal resident innate immune cells of the central nervous system (CNS). Beyond maintaining brain homeostasis via cytokine secretion and phagocytic clearance, they fulfill essential roles in synaptic pruning, oligodendrocyte maturation, and higher-order functions including learning and memory. In response to stress exposure, microglia undergo robust activation, characterized by morphological remodeling, altered phagocytic activity, and dysregulated inflammatory signaling, positioning them as active mediators of the integrated systemic stress response. This review systematically synthesizes preclinical and clinical evidence regarding the multifaceted contributions of microglia to stress processing, their mechanistic involvement in the pathogenesis of major stress-related disorders-including post-traumatic stress disorder (PTSD), major depressive disorder (MDD), Alzheimer's disease (AD), and Parkinson's disease (PD)-and summarizes emerging microglia-targeted therapeutic strategies. We underscore the substantial mechanistic and translational value of microglial research for advancing our understanding of stress adaptation and associated brain pathologies.",
+    "date": "2026 Jul 31",
+    "pmid": "42537957",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42537957/"
+  },
+  {
+    "title_en": "What Does alpha-Syn-SAA-Negative Parkinson's Disease Reveal About the Proposed \"Biological Definition\" of Parkinson's Disease?",
+    "title_zh": "What Does alpha-Syn-SAA-Negative Parkinson's Disease Reveal About the Proposed \"Biological Definition\" of Parkinson's Disease?",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 4",
+    "pmid": "42549779",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549779/"
+  },
+  {
+    "title_en": "Reply to: \"What Does alpha-Syn-SAA-Negative Parkinson's Disease Reveal about the Proposed \"Biological Definition\" of Parkinson's Disease?\".",
+    "title_zh": "Reply to: \"What Does alpha-Syn-SAA-Negative Parkinson's Disease Reveal about the Proposed \"Biological Definition\" of Parkinson's Disease?\".",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 4",
+    "pmid": "42549767",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549767/"
+  },
+  {
+    "title_en": "Reply to: Complementary Mitochondrial and alpha-Synuclein Signatures Refine Biological Stratification of Parkinson's Disease.",
+    "title_zh": "Reply to: Complementary Mitochondrial and alpha-Synuclein Signatures Refine Biological Stratification of Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 4",
+    "pmid": "42549513",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42549513/"
+  },
+  {
+    "title_en": "Complementary Mitochondrial and alpha-Synuclein Signatures Refine Biological Stratification of Parkinson's Disease.",
+    "title_zh": "Complementary Mitochondrial and alpha-Synuclein Signatures Refine Biological Stratification of Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 4",
+    "pmid": "42548289",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42548289/"
+  },
+  {
+    "title_en": "Real-World Evaluation of Bilateral Magnetic Resonance-Guided Focused Ultrasound Thalamotomy in Essential Tremor.",
+    "title_zh": "Real-World Evaluation of Bilateral Magnetic Resonance-Guided Focused Ultrasound Thalamotomy in Essential Tremor.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Magnetic resonance-guided focused ultrasound (MRgFUS) thalamotomy is effective in treating essential tremor (ET) with an adequate safety profile. OBJECTIVE: The aim of the study was to evaluate the real-world safety and efficacy of staged bilateral MRgFUS thalamotomy in ET and its impact on patient's quality of life (QoL) and patient-reported outcomes (PROs). METHODS: This prospective cohort study included patients with ET who underwent staged bilateral thalamotomy. The primary endpoint was the change in the total Clinical Rating Scale for Tremor (CRST) score from baseline (prior to the first thalamotomy) to after the second treatment. Secondary endpoints included CRST subscales, QoL scales assessed using QoL in ET questionnaire (QUEST), EuroQol-5 Dimension-5-level questionnaire (EQ-5D-5L), and patient-reported outcomes (PROs). Adverse events (AEs) were documented. RESULTS: Fifty-five patients were included. The CRST total score improved 66.6% from baseline to 6 months after staged bilateral thalamotomy. QUEST score improved by 35.3 points. After the second treatment, 60% of patients reported having at most a mild tremor and 69.2% considered that their tremor was \"much improved\" or \"very much improved.\" Six-months after staged bilateral thalamotomy, 15 (45,4%) patients had at least one adverse event, sensory disturbances being the most frequent (27.3%), followed by instability (12.1%) and dysarthria (12.1%). All AEs were mild, except in one case in which the patient showed moderate perioral paresthesia. CONCLUSIONS: Staged bilateral MRgFUS thalamotomy provides significant improvement in tremor severity, functional outcomes, and QoL among patients with ET, although controlled studies should be conducted to confirm these results. The safety profile is adequate, although AEs are slightly higher than after the unilateral treatment. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 3",
+    "pmid": "42548156",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42548156/"
+  },
+  {
+    "title_en": "Practice Patterns Related to Neuromodulation and Continuous Subcutaneous Infusion of Foslevodopa/Foscarbidopa Infusion: A Survey of PSG Members.",
+    "title_zh": "Practice Patterns Related to Neuromodulation and Continuous Subcutaneous Infusion of Foslevodopa/Foscarbidopa Infusion: A Survey of PSG Members.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 3",
+    "pmid": "42548138",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42548138/"
+  },
+  {
+    "title_en": "Epilepsy-Dyskinesia Syndromes: The Venn Diagram of Genetic Epilepsy and Movement Disorders.",
+    "title_zh": "Epilepsy-Dyskinesia Syndromes: The Venn Diagram of Genetic Epilepsy and Movement Disorders.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "Epilepsy-dyskinesia syndromes cover a broad spectrum of neurogenetic disorders defined by the co-occurrence of epileptic and movement disorder phenotypes. Advances in next-generation sequencing have demonstrated more than 100 causative genes converging on shared molecular pathways regulating neuronal excitability, synaptic transmission, and neurodevelopment. Despite their clinical relevance, movement disorders in these conditions remain underrecognized and incompletely characterized. This review integrates recent clinical and molecular evidence to delineate the landscape of genetic epilepsy-dyskinesia syndromes, highlighting key mechanisms, including ion channel dysfunction, G-protein-coupled signaling, transcriptional regulation, synaptic vesicle cycling, and autophagy pathways, that underlie combined epilepsy-movement disorder phenotypes. We synthesize current knowledge of genotype-phenotype correlations, emphasizing phenotypic pleiotropy and recurrent variant hot spots that modulate disease severity and dominant movement phenomenology. Building on this framework, we propose complementary categorical and phenomenology-based classification systems to guide diagnosis and management. Finally, we discuss therapeutic implications, ranging from conventional pharmacological approaches and deep brain stimulation to emerging gene-directed and RNA-based precision therapies. Recognizing epilepsy-dyskinesia syndromes as a unified nosological spectrum provides a foundation for mechanistic understanding, improved diagnostic accuracy, and the development of targeted interventions addressing both seizures and movement disorders. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 3",
+    "pmid": "42544821",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42544821/"
+  },
+  {
+    "title_en": "A Gap Analysis of Deep Brain Stimulation for Childhood-Onset Movement Disorders.",
+    "title_zh": "A Gap Analysis of Deep Brain Stimulation for Childhood-Onset Movement Disorders.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Deep brain stimulation (DBS) is an established and increasingly utilized therapy for childhood-onset movement disorders. However, pediatric DBS poses unique challenges that are not adequately addressed by adult-derived paradigms. OBJECTIVE: To identify key gaps in the current use of DBS in childhood-onset movement disorders and to highlight emerging pediatric-specific strategies across the care pathway, including patient selection, targeting, surgical approaches, programming, and outcome assessment. METHODS: This educational review represents the opinions of seven clinicians and clinical researchers with extensive experience in pediatric DBS and was informed by a focused literature review of key domains identified by the authors as current gaps in the field. CONCLUSIONS: Despite substantial progress, important gaps persist across multiple domains of pediatric DBS, including the lack of standardized, pediatric-specific selection frameworks, limited biomarkers to guide therapy, challenges in defining meaningful outcomes, and significant global disparities in access. Emerging approaches, including individualized and genotype-informed strategies, advances in neuromodulation technology, and international collaboration, offer potential pathways to address these limitations. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 3",
+    "pmid": "42544783",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42544783/"
+  },
+  {
+    "title_en": "Rare-Variant Burden Analysis of Dystonia Genes in Parkinson's Disease.",
+    "title_zh": "Rare-Variant Burden Analysis of Dystonia Genes in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Dystonia frequently coexists with Parkinson's disease (PD), yet the extent of genetic overlap remains insufficiently explored. OBJECTIVE: The aim was to examine whether rare variants in dystonia-related genes are associated with PD or early-onset PD (EOPD). METHODS: We curated 44 dystonia-related genes using the Online Mendelian Inheritance in Man (OMIM) and the Movement Disorder Society report on hereditary dystonia. Whole-genome sequencing data from 5315 PD patients, including 300 EOPD patients, and 36,902 controls across the Accelerating Medicines Partnership-Parkinson's Disease (AMP-PD) and UK Biobank European cohorts were analyzed. Rare-variant burden analysis was performed using the optimized sequence kernel association test (SKAT-O) and MetaSKAT. RESULTS: In the analyses of all PD patients, no association survived multiple-testing correction. Conversely, exploratory EOPD analyses identified five significant genes (ATP5MC3, DNAJC12, KMT2B, TBC1D24, TMEM151A); however, these signals were driven by small numbers of variants and were not robust to leave-one-variant-out analyses. CONCLUSIONS: Rare variants in dystonia-related genes are not major contributors to overall PD risk. Signals observed in the EOPD subset require replication in larger cohorts. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 1",
+    "pmid": "42541459",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42541459/"
+  },
+  {
+    "title_en": "SPG4 Hereditary Spastic Paraplegia: From Etiology to Therapy.",
+    "title_zh": "SPG4 Hereditary Spastic Paraplegia: From Etiology to Therapy.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "Hereditary spastic paraplegias (HSPs) comprise a heterogeneous group of heritable neurodegenerative disorders resulting from mutations in a wide variety of genes. HSP locomotor symptoms include lower limb weakness and spasticity that arise from progressive degeneration of corticospinal axons projecting from the motor cortex to the distal spinal cord. Ensuing gait defects typically lead to wheelchair dependence. Degeneration of other tracts can also occur, expanding the constellation of symptoms to potentially include urinary, fecal, and speech problems, as well as intellectual disability. SPG4-HSP, the most common variant, is caused by mutations in the SPAST gene, which encodes spastin, a microtubule-severing protein with membrane-related properties. Significant progress has been made in developing preclinical models for SPG4-HSP and in elucidating its mechanistic etiology. On this basis, progress is being made on developing a flexible therapeutic regimen for patients at all stages of disease progression. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Jul 31",
+    "pmid": "42538614",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42538614/"
+  },
+  {
+    "title_en": "Treatment of Parkinson Disease.",
+    "title_zh": "Treatment of Parkinson Disease.",
+    "journal": "Mayo Clinic proceedings",
+    "impact_factor": 6.7,
+    "abstract": "Parkinson disease (PD) is a progressive neurodegenerative disorder affecting 2% of the population over 70 with onset typically between 65 and 70 years. A group of proteins (principally alpha-synuclein in insoluble plaques) deposited in the central nervous system throughout the lifespan of patients are responsible for PD and related diseases. The clinical presentation of PD varies among individuals with differences in symptoms, severity, progression, and prognosis. In addition, PD bears a social stigma that presents a number of difficulities in disease management. Recent changes in PD management have created further challenges for general internal medicine providers. The goal of this review is to update general practitioners on current state-of-the-art diagnostic tools and practice strategies for PD.",
+    "date": "2026 Aug 4",
+    "pmid": "42551755",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551755/"
+  },
+  {
     "title_en": "Functional nanoprobes for early diagnosis and precision theranostics of Parkinson's disease: a review of material strategies and multimodal sensing.",
     "title_zh": "Functional nanoprobes for early diagnosis and precision theranostics of Parkinson's disease: a review of material strategies and multimodal sensing.",
     "journal": "Journal of materials chemistry. B",
@@ -50,6 +240,56 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42555860/"
   },
   {
+    "title_en": "New insights on microglial lysosomal acidification: A therapeutic target of neurodegenerative diseases.",
+    "title_zh": "New insights on microglial lysosomal acidification: A therapeutic target of neurodegenerative diseases.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "BACKGROUND: Microglia, the resident immune cells of the central nervous system (CNS), maintain brain homeostasis and respond to pathological insults. Microglial dysfunction has been implicated in the pathogenesis of several neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, and multiple sclerosis. Impaired lysosomal function, particularly defective lysosomal acidification, leads to the accumulation of undegraded material, thereby promoting neuroinflammation and neuronal damage. PURPOSE: This review examines the mechanisms governing lysosomal acidification in microglia and evaluates its potential as both a therapeutic target and a prognostic biomarker in neurodegenerative diseases. METHODS: The literature on microglial lysosomal acidification, lysosomal pH regulation, autophagy, and neurodegeneration was searched in PubMed, Scopus, and Web of Science. Relevant mechanistic, preclinical, and translational studies were critically appraised and synthesized. RESULTS: Lysosomal acidification is increasingly recognized as a key regulator of microglial function and homeostasis. Defective acidification, driven by dysregulation of the vacuolar H+-ATPase (V-ATPase) proton pump, TFEB/TFE3 signaling pathways, and lysosomal ion channels such as TRPML1 and TMEM175, impairs autophagic flux and substrate degradation, facilitating the accumulation of neurotoxic aggregates including amyloid-beta and alpha-synuclein. Emerging evidence suggests that the degree of microglial lysosomal acidification may serve as a prognostic biomarker for disease progression and therapeutic response. Restoration or enhancement of lysosomal acidification through pharmacological modulation of lysosomal pH, activation of autophagy, or targeting of key regulatory pathways has been shown to re-establish microglial homeostasis, attenuate neuroinflammation, and confer neuroprotection in preclinical models. CONCLUSION: Restoration of microglial lysosomal acidification represents a promising therapeutic strategy for neurodegenerative diseases. A deeper understanding of the molecular mechanisms regulating lysosomal acidification in microglia may facilitate the identification of novel biomarkers and therapeutic targets, ultimately contributing to the development of innovative interventions for neurodegenerative disorders.",
+    "date": "2026 Aug 3",
+    "pmid": "42546981",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42546981/"
+  },
+  {
+    "title_en": "Lineage-calibrated peripheral monocyte-derived myeloid states in neurodegenerative disease: Recruitment, lesion decoding, and state persistence.",
+    "title_zh": "Lineage-calibrated peripheral monocyte-derived myeloid states in neurodegenerative disease: Recruitment, lesion decoding, and state persistence.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Peripheral monocytes and monocyte-derived macrophages are increasingly implicated in neurodegenerative disease, yet interpretation remains limited by phenotypic convergence with resident microglia, inconsistent lineage attribution, and strong dependence on experimental model and disease stage. We present a structured, lineage-calibrated framework that separates three linked processes: a recruitment gate controlling access to CNS borders and lesions; a lesion-decoding hub through which aggregate, lipid, cytokine, complement, antigenic, hypoxic, and danger-associated inputs are interpreted; and a state-persistence layer in which metabolic and epigenetic reinforcement stabilizes inflammatory, repair-supportive, or hybrid repair-restrictive programs. To make the framework operational, we first provide a cross-disease synthesis and then map representative models of Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and multiple sclerosis to their specific recruitment routes, lesion cues, lineage confidence, and functional outcomes. We also distinguish what single-cell or spatial data can infer from what only origin-resolving approaches can establish, and propose practical terminology for studies that cannot perform fate mapping or parabiosis. A worked therapeutic example illustrates why the same recruitment pathway may be harmful during lesion expansion but useful during debris clearance and recovery. The central question is therefore not whether monocytes are present, but which model, compartment, time point, evidentiary tier, and stabilized state justify a disease-modifying claim. This framework links mechanistic evidence to biomarkers, patient stratification, and stage-aware intervention while reducing over-attribution of peripheral origin.",
+    "date": "2026 Aug 2",
+    "pmid": "42543118",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42543118/"
+  },
+  {
+    "title_en": "Association between PCSK9 targeted therapy and the risk of stroke and dementia: A Meta-Analysis of Randomized Controlled Trials.",
+    "title_zh": "Association between PCSK9 targeted therapy and the risk of stroke and dementia: A Meta-Analysis of Randomized Controlled Trials.",
+    "journal": "The American journal of medicine",
+    "impact_factor": 5.3,
+    "abstract": "BACKGROUND: Proprotein convertase subtilisin/kexin type 9 (PCSK9) targeted therapies have been shown to reduce low-density lipoprotein cholesterol (LDL-C) levels and circulating PCSK9. However, its effect on cerebrovascular outcomes, especially stroke and dementia, has not been well established to date. METHODS: We conducted a systematic literature search of electronic databases for relevant randomized controlled trials (RCTs) from inception through January 2025. Odds ratios (OR) and 95% confidence intervals (CI) were pooled using a random-effect model, and a p-value of <0.05 was considered statistically significant. RESULTS: A total of 22 RCTs with 64,116 patients were included in the study. Pooled analysis showed that PCSK9-targeted therapy significantly reduced the risk of all-cause stroke (OR, 0.78 (95% CI: 0.68-0.90), P < 0.001) and ischemic stroke (OR, 0.77 (95% CI: 0.63-0.94), P=0.01). However, no significant association was observed for the risk of hemorrhagic stroke (OR, 1.16 (95%CI: 0.70-1.93), P=0.56), transient ischemic attack (OR, 0.98 (95%CI: 0.48-2.06), P= 0.95), dementia (OR, 0.77 (95%CI: 0.14-4.28), P=0.76), dementia of Alzheimer's type (OR, 0.81 (95%CI: 0.14-4.70), P=0.82), and Parkinson's disease (OR, 0.82 (95%CI: 0.11-6.37), P=0.85). CONCLUSION: PCSK9 targeted therapies appear to reduce the risk of stroke; however, no significant association was observed for the risk of dementia and Parkinson's disease.",
+    "date": "2026 Aug 4",
+    "pmid": "42551778",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42551778/"
+  },
+  {
+    "title_en": "Parkinsonian gait improvement through vibratory stride parameter feedback.",
+    "title_zh": "Parkinsonian gait improvement through vibratory stride parameter feedback.",
+    "journal": "Journal of neuroengineering and rehabilitation",
+    "impact_factor": 5.2,
+    "abstract": "BACKGROUND: Hypokinetic gait increases morbidity and mortality of persons with Parkinson's disease and constitutes a major target symptom for therapy. Feedback on gait quality, e.g. by a physiotherapist, improves stride length and reduces shuffling. Wearable devices measuring gait parameters and providing feedback could improve parkinsonian gait during everyday life when no physiotherapist is available. Here, we report on the efficacy of a new device providing discreet vibratory feedback upon decreased stride length and increased shuffling. METHODS: 33 persons with Parkinson's disease, in two cohorts, received automatic vibratory feedback administered via a newly developed sensor-equipped insole when their stride length and heel strike angle decreased while walking a 730 m walking course. Gait of 14 persons with Parkinson's disease in the first cohort was investigated in OFF and ON medication state to allow for a comparison of the feedback effect with the effect of medication on stride length, heel strike angle and gait variability. In both cohorts, the effect of feedback on gait parameters was compared against a control walk without stimulation and was subjectively evaluated by the study participants. In the second cohort of 19 participants, the effect of feedback was additionally compared with vibration at random time points to investigate the efficacy of context-adequate feedback. RESULTS: Both stride length and heel strike angle improved upon feedback to a degree that, on average, was close to the medication effect on parkinsonian gait. Stimulation at random time points showed intermediate values with non-significant improvements in gait parameters compared to control walks. Closed-loop feedback resulted in a less variable gait pattern compared to control walks. Persons with Parkinson's disease rated the feedback mode as subjectively useful. CONCLUSIONS: Our results demonstrate the use of closed-loop feedback can improve parkinsonian gait and suggest such a device could effectively complement the available approaches in the treatment of persons with Parkinson's disease. TRIAL REGISTRATION: This trial was retrospectively registered in the German Clinical Trials Register (DRKS00038516) on 9 December 2025.",
+    "date": "2026 Aug 1",
+    "pmid": "42547893",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42547893/"
+  },
+  {
+    "title_en": "Chitosan-based hydrogel for intranasal drug delivery; current advances in the brain diseases treatment.",
+    "title_zh": "Chitosan-based hydrogel for intranasal drug delivery; current advances in the brain diseases treatment.",
+    "journal": "International journal of pharmaceutics",
+    "impact_factor": 5.2,
+    "abstract": "Neurodegenerative diseases represent a growing health concern that is projected to become more prevalent and affect more people in the upcoming decades. One of the most complicated components of recent neurodegenerative disease therapies is the penetration and delivery of therapeutics to the central nervous system (CNS), which are hindered via the blood-brain barrier (BBB). In response, innovative treatment approaches leveraging noninvasive techniques including nanosized drug delivery systems and intranasal (IN) administration with higher treatment efficacy and patient satisfaction are developing as potential options. IN administration delivers medications directly to the brain through both the olfactory and trigeminal pathways, with the olfactory pathway representing the primary route for nose-to-brain transport. Among various IN platforms, chitosan (CS)-based hydrogels have attracted considerable attention because of their excellent biocompatibility, biodegradability, mucoadhesive properties, and ability to enhance drug permeation by prolonging nasal residence time and transiently modulating epithelial tight junctions. This review critically summarizes recent advances in CS-based hydrogels for IN drug delivery for the treatment of brain diseases including Alzheimer's disease (AD), Parkinson's disease (PD), depressive manifestations, ischemia,brain tumors,epilepsy, seizures, and schizophrenia. In addition, the review discusses the relationships between hydrogel design and therapeutic performance, highlights current translational challenges, and outlines future perspectives for the clinical development of CS-based IN hydrogel systems.",
+    "date": "2026 Jul 31",
+    "pmid": "42537824",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42537824/"
+  },
+  {
     "title_en": "Juvenile Parkinson's disease: Symptom burden and treatment challenges.",
     "title_zh": "Juvenile Parkinson's disease: Symptom burden and treatment challenges.",
     "journal": "Journal of Parkinson's disease",
@@ -58,5 +298,45 @@
     "date": "2026 Aug 5",
     "pmid": "42555091",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42555091/"
+  },
+  {
+    "title_en": "Automatic sleep staging and atonia detection in RBD using single-channel chin EMG.",
+    "title_zh": "Automatic sleep staging and atonia detection in RBD using single-channel chin EMG.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Study ObjectivesThe diagnosis of rapid eye movement (REM) sleep behavior disorder (RBD) is of clinical interest, as there is a high rate of future conversion to Parkinson's disease and related neurodegenerative disorders. The clinical standard for diagnosis of RBD relies on human scoring of REM sleep without atonia (RSWA) via polysomnography, which is labor-intensive, costly, and unsuitable for long-term monitoring. Existing (semi-)automatic detection methods often depend on prior manual annotation of REM or suffer from low REM classification performance in this population. We here propose a fully automated system using only a single-channel chin electromyography (EMG) for both REM scoring and RSWA quantification.MethodsWe analyzed 485 polysomnographic recordings, including 30 recordings of subjects with RBD. Using the recently introduced factorized score-based diffusion model, we automatically scored REM epochs based on single-channel chin EMG data, and subsequently quantified RSWA using the REM atonia index from literature.ResultsThe proposed system demonstrated strong performance in REM scoring in both subjects with and without RBD (REM sensitivity >/=0.80, specificity >/=0.97, positive predictive value >/=0.81). The REM atonia index derived from automatic scoring showed strong agreement with manually scored data, with minimal bias (</=0.03), narrow limits of agreement (</=0.13), and strong linear correlation (Peason's r >/= 0.88).ConclusionsFully automated RSWA quantification using single-channel chin EMG is feasible and performs comparable to semi-automatic methods that rely on human sleep stage scoring based on polysomnography. This single-sensor approach can improve RBD screening accessibility, particularly in ambulatory settings, and facilitate long term monitoring of RSWA.",
+    "date": "2026 Aug 3",
+    "pmid": "42545038",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42545038/"
+  },
+  {
+    "title_en": "Beyond motor fluctuations: Understanding the clinical correlates of OFF burden in Parkinson's disease.",
+    "title_zh": "Beyond motor fluctuations: Understanding the clinical correlates of OFF burden in Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundHistorically, OFF burden in Parkinson's disease has been primarily attributed to motor features. Recent studies highlight that non-motor symptoms, and the predictability of OFF episodes also drive functional impairment, yet they are rarely measured in clinical practice.ObjectiveTo identify which clinical features are most closely associated with OFF time and OFF impact, and to quantify the added explanatory value of temporal predictability, non-motor, and behavioural domains beyond a core motor model.MethodsWe analysed 1252 OFF-only visits from 430 PPMI participants. Outcomes were MDS-UPDRS IV 4.3 (OFF time) and 4.4 (OFF impact). Linear mixed-effects models with a participant random intercept were fitted. The core motor model included OFF-state motor severity, freezing, tremor, levodopa responsiveness, and dyskinesia, plus covariates. Predictability (IV 4.5), non-motor (mood, fatigue/sleep, autonomic/GI), and behavioural (impulse-control behaviours) domains were then added to assess added influence beyond motor. Analyses were stratified by time since diagnosis (Pooled; </= 4 y; >/= 6 y).ResultsClinical features explained more variance in OFF impact than OFF time (25.9% vs 8.1%). OFF time was primarily linked to OFF-state motor severity/freezing, with levodopa responsiveness important early. For OFF impact, predictability produced the largest increment in marginal R(2) beyond the core motor model (pooled and Late). Within the core motor model, tremor was the largest contributor to OFF impact.ConclusionsPredictability is a prominent correlate of OFF impact. Asking about predictability may help tailor therapy, from timing optimisation to on-demand rescue for unpredictable episodes.",
+    "date": "2026 Aug 2",
+    "pmid": "42543892",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42543892/"
+  },
+  {
+    "title_en": "Leveraging machine learning with real-world data for hypothesis generation by identifying exposomic predictors in Parkinson's disease among farmers.",
+    "title_zh": "Leveraging machine learning with real-world data for hypothesis generation by identifying exposomic predictors in Parkinson's disease among farmers.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundMachine learning offers new avenues for complementing traditional epidemiological approaches by analyzing routinely collected, population-based administrative health data.ObjectiveThis study aimed to identify potential exposomic predictors (hypothesis generation) for Parkinson's disease (PD) across the entire French agricultural workforce.MethodsWe applied XGBoost adapted for Cox proportional hazards modeling to assess approximately 180 exposomic factors derived from nationwide administrative health data within the TRACTOR project. Shapley Additive Explanation (SHAP) values were used to assess the importance of each predictor. To provide both model-based and statistical perspectives, SHAP analysis was complemented with classical Cox regression, allowing for transparent assessment of each predictor's contribution to the model and its statistical association with survival. Sensitivity analyses incorporating different exposure lags were conducted. The study included 424,725 farm managers (6,265 PD cases) and 544,788 farmworkers (2,848 PD cases) aged 50+, analyzed separately due to differences in available variables and coding structures.ResultsSeveral occupational factors, including duration of involvement in crop farming and viticulture, emerged as key promoting predictors, surpassing age in predictive importance. Beyond conventional predictors such as type 2 diabetes, less conventional predictors were identified, including work diversification, seasonal employment, hypercholesterolemia, epilepsy, antidepressant use, anxiolytic use, and antibiotic use.ConclusionsThese results contribute to a growing body of evidence supporting the integration of occupational health considerations into PD research and highlight the importance of exploring and identifying potential farming-related risk factors in PD development.",
+    "date": "2026 Aug 1",
+    "pmid": "42541441",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42541441/"
+  },
+  {
+    "title_en": "Burst deep brain stimulation for Parkinson's disease: A systematic review of efficacy and safety.",
+    "title_zh": "Burst deep brain stimulation for Parkinson's disease: A systematic review of efficacy and safety.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundBurst deep brain stimulation (DBS) is a promising alternative to conventional deep brain stimulation (cDBS), incorporating paradigms such as theta burst stimulation (TBS), burst cycling (BC), and coordinated reset (CR). Findings from transcranial magnetic stimulation, spinal cord stimulation and focused ultrasound neuromodulation inspire its potential application in Parkinson's disease (PD).ObjectiveThis review evaluates the evidence on the efficacy and safety of burst DBS in PD.MethodsA systematic literature search was conducted in PubMed, Embase, and Web of Science. Inclusion criteria encompassed peer-reviewed primary preclinical or clinical studies in English, reporting motor outcomes and burst stimulation parameters. Methodological quality was assessed using SYRCLE and a modified Newcastle-Ottawa Scale. Data extraction was performed systematically, and findings were synthesized narratively.Results19 studies met inclusion criteria: nine preclinical and ten clinical studies. Eight focused on BC (three including safety), four examined TBS (two including safety), and seven addressed CR (one including safety). Burst DBS showed mostly similar acute efficacy to cDBS, with distinct post-stimulation effects. No major adverse events were reported. However, stimulation settings varied widely, with no consensus on optimal parameters.ConclusionEfficacy and safety of burst DBS appear to be comparable to cDBS, with potential benefits such as post-stimulation effects. However, the risk of bias, variability in stimulation settings, inconsistent terminology, and other methodological considerations limit the interpretation of previous research. Further randomized studies are crucial to better refine the stimulation parameters and establish standardized clinical protocols that can be used to compare burst DBS with cDBS.",
+    "date": "2026 Aug 1",
+    "pmid": "42541416",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42541416/"
   }
 ]
