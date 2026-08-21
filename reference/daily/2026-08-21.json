@@ -1,0 +1,32 @@
+[
+  {
+    "title_en": "Pathogenic GBA1 Variants and their Interaction with the Gut-Microbiota-Brain Axis in Parkinson's Disease.",
+    "title_zh": "Pathogenic GBA1 Variants and their Interaction with the Gut-Microbiota-Brain Axis in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 20",
+    "pmid": "42621775",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42621775/"
+  },
+  {
+    "title_en": "Demographic Confounding in Voice-Based Parkinson Disease Screening: Methodological Analysis of the Bridge2AI Voice Dataset.",
+    "title_zh": "Demographic Confounding in Voice-Based Parkinson Disease Screening: Methodological Analysis of the Bridge2AI Voice Dataset.",
+    "journal": "Journal of medical Internet research",
+    "impact_factor": 6.0,
+    "abstract": "BACKGROUND: Voice-based deep learning models for Parkinson disease (PD) and dementia screening report areas under the curve (AUCs) of 0.85-0.97, but rarely audit demographic confounding. Because speech changes substantially with age, case-control age imbalance alone can produce high classification performance independent of disease. OBJECTIVE: We audited the Bridge to Artificial Intelligence (Bridge2AI) Voice Dataset v3.0.0 with three objectives: (1) quantify age and site confounding in voice screening for PD and dementia, (2) evaluate whether a disease-specific acoustic signal persists after demographic adjustment, and (3) propose minimum reporting standards. METHODS: We fine-tuned an audio spectrogram transformer (AST; 86.4 million parameters) using 5-fold participant-level cross-validation for PD (n=253) and dementia (n=221). Logistic regression on age and sex provided a demographic-only baseline under identical splits. Confounding was assessed by (1) restricting evaluation to ages 60-80 years, (2) restricting to US participants because all Canadian PD (n=62) and all Canadian dementia (n=70) participants were cases with no Canadian controls, (3) retraining AST from scratch on the age-restricted subgroup, (4) 1:1 nearest-neighbor propensity-score matching on age and sex in the US age-restricted PD subgroup, and (5) applying v3.0.0-trained models to v2.0.1 spectrograms of the same participants. RESULTS: On the full cohort, age alone was statistically indistinguishable from the AST (PD: AUC 0.875 vs 0.843, DeLong P=.36; dementia: 0.905 vs 0.895, P=.75), indicating a demographic shortcut; because both cohorts share the same 148-person control group, this parallel pattern is one dataset-level artifact, not 2 independent confirmations. Within ages 60-80 years, the AST exceeded age-only for both conditions (PD: 0.787 vs 0.568, DeltaAUC +0.225, 95% CI +0.089 to +0.361; P=.001, n=129; dementia: 0.809 vs 0.598, DeltaAUC +0.215, 95% CI +0.056 to +0.375; P=.008, n=95), though the dementia result reflects residual site confounding. Three convergent estimates of PD-specific signal, post hoc age-restricted (0.787), de novo retrained (0.798), and propensity-matched (US, 28 pairs; 0.760; P=.02 vs age-only), all fell substantially below the 0.843 full-cohort AUC. Under the most conservative adjustment (US-only, ages 60-80 years), AST AUC was 0.726, which we consider the least confounded estimate. Cross-version preprocessing testing produced AUC 0.618, indicating brittle representations. Of 13 published voice-PD studies, only 7 reported case and control age distributions, and none reported a demographic-only baseline or an age-restricted evaluation. CONCLUSIONS: Demographic confounding dominates full-cohort voice-screening metrics on the Bridge2AI Voice Dataset for both PD and dementia. After age restriction, site control, and propensity matching, residual AST performance for PD (AUC 0.726-0.798) remained significantly above demographic baselines, supporting a disease-specific acoustic signal substantially weaker than full-cohort metrics suggest; for dementia, insufficient US cases precluded similar estimates. Voice biomarker studies should report case and control demographic distributions, demographic-only baselines under identical splits, and age-restricted performance alongside full-cohort metrics.",
+    "date": "2026 Aug 20",
+    "pmid": "42623305",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623305/"
+  },
+  {
+    "title_en": "Association of handgrip strength asymmetry with prodromal and incident Parkinson's disease: A prospective cohort study.",
+    "title_zh": "Association of handgrip strength asymmetry with prodromal and incident Parkinson's disease: A prospective cohort study.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundAsymmetry symptoms are well recognized in Parkinson's disease (PD). However, whether handgrip strength (HGS) asymmetry can prospectively predict incident PD remains unknown.ObjectivesTo prospectively examine the association between HGS asymmetry and subsequent risk of incident PD.MethodsIncluded were 497,100 participants without PD at baseline from the UK Biobank. HGS asymmetry index was calculated by dividing the absolute inter-hand difference in HGS by the average HGS of the two hands. The primary outcome was incident PD identified through hospital admissions, death registries, and self-reported data. As secondary outcome, prodromal PD was defined as the presence of >/=3 out of 8 prodromal PD features assessed through self-reported data, hospital admission records and primary care data. The associations were evaluated using Cox regression models. Several lag analyses were conducted to examine how many years in advance could HGS asymmetry predict incident PD.ResultsDuring a median follow-up of over 13 years, 2868 participants developed PD. HGS asymmetry (highest vs. lowest quartile) was associated with higher risk of developing PD (HR = 1.23; 95% CI: 1.10, 1.37) (P-(trend) < 0.001). Lag analysis suggested that HGS asymmetry could even predict incident PD in 8 years. Significant association between HGS asymmetry and prodromal PD risk was also observed. The significant associations between HGS asymmetry and PD risk persisted when further excluding those with low HGS or prodromal PD.ConclusionsHigher HGS asymmetry was associated with a higher risk of incident PD, suggesting the potential of HGS asymmetry as an early indicator for PD.",
+    "date": "2026 Aug 20",
+    "pmid": "42623021",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623021/"
+  }
+]
