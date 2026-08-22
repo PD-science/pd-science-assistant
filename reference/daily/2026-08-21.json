@@ -1,5 +1,155 @@
 [
   {
+    "title_en": "Regulation and roles of mammalian mitophagy.",
+    "title_zh": "Regulation and roles of mammalian mitophagy.",
+    "journal": "Nature reviews. Molecular cell biology",
+    "impact_factor": 90.2,
+    "abstract": "Mitochondria are essential metabolic and signalling hubs exposed to stress, and mitochondrial damage is highly detrimental to the cell. Mitophagy - the autophagy of mitochondria - is a key mechanism that maintains both mitochondrial integrity and metabolic flexibility. Mitophagy occurs via multiple pathways that either involve activation of PTEN-induced kinase 1 (PINK1) and the E3 ubiquitin-protein ligase Parkin, or are independent of PINK1 and Parkin. Recessive mutations in PINK1 and PKRN (the gene that encodes Parkin) cause early-onset Parkinson's disease and have provided key mechanistic insights into mitophagy. However, emerging findings indicate that mitophagy is also executed by other molecular routes. Despite these molecular advances in mitophagy characterization, the physiological roles of these pathways in mammals and the specific contexts or conditions in which they operate remain poorly defined. This Review summarizes current understanding of PINK1-Parkin-dependent and independent mitophagy pathways, highlighting mechanistic distinctions and coordinated regulation. We also examine physiological and pathological triggers of mitophagy, as well as the expanding therapeutic potential of targeting mitophagy in disease.",
+    "date": "2026 Aug 14",
+    "pmid": "42601490",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601490/"
+  },
+  {
+    "title_en": "An Icelandic pangenome reference.",
+    "title_zh": "An Icelandic pangenome reference.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "Reference bias is an issue that affects most genomic studies analysing short reads mapped to a reference genome(1,2). It can be mitigated by mapping to multiple haplotypes represented in a pangenome(3-5). Here we introduce two new methods to address reference bias: Emblask for pangenome construction and Weaver for mapping to pangenomes at scale. Emblask is a hybrid long- and short-read haplotype-resolved dual assembly pipeline for parent-offspring trio data. Using Emblask, we assembled 698 Icelandic haplotypes and added them to the Human Pangenome Reference Consortium (HPRC) pangenome(4) to construct an Icelandic pangenome reference (HPRC-ICE) including 51.41 million small variants. We mapped the short reads of 57,630 Icelanders to HPRC-ICE with Weaver and called 98.96 million variants, representing a 6.17% increase over mapping to a linear reference. We uncovered new variants in low-mappability regions, including a pathogenic single nucleotide polymorphism (SNP) in GBA1 that associates with early onset Parkinson's disease and a missense SNP in CBS that is pathogenic for homocystinuria. We replicated the GBA1 association in the UK Biobank(6) with a targeted remapping of 429,193 British and Irish participants.",
+    "date": "2026 Aug 19",
+    "pmid": "42618781",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42618781/"
+  },
+  {
+    "title_en": "A unified evolutionary explanation of Parkinson's disease.",
+    "title_zh": "A unified evolutionary explanation of Parkinson's disease.",
+    "journal": "The Lancet. Neurology",
+    "impact_factor": 45.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Sep",
+    "pmid": "42586095",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42586095/"
+  },
+  {
+    "title_en": "PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications.",
+    "title_zh": "PCSK9 inhibitors in neurodegenerative disorders: mechanisms, therapeutic potential, and clinical implications.",
+    "journal": "Translational neurodegeneration",
+    "impact_factor": 15.2,
+    "abstract": "Proprotein convertase subtilisin/kexin type 9 (PCSK9) plays a role in hepatic cholesterol metabolism via low density lipoprotein receptor degradation. PCSK9 inhibitors have revolutionized lipid-lowering therapy, providing robust reduction of cardiovascular risk. Large-scale randomized controlled trials and long-term extensions (e.g., FOURIER and EBBINGHAUS trials) have shown no significant adverse effects of PCSK9 inhibitors on neuropsychological testing or patient-reported cognitive outcomes, even with prolonged and intensive lowering of low-density lipoproteins. Pre-clinical studies also suggest PCSK9 as a key regulator of neurobiological processes, including synaptic plasticity, amyloid-beta clearance, neuroinflammation, and blood-brain barrier integrity. Human genetic studies revealed complex, sometimes conflicting associations between PCSK9 variants and risk of Alzheimer's disease, Parkinson's disease, vascular dementia, and amyotrophic lateral sclerosis. In this review, we highlight the pathophysiologic mechanisms, emerging experimental therapeutics and clinical implications of PCSK9 inhibition in neurodegenerative disorders. Long-term adequately powered trials with robust neuropsychological, biomarker, and imaging endpoints, as well as mechanistic studies in human-derived models are needed to establish the cardiovascular and neurocognitive implications of PCSK9 inhibition and guide precision medicine strategies for those at elevated risk of neurodegeneration.",
+    "date": "2026 Aug 18",
+    "pmid": "42613642",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42613642/"
+  },
+  {
+    "title_en": "The mitophagy-inflammasome axis: a shared pathological hub in Alzheimer's and Parkinson's diseases.",
+    "title_zh": "The mitophagy-inflammasome axis: a shared pathological hub in Alzheimer's and Parkinson's diseases.",
+    "journal": "Translational neurodegeneration",
+    "impact_factor": 15.2,
+    "abstract": "Alzheimer's disease (AD) and Parkinson's disease (PD) represent the most prevalent chronic neurodegenerative disorders, characterized by progressive loss of neurons as a core pathological feature. Despite discrepancies in their clinical phenotypes and signature pathological proteins, accumulating evidence has validated a common molecular pathogenic mechanism: dysfunctional bidirectional crosstalk between mitophagy and inflammasomes. As the central hub of neuronal energy metabolism, mitochondrial impairment triggers the release of damage-associated molecular patterns such as reactive oxygen species and mitochondrial DNA, which in turn activate inflammasomes (e.g., NLRP3) to elicit chronic neuroinflammation. Conversely, excessive inflammasome activation suppresses mitophagy, exacerbating the accumulation of damaged mitochondria and pathological protein aggregates, and forming a pathological mitochondrial damage-inflammatory activation-autophagy inhibition cycle. Microglia and astrocytes, key immunocompetent cells of the central nervous system, act as a hub within this regulatory network. Therapeutic strategies targeting the mitophagy-inflammasome axis have achieved remarkable advancements, including mitophagy agonists, inflammasome inhibitors, and dual-target modulators. This review summarizes recent findings regarding the pathogenic roles of beta-amyloid and alpha-synuclein in AD and PD, as well as the protective effects offered by regulating mitophagy and inflammasome activity. Furthermore, the major directions and potential hurdles in the development of targeted therapeutics are discussed, in the aim of providing insights into the novel therapeutic avenues for the treatment of both disorders.",
+    "date": "2026 Aug 17",
+    "pmid": "42608731",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42608731/"
+  },
+  {
+    "title_en": "TAB2 Causes Neuronal Damage by Aggravating Microglia-Mediated Neuroinflammation in Parkinson's Disease.",
+    "title_zh": "TAB2 Causes Neuronal Damage by Aggravating Microglia-Mediated Neuroinflammation in Parkinson's Disease.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "Neuroinflammation plays a key role in exacerbating dopaminergic neuron loss in Parkinson's disease (PD). We identified TAB2 as an early-stage biomarker, which was elevated in PD patients' microglia. However, the role of TAB2 in the pathogenesis of PD remains unknown. In this study, we found that Tab2 knockdown inhibited the activation of microglia and protected neurons in PD models. STAT3, as a transcription factor for TAB2, regulated TAB2 expression. Mechanistically, TAB2 interacted with alpha-synuclein and facilitated the recognition of K63-linked ubiquitin chains, leading to the formation of the TAK1-TABs complex and activation of TAK1, which was ultimately followed by activation of the nuclear factor-kappa B (NF-kappaB) signaling pathway. Furthermore, microglia-specific knockdown of Tab2 significantly inhibited microglia activation, protected dopaminergic neurons, improved motor function, and attenuated anxiety-like behaviors in PD mouse model. We further showed that the FDA-approved drug, lumacaftor, suppressed microglial TAB2 expression and had potent anti-inflammatory and neuroprotective effects in PD models. Taken together, our study reveals that the STAT3-TAB2-NF-kappaB-IL-1beta positive feedback axis in microglia is a crucial checkpoint that exacerbates neuroinflammation in PD. Therefore, these findings identify a pivotal role of TAB2 in regulating microglia-mediated neuroinflammation, suggesting that targeting TAB2 may be a possible therapeutic strategy for PD.",
+    "date": "2026 Aug 17",
+    "pmid": "42606072",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42606072/"
+  },
+  {
+    "title_en": "The Nutrition-Sleep-Circadian Axis in Age-Related Neurodegeneration: Cellular Mechanisms, Metabolic Dysfunction, and Neuroprotective Interventions.",
+    "title_zh": "The Nutrition-Sleep-Circadian Axis in Age-Related Neurodegeneration: Cellular Mechanisms, Metabolic Dysfunction, and Neuroprotective Interventions.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Advanced age is accompanied by progressive metabolic, nutritional, mitochondrial, and neuroimmune dysregulation, which may increase susceptibility to neurodegenerative disorders such as Alzheimer's disease (AD) and Parkinson's disease (PD), highlighting the need to identify modifiable mechanisms that influence disease initiation and progression. Increasing evidence indicates that nutrition, sleep, and circadian rhythms function as an interconnected biological network regulating metabolic homeostasis, mitochondrial function, neuroinflammation, oxidative stress, proteostasis, and neuronal resilience. Disruption of this integrated axis accelerates age-related neurodegeneration through impaired glymphatic clearance, altered protein aggregation, circadian misalignment, gut-brain axis dysfunction, and metabolic imbalance. Although these factors have traditionally been investigated independently, recent studies demonstrate extensive mechanistic crosstalk linking nutritional status, sleep architecture, circadian regulation, and cellular ageing processes. This review synthesizes recent experimental, clinical, epidemiological, and translational evidence describing how dysfunction of the nutrition-sleep-circadian axis contributes to the pathogenesis of AD and PD. Particular emphasis is placed on molecular pathways involving mitochondrial dysfunction, oxidative damage, neuroimmune activation, clock-gene regulation, impaired protein clearance, and gut microbiota interactions that collectively drive neurodegenerative progression. We further evaluate emerging interventions, including chrononutrition, Mediterranean-style dietary patterns, time-restricted feeding, light-based circadian therapies, and lifestyle strategies that target multiple ageing-related mechanisms simultaneously. Finally, we discuss current knowledge gaps, methodological limitations, and future research priorities for integrating nutritional, circadian, and metabolic approaches into precision strategies for healthy brain ageing. Collectively, the available evidence supports the nutrition-sleep-circadian axis as a central regulator of biological ageing and a promising therapeutic target for delaying neurodegeneration, preserving cognitive function, and improving healthy lifespan.",
+    "date": "2026 Aug 18",
+    "pmid": "42612710",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612710/"
+  },
+  {
+    "title_en": "Cell Death in Neurodegenerative Diseases: Molecular Mechanisms and Therapeutic Targets.",
+    "title_zh": "Cell Death in Neurodegenerative Diseases: Molecular Mechanisms and Therapeutic Targets.",
+    "journal": "MedComm",
+    "impact_factor": 10.7,
+    "abstract": "Neurodegenerative diseases (NDs) are marked by selective neuronal vulnerability and progressive failure of neural circuits. Increasing evidence indicates that neuronal loss is not driven by a single terminal event, but emerges from interacting regulated cell death (RCD) programs. These programs are closely coupled to mitochondrial injury, proteostatic collapse, lysosomal stress, metabolic imbalance, glial state transitions, and chronic neuroinflammation. Yet, how distinct death pathways are organized across cell types, disease stages, and disease-specific microenvironments remains unresolved. This review examines RCD as an integrated pathogenic network in major NDs. Caspase and B-cell lymphoma 2 (BCL2) family signaling, receptor-interacting protein kinase 1 (RIPK1), RIPK3, and mixed lineage kinase domain-like protein activation, NOD-like receptor family pyrin domain containing 3 and gasdermin signaling, GPX4-linked lipid peroxidation control, and autophagy lysosomal failure are discussed as convergent stress response modules rather than isolated pathways. Across Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease, these modules shape neuronal fate through disease-specific interactions with mitochondrial dysfunction, iron dyshomeostasis, inflammasome activation, and microglial metabolic remodeling. We further evaluate emerging therapeutic strategies that target cell death crosstalk, restore autophagy lysosomal competence, or improve delivery to the central nervous system, highlighting the importance of molecular selectivity, cellular context, disease stage, and translational feasibility.",
+    "date": "2026 Sep",
+    "pmid": "42609516",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42609516/"
+  },
+  {
+    "title_en": "Respiratory control dysfunction and vulnerability in Parkinson's disease.",
+    "title_zh": "Respiratory control dysfunction and vulnerability in Parkinson's disease.",
+    "journal": "Physiology (Bethesda, Md.)",
+    "impact_factor": 10.3,
+    "abstract": "Respiratory dysfunction is increasingly recognized as a clinically relevant yet underexplored feature of neurodegenerative diseases, particularly Parkinson's disease (PD). Although traditionally defined by motor symptoms resulting from dopaminergic degeneration, PD also affects neural systems involved in autonomic and respiratory control. Clinical and experimental evidence demonstrates that respiratory impairments in PD include alterations in respiratory rhythm generation, chemosensitivity, ventilatory responses to hypoxia and hypercapnia, and sleep-related breathing regulation. Emerging data indicate that these disturbances are not merely secondary consequences of motor dysfunction, but instead reflect selective vulnerability of brainstem respiratory networks. In this review, we discuss current evidence from human studies and experimental models, with emphasis on circuit-level mechanisms underlying respiratory dysfunction in PD. We highlight how oxidative stress, neuroinflammation, and neuromodulatory alterations contribute to degeneration and dysfunction of respiratory-related nuclei. We further examine the complex interactions between chemosensory control, sleep-wake regulation, and respiratory stability, as well as compensatory mechanisms that may partially preserve ventilatory function during disease progression. Finally, we discuss potential treatments for these dysfunctions, as well as major conceptual gaps and controversies in the field, including species-dependent differences, limitations of current experimental models, and challenges in translating mechanistic findings into clinical interventions. We propose that respiratory control networks represent a mechanistically relevant and selectively vulnerable system in PD, with important implications for early diagnosis, biomarker discovery, and the development of targeted therapeutic strategies.",
+    "date": "2026 Aug 18",
+    "pmid": "42611428",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42611428/"
+  },
+  {
+    "title_en": "Sleep-wake control with age and neurodegenerative diseases.",
+    "title_zh": "Sleep-wake control with age and neurodegenerative diseases.",
+    "journal": "Sleep medicine reviews",
+    "impact_factor": 9.7,
+    "abstract": "Aging causes dramatic alterations in bodily functions. Among them, sleep quality declines with age, particularly in individuals with neurodegenerative diseases. In this review, we first describe alterations in sleep-wake architecture and discuss potential mechanisms underlying sleep disorders that arise with age. We discuss evidence linking sleep disorders with neurodegenerative diseases such as Alzheimer's disease (AD), Parkinson's disease (PD), progressive supranuclear palsy (PSP), Huntington's disease (HD), and amyotrophic lateral sclerosis (ALS) syndrome. Even though the causes of AD, PD, PSP, and HD are diverse, several shared symptoms including difficulty falling asleep, fragmented sleep, and disrupted circadian rhythm collectively suggest their pathologies disrupt sleep-wake control. Hyperexcitability of implicated neurons is commonly observed prior to neurodegeneration. Upregulated neuronal excitability in the early phase of these diseases appears as a potential shared mechanism among neurodegenerative diseases. Abnormal protein accumulation and aggregation in these diseases exacerbate neuronal circuit hyperactivity by increasing neurons' intrinsic excitability or dampening inhibitory inputs to neurons controlling sleep-wake cycles. A better understanding of the mechanisms underlying sleep disorders that emerge with age may greatly benefit the development of novel preventative and therapeutic strategies for neurodegenerative diseases, and therefore improve the life quality of older adults.",
+    "date": "2026 Aug 14",
+    "pmid": "42617572",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42617572/"
+  },
+  {
+    "title_en": "Mitochondria-Targeted Nanotherapies in Aging Neurodegenerative Disorders: Emerging Prospects and Clinical Potential.",
+    "title_zh": "Mitochondria-Targeted Nanotherapies in Aging Neurodegenerative Disorders: Emerging Prospects and Clinical Potential.",
+    "journal": "Advanced healthcare materials",
+    "impact_factor": 9.6,
+    "abstract": "Aging is a significant risk factor of neurodegenerative disorders (NDs) such as Huntington's, Alzheimer's, Parkinson's, amyotrophic lateral sclerosis (ALS), and multiple sclerosis (MS). Although several clinical, neuroimaging, and biomarker-based diagnostic approaches are available for NDs, their limited sensitivity for early-stage detection, disease specificity, and prediction of disease progression continue to present significant clinical challenges, often resulting in delayed diagnosis and therapeutic intervention. According to previously published works, the preliminary pathological feature of such disorders is mitochondrial dysfunction. This may lead to elevated oxidative stress, impaired mitophagy, unbalanced mitochondrial function, and bioenergetic failure. This review examines how mitochondria-targeted nanotherapeutic approaches can overcome these pathological barriers and improve therapeutic outcomes in aging-associated neurodegeneration. Targeted delivery of drug-loaded nanocarriers, such as gene-delivery, lipid-based, metallic, and polymeric nanoparticles, has emerged as a potential platform to deliver medication directly to defective mitochondria. It may increase mitochondrial biogenesis, maintain redox balance, and protect against neuronal degeneration. This work incorporates disease-specific mitochondrial pathology with current progress in targeted nanotherapeutics, age-associated delivery barriers, clinical revolution, and emerging artificial intelligence (AI)-enabled precision therapeutic approaches. Mitochondria-targeted nanotherapeutics depict a potential disease-modifying strategy for aging-related NDs. However, further advancements in targeting efficacy, scalable production, long-term safety, and clinical validation can facilitate a successful clinical revolution.",
+    "date": "2026 Aug 19",
+    "pmid": "42619255",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42619255/"
+  },
+  {
+    "title_en": "Exendin-4 improves neurodevelopmental outcome after neonatal germinal matrix hemorrhage.",
+    "title_zh": "Exendin-4 improves neurodevelopmental outcome after neonatal germinal matrix hemorrhage.",
+    "journal": "Cell death & disease",
+    "impact_factor": 9.6,
+    "abstract": "Germinal matrix hemorrhage (GMH) is a common complication in premature infants and is associated with a high risk of neurodevelopmental impairment and mortality. Currently, there are no specific neuroprotective treatments available. Exendin-4 is a drug used for the treatment of type 2 diabetes mellitus, and it has shown neuroprotective effects in several neurological disorders including Alzheimer's and Parkinson's disease. In this study, we used the preterm postnatal day 5 rat model of GMH to evaluate whether exendin-4 exerts neuroprotective effects in this setting. Our results show that in the acute phase, exendin-4 reduced microglial activation, caspase-3 activation, p53 expression, AIF-associated cell death, MMP-9 expression, and neutrophil infiltration into the hemorrhage site. Exendin-4 treatment improved neurodevelopmental outcomes in both negative geotaxis and eye-opening latency when compared to saline-treated GMH controls, and conferred gray and white matter protection as early as 48 h after injury, with persistent neuroprotection observed at 5, 11, and 35 days after GMH. Exendin-4-treated animals also showed significant recovery of motor function in the rotarod test. In summary, this study demonstrates that exendin-4 reduces brain injury in a rat model of GMH in both the short and long term and is associated with improved neurological outcome.",
+    "date": "2026 Aug 19",
+    "pmid": "42618557",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42618557/"
+  },
+  {
+    "title_en": "Neuronal overexpression of Kcnn1 in A53T alpha-synuclein mice suppresses phospho-serine 129 alpha-synuclein formation and doubles survival time.",
+    "title_zh": "Neuronal overexpression of Kcnn1 in A53T alpha-synuclein mice suppresses phospho-serine 129 alpha-synuclein formation and doubles survival time.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "Synucleinopathies, including idiopathic Parkinson's Disease, are driven by misfolding and aggregation of the 140 residue alpha-synuclein protein that plays a role in presynaptic vesicle regulation. We describe effects of a modifier, neuronal overexpression of the mouse calcium-activated potassium channel subunit Kcnn1, on a mouse model in which transgenic Thy1.2-driven human A53T alpha-synuclein directs fully penetrant lethal motor disease. Kcnn1 overexpression increased median survival of these mice from 8.5 to 18 mo, associated with an altered presentation from rapidly progressive dystonic-like behavior of the limbs to a later-onset (12 to 16 mo) and slowly progressive lower limb clasping when lifted by the tail. At the tissue level, accretion of disease-associated phospho-serine 129 alpha-synuclein was prevented by overexpression of Thy1.2-driven Kcnn1 in many brain regions/spinal cord, where phospho-serine 129 alpha-synuclein copiously accreted in A53T mice at endstage. The action of blocking production of phospho-serine 129 alpha-synuclein was also observed in adult A53T mice injected presymptomatically with an AAV9 scCMV-Kcnn1 virus into the right superior colliculus. At endstage ~2 mo later, the right superior colliculus exhibited overexpression of Kcnn1 and showed essentially no phospho-serine 129 alpha-synuclein, whereas the uninjected left superior colliculus exhibited copious phospho-serine 129 alpha-synuclein. The neuroprotective action of Kcnn1 overexpression remains to be fully resolved, but the channel protein subunit, targeted to the ER membrane, has been shown to induce an ER stress response. This response, which may activate autophagy, along with potential channel formation, may diminish the rate of formation or lifetime of neurotoxic forms of A53T alpha-synuclein.",
+    "date": "2026 Aug 25",
+    "pmid": "42616775",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616775/"
+  },
+  {
+    "title_en": "Mutation and oxidation of Cys46 and Cys53 allosterically modulate the glyoxalase and esterase activities of DJ-1.",
+    "title_zh": "Mutation and oxidation of Cys46 and Cys53 allosterically modulate the glyoxalase and esterase activities of DJ-1.",
+    "journal": "International journal of biological macromolecules",
+    "impact_factor": 8.5,
+    "abstract": "DJ-1, also known as PARK7 (Parkinson's disease protein 7), is an oncoprotein and a causative factor for hereditary recessive Parkinson's disease. DJ-1 contains three cysteines Cys46 (C46), Cys53 (C53), and Cys106 (C106) undergoing oxidation modifications under oxidative stress and affecting the anti-oxidative role of DJ-1. While C106 is known as a key catalytic active site for the enzymatic activity of DJ-1, the roles of C46 and C53 in the enzymatic activity regulation, along with the underlying mechanisms, remain poorly understood. Here, we revealed that mutations of the two cysteines resulted in decrease of both the glyoxalase and esterase activities of DJ-1. Structural analyses manifested that C46 and C53 mutations caused allosteric effects on the conformations of the catalytic active sites, which subsequently altered the interactions with the substrates. Furthermore, through modulating the reducing agent in the DJ-1 solution, we obtained the samples with varying degrees of oxidation at C46 and C53, and evidenced the influence of the oxidation states of C46 and C53 on the enzymatic activity of DJ-1. Importantly, an enhanced enzymatic activity associated with the increased oxidation of C46 in a C53-mutated background compared to wild-type DJ-1 was found. These results provide insights into the role and underlying mechanism of the mutation and oxidation modification of C46 and C53 in the glyoxalase and esterase activity of DJ-1, and offer informative clues for developing allosteric drugs potentially improving the enzymatic activity of DJ-1, which may facilitate the treatment of Parkinson's disease.",
+    "date": "2026 Aug 17",
+    "pmid": "42604680",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42604680/"
+  },
+  {
+    "title_en": "Reduced left vmPFC-STN-related white matter integrity is associated with pre-surgical apathy in Parkinson's disease.",
+    "title_zh": "Reduced left vmPFC-STN-related white matter integrity is associated with pre-surgical apathy in Parkinson's disease.",
+    "journal": "Brain stimulation",
+    "impact_factor": 8.4,
+    "abstract": "INTRODUCTION: Apathy is a common and disabling non-motor symptom in Parkinson's disease (PD) that can diminish the therapeutic benefit of subthalamic nucleus deep brain stimulation (STN-DBS). We previously demonstrated that co-stimulation of the left ventromedial prefrontal cortex (vmPFC) can alleviate apathy following levodopa withdrawal in PD patients treated with STN-DBS. Building on these findings, we investigated whether presurgical white matter integrity of the vmPFC-STN pathway constitutes a structural correlate of clinically significant apathy prior to DBS. METHODS: Preoperative T1-weighted and diffusion MRI data from 119 PD patients undergoing STN-DBS were analyzed. Based on Starkstein Apathy Scale (SAS) scores, patients were classified as apathetic (SAS >/= 14; n = 67) or non-apathetic (n = 52). Fractional anisotropy (FA) maps were processed using FSL's Tract-Based Spatial Statistics pipeline. Voxel-wise group comparisons were performed with threshold-free cluster enhancement (5000 permutations), restricted to a bilateral vmPFC-STN mask derived from probabilistic tractography from the previously published cohort. RESULTS: A significant cluster (74 voxels) within the left vmPFC-STN ROI showed reduced FA in apathetic patients (TFCE-corrected p = 0.0294). Post-hoc analyses revealed higher mean diffusivity (p = 0.0206) and radial diffusivity (p = 0.001) in the apathetic group, while axial diffusivity did not differ. Exploratory subset analysis suggested baseline vmPFC-STN integrity may influence apathy response to vmPFC DBS. CONCLUSION: Clinically significant apathy in PD prior to STN-DBS is associated with reduced white matter integrity in the left internal capsule involving the broader left-sided vmPFC projection system. Identifying this structural substrate may contribute to future optimization of apathy management with STN-DBS.",
+    "date": "2026 Aug 14",
+    "pmid": "42600738",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600738/"
+  },
+  {
     "title_en": "Pathogenic GBA1 Variants and their Interaction with the Gut-Microbiota-Brain Axis in Parkinson's Disease.",
     "title_zh": "Pathogenic GBA1 Variants and their Interaction with the Gut-Microbiota-Brain Axis in Parkinson's Disease.",
     "journal": "Movement disorders : official journal of the Movement Disorder Society",
@@ -8,6 +158,136 @@
     "date": "2026 Aug 20",
     "pmid": "42621775",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42621775/"
+  },
+  {
+    "title_en": "Bridging LysoPD and MitoPD: Lysosomal pH Links Two Hallmarks of Parkinson's Disease.",
+    "title_zh": "Bridging LysoPD and MitoPD: Lysosomal pH Links Two Hallmarks of Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 18",
+    "pmid": "42610476",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42610476/"
+  },
+  {
+    "title_en": "Integrative Multi-Omics Analysis Reveals Convergent Epigenome and Transcriptome Changes in Parkinson's Disease.",
+    "title_zh": "Integrative Multi-Omics Analysis Reveals Convergent Epigenome and Transcriptome Changes in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: The mechanisms that predispose dopaminergic neurons (DAN) to degeneration in Parkinson's disease (PD) are incompletely understood. OBJECTIVE: To perform an integrative multi-omics reanalysis of single-cell transcriptomic and epigenomic data to identify convergent alterations predisposing dopaminergic neurons to degeneration in Parkinson's disease, and to generate new bulk ATAC-seq profiles from peripheral monocytes to assess whether these alterations extend to a systemic, cross-tissue epigenetic signature. METHODS: We reanalyzed single-cell RNA sequencing (scRNA-seq; n = 27 PD, 11 controls) and single-cell ATAC sequencing (scATAC-seq; n = 10 PD, 2 controls) data from induced pluripotent stem cell (iPSC)-derived DANs (Foundational Data Initiative for Parkinson's Disease [FOUNDIN-PD]) to identify convergent transcriptional and epigenetic alterations. We generated new bulk ATAC-seq from peripheral monocytes of parkinsonian disorder patients (n = 10) and controls (n = 4) to assess cross-tissue epigenetic signatures. RESULTS: Convergent downregulation in neurodevelopmental and synaptic pathways was observed across neuronal maturation stages. Network perturbation analysis identified SMARCA4 as a key upstream regulator. Monocyte comparison revealed 44 genes with concordant chromatin accessibility changes, with NFATC2 exhibiting decreased accessibility across all neuronal subtypes and monocytes. CONCLUSION: This exploratory analysis identifies shared transcriptomic-epigenomic alterations at gene, pathway, and network levels in PD neurons and preliminary systemic epigenetic signatures that warrant validation in larger cohorts. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 18",
+    "pmid": "42610474",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42610474/"
+  },
+  {
+    "title_en": "Evolution of Epidemiological Studies in Movement Disorders.",
+    "title_zh": "Evolution of Epidemiological Studies in Movement Disorders.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "In celebration of the 40-year legacy of Movement Disorders Journal (MDJ), this historical reflection traces the evolution of epidemiological research in movement disorders through the lens of papers published in MDJ from 1986 through 2025. Over four decades, the discipline has transformed from clinic-based descriptive observations into population-based methodologies, with both genetic and environmental factors taken into consideration. The initial decade (1986-1995) established foundational measures of movement disorders and identified key environmental risks. These clinic-based studies expanded during the second decade (1996-2005) into door-to-door community prevalence studies and health services research utilizing administrative databases. The third decade (2006-2015) marked a paradigm shift driven by genetic epidemiology (particularly the mapping of global LRRK2 variants), gene-environment interactions, and the characterization of prodromal biomarkers. The modern era (2016-2025) has embraced race-ethnicity diversity, pharmacoepidemiology, and advanced causal inference methods to control for time-varying factors. Together, these epidemiological works in MDJ chart a historical trajectory toward precision medicine, delivering the infrastructure to define at-risk populations and deploy trial-ready cohorts for disease-modification trials. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 16",
+    "pmid": "42605152",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42605152/"
+  },
+  {
+    "title_en": "Reply to: \"Parkinson's Disease in Wartime: From Editorial to Emergency\".",
+    "title_zh": "Reply to: \"Parkinson's Disease in Wartime: From Editorial to Emergency\".",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 16",
+    "pmid": "42604917",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42604917/"
+  },
+  {
+    "title_en": "The effects of use of medications on striatal dopamine transporter binding assessed by [(123)I]I-FP-CIT SPECT in patients with Parkinson's disease from the PPMI cohort.",
+    "title_zh": "The effects of use of medications on striatal dopamine transporter binding assessed by [(123)I]I-FP-CIT SPECT in patients with Parkinson's disease from the PPMI cohort.",
+    "journal": "European journal of nuclear medicine and molecular imaging",
+    "impact_factor": 7.6,
+    "abstract": "PURPOSE: Several centrally acting medications may interfere with dopamine transporter (DAT) imaging using [(1)(2)(3)I]I-FP-CIT SPECT, potentially leading to misinterpretation. We therefore evaluated the effects of several medications on striatal DAT binding assessed by [(123)I]I-FP-CIT SPECT in patients with Parkinson's disease (PD). METHODS: Data were obtained from the Parkinson's Progression Markers Initiative (PPMI). PD patients with abnormal [(1)(2)(3)I]I-FP-CIT SPECT scans, and available medication and clinical data, were included. The effects of bupropion, venlafaxine, methylphenidate, modafinil, and codeine were assessed. Striatal specific binding ratios (SBRs) of the caudate nucleus and putamen were analysed using multivariable linear regression models adjusted for relevant covariates. RESULTS: Data from 752 PD patients were included. Use of the evaluated medications was associated with lower SBRs in the ipsilateral and contralateral caudate nucleus (-13.5% and -13.7%, respectively) and putamen (-6.5% and -8.2%, respectively; all p < 0.01). Medication-specific analyses showed the largest reductions for methylphenidate and modafinil, with relative reductions in caudate nucleus SBRs of up to -33.2% and -25.5%, respectively (both p < 0.01). In contrast, bupropion and venlafaxine were associated with smaller, but still significant, reductions, whereas no significant associations were observed for codeine. CONCLUSION: Use of methylphenidate and modafinil in particular is associated with significantly reduced striatal [(1)(2)(3)I]I-FP-CIT binding in PD patients. Medication use should be carefully considered when interpreting DAT SPECT scans. Temporary discontinuation may be considered in selected cases when clinically appropriate.",
+    "date": "2026 Aug 15",
+    "pmid": "42601519",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601519/"
+  },
+  {
+    "title_en": "Advances in the clinical application of mesenchymal stem cells for neurological disorders.",
+    "title_zh": "Advances in the clinical application of mesenchymal stem cells for neurological disorders.",
+    "journal": "Stem cell research & therapy",
+    "impact_factor": 7.3,
+    "abstract": "Therapeutic approaches employing mesenchymal stem cells (MSCs) have emerged as a promising avenue for investigating treatments for neurological disorders. This strategy aims to capitalize on the biological properties of MSCs to support the repair of damaged neural tissue and modulate pathological processes. This review provides a comprehensive overview of the current clinical evidence regarding MSC applications in major neurological disorders, including Parkinson's disease (PD), Alzheimer's disease (AD), amyotrophic lateral sclerosis (ALS), multiple sclerosis (MS), stroke, spinal cord injury (SCI), and other pertinent disorders. Across clinical studies, MSC administration has generally demonstrated a favorable safety profile and procedural feasibility. However, therapeutic efficacy remains variable and inconsistent across trials. Importantly, differences in MSC sources, manufacturing procedures, delivery routes, dosing strategies, and patient selection contribute substantially to the heterogeneity of reported outcomes. Therefore, the current body of evidence supports the safety of MSC-based interventions, but their clinical effectiveness has not yet been consistently demonstrated. Future progress will depend largely on the standardization of cell preparation and treatment protocols, improved biomarker-driven patient stratification, and rigorously designed large-scale randomized trials.",
+    "date": "2026 Aug 18",
+    "pmid": "42613627",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42613627/"
+  },
+  {
+    "title_en": "Ligilactobacillus salivarius NCU-41 reduces oxidative stress to ameliorate Parkinson's disease by regulating the AKT/Nrf2 signaling pathway.",
+    "title_zh": "Ligilactobacillus salivarius NCU-41 reduces oxidative stress to ameliorate Parkinson's disease by regulating the AKT/Nrf2 signaling pathway.",
+    "journal": "Microbiological research",
+    "impact_factor": 6.9,
+    "abstract": "A growing body of evidence suggests that the gut microbiota influences the onset and progression of Parkinson's disease (PD) by regulating oxidative stress pathways. However, existing evidence remains the phenotypic level, and high-quality research is still lacking regarding specific probiotic strains with clearly defined ameliorative functions and their precise underlying molecular mechanisms. In this study, high-throughput sequencing confirmed significant differences in the gut microbiota between PD patients and healthy individuals. Furthermore, fecal microbiota transplantation (FMT) from healthy individuals significantly improved motor dysfunction in PD mice, reduced alpha-syn aggregation (MP vs. M = 319.61 ng/ML vs. 507.84 ng/ML), alleviated neuroinflammation (reduced GFAP and IBA1 positive areas), protected dopaminergic neurons (increased TH expression), and optimized the structure of the gut microbiota, whereas FMT from PD patients exacerbated PD progression. Additionally, through correlation analysis, culturomics, and tryptophan metabolite analysis, Ligilactobacillus salivarius NCU-41 may improve PD by producing indole-3-lactic acid (ILA). Further validation through animal experiments demonstrating that supplementation with either NCU-41 or ILA alone significantly improved PD symptoms, though not as effectively as FMT from healthy individuals. Mechanistically, NCU-41 might activate the AKT/Nrf2 signaling pathway through its tryptophan metabolite (ILA), thereby enhancing the body's antioxidant capacity and ultimately alleviating PD. In summary, this study revealed that L. salivarius NCU-41 to activate the AKT/Nrf2 signaling pathway, thereby exerting a therapeutic effect on PD. These findings provide a deeper mechanistic basis for the potential application of this strain in the future treatment of PD.",
+    "date": "2026 Aug 15",
+    "pmid": "42612399",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612399/"
+  },
+  {
+    "title_en": "SNCA-targeted transcriptional repression therapy alleviates pathological and behavioral perturbations in a Parkinson's disease mouse model.",
+    "title_zh": "SNCA-targeted transcriptional repression therapy alleviates pathological and behavioral perturbations in a Parkinson's disease mouse model.",
+    "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+    "impact_factor": 6.9,
+    "abstract": "Alpha-synuclein (SNCA) overexpression is implicated in Parkinson's disease (PD) pathogenesis, making SNCA downregulation a promising therapeutic strategy. We developed a SNCA-targeted transcriptional repression therapy using an all-in-one lentiviral vector (LV) carrying deactivated CRISPR/(d)Cas9, gRNA targeted at SNCA-intron1, and either the catalytic domain of DNA-methyltransferase3A (DNMT3A), or an engineered repressor molecule, a fusion of MeCP2's transcription repression domain (TRD) and KRAB. Therapeutic efficacy was evaluated following co-administration of the therapeutic and model vectors in a new PD mouse model, generated with an adeno-associated viral vector carrying an engineered minigene comprised of the human (h)A53T-SNCA expressed via the human native regulatory region. Both therapeutic vectors reduced expression of alpha-synuclein in the substantia nigra (SN), with LV/dSaCas9- KRAB-MeCP2(TRD) demonstrating greater repression. LV/dSaCas9- KRAB-MeCP2(TRD) also significantly reduced pathological alpha-synuclein aggregation and phosphorylation (Ser 129), and preserved tyrosine hydroxylase expression in the SN and the striatum. Behavioral analysis following LV/dSaCas9-KRAB-MeCP2(TRD) injection, showed significant improvement in motor deficits characteristic of our PD-mouse model. Preliminary safety assessments found normal blood counts, serum chemistry, and weights. Collectively, these findings provide in vivo proof-of-concept for SNCA-targeted transcriptional repression therapy in a PD-mouse model and support its further preclinical development toward investigational new drug enablement.",
+    "date": "2026 Aug 18",
+    "pmid": "42612388",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612388/"
+  },
+  {
+    "title_en": "Impaired brain-gut circuit for gut motility dysfunction in mouse models of Parkinson's disease.",
+    "title_zh": "Impaired brain-gut circuit for gut motility dysfunction in mouse models of Parkinson's disease.",
+    "journal": "Cell reports",
+    "impact_factor": 6.9,
+    "abstract": "Gut motility dysfunction is a common symptom of Parkinson's disease (PD), but its central mechanisms remain unclear. Here, we utilize multiple mouse models, which mimic both genetic and sporadic PD, to reproduce PD-related gut motility dysfunction. We find that alpha-synuclein pathology significantly impairs the excitability of cholinergic neurons in the dorsal motor nucleus of the vagus (DMV). Chemogenetic activation of these neurons effectively restores gut motility in PD models, revealing a causal link between DMV neuronal hypoexcitability and gut motility dysfunction. Notably, electroacupuncture (EA) at ST36, a classic acupoint that activates vagal pathways, robustly increases the excitability of DMV neurons and alleviates gut dysmotility in PD mice, a therapeutic effect mediated by the cholinergic brain-gut axis. Together, our findings demonstrate that DMV neuronal hypoexcitability is a key driver of PD-related gut dysmotility and suggest that EA at ST36 could serve as a promising therapeutic strategy.",
+    "date": "2026 Aug 18",
+    "pmid": "42611706",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42611706/"
+  },
+  {
+    "title_en": "ATF4 activates a transcriptional program that chronically suppresses mTOR activity and promotes neurodegeneration in Parkinson disease models.",
+    "title_zh": "ATF4 activates a transcriptional program that chronically suppresses mTOR activity and promotes neurodegeneration in Parkinson disease models.",
+    "journal": "Cell reports",
+    "impact_factor": 6.9,
+    "abstract": "The integrated stress response (ISR) enables cells to adapt to diverse cellular stresses, but during chronic or unresolved stress it becomes maladaptive and is implicated in neurodegenerative diseases, including Parkinson disease (PD). The mechanisms underlying maladaptive ISR-driven neurodegeneration, however, remain poorly defined. Here, we find a critical pathway by which chronic ISR activation promotes neurodegeneration in neurotoxin and alpha synucleinopathy models of PD in vitro and in vivo. We show that sustained activation of ATF4, the central ISR transcription factor, induces the coordinated transcriptional upregulation of SESN2, DDIT4, and Trib3, which cooperate to suppress both mTORC1 and mTORC2 activity. This ATF4-dependent inhibition of mTOR signaling promotes dopaminergic neuron death by facilitating activation of the pro apoptotic BCL 2 family protein PUMA. Together, these findings define a maladaptive ISR/ATF4-mTOR pathway with potential therapeutic relevance for neurodegenerative disorders characterized by chronic ISR activation.",
+    "date": "2026 Aug 14",
+    "pmid": "42599806",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42599806/"
+  },
+  {
+    "title_en": "Clinical insights into catathrenia: A real-world analysis from a tertiary sleep center.",
+    "title_zh": "Clinical insights into catathrenia: A real-world analysis from a tertiary sleep center.",
+    "journal": "Pulmonology",
+    "impact_factor": 6.4,
+    "abstract": "INTRODUCTION: Catathrenia is a rare sleep-related breathing disorder marked by groaning during prolonged expiration, often underrecognized or misdiagnosed as obstructive or central sleep apnoea (OSA or CSA) or parasomnia. Understanding its clinical and polysomnographic features is essential for accurate diagnosis and management. MATERIALS AND METHODS: We performed a retrospective observational study of adult patients diagnosed with catathrenia at Servico de Medicina do Sono de Coimbra. Diagnosis was established by attended overnight polysomnography (PSG) with synchronised audio-video recording. Demographic data, symptoms, comorbidities, PSG variables, treatment modalities, and outcomes were reviewed. Catathrenia events were defined as deep inhalation followed by prolonged exhalation with monotonous groaning. RESULTS: Ten patients were included. Median age was 46 years (range 27-78), mostly female (70%). Common comorbidities included obesity (n = 4), depression (n = 2), Parkinson's disease (n = 1), and restless legs syndrome (n = 1). Six patients (60%) had concomitant obstructive sleep apnoea (OSA). Seven patients had excessive daytime sleepiness (Epworth Sleepiness Scale > 10). All catathrenia episodes occurred exclusively during REM sleep. Continuous positive airway pressure (CPAP) therapy was the most frequently used treatment and was associated with objective or subjective improvement in most patients. Two patients experienced spontaneous remission. CONCLUSION: Catathrenia remains underdiagnosed and can mimic other sleep disorders. Recognition of its REM-sleep predominance and PSG pattern is essential. Individualised treatment, often involving PAP therapy, may improve symptoms and patient outcomes.",
+    "date": "2026 Dec",
+    "pmid": "42609118",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42609118/"
+  },
+  {
+    "title_en": "Ginsenoside Rg1 Attenuates Neuroinflammation in Parkinson's Disease Models via Concomitant Modulation of Canonical and Noncanonical Wnt Pathways in Microglial M1/M2 Polarization.",
+    "title_zh": "Ginsenoside Rg1 Attenuates Neuroinflammation in Parkinson's Disease Models via Concomitant Modulation of Canonical and Noncanonical Wnt Pathways in Microglial M1/M2 Polarization.",
+    "journal": "Journal of agricultural and food chemistry",
+    "impact_factor": 6.2,
+    "abstract": "Microglial-mediated neuroinflammation is a core driver of brain disorders. Thus, modulating microglial activity is a critical therapeutic goal. In this study, we explored how Ginsenoside Rg1 (Rg1) protects against the inflammation seen in Parkinson's disease (PD). Our experiments utilized MPTP-challenged mice and lipopolysaccharide (LPS)-stimulated BV2 cells. Our data show that Rg1 restores motor function and preserves dopaminergic neurons in the substantia nigra. Notably, Rg1 treatment reconfigures the neuroinflammatory milieu, characterized by the targeted suppression of pro-inflammatory cytokines (TNF-alpha, IL-1beta, IL-6) and a reciprocal elevation of the anti-inflammatory marker (IL-10). This effect stems from a precise rebalancing of Wnt signaling. Rg1 activates the Wnt3a/beta-catenin pathway while suppressing the Wnt5a/ROR2/JNK axis. Such regulation promotes the transition of microglia to a protective M2 phenotype. When we knocked down Wnt3a and ROR2 using siRNA, the benefits of Rg1 were largely lost. In short, Rg1 alleviates neuroinflammation by recalibrating Wnt signals, offering a potential strategy for PD intervention.",
+    "date": "2026 Aug 19",
+    "pmid": "42616454",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616454/"
+  },
+  {
+    "title_en": "alpha-Synuclein strain homogeneity in multiple system atrophy subtypes.",
+    "title_zh": "alpha-Synuclein strain homogeneity in multiple system atrophy subtypes.",
+    "journal": "Brain pathology (Zurich, Switzerland)",
+    "impact_factor": 6.2,
+    "abstract": "Conformationally distinct \"strains\" of alpha-synuclein aggregates are believed to contribute to the clinical and pathological diversity observed among synucleinopathies such as multiple system atrophy (MSA) and Parkinson's disease. Cases of MSA can be classified into two distinct subtypes: the cerebellar variant, MSA-C, and the parkinsonian variant, MSA-P, as determined by differences in their clinical and/or neuropathological presentations. To assess whether distinct alpha-synuclein strains may be present in individuals with MSA-C versus MSA-P, we characterized the conformational and seeding properties of alpha-synuclein aggregates in various brain regions from MSA-C and MSA-P patients and performed propagation studies in M83 transgenic mice. Biochemical fingerprinting of alpha-synuclein aggregates using limited proteolysis and a conformational stability assay failed to reveal differences between MSA-C and MSA-P either before or after propagation in mice. Similarly, using brain extracts from either MSA patients or MSA-inoculated mice, MSA-C and MSA-P alpha-synuclein aggregates exhibited indistinguishable seeding attributes in a seed amplification assay. Finally, no differences were observed in either the kinetics of disease progression or the extent of cerebral alpha-synuclein deposition in M83 mice inoculated with either MSA-C or MSA-P, regardless of the brain region from which the injected alpha-synuclein aggregates were derived. These results suggest that MSA subtypes are unlikely to arise because of distinct alpha-synuclein strains. Instead, our findings support a model in which the same alpha-synuclein strain initially forms in different brain regions, leading to differences in disease manifestation.",
+    "date": "2026 Aug 14",
+    "pmid": "42601815",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42601815/"
   },
   {
     "title_en": "Demographic Confounding in Voice-Based Parkinson Disease Screening: Methodological Analysis of the Bridge2AI Voice Dataset.",
@@ -20,6 +300,46 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42623305/"
   },
   {
+    "title_en": "NeuroSift for Task-Aware Quality Assurance of Multimedia Data in Remote Parkinson Disease Assessment: Machine Learning Model Development and Validation Study.",
+    "title_zh": "NeuroSift for Task-Aware Quality Assurance of Multimedia Data in Remote Parkinson Disease Assessment: Machine Learning Model Development and Validation Study.",
+    "journal": "Journal of medical Internet research",
+    "impact_factor": 6.0,
+    "abstract": "BACKGROUND: Automated multimedia analysis of remotely recorded tasks offers a scalable approach to screening and remote monitoring of movement disorders such as Parkinson disease (PD). However, unsupervised recordings often suffer from quality issues that compromise model reliability. General multimedia quality checks may not detect task-specific failures, such as poor hand visibility during finger-tapping, inadequate facial framing during smile tasks, or background noise during speech tasks. OBJECTIVE: This study aimed to develop and evaluate NeuroSift, a task-aware, interpretable machine learning framework for assessing recording quality and task compliance in home-recorded multimedia data collected for remote PD assessment. METHODS: We analyzed 2516 home-recorded audio and video segments from 3 tasks: finger-tapping, facial expression (smile), and speech (pangram utterance). Three experts rated recordings as poor, borderline, or good quality. Task-specific annotation guidelines were developed through iterative review and discussion. We extracted interpretable features aligned with observable quality and compliance criteria and trained task-specific quality classification models. Interrater reliability was evaluated before and after guideline implementation using quadratic weighted Cohen kappa (QWK), pairwise agreement, complete agreement, and intraclass correlation. Model performance was evaluated on a held-out test set (labeled using expert consensus) using accuracy, QWK, and ordinal classification accuracy (OCA, an accuracy metric that accounts for the ordered relationship among poor, borderline, and good labels). Feature importance was examined using Shapley additive explanations (SHAP), a method for estimating how individual features contribute to model predictions. RESULTS: The task-specific guidelines significantly improved interrater reliability across all tasks (P<.001)-QWK increased from 0.46 to 0.89 for finger-tapping, from 0.61 to 0.84 for smile, and from 0.64 to 0.90 for speech. For 3-class quality classification, the best-performing models achieved QWK values of 0.71 for finger-tapping, 0.56 for smile, and 0.72 for speech. OCA was 82.1% for finger-tapping, 76.9% for smile, and 89.9% for speech. Most errors were adjacent-class errors, such as classifying poor recordings as borderline, whereas severe errors, such as classifying good recordings as poor, were rare. SHAP analyses identified task-specific sources of quality degradation that aligned with the annotation guidelines. CONCLUSIONS: NeuroSift was evaluated as a task-aware quality-classification framework for identifying low-quality or noncompliant multimedia data prior to downstream PD assessment. By combining structured quality guidelines, interpretable features, and explainable machine learning models, NeuroSift supports more transparent and user-correctable remote data collection. Although this study did not test downstream clinical impact, the framework offers a practical approach for quality-aware workflows that rely on user-recorded audio or video. This approach may extend beyond PD assessment to other remote settings, including telehealth, rehabilitation, and digital recruitment. Future studies should evaluate NeuroSift on independent datasets and examine its effects on downstream model performance, fairness, user experience, and workflow integration.",
+    "date": "2026 Aug 18",
+    "pmid": "42612206",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612206/"
+  },
+  {
+    "title_en": "Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances.",
+    "title_zh": "Regenerative medicine for neurodegenerative diseases:History, Strategies, and Clinical Advances.",
+    "journal": "Translational research : the journal of laboratory and clinical medicine",
+    "impact_factor": 5.9,
+    "abstract": "In the context of global ageing, the prevalence of neurodegenerative diseases (NDDs), such as Alzheimer's disease (AD), Parkinson's disease (PD), and amyotrophic lateral sclerosis (ALS), is rapidly increasing. However, current symptomatic treatments have achieved limited benefits in clinical settings and fundamentally fail to reverse the progressive loss of specific neuronal populations. Halting neurodegeneration and restoring impaired cognitive, motor or visual functions through nerve regeneration and circuit reconstruction represent the clinically meaningful goals for treatments of NDDs. Regenerative medicine has emerged as a promising paradigm to address this unmet need. In this review, we trace the historical evolution of regenerative therapies for NDDs - from early exploratory cell transplantation to modern approaches involving pluripotent stem cells (PSCs) and in vivo direct reprogramming. Furthermore, we elucidate the core strategies of regenerative medicine within an integrated framework encompassing \"Replacement\", \"Regeneration\", and \"Rejuvenation\". Finally, we highlight recent advances in clinical research, particularly milestone trials in cell replacement therapy for PD, as well as the application of mesenchymal stem cells (MSCs) in AD and ALS.",
+    "date": "2026 Aug 18",
+    "pmid": "42612795",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42612795/"
+  },
+  {
+    "title_en": "Written in the Stars: Astrocyte Biology From Evolution to Disease.",
+    "title_zh": "Written in the Stars: Astrocyte Biology From Evolution to Disease.",
+    "journal": "Acta physiologica (Oxford, England)",
+    "impact_factor": 5.6,
+    "abstract": "In the 21st century, neuroglial research has entered a period of Renaissance, extending the views of prominent neuroanatomists and neurologists of the 19th and early 20th centuries, who assigned to glial cells numerous physiological functions and highlighted their fundamental role in the pathophysiology of nervous system diseases. Astrocytes are highly diversified in structure and function; they control brain homeostasis, support synaptic connectivity, and enable information processing in neural networks. Evolutionary diversification of astrocytes, initially emerging as supportive cells of primitive sensory organs, drove a continuous expansion of astroglial complexity and functional versatility, ultimately making them indispensable neuroprotectors and homeostatic regulators. The large, morphologically elaborate astrocytes of the human brain arguably reflect an evolutionary response to increased neuronal homeostatic demands. Astrocytes are indispensable for synaptic function, serving as the principal regulators of neurotransmitter turnover and neuronal excitability. Astrocytes also govern brain energy metabolism, mitochondrial dynamics, and calcium signaling, thereby actively shaping cortical plasticity and circuits. Astrocytes are fundamental elements of the pathophysiology of neurological, neuropsychiatric, and neurodegenerative diseases, including Alzheimer's and Parkinson's disease, amyotrophic lateral sclerosis, Rett syndrome, genetic astrocytopathies, and neurotrauma, where they demonstrate complex reactive changes directed at tissue preservation and regeneration, but which can also contribute to disease progression. Advances in single-cell transcriptomics, calcium imaging, chemogenetics, and iPSC-based models have transformed our understanding of astrocyte diversity and disease-specific dysfunction, opening new avenues of investigation. Given that no CNS disorder is known to occur without astrocyte involvement, multiple astrocyte-specific molecules represent compelling targets for cell-directed therapeutic strategies.",
+    "date": "2026 Sep",
+    "pmid": "42604981",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42604981/"
+  },
+  {
+    "title_en": "Multiple system atrophy-derived alpha-synuclein fibrils are more potent and display oligodendrocyte cell tropism compared to Parkinson's disease-derived fibrils.",
+    "title_zh": "Multiple system atrophy-derived alpha-synuclein fibrils are more potent and display oligodendrocyte cell tropism compared to Parkinson's disease-derived fibrils.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Multiple System Atrophy (MSA) and Parkinson's Disease (PD) are neurodegenerative diseases characterized by abundant alpha-synuclein (alphaSyn) aggregation in the brain. Compared to PD patients, MSA patients have more widespread neurodegeneration and a more aggressive disease course. PD-related alphaSyn pathology is primarily neuronal, whereas MSA brains characteristically display oligodendroglial inclusions. The strain hypothesis poses that polymorphisms of the alphaSyn aggregates, so-called strains, may explain disease heterogeneity. The present study investigates the differential properties of alphaSyn fibrils derived from MSA and PD patients' brains using the protein misfolding cyclic amplification (PMCA) method in cultured neurons and in vivo. MSA- and PD-derived alphaSyn species were administered to primary murine neuronal cell cultures or injected intrastriatally into wildtype mice, along with de novo generated alphaSyn fibrils of the ribbon and fibril types. The potency to induce phosphorylated alphaSyn (pSyn) pathology, microglial reactivity, and the extent of oligodendroglial pSyn pathology were compared among the different seeding materials using immunohistochemical and immunofluorescent approaches. In summary, the various seeding materials induced pSyn pathology of distinguishable potency and morphology. PMCA-derived material from MSA brains and the fibril polymorph induced more pSyn pathology in both neuronal cultures and in mice compared to PMCA-derived material from PD brains and the ribbon polymorph. Interestingly, amplified material from MSA brains induced significantly more oligodendroglial pSyn aggregates than amplified material from PD brains. Additionally, mice injected with the fibril polymorph, showed mild changes in microglial reactivity. Our findings suggest specific properties of the MSA- and PD-derived fibrils, and overall support the strain hypothesis.",
+    "date": "2026 Aug 14",
+    "pmid": "42600994",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42600994/"
+  },
+  {
     "title_en": "Association of handgrip strength asymmetry with prodromal and incident Parkinson's disease: A prospective cohort study.",
     "title_zh": "Association of handgrip strength asymmetry with prodromal and incident Parkinson's disease: A prospective cohort study.",
     "journal": "Journal of Parkinson's disease",
@@ -28,5 +348,25 @@
     "date": "2026 Aug 20",
     "pmid": "42623021",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42623021/"
+  },
+  {
+    "title_en": "Optimizing participant recruitment and retention in clinical studies by hearing the voice of persons with Parkinson's.",
+    "title_zh": "Optimizing participant recruitment and retention in clinical studies by hearing the voice of persons with Parkinson's.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundRecruitment and retention remain major barriers to clinical research in Parkinson's disease (PD).ObjectiveWe reviewed the literature on barriers and facilitators to PD research participation, and explored motivations, perceptions, and preferences regarding clinical research participation among \"underrepresented\" populations (URPs) in Asia.MethodsWe reviewed published studies examining recruitment and retention in PD research. In parallel, questionnaires were administered to patients in Malaysia and Kyrgyzstan (n = 92) to assess motivations for participation, project-related preferences, and willingness to engage in different types of research. Findings from the literature and survey, and the authors' real-world research experiences were synthesized to identify practical strategies for improving participation.ResultsKey barriers identified from the literature included limited awareness of research, logistical and financial burden, disease-related disability, mistrust, stigma, and technological challenges. Across both Asian cohorts, altruistic motivations, trust in clinicians and researchers, perceived personal and societal benefit, and appreciation of healthcare services strongly influenced willingness to participate in research. Minimizing inconvenience and avoiding invasive procedures were rated as important. Most patients were willing to participate in longitudinal studies, digital monitoring, and biosample collection involving saliva, blood, urine, and stool, whereas cerebrospinal fluid sampling and brain donation were less acceptable. Solutions include integrating research into routine care, culturally-sensitive communication, patient-friendly study designs, return of research results, active engagement of URPs, and greater patient involvement throughout the research process.ConclusionsBarriers to PD research participation are multifactorial. Patient-centred, culturally-sensitive, and trust-based approaches that reduce burden while enhancing inclusivity and communication may promote more sustainable research programs.",
+    "date": "2026 Aug 14",
+    "pmid": "42599747",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42599747/"
+  },
+  {
+    "title_en": "Prevalence, predictors, and emerging biomarkers for cognitive impairment and neuropsychiatric manifestations in Parkinson's disease in Africa: A systematic review.",
+    "title_zh": "Prevalence, predictors, and emerging biomarkers for cognitive impairment and neuropsychiatric manifestations in Parkinson's disease in Africa: A systematic review.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundCognitive impairment and neuropsychiatric manifestations are common disabling non-motor symptoms that can negatively impact quality of life in Parkinson's disease. This review aimed to critically appraise and synthesize evidence on the prevalence, predictors, and emerging biomarkers of cognitive impairment and neuropsychiatric manifestations among patients with Parkinson's disease in Africa.MethodsWe conducted a systematic review of studies reporting cognitive and neuropsychiatric outcomes among individuals with Parkinson's disease in African populations, following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. We used the Critical Appraisal Skills Program checklist to determine the quality of the included studies. The Grading of Recommendations, Assessment, Development, and Evaluation approach was used to estimate the certainty of the evidence.ResultsA total of 32 studies, including 3687 patients, were analyzed. The prevalence of cognitive impairment ranged from 21.6% to 92%. Depression was the most common neuropsychiatric symptom (up to 81.7%). Consistent predictors of cognitive impairment included older age, advanced disease, and greater motor severity. Importantly, APOE epsilon4 homozygosity was associated with a twofold increase in the risk of cognitive impairment, while findings on LRRK2 G2019S mutations were heterogeneous across populations. Additionally, hypocalcemia and retinal nerve fiber layer thinning were linked to worse cognitive outcomes. Functional neuroimaging studies revealed altered emotional processing, with enhanced activation of limbic and cortical networks in response to positive emotional stimuli.ConclusionsEvidence from this review suggests that cognitive impairment and neuropsychiatric manifestations are common in African PD populations and may be associated with clinical, genetic, metabolic, and neurobiological factors, although the quality of the evidence is low. Larger, community-based, and longitudinal studies are warranted.",
+    "date": "2026 Aug 14",
+    "pmid": "42599715",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42599715/"
   }
 ]
