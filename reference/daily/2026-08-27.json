@@ -20,6 +20,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42640085/"
   },
   {
+    "title_en": "alpha-Synuclein Forms Distinct Micelle-Like Assemblies at Low Ionic Strengths.",
+    "title_zh": "alpha-Synuclein Forms Distinct Micelle-Like Assemblies at Low Ionic Strengths.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "Intrinsically disordered proteins (IDPs) often associate into biomolecular condensates. While micron-sized condensates are observed above a well-defined saturation concentration, the formation of nanoscale clusters also occurs at subsaturated concentrations. The diversity and physical nature of such nanoscale clusters remain underexplored with respect to the well-established condensate state. Here we show that the Parkinson's disease-associated protein alpha-synuclein forms highly monodisperse assemblies at low ionic strength, distinct from the larger polydisperse assemblies previously observed at higher ionic strengths. Using a range of biophysical methods, we identify monodisperse clusters of alpha-synuclein composed of  approximately 20 molecules that maintain their size over a broad concentration range. These clusters are stable over time and do not progress to amyloid fibril formation. Their response to mutational perturbations and chemical destabilization, as well as their thermal cycling support a micelle-like assembly. Increasing ionic strength shifts the system toward the formation of larger, polydisperse nanoclusters and condensates that promote amyloid fibril formation. Our results reveal a hitherto uncharacterized assembly state of alpha-synuclein and highlight the complexity of nanoscale assembly processes by IDPs.",
+    "date": "2026 Aug 21",
+    "pmid": "42627558",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627558/"
+  },
+  {
     "title_en": "Vaccination Strategies in Neurodegenerative Proteinopathies.",
     "title_zh": "Vaccination Strategies in Neurodegenerative Proteinopathies.",
     "journal": "Ageing research reviews",
@@ -38,6 +48,36 @@
     "date": "2026 Aug 25",
     "pmid": "42640456",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42640456/"
+  },
+  {
+    "title_en": "Divergent tau pathology profiles induced by distinct alpha-synuclein aggregates in non-human primates.",
+    "title_zh": "Divergent tau pathology profiles induced by distinct alpha-synuclein aggregates in non-human primates.",
+    "journal": "Brain : a journal of neurology",
+    "impact_factor": 11.7,
+    "abstract": "Proteinopathies are frequently accompanied by co-pathologies, which complicate understanding the pathophysiological mechanisms of neurodegenerative diseases. In this study, we employed a well-characterised baboon cohort to investigate the occurrence of tau pathology following intrastriatal injections of two distinct alpha-synuclein extracts (small aggregates: SA and large aggregates: LA) derived from the brains of Parkinson's disease (PD) patients. Biochemical and histopathological analyses (6, 12, or 24 months after injections) revealed significantly higher phospho-tau expression and greater frequency of neuropil threads in both LA- (n=18) and SA-injected baboons (n=12) compared with control animals. We also observed distinct patterns of tau pathology depending on the assembly of alpha-synuclein aggregates. Baboons injected with SA exhibited tangle-like phosphorylated tau lesions and neuropil threads, with no significant differences across post-injection time points. Moreover, a uniform distribution of tau pathology was detected along the rostro-caudal axis of the medial temporal lobe, affecting neuronal, oligodendroglial, and astrocytic cell types. On the other hand, baboons injected with LA exhibited neuropil threads and few glial lesions but lacked phospho-tau intraneuronal aggregates. The occurrence of phospho-tau lesions was associated with phospho-synuclein pathology. These observations suggest a link between nigrostriatal synucleinopathy and limbic tau co-pathology, providing pathophysiological insights into PD dementia.",
+    "date": "2026 Aug 22",
+    "pmid": "42631513",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42631513/"
+  },
+  {
+    "title_en": "Cortical-to-pallidal beta cascade underlies network pathophysiology in Parkinson's disease.",
+    "title_zh": "Cortical-to-pallidal beta cascade underlies network pathophysiology in Parkinson's disease.",
+    "journal": "Cell reports. Medicine",
+    "impact_factor": 10.6,
+    "abstract": "Parkinson's disease (PD) motor symptoms are linked to excessive beta band (13-35 Hz) oscillations and basal ganglia-cortical (BGC) synchrony, yet their dynamic inter-relation remains unclear. Based on computational modeling, we hypothesize that transient high-beta (20-35 Hz) BGC coupling induces subcortical low-beta (13-20 Hz) amplification. We recorded intraoperative neural signals from the globus pallidus internus and externus (GPi and GPe, respectively) and motor cortex (M1) in 23 PD patients during deep brain stimulation implantation. High-beta bursts in M1 and GPe were classified as either temporally synchronized or isolated. Synchronous M1-GPe high-beta bursts led by GPe were followed by GPi low-beta amplification, which were not evident with either isolated M1 high-beta bursts or M1-led synchronous bursts. Dopaminergic medication attenuated this GPi low-beta amplification and improved symptoms. These findings suggest that excessive M1 high-beta bursts following GPe high-beta activity trigger a cascade establishing low-beta propagation to GPi, which may contribute to PD motor dysfunction.",
+    "date": "2026 Aug 21",
+    "pmid": "42628526",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628526/"
+  },
+  {
+    "title_en": "A bioelectronic interface for continuous neuroinflammation monitoring and neuromodulation in Parkinson's disease model.",
+    "title_zh": "A bioelectronic interface for continuous neuroinflammation monitoring and neuromodulation in Parkinson's disease model.",
+    "journal": "Biosensors & bioelectronics",
+    "impact_factor": 10.5,
+    "abstract": "Neuroinflammation is increasingly recognized as a critical driver in the onset and progression of Parkinson's disease (PD), yet technologies capable of continuously tracking neuroinflammatory dynamics in vivo remain limited. Here, we report an implantable bioelectronic interface that integrates multiplexed aptamer based electrochemical biosensing with deep brain stimulation (DBS) for biomarker monitoring and neuromodulation in the rat brain. The biosensing platform introduces Tantalum@Au electrodes, engineered for chronic stability and biocompatibility, enabling simultaneous in vivo electrochemical monitoring of interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-alpha), alpha-synuclein (alpha-syn), and pH after DBS therapy. In freely moving PD rat models, the system maintained stable electrochemical performance for at least eight days post-implantation and captured dynamic biomarker fluctuations in response to targeted subthalamic nucleus DBS. DBS reduced IL-6 and TNF-alpha levels, indicating modulation of neuroinflammatory pathways, whereas alpha-syn level remained unchanged within the short-term window, consistent with the slower temporal dynamics of protein aggregation. DBS partially restored motor coordination though residual asymmetry persisted, paralleling clinical observations of symptom alleviation without complete functional recovery. These findings demonstrate the feasibility of integrating continuous biochemical sensing with therapeutic neuromodulation to achieve a closed-loop platform, providing direct insight into molecular responses to DBS. This bioelectronic interface establishes a foundation for future biochemical-feedback-enabled neuromodulation strategies and precision therapeutic for neurodegenerative disorders.",
+    "date": "2026 Aug 20",
+    "pmid": "42628256",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628256/"
   },
   {
     "title_en": "Frequency and prognostic outcomes of emergency diagnosis in 13 non-neoplastic conditions in England: A population-based cohort study using linked electronic health records of 1.7 million patients.",
@@ -68,6 +108,66 @@
     "date": "2026 Aug 25",
     "pmid": "42641671",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42641671/"
+  },
+  {
+    "title_en": "Phase 2a Randomized Controlled Trial of TPN-101, A Nucleoside Reverse Transcriptase Inhibitor, in Progressive Supranuclear Palsy.",
+    "title_zh": "Phase 2a Randomized Controlled Trial of TPN-101, A Nucleoside Reverse Transcriptase Inhibitor, in Progressive Supranuclear Palsy.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Preclinical and human brain postmortem studies indicate that progressive supranuclear palsy (PSP) is associated with increased expression of the retrotransposon Long Interspersed Nuclear Element-1 (L1Hs). L1Hs activity initiates an innate immune response that leads to neuroinflammation and neurodegeneration, which can be attenuated by inhibiting the L1Hs-encoded reverse transcriptase. TPN-101 is a potent inhibitor of the L1Hs reverse transcriptase. OBJECTIVE: The objective of this study was to assess the safety, pharmacokinetics, and biomarker and clinical effects of TPN-101 in patients with PSP. METHODS: A double-blind, placebo-controlled, parallel-group study randomly assigned patients with probable PSP to receive TPN-101 100, 200, or 400 mg, or placebo daily for 24 weeks. Following the double-blind period, all patients received open-label TPN-101 400 mg daily for 24 weeks. The primary outcome was the incidence and severity of treatment-emergent adverse events. Biomarker, clinical, and TPN-101 pharmacokinetic assessments were conducted throughout the study. RESULTS: Forty-two patients were randomly assigned to TPN-101 100 mg (N = 11), 200 mg (N = 10), 400 mg (N = 11), or placebo (N = 10). TPN-101 was well tolerated, with no notable safety differences between any drug dose and placebo. Greater reductions in cerebrospinal fluid levels of neurofilament light chain with increasing dose were seen in patients taking TPN-101 during the double-blind period, compared with an increase in the placebo arm. There were no differences among the treatments on the Progressive Supranuclear Palsy Rating Scale during the double-blind period. CONCLUSIONS: The safety, pharmacokinetics, and reductions in biomarkers of neuroinflammation and neurodegeneration warrant future trials powered to detect clinical effects of TPN-101 in PSP. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 21",
+    "pmid": "42626922",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626922/"
+  },
+  {
+    "title_en": "Neuronal Antibodies in Patients With Atypical Parkinsonism.",
+    "title_zh": "Neuronal Antibodies in Patients With Atypical Parkinsonism.",
+    "journal": "Neurology(R) neuroimmunology & neuroinflammation",
+    "impact_factor": 7.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: Patients with antibody-associated movement disorders sometimes lack specific features of autoimmune diseases and can therefore be misdiagnosed, for example, as neurodegenerative diseases. A well-known example is anti-IgLON5 disease, which may mimic atypical parkinsonian (AP) syndromes. Our objectives were (1) to test different cohorts of patients with suspected AP for anti-IgLON5 and other neuronal antibodies and (2) to describe the characteristics of AP in anti-IgLON5 disease. METHODS: We performed a retrospective observational cohort study in which we screened 5 cohorts of patients with AP syndromes for antibodies by immunohistochemistry. Positive results were evaluated with additional techniques including human live neurons. We also reviewed all Dutch patients with anti-IgLON5 disease for parkinsonian features. RESULTS: We identified 719 patients with AP syndromes, of which 532 had available serum or CSF. Seven (1.3%) had antibody-associated disorders (2 anti-IgLON5, 1 anti-IgLON5/anti-NMDAR, 1 anti-Caspr2, 1 anti-CV2, 1 anti-Hu, and 1 anti-CV2/anti-Hu). All but 1 of these patients were already suspected of an autoimmune cause.Furthermore, we identified 30 Dutch patients with anti-IgLON5 disease. Twelve (40%) had AP features, but 11 of the 12 patients also had additional features that differentiated them from classical AP (prominent sleep apnea in 10, neuromuscular symptoms in 6, and chorea in 3). The phenotype of the last patient was clinically indistinguishable from idiopathic Parkinson disease (with probable concurrent mild anti-IgLON5 disease). We also found 8 patient cases falsely identified as anti-IgLON5 positive using a commercial cell-based assay. DISCUSSION: Routine testing for anti-IgLON5 or other neuronal antibodies in AP is not recommended. Rather, careful clinical phenotyping is essential to uncover additional features that might suggest an underlying antibody-associated disease in selected patient cases.",
+    "date": "2026 Sep",
+    "pmid": "42636415",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42636415/"
+  },
+  {
+    "title_en": "Global patterns of clozapine prescribing: An international comparison of prescribing indications across 15 regions.",
+    "title_zh": "Global patterns of clozapine prescribing: An international comparison of prescribing indications across 15 regions.",
+    "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+    "impact_factor": 6.7,
+    "abstract": "Evidence of clozapine's transdiagnostic benefits beyond schizophrenia spectrum disorders (SSDs) is increasing. Whether this has impacted clozapine usage patterns in practice is yet to be assessed. This study aims to examine the range of indications associated with clozapine prescribing internationally and explore cross-country variation in the distribution of utilisation across diagnostic categories. Information on prescribing indication was obtained using the IQVIA Multinational Integrated Data Analysis System (MIDAS) Disease Insights database. The database contained information on indications recorded for clozapine prescribing in 55 countries and 15 regions. Prescribing indications for clozapine were obtained by IQVIA through a combination of (1) electronic medical records, (2) prescription and claims data, and (3) patient medication records. Results were analysed descriptively. Collectively, prescribing of clozapine was most commonly recorded within SSDs (82.3%). Clozapine prescribing within non-SSDs accounted for approximately 18% of all indications recorded; mood disorders (13.6%), anxiety disorders (2.5%), movement disorders (1.1%), epilepsy (0.4%), and dementia (0.1%). Bipolar disorder (59.3%) was the most commonly recorded prescribing indication within mood disorder management. Substantial interregional variation in utilisation trends were apparent. Recorded clozapine prescribing within non-SSDs was highest in African and Asian regions, accounting for an average of 34.3% and 21% of all recorded indications within each region respectively. In conclusion, substantial use of clozapine outside of SSDs was identified, with approximately 1 in 5 recorded indications occurring for a non-SSD indication. International guidance considering the availability and quality of evidence supporting clozapine use more broadly in psychiatry is now required to promote rationale, evidence-based use.",
+    "date": "2026 Aug 21",
+    "pmid": "42628494",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628494/"
+  },
+  {
+    "title_en": "The interplay of air pollution with plasma neurodegenerative markers and metabolome for dementia, Parkinson's disease and all-cause mortality risks and transitions: The UK Biobank study.",
+    "title_zh": "The interplay of air pollution with plasma neurodegenerative markers and metabolome for dementia, Parkinson's disease and all-cause mortality risks and transitions: The UK Biobank study.",
+    "journal": "Ecotoxicology and environmental safety",
+    "impact_factor": 6.1,
+    "abstract": "We investigated the joint associations of circulating neurodegeneration markers-neurofilament light (NfL) and glial fibrillary acidic protein (GFAP)-ambient air pollution, and plasma metabolomic profiles with transitions from a healthy state to dementia, Parkinson's disease (PD), and all-cause mortality in the UK Biobank. The analytic sample included 19,645 participants aged >/= 50 years with complete proteomic, metabolomic, and environmental data. Time-to-event analyses used Cox proportional hazards and multistate Weibull models to evaluate associations and statistical interactions across health transitions. Higher NfL concentrations were associated with increased risks of transitions from healthy to PD, dementia, and death, whereas higher GFAP concentrations were specifically associated with dementia (HR = 2.65, 95% CI: 2.17-3.25). At the nominal level, particulate matter (PM(2.5), PM(10)) showed positive statistical interactions with NfL for mortality, while nitrogen oxides (NO(2)/NO(x)) showed negative interactions with GFAP. There was little evidence of interaction between PM(2.5) and either biomarker for dementia. Metabolomic principal components reflecting lipid, amino acid, and energy pathways were associated with variation in the relationships of NfL and GFAP with dementia and mortality and interacted with PM(2.5) for PD and dementia. A branched-chain amino acid-related component showed a negative interaction with GFAP for dementia, indicating weaker associations at higher levels. These findings highlight complex relationships linking air pollution, metabolic dysregulation, and neurodegeneration, and support integrative multi-omics approaches to identify pathways relevant to prevention of neurodegenerative diseases and premature mortality.",
+    "date": "2026 Aug 22",
+    "pmid": "42632170",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632170/"
+  },
+  {
+    "title_en": "Comparative risks of dementia and Parkinson's disease with GLP-1 RAs versus other oral glucose-lowering medications in obese patients with type 2 diabetes: a large real-world cohort study.",
+    "title_zh": "Comparative risks of dementia and Parkinson's disease with GLP-1 RAs versus other oral glucose-lowering medications in obese patients with type 2 diabetes: a large real-world cohort study.",
+    "journal": "European journal of internal medicine",
+    "impact_factor": 6.1,
+    "abstract": "OBJECTIVE: This study evaluates dementia and Parkinson's disease (PD) risk among patients with type 2 diabetes (T2D) and obesity initiating GLP-1 receptor agonists (GLP-1 RAs) compared with other oral glucose-lowering medications, addressing the unclear comparative neurocognitive effects despite GLP-1 RAs' neuroprotective potential in preclinical studies. RESEARCH DESIGN AND METHODS: This historical prospective cohort study used electronic health records from Clalit Health Services. Adults with T2D and obesity (body mass index [BMI] >/=30 kg/m(2)) initiating non-insulin glucose-lowering medications between 2008-2021 were included. After exclusions and 1:1 nearest-neighbor matching, the final cohort comprised 46,962 patients. Associations were assessed using Cox proportional hazards models. RESULTS: Among 46,962 matched participants (mean age, 62.8 years; 52.6% women), median follow-up period was 7 years. Dementia occurred in 1125 GLP-1 RA users (4.8%) and 1822 non-GLP-1 users (7.8%) (adjusted hazard ratio [HR], 0.86 (0.75-0.99)). PD occurred in 231 GLP-1 RA users (1.0%) and 338 non-GLP-1 users (1.4%) (0.90 (0.67-1.22)). In the secondary analysis, GLP-1 RA use was associated with lower risks of dementia compared with sulfonylureas (0.75 (0.61-0.93)) and PD (0.56 (0.36-0.86)). No significant differences were observed compared with DPP-4 inhibitors or SGLT2 inhibitors. Subgroup analyses showed stronger protective associations for dementia among women (0.78 (0.65-0.94)) and participants aged >/=65 years (0.82 (0.69-0.97)). CONCLUSIONS: The use of GLP-1 RAs was associated with a lower risk of dementia compared with other glucose-lowering therapies. These findings support the neuroprotective potential of GLP-1 RAs and highlight the importance of incorporating brain health into diabetes management strategies.",
+    "date": "2026 Aug 21",
+    "pmid": "42629262",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629262/"
+  },
+  {
+    "title_en": "The neuroimmune network in Alzheimer's and Parkinson's diseases: from mechanistic insights to biomarker-guided immunotherapies and clinical translation.",
+    "title_zh": "The neuroimmune network in Alzheimer's and Parkinson's diseases: from mechanistic insights to biomarker-guided immunotherapies and clinical translation.",
+    "journal": "Inflammopharmacology",
+    "impact_factor": 5.3,
+    "abstract": "Neurodegenerative disorders such as Alzheimer's (AD) and Parkinson's (PD) have traditionally been examined from the perspectives of neurons or microglia, resulting in constrained therapeutic achievements. Recent findings endorse a cohesive neuroimmune framework in which central nervous system (CNS)-resident microglia, border-associated macrophages, clonally proliferated CD8(+) T cells, and peripheral signaling centers (IL-20 family, gut-brain axis) perpetuate chronic maladaptive inflammation via feed-forward mechanisms. This review critically examines investigational immunotherapies aimed at this network: the CNS‑penetrant NLRP3 inhibitor NT-0796 (Phase 1b/2a) demonstrated preliminary biomarker reductions in axonal damage and T-cell activation in PD but remains unapproved and necessitates further confirmatory trials; the anti‑SIGLEC10 antibody ONC-841 improved microglial phagocytosis of Abeta and tau in preclinical studies but has yet to commence human trials; and CAR‑based platforms (CAR-T/NK) remain in the nascent preclinical phase, facing significant delivery and toxicity challenges. A three-part biomarker framework, encompassing target engagement (CSF IL-1beta, caspase-1), pharmacodynamic responses (neurofilament light chain, ASC specks), and predictive endotyping (T-cell clonality, complement profiles), is proposed to facilitate patient stratification by neuroimmune endotype. None of these agents have received regulatory approval for neurodegenerative conditions; all findings are preliminary. Effective immunotherapy may ultimately necessitate multi-node, network-aware combinations (e.g., inflammasome inhibition coupled with Treg augmentation) rather than single-target suppression. Embracing this complexity offers a roadmap for future disease-modifying therapies, though rigorous clinical validation remains essential.",
+    "date": "2026 Aug 21",
+    "pmid": "42627617",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627617/"
   },
   {
     "title_en": "Effects of alpha-Synuclein on the Lipid Phenotype of SZ95 Human Sebocytes: A Preliminary Study in the Context of Parkinson's Disease.",
@@ -108,5 +208,15 @@
     "date": "2026 Aug 25",
     "pmid": "42640743",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42640743/"
+  },
+  {
+    "title_en": "Global research synergy: Advancing fundamental Parkinson's research through international collaboration.",
+    "title_zh": "Global research synergy: Advancing fundamental Parkinson's research through international collaboration.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundThe remarkable advances achieved in Parkinson's disease (PD) research across clinical science, genetics, molecular and cellular mechanisms, disease modeling, pathophysiology, biomarkers, and therapeutics reflect not only scientific innovation but also the evolution of collaborative research. The field has transitioned from single-investigator observations and isolated institutional efforts to regional networks and global consortia that now drive many of the most important PD discoveries.ObjectiveTo review the evolution of collaborative research approaches in PD, examine barriers and challenges to global research synergy, and discuss potential solutions to promote equitable and impactful international collaboration.State of the Art and Future DirectionsKey challenges to global PD research include funding inequities, regulatory and data-sharing complexities, difficulties in standardization and generalizability, language barriers, limited interdisciplinary communication, unequal resource allocation, insufficient training opportunities, regional mistrust, and the need to address diverse cultural contexts. Successful international initiatives have demonstrated the value of shared databases, harmonized protocols, cross-border funding mechanisms, and synergistic multidisciplinary, multicultural, and multinational partnerships. Future efforts should be grounded in trust, transparency, ethical reciprocity, equitable governance, and meaningful stakeholder engagement, while prioritizing capacity building, workforce development, and sustainable training opportunities.ConclusionsAccelerating progress in PD research requires collaborative frameworks that integrate diverse populations, disciplines, institutions, and regions. Strengthening research infrastructure, community engagement, culturally grounded education, participant-centered research practices, and scientific leadership, particularly in low- and middle-income countries, will be essential to ensure that all populations can contribute to and benefit from scientific advances, fostering a more equitable and effective global PD research ecosystem.",
+    "date": "2026 Aug 21",
+    "pmid": "42627362",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627362/"
   }
 ]
