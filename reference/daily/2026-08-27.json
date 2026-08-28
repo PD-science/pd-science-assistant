@@ -1,5 +1,15 @@
 [
   {
+    "title_en": "Targeting soluble misfolded oligomers in anti-amyloid research.",
+    "title_zh": "Targeting soluble misfolded oligomers in anti-amyloid research.",
+    "journal": "Nature reviews. Chemistry",
+    "impact_factor": 51.7,
+    "abstract": "Protein misfolding drives a range of non-curable diseases, such as Alzheimer disease, Parkinson disease, type 2 diabetes and Huntington disease, that devastate tens of millions of patients each year. The pathological proteins are misfolded into soluble oligomers, which eventually evolve into insoluble amyloid plaques. Increasing evidence suggests that soluble oligomers are the primary cytotoxic species leading to amyloidoses. However, the transient, heterogeneous and low-abundance nature of soluble oligomers makes it extremely challenging to study these species using conventional methods. This Review surveys emerging chemical tools developed for in vitro detection, separation and analysis of soluble amyloid oligomers. We exemplify how the present arsenal can be extended to construct individual amyloid oligomers as potential drug targets. Finally, we summarize their technical limits and discuss possibilities of adapting these chemical tools to target specific soluble oligomers in the fight against amyloidoses.",
+    "date": "2026 Aug 20",
+    "pmid": "42624989",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42624989/"
+  },
+  {
     "title_en": "G3BP1 depletion, observed in Parkinson's Disease, drives Golgi-lysosome-autophagy defects.",
     "title_zh": "G3BP1 depletion, observed in Parkinson's Disease, drives Golgi-lysosome-autophagy defects.",
     "journal": "Cell death and differentiation",
@@ -90,6 +100,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42640879/"
   },
   {
+    "title_en": "Neuronal overexpression of Kcnn1 in A53T alpha-synuclein mice suppresses phospho-serine 129 alpha-synuclein formation and doubles survival time.",
+    "title_zh": "Neuronal overexpression of Kcnn1 in A53T alpha-synuclein mice suppresses phospho-serine 129 alpha-synuclein formation and doubles survival time.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "Synucleinopathies, including idiopathic Parkinson's Disease, are driven by misfolding and aggregation of the 140 residue alpha-synuclein protein that plays a role in presynaptic vesicle regulation. We describe effects of a modifier, neuronal overexpression of the mouse calcium-activated potassium channel subunit Kcnn1, on a mouse model in which transgenic Thy1.2-driven human A53T alpha-synuclein directs fully penetrant lethal motor disease. Kcnn1 overexpression increased median survival of these mice from 8.5 to 18 mo, associated with an altered presentation from rapidly progressive dystonic-like behavior of the limbs to a later-onset (12 to 16 mo) and slowly progressive lower limb clasping when lifted by the tail. At the tissue level, accretion of disease-associated phospho-serine 129 alpha-synuclein was prevented by overexpression of Thy1.2-driven Kcnn1 in many brain regions/spinal cord, where phospho-serine 129 alpha-synuclein copiously accreted in A53T mice at endstage. The action of blocking production of phospho-serine 129 alpha-synuclein was also observed in adult A53T mice injected presymptomatically with an AAV9 scCMV-Kcnn1 virus into the right superior colliculus. At endstage ~2 mo later, the right superior colliculus exhibited overexpression of Kcnn1 and showed essentially no phospho-serine 129 alpha-synuclein, whereas the uninjected left superior colliculus exhibited copious phospho-serine 129 alpha-synuclein. The neuroprotective action of Kcnn1 overexpression remains to be fully resolved, but the channel protein subunit, targeted to the ER membrane, has been shown to induce an ER stress response. This response, which may activate autophagy, along with potential channel formation, may diminish the rate of formation or lifetime of neurotoxic forms of A53T alpha-synuclein.",
+    "date": "2026 Aug 25",
+    "pmid": "42616775",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42616775/"
+  },
+  {
     "title_en": "Author Correction: Classification of fallers in Parkinson's disease through machine learning based feature analysis.",
     "title_zh": "Author Correction: Classification of fallers in Parkinson's disease through machine learning based feature analysis.",
     "journal": "NPJ Parkinson's disease",
@@ -98,6 +118,26 @@
     "date": "2026 Aug 24",
     "pmid": "42637787",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42637787/"
+  },
+  {
+    "title_en": "Regional reduction of high-energy phosphorus metabolites characterizes the cerebellar subtype of multiple system atrophy.",
+    "title_zh": "Regional reduction of high-energy phosphorus metabolites characterizes the cerebellar subtype of multiple system atrophy.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Multiple system atrophy (MSA) is a severe neurodegenerative disorder with various underlying pathophysiological features. Mitochondrial dysfunction has been implied as a viable treatment target in patients with MSA. Yet, there is a lack of in-vivo studies examining regional metabolic differences between the Parkinsonian (MSAp) and the cerebellar (MSAc) subtype of MSA. Twenty-four patients with MSA (12 patients with MSAp and 12 patients with MSAc), 24 patients with Parkinson's disease (PD), and 24 age- and sex-matched healthy controls (HCs) underwent clinical evaluations and multimodal neuroimaging, including (31)P-MRSI targeting the basal ganglia and the cerebellum. Ratios of high-energy phosphorus-containing metabolites (HEPs) were compared between groups. Only patients with MSAc showed decreased HEP levels in the cerebellum. Conversely, no differences in basal ganglia HEP levels appeared between both MSA subtypes, patients with PD, or HCs. Our findings provide preliminary in-vivo evidence for regionally detectable bioenergetic alterations in the cerebellum of patients with MSAc, while basal ganglia results, particularly in MSAp, require cautious interpretation because of the spatial-resolution limits of the present (31)P-MRSI approach.",
+    "date": "2026 Aug 20",
+    "pmid": "42624856",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42624856/"
+  },
+  {
+    "title_en": "Astragalin confers coordinated neuroprotection in Parkinson's disease models through modulation of neurotrophic, anti-inflammatory, and synuclein-related pathways.",
+    "title_zh": "Astragalin confers coordinated neuroprotection in Parkinson's disease models through modulation of neurotrophic, anti-inflammatory, and synuclein-related pathways.",
+    "journal": "Free radical biology & medicine",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) remains a neurodegenerative disorder without effective disease-modifying therapies, largely due to its multifactorial pathogenesis. We report that the natural flavonoid Astragalin (AST) concurrently addresses three core pathological processes in PD, namely dopaminergic neuron degeneration, alpha-synucleinopathy, and neuroinflammation, through coordinated modulation of interconnected molecular pathways. In both subacute MPTP- and chronic rotenone-induced murine PD models, AST preserved 85% of nigral tyrosine hydroxylase-positive neurons, fully prevented motor deficits, and suppressed phosphorylated alpha-synuclein (alpha-Syn) accumulation and Lewy body-like inclusion formation. Mechanistically, AST activated the BDNF-TrkB/AKT pro-survival pathway, enhanced NRF2-mediated antioxidant defense, and suppressed neuroinflammatory cascades by dual inhibition of Notch1/HES-1 and COP1-C/EBPbeta signaling, leading to attenuated microglial and astrocytic activation. These findings position AST as a promising multi-target therapeutic neuroprotective candidate with disease-modifying potential, providing a structural scaffold for developing combination-inspired anti-PD strategies.",
+    "date": "2026 Aug 20",
+    "pmid": "42624301",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42624301/"
   },
   {
     "title_en": "Cardiovascular-Kidney-Metabolic Syndrome in neurological and psychiatric disorders: a large multi-national cohort study.",
@@ -118,6 +158,26 @@
     "date": "2026 Aug 21",
     "pmid": "42626922",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42626922/"
+  },
+  {
+    "title_en": "PD-1/PD-L1 signaling in neurological and psychiatric disorders: neuroimmune mechanisms and therapeutic potential.",
+    "title_zh": "PD-1/PD-L1 signaling in neurological and psychiatric disorders: neuroimmune mechanisms and therapeutic potential.",
+    "journal": "Brain, behavior, and immunity",
+    "impact_factor": 7.6,
+    "abstract": "Programmed cell death protein-1 (PD-1) and its ligand PD-L1 constitute a central immune checkpoint pathway that maintains immune tolerance and limits excessive inflammation. Beyond oncology, emerging evidence indicates that PD-1/PD-L1 signaling plays fundamental roles in central and peripheral nervous system (CNS and PNS) homeostasis. In the brain, PD-1/PD- L1 restrains neuroinflammation, regulates microglial and astrocytic activation, and influences synaptic function and neurodevelopment, thereby contributing to the pathophysiology of autoimmune demyelinating disease, stroke, Alzheimer's disease, Parkinson's disease, and psychiatric disorders. Outside the brain, PD-1/PD-L1 signaling modulates nociceptive processing in sensory ganglia and the spinal cord, as well as the trafficking and function of circulating monocytes, revealing a multi-layered neuroimmune regulatory network. However, the functional impacts of PD-1/PD-L1 are highly dependent on factors like disease context, cell type, disease stage, and sex. Accordingly, we critically evaluate the therapeutic opportunities and limitations of both PD-1/PD-L1 blockade and agonism across these diverse neurological and psychiatric conditions. Due to major translational hurdles, including limited CNS drug penetration, immune-related adverse events, and the opposing outcomes of pathway modulation in different compartments or phases of disease, future strategies will likely require spatiotemporally controlled and cell-specific modulation of PD-1/PD-L1 signaling, improved central nervous system drug delivery, and biomarker-guided patient stratification. Collectively, this review integrates CNS, PNS, and systemic immune interactions to position PD-1/PD-L1 as a potential target for next-generation neuro-immunotherapies across neurological and psychiatric disorders.",
+    "date": "2026 Aug 20",
+    "pmid": "42624381",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42624381/"
+  },
+  {
+    "title_en": "Pathogenic GBA1 Variants and their Interaction with the Gut-Microbiota-Brain Axis in Parkinson's Disease.",
+    "title_zh": "Pathogenic GBA1 Variants and their Interaction with the Gut-Microbiota-Brain Axis in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 20",
+    "pmid": "42621775",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42621775/"
   },
   {
     "title_en": "Neuronal Antibodies in Patients With Atypical Parkinsonism.",
@@ -158,6 +218,16 @@
     "date": "2026 Aug 21",
     "pmid": "42629262",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42629262/"
+  },
+  {
+    "title_en": "Demographic Confounding in Voice-Based Parkinson Disease Screening: Methodological Analysis of the Bridge2AI Voice Dataset.",
+    "title_zh": "Demographic Confounding in Voice-Based Parkinson Disease Screening: Methodological Analysis of the Bridge2AI Voice Dataset.",
+    "journal": "Journal of medical Internet research",
+    "impact_factor": 6.0,
+    "abstract": "BACKGROUND: Voice-based deep learning models for Parkinson disease (PD) and dementia screening report areas under the curve (AUCs) of 0.85-0.97, but rarely audit demographic confounding. Because speech changes substantially with age, case-control age imbalance alone can produce high classification performance independent of disease. OBJECTIVE: We audited the Bridge to Artificial Intelligence (Bridge2AI) Voice Dataset v3.0.0 with three objectives: (1) quantify age and site confounding in voice screening for PD and dementia, (2) evaluate whether a disease-specific acoustic signal persists after demographic adjustment, and (3) propose minimum reporting standards. METHODS: We fine-tuned an audio spectrogram transformer (AST; 86.4 million parameters) using 5-fold participant-level cross-validation for PD (n=253) and dementia (n=221). Logistic regression on age and sex provided a demographic-only baseline under identical splits. Confounding was assessed by (1) restricting evaluation to ages 60-80 years, (2) restricting to US participants because all Canadian PD (n=62) and all Canadian dementia (n=70) participants were cases with no Canadian controls, (3) retraining AST from scratch on the age-restricted subgroup, (4) 1:1 nearest-neighbor propensity-score matching on age and sex in the US age-restricted PD subgroup, and (5) applying v3.0.0-trained models to v2.0.1 spectrograms of the same participants. RESULTS: On the full cohort, age alone was statistically indistinguishable from the AST (PD: AUC 0.875 vs 0.843, DeLong P=.36; dementia: 0.905 vs 0.895, P=.75), indicating a demographic shortcut; because both cohorts share the same 148-person control group, this parallel pattern is one dataset-level artifact, not 2 independent confirmations. Within ages 60-80 years, the AST exceeded age-only for both conditions (PD: 0.787 vs 0.568, DeltaAUC +0.225, 95% CI +0.089 to +0.361; P=.001, n=129; dementia: 0.809 vs 0.598, DeltaAUC +0.215, 95% CI +0.056 to +0.375; P=.008, n=95), though the dementia result reflects residual site confounding. Three convergent estimates of PD-specific signal, post hoc age-restricted (0.787), de novo retrained (0.798), and propensity-matched (US, 28 pairs; 0.760; P=.02 vs age-only), all fell substantially below the 0.843 full-cohort AUC. Under the most conservative adjustment (US-only, ages 60-80 years), AST AUC was 0.726, which we consider the least confounded estimate. Cross-version preprocessing testing produced AUC 0.618, indicating brittle representations. Of 13 published voice-PD studies, only 7 reported case and control age distributions, and none reported a demographic-only baseline or an age-restricted evaluation. CONCLUSIONS: Demographic confounding dominates full-cohort voice-screening metrics on the Bridge2AI Voice Dataset for both PD and dementia. After age restriction, site control, and propensity matching, residual AST performance for PD (AUC 0.726-0.798) remained significantly above demographic baselines, supporting a disease-specific acoustic signal substantially weaker than full-cohort metrics suggest; for dementia, insufficient US cases precluded similar estimates. Voice biomarker studies should report case and control demographic distributions, demographic-only baselines under identical splits, and age-restricted performance alongside full-cohort metrics.",
+    "date": "2026 Aug 20",
+    "pmid": "42623305",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623305/"
   },
   {
     "title_en": "The neuroimmune network in Alzheimer's and Parkinson's diseases: from mechanistic insights to biomarker-guided immunotherapies and clinical translation.",
@@ -218,5 +288,15 @@
     "date": "2026 Aug 21",
     "pmid": "42627362",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42627362/"
+  },
+  {
+    "title_en": "Association of handgrip strength asymmetry with prodromal and incident Parkinson's disease: A prospective cohort study.",
+    "title_zh": "Association of handgrip strength asymmetry with prodromal and incident Parkinson's disease: A prospective cohort study.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundAsymmetry symptoms are well recognized in Parkinson's disease (PD). However, whether handgrip strength (HGS) asymmetry can prospectively predict incident PD remains unknown.ObjectivesTo prospectively examine the association between HGS asymmetry and subsequent risk of incident PD.MethodsIncluded were 497,100 participants without PD at baseline from the UK Biobank. HGS asymmetry index was calculated by dividing the absolute inter-hand difference in HGS by the average HGS of the two hands. The primary outcome was incident PD identified through hospital admissions, death registries, and self-reported data. As secondary outcome, prodromal PD was defined as the presence of >/=3 out of 8 prodromal PD features assessed through self-reported data, hospital admission records and primary care data. The associations were evaluated using Cox regression models. Several lag analyses were conducted to examine how many years in advance could HGS asymmetry predict incident PD.ResultsDuring a median follow-up of over 13 years, 2868 participants developed PD. HGS asymmetry (highest vs. lowest quartile) was associated with higher risk of developing PD (HR = 1.23; 95% CI: 1.10, 1.37) (P-(trend) < 0.001). Lag analysis suggested that HGS asymmetry could even predict incident PD in 8 years. Significant association between HGS asymmetry and prodromal PD risk was also observed. The significant associations between HGS asymmetry and PD risk persisted when further excluding those with low HGS or prodromal PD.ConclusionsHigher HGS asymmetry was associated with a higher risk of incident PD, suggesting the potential of HGS asymmetry as an early indicator for PD.",
+    "date": "2026 Aug 20",
+    "pmid": "42623021",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42623021/"
   }
 ]

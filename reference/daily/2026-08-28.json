@@ -1,0 +1,42 @@
+[
+  {
+    "title_en": "Small molecule boosts Parkinson disease treatment.",
+    "title_zh": "Small molecule boosts Parkinson disease treatment.",
+    "journal": "Nature reviews. Drug discovery",
+    "impact_factor": 101.8,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 26",
+    "pmid": "42649315",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42649315/"
+  },
+  {
+    "title_en": "Pathological Mutation E46K Acts as an Electrostatic Switch to Increase Distant Interdomain Interactions and Promote alpha‑Synuclein Phase Separation.",
+    "title_zh": "Pathological Mutation E46K Acts as an Electrostatic Switch to Increase Distant Interdomain Interactions and Promote alpha‑Synuclein Phase Separation.",
+    "journal": "JACS Au",
+    "impact_factor": 8.7,
+    "abstract": "The Parkinson's disease-related protein alpha-synuclein can form solid amyloid fibrils through liquid-liquid phase separation (LLPS) and liquid-to-solid phase transition. The most deleterious familial mutation E46K has recently been shown to enhance alpha-synuclein LLPS and subsequent solidification; yet, the precise mechanisms remain largely unknown. Here, using molecular dynamics simulations at different spatiotemporal scales combined with biochemical experiments, we show that the E46K mutation acts as an electrostatic switch to remodel interactions between the oppositely charged N-terminal domain (NTD) and C-terminal domain (CTD) of alpha-synuclein. This remodeling shifts the interaction site of NTD with CTD from its N-terminus to the mutation region. Such reorganization increases the hydrophobic solvent exposure of key LLPS-promoting motifs, potentially facilitating intermolecular interactions that initiate phase separation. Phase coexistence simulations further support this hypothesis, showing that the E46K mutant exhibits enhanced LLPS and solidification propensities. This enhancement is primarily driven by intermolecular electrostatic interactions between the mutation region and the CTD, followed by the hydrophobic NAC-NAC interactions mediated by the LLPS-promoting motifs. Collectively, these results reveal that NTD-CTD electrostatic crosstalk acts as the key modulator of alpha-synuclein phase separation, while NAC-NAC interactions play an auxiliary role, both of which synergistically govern alpha-synuclein phase separation. This study offers a complete and detailed mechanistic framework for understanding alpha-synuclein phase separation and its enhancement induced by the E46K mutation.",
+    "date": "2026 Aug 24",
+    "pmid": "42656830",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42656830/"
+  },
+  {
+    "title_en": "Lesion-Level Subtypes of White Matter Hyperintensity Evolution Beyond Spatial Location.",
+    "title_zh": "Lesion-Level Subtypes of White Matter Hyperintensity Evolution Beyond Spatial Location.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: White matter hyperintensities (WMHs) are common neuroimaging markers of cerebrovascular pathology in aging and neurodegeneration. Despite their clinical relevance, WMH are typically quantified using global burden measures that assume a relatively homogeneous pathologic process. However, growing evidence suggests substantial biological heterogeneity across lesions. We aimed to identify lesion-level WMH subtypes beyond anatomic location and evaluate their associations with neurodegeneration and vascular risk. METHODS: We conducted a longitudinal observational study analyzing 3224 MRI scans from 403 participants spanning cognitively normal aging, mild cognitive impairment, Alzheimer, and Parkinson disease. Imaging at baseline and 2-year follow-up included structural, diffusion, and resting-state MRI. A total of 2107 WMH lesions were identified, and lesion-wise longitudinal changes were used to derive subtypes using unsupervised clustering. Associations with neurodegeneration and vascular risk factors were assessed using multivariable models with false discovery rate correction. RESULTS: Three lesion subtypes (L(1)-L(3)) were identified, frequently coexisting within the same individual. L(1) lesions were the most prevalent (48.1%), predominated in cognitively normal individuals, and exhibited relatively stable trajectories without association with brain atrophy. L(2) lesions represented a less frequent (11.3%) unstable subtype associated with weight gain (odds ratio [OR] 1.33, 95% CI 1.22-1.45; p(FDR) </= 0.001), suggesting metabolic vulnerability. L(3) lesions (40.6%) represented an unstable subtype associated with brain atrophy (beta = -0.11, 95% CI -0.16 to -0.05; p(FDR) < 0.001), older age (OR 1.15, 95% CI 1.07-1.23; p(FDR) < 0.001), and vascular risk reflected by pulse pressure changes (OR 1.09, 95% CI 1.03-1.15; p(FDR) = 0.006). Global WMH burden was no longer associated with brain atrophy after accounting for L(3) lesion burden. Clustering robustness was supported by sensitivity analyses excluding anatomical location and by external validation in an independent cohort reproducing the main atrophy-related findings. DISCUSSION: WMH are not a homogeneous entity but comprise biologically distinct lesion subtypes with differential neurobiological and clinical significance. Lesion composition may therefore offer a more informative framework than global WMH burden for understanding cerebrovascular contributions to aging and neurodegeneration, with potential implications for risk stratification, clinical interpretation, and targeted interventions.",
+    "date": "2026 Sep 22",
+    "pmid": "42659615",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659615/"
+  },
+  {
+    "title_en": "Mitochondrial Ca(2+) Influx via MCU-1 Contributes to Oxidative Mitochondrial Defects in PDR-1/Parkin-Deficient Caenorhabditis elegans Body-Wall Muscle.",
+    "title_zh": "Mitochondrial Ca(2+) Influx via MCU-1 Contributes to Oxidative Mitochondrial Defects in PDR-1/Parkin-Deficient Caenorhabditis elegans Body-Wall Muscle.",
+    "journal": "Antioxidants (Basel, Switzerland)",
+    "impact_factor": 6.6,
+    "abstract": "Parkinson's disease (PD) is widely regarded as a disorder of dopaminergic neurons that involves mitochondrial dysfunction, impaired mitophagy, and oxidative stress. However, the nature and significance of skeletal muscle pathology remain unclear. In this study, we used Caenorhabditis elegans, which lack muscle stem cells in adulthood, to examine the effects of PDR-1/Parkin deficiency on mitochondrial homeostasis and motor function under conditions where muscle regeneration does not occur. Silencing of pdr-1 attenuated age-related mitochondrial fragmentation in body-wall muscle cells but was associated with later impairments in locomotor activity and loss of nuclear GFP signals, suggesting progressive muscle cell damage. By day 2 of adulthood, mitochondrial reactive oxygen species (mtROS) levels were elevated in muscle cells subjected to pdr-1 RNAi, and in the pdr-1(gk448) mutant this mtROS elevation was accompanied by a reduction in mitochondrial membrane potential (DeltaPsim). In vivo imaging further revealed elevated mitochondrial Ca(2+) levels ([Ca(2+)](mito)) in PDR-1-deficient muscle cells. Moreover, the mtROS increase associated with PDR-1 deficiency was suppressed in mcu-1 mutants. These findings support a model in which MCU-1-dependent elevation of [Ca(2+)](mito) contributes to oxidative mitochondrial defects in PDR-1/Parkin-deficient muscle.",
+    "date": "2026 Aug 21",
+    "pmid": "42650307",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42650307/"
+  }
+]
