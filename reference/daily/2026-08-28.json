@@ -10,6 +10,86 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42649315/"
   },
   {
+    "title_en": "G3BP1 depletion, observed in Parkinson's Disease, drives Golgi-lysosome-autophagy defects.",
+    "title_zh": "G3BP1 depletion, observed in Parkinson's Disease, drives Golgi-lysosome-autophagy defects.",
+    "journal": "Cell death and differentiation",
+    "impact_factor": 15.4,
+    "abstract": "The RNA binding G3BP1 is depleted in several neurodegenerative diseases, yet its functional consequences at the cellular level remain poorly understood. While best known for its critical role in stress granule formation, we demonstrate that G3BP1 also stabilises the COPI vesicle protein beta-COP by promoting its interaction with the deubiquitinase USP10. G3BP1 depletion disrupts this interaction leading to increased ubiquitination of beta-COP, which accelerates its proteasomal degradation. This leads to compromised Golgi structure and function, and impaired lysosomal homeostasis, which causes defective autophagic flux. Consequently, the autophagic clearance of alpha-synuclein, a protein that can drive Parkinson's disease (PD), is significantly slowed. Importantly, we observe a concurrent reduction of both G3BP1 and beta-COP protein levels in brain sections from PD and dementia with Lewy Body (DLB) patients and from a PD mouse model. These findings reveal a novel mechanistic link between G3BP1, vesicular trafficking, and proteostasis in neurodegeneration.",
+    "date": "2026 Aug 26",
+    "pmid": "42642486",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42642486/"
+  },
+  {
+    "title_en": "TRPC3-Driven Calcium Microdomains Instruct Peripheral Nerve Regeneration With Protective Implications for Central Neurons.",
+    "title_zh": "TRPC3-Driven Calcium Microdomains Instruct Peripheral Nerve Regeneration With Protective Implications for Central Neurons.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "A central challenge in neural repair is the \"calcium paradox\": while Ca(2+) is essential for neuronal growth, global elevations often trigger toxicity rather than repair. Spontaneous near-membrane Ca(2+) microdomains (smCa) have been identified in sensory neurons, yet their molecular origin and functional role in repair remain unclear. Here, by resolving Ca(2+) dynamics at sub-cellular resolution, we show that TRPC3 drives smCa hotspots, which function as a localized signaling module that avoids global toxicity to instruct repair. Using peripheral sensory neurons as a primary model, we show that TRPC3-smCa constitutes a basic instructive unit that appears both necessary and sufficient to initiate axon regeneration, a process that involves calmodulin-dependent pathways. Following sciatic nerve injury, TRPC3-smCa axis is essential for structural and functional recovery. Our data further suggest that this repair module also operates in central nervous system: in midbrain dopaminergic neurons, TRPC3-smCa is associated with a neuroprotective state, correlating with enhanced neuronal survival and motor function in a Parkinson's disease model. This pro-repair correlation is further observed in human ESC-derived dopaminergic neurons. Collectively, our findings identify TRPC3-driven Ca(2+) microdomains as a repair module, pointing to a spatial logic for neural repair with potential relevance for nerve injury and neurodegenerative disorders.",
+    "date": "2026 Aug 25",
+    "pmid": "42640085",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640085/"
+  },
+  {
+    "title_en": "alpha-Synuclein Forms Distinct Micelle-Like Assemblies at Low Ionic Strengths.",
+    "title_zh": "alpha-Synuclein Forms Distinct Micelle-Like Assemblies at Low Ionic Strengths.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "Intrinsically disordered proteins (IDPs) often associate into biomolecular condensates. While micron-sized condensates are observed above a well-defined saturation concentration, the formation of nanoscale clusters also occurs at subsaturated concentrations. The diversity and physical nature of such nanoscale clusters remain underexplored with respect to the well-established condensate state. Here we show that the Parkinson's disease-associated protein alpha-synuclein forms highly monodisperse assemblies at low ionic strength, distinct from the larger polydisperse assemblies previously observed at higher ionic strengths. Using a range of biophysical methods, we identify monodisperse clusters of alpha-synuclein composed of  approximately 20 molecules that maintain their size over a broad concentration range. These clusters are stable over time and do not progress to amyloid fibril formation. Their response to mutational perturbations and chemical destabilization, as well as their thermal cycling support a micelle-like assembly. Increasing ionic strength shifts the system toward the formation of larger, polydisperse nanoclusters and condensates that promote amyloid fibril formation. Our results reveal a hitherto uncharacterized assembly state of alpha-synuclein and highlight the complexity of nanoscale assembly processes by IDPs.",
+    "date": "2026 Aug 21",
+    "pmid": "42627558",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627558/"
+  },
+  {
+    "title_en": "Vaccination Strategies in Neurodegenerative Proteinopathies.",
+    "title_zh": "Vaccination Strategies in Neurodegenerative Proteinopathies.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Neurodegenerative diseases (NDs) such as Alzheimer's disease (AD), Parkinson's disease (PD), and prion diseases represent a growing global health crisis. Despite significant research efforts, disease-modifying therapies remain elusive. Immunotherapy, particularly vaccination, offers a promising avenue by leveraging the body's immune system to clear pathological protein aggregates central to these disorders. This review critically analyzes the historical trajectory, current advancements, and future perspectives of vaccine development across AD, PD, and prion diseases. We highlight the evolution from first-generation pan-protein-targeting strategies to precision immunogens focusing on specific pathogenic conformers, the pivotal role of immunomodulation in balancing efficacy and safety, and the emerging landscape of novel vaccine platforms and delivery systems. A central argument advanced herein is the imperative shift from broad-spectrum immune activation to highly targeted, conformation-specific immunotherapies, coupled with early intervention strategies, to unlock the full therapeutic potential of vaccines in preventing and modifying the course of NDs. We propose that integrating lessons from diverse NDs and embracing multi-target, adaptive immunization approaches, alongside advanced biomarker identification, will be critical for achieving clinical success.",
+    "date": "2026 Aug 25",
+    "pmid": "42641767",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42641767/"
+  },
+  {
+    "title_en": "The stalled moment: Parkinson's disease and the timed self.",
+    "title_zh": "The stalled moment: Parkinson's disease and the timed self.",
+    "journal": "Brain : a journal of neurology",
+    "impact_factor": 11.7,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 25",
+    "pmid": "42640456",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640456/"
+  },
+  {
+    "title_en": "Divergent tau pathology profiles induced by distinct alpha-synuclein aggregates in non-human primates.",
+    "title_zh": "Divergent tau pathology profiles induced by distinct alpha-synuclein aggregates in non-human primates.",
+    "journal": "Brain : a journal of neurology",
+    "impact_factor": 11.7,
+    "abstract": "Proteinopathies are frequently accompanied by co-pathologies, which complicate understanding the pathophysiological mechanisms of neurodegenerative diseases. In this study, we employed a well-characterised baboon cohort to investigate the occurrence of tau pathology following intrastriatal injections of two distinct alpha-synuclein extracts (small aggregates: SA and large aggregates: LA) derived from the brains of Parkinson's disease (PD) patients. Biochemical and histopathological analyses (6, 12, or 24 months after injections) revealed significantly higher phospho-tau expression and greater frequency of neuropil threads in both LA- (n=18) and SA-injected baboons (n=12) compared with control animals. We also observed distinct patterns of tau pathology depending on the assembly of alpha-synuclein aggregates. Baboons injected with SA exhibited tangle-like phosphorylated tau lesions and neuropil threads, with no significant differences across post-injection time points. Moreover, a uniform distribution of tau pathology was detected along the rostro-caudal axis of the medial temporal lobe, affecting neuronal, oligodendroglial, and astrocytic cell types. On the other hand, baboons injected with LA exhibited neuropil threads and few glial lesions but lacked phospho-tau intraneuronal aggregates. The occurrence of phospho-tau lesions was associated with phospho-synuclein pathology. These observations suggest a link between nigrostriatal synucleinopathy and limbic tau co-pathology, providing pathophysiological insights into PD dementia.",
+    "date": "2026 Aug 22",
+    "pmid": "42631513",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42631513/"
+  },
+  {
+    "title_en": "Cortical-to-pallidal beta cascade underlies network pathophysiology in Parkinson's disease.",
+    "title_zh": "Cortical-to-pallidal beta cascade underlies network pathophysiology in Parkinson's disease.",
+    "journal": "Cell reports. Medicine",
+    "impact_factor": 10.6,
+    "abstract": "Parkinson's disease (PD) motor symptoms are linked to excessive beta band (13-35 Hz) oscillations and basal ganglia-cortical (BGC) synchrony, yet their dynamic inter-relation remains unclear. Based on computational modeling, we hypothesize that transient high-beta (20-35 Hz) BGC coupling induces subcortical low-beta (13-20 Hz) amplification. We recorded intraoperative neural signals from the globus pallidus internus and externus (GPi and GPe, respectively) and motor cortex (M1) in 23 PD patients during deep brain stimulation implantation. High-beta bursts in M1 and GPe were classified as either temporally synchronized or isolated. Synchronous M1-GPe high-beta bursts led by GPe were followed by GPi low-beta amplification, which were not evident with either isolated M1 high-beta bursts or M1-led synchronous bursts. Dopaminergic medication attenuated this GPi low-beta amplification and improved symptoms. These findings suggest that excessive M1 high-beta bursts following GPe high-beta activity trigger a cascade establishing low-beta propagation to GPi, which may contribute to PD motor dysfunction.",
+    "date": "2026 Aug 21",
+    "pmid": "42628526",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628526/"
+  },
+  {
+    "title_en": "Frequency and prognostic outcomes of emergency diagnosis in 13 non-neoplastic conditions in England: A population-based cohort study using linked electronic health records of 1.7 million patients.",
+    "title_zh": "Frequency and prognostic outcomes of emergency diagnosis in 13 non-neoplastic conditions in England: A population-based cohort study using linked electronic health records of 1.7 million patients.",
+    "journal": "PLoS medicine",
+    "impact_factor": 9.9,
+    "abstract": "BACKGROUND: In patients with cancer, diagnosis through or soon after the use of emergency hospital care ('emergency diagnosis') is associated with advanced disease and poor prognosis. The varied and complex reasons for emergency diagnoses-including rapid disease progression, patient factors, and system delays-are unlikely to be unique to cancer. However, little is known about the frequency and prognostic outcomes of emergency diagnosis in other conditions. We aimed to document the frequency of emergency diagnoses across various non-neoplastic conditions and examine the association of emergency diagnosis with clinical outcomes. METHODS AND FINDINGS: We analysed records from linked primary care, secondary care, and death data (Clinical Practice Research Datalink (CPRD), Hospital Episode Statistics, Office for National Statistics) for 1,701,154 patients with one of 13 exemplar conditions (axial spondyloarthritis, coeliac disease, coronary/ischaemic heart disease, chronic obstructive pulmonary disease (COPD), inflammatory bowel disease (IBD), Lyme disease, multiple sclerosis (MS), Parkinson's disease, polycystic ovary syndrome, rheumatoid arthritis, schizophrenia, subacute bacterial endocarditis, and tuberculosis) in England between 1999 and 2019. We examined the percentage of patients diagnosed as an emergency and compared their mortality and time in hospital in the year post-diagnosis with patients who were not diagnosed as an emergency. Emergency diagnosis occurred in at least 20% of patients for 9 out of 13 conditions in our sample, including more than 30% of patients with Parkinson's disease and 35% of patients with COPD. For 9 out of 13 conditions, there was a substantial increase (at least +10% difference) in 1-year mortality in patients diagnosed as an emergency versus patients who were not diagnosed as an emergency. After adjusting for age and year of diagnosis, deprivation, comorbidity burden, and the healthcare setting in which the diagnosis was made, patients diagnosed as an emergency were typically much more likely to die within one year. This association held even in conditions with generally good prognosis, such as coeliac disease (adjusted odds ratio 7.53, 95% CI [5.64, 10.1], women) and IBD (adjusted odds ratio 5.99, 95% CI [5.30, 6.78], men). Similarly large differences were observed for time in hospital in the year post-diagnosis by emergency diagnosis status. For example, adjusted rate ratios of 8.76 (95% CI [6.52, 11.8]) for men with coeliac disease, and 5.59 (95%CI [2.57, 12.2]) for women diagnosed with Lyme disease. The findings were consistent across two subsets of CPRD data (Aurum, GOLD). Analyses of patients with five supplementary cancer sites (brain, colon, lung, pancreas, and ovary) produced findings concordant with prior literature, supporting the validity of the study methods. The main study limitation is the assumption of accurate recording of diagnoses in health records. CONCLUSIONS: Emergency diagnosis is common and associated with worse clinical outcomes in a wide range of conditions with diverse aetiology. Further research and investment to reduce the number of emergency diagnoses is needed, particularly for diseases where diagnosis in community settings should be expected (e.g., rheumatoid arthritis and COPD), and conditions such as coeliac disease, IBD, and MS, where emergency diagnosis is associated with particularly poor outcomes.",
+    "date": "2026 Aug",
+    "pmid": "42640879",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640879/"
+  },
+  {
     "title_en": "Pathological Mutation E46K Acts as an Electrostatic Switch to Increase Distant Interdomain Interactions and Promote alpha‑Synuclein Phase Separation.",
     "title_zh": "Pathological Mutation E46K Acts as an Electrostatic Switch to Increase Distant Interdomain Interactions and Promote alpha‑Synuclein Phase Separation.",
     "journal": "JACS Au",
@@ -30,6 +110,86 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42659615/"
   },
   {
+    "title_en": "Perillaldehyde alleviates Parkinson's disease via the gut microbiota-5-methyltetrahydrofolate-homocysteine methylation axis.",
+    "title_zh": "Perillaldehyde alleviates Parkinson's disease via the gut microbiota-5-methyltetrahydrofolate-homocysteine methylation axis.",
+    "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+    "impact_factor": 8.3,
+    "abstract": "BACKGROUND: Gut microbiota dysbiosis is critically involved in the pathogenesis of Parkinson's disease (PD), yet therapeutic strategies targeting the gut-brain axis remain underexplored. Perillaldehyde (PAH), a natural monoterpene aldehyde primarily extracted from Perilla frutescens, exhibits significant neuroprotective and anti-inflammatory properties in vitro, but its effects on PD in vivo, particularly regarding microbiota-mediated mechanisms, have yet to be fully elucidated. PURPOSE: This study aims to investigate the anti-PD effects of PAH with a specific focus on the role of intestinal flora in it. METHODS: The protective effects of PAH on motor function and dopaminergic neurons were evaluated in a rotenone (ROT)-induced PD mice model using behavioral tests, immunofluorescence, and Western blotting. The involvement of gut microbiota was assessed through 16S rRNA sequencing, antibiotic-induced flora depletion, and fecal microbiota transplantation (FMT). Key metabolites were identified via metabolomics and validated by replenishment assays. The underlying molecular mechanism was further clarified through mitochondrial function analysis and gene knockdown experiments. RESULTS: PAH relieves PD-like pathologies in ROT- induced mice, such as motor disorders, gastrointestinal dysfunction, and nerve damage. FMT and co-housing experiments confirmed that the gut microbiota is essential for PAH's neuroprotective effects. Metabolomic analysis further showed that PAH can increase the levels of 5-methyltetrahydrofolate (5-MTHF) in mice serum. Supplementing 5-MTHF restores the weakened neuroprotective effect of PAH caused by microbiota clearance. Further in vitro mechanistic studies indicated that 5-MTHF improves neuronal mitochondrial dysfunction and alleviates ROT-induced nerve damage by lowering neurotoxic homocysteine (Hcy) levels, while knocking down the methionine synthase (Mtr) eliminates the mitochondrial protection provided by 5-MTHF. CONCLUSION: These findings uncover a gut-brain axis mechanism by which PAH exerts anti-PD effects through enhancing 5-MTHF production, thereby promoting Mtr-mediated Hcy clearance and restoring mitochondrial redox homeostasis.",
+    "date": "2026 Aug 26",
+    "pmid": "42648207",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42648207/"
+  },
+  {
+    "title_en": "Author Correction: Classification of fallers in Parkinson's disease through machine learning based feature analysis.",
+    "title_zh": "Author Correction: Classification of fallers in Parkinson's disease through machine learning based feature analysis.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 24",
+    "pmid": "42637787",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42637787/"
+  },
+  {
+    "title_en": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+    "title_zh": "PSMF1 Variants in a German Parkinson's Disease Cohort.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 26",
+    "pmid": "42649079",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42649079/"
+  },
+  {
+    "title_en": "Decoding Sleep Architecture from Ambulatory Basal Ganglia Signals in Parkinson's Disease.",
+    "title_zh": "Decoding Sleep Architecture from Ambulatory Basal Ganglia Signals in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Sleep architecture and circadian rhythms are frequently disrupted in Parkinson's disease (PD). BrainSense-enabled neurostimulators combined with wearable technology enable chronic assessment of nocturnal brain activity, with potential for future diagnostics and personalized treatments. OBJECTIVES: To neurophysiologically characterize and decode sleep architecture and circadian rhythmicity from ambulatory subthalamic nucleus (STN) recordings in PD and to evaluate the influence of clinical factors. METHODS: Eighteen PD patients implanted with the Medtronic Percept system underwent 4-8 weeks of ambulatory STN local field potential recordings, alongside wearable-based sleep monitoring. Spectral dynamics of three biomarkers (low-frequency-, beta-, and finely-tuned-gamma [FTG]-activity) were characterized across circadian cycles and sleep stages (Awake, Core, Deep, REM [rapid eye movement]). Machine-learning classifiers were developed for state decoding. RESULTS: A total of 3140 hr of representative sleep data were analyzed. All biomarkers exhibited circadian modulation, most evident in beta and FTG activity. REM sleep and nocturnal wakefulness were associated with increased beta/FTG, whereas Deep sleep showed increased low-frequency and reduced beta/FTG. Classifiers showed that beta and FTG decoded circadian states, while low-frequency identified Deep sleep. Bilateral biomarker combination improved prediction. Clinically, greater motor impairment correlated with reduced REM beta power. Levodopa dosage and electrocardiogram artefacts influenced beta-based predictions, whereas age and sleep quality affected FTG-related predictions. CONCLUSIONS: This proof-of-concept study demonstrates that ambulatory basal ganglia recordings from implantable neurostimulators can capture key aspects of sleep stage architecture in PD. Distinct spectral biomarkers show differential sleep insights and practical utility, supporting the development of diagnostic tools and sleep-informed adaptive deep brain stimulation. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 26",
+    "pmid": "42648906",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42648906/"
+  },
+  {
+    "title_en": "Cardiovascular-Kidney-Metabolic Syndrome in neurological and psychiatric disorders: a large multi-national cohort study.",
+    "title_zh": "Cardiovascular-Kidney-Metabolic Syndrome in neurological and psychiatric disorders: a large multi-national cohort study.",
+    "journal": "Brain, behavior, and immunity",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Cardiovascular-Kidney-Metabolic (CKM) syndrome is a pioneering paradigm focused on multisystem homeostasis. Nevertheless, the long-term cerebral manifestations of CKM syndrome and its specific relationship with neuropsychiatric disorders remain poorly understood. METHODS: Data for the study were obtained from Health and Retirement Study, UK Biobank, China Health and Retirement Longitudinal Study, and National Health and Nutrition Examination Survey. The exposures are continuous CKM stages (stages 0-4). The main outcomes were dementia, Parkinson's disease, depression, anxiety, and sleep disorders. Models were adjusted for demographic characteristics, lifestyle factors, and history of cancer. Proteomic signatures, brain structure, epigenetic aging, and inflammatory markers provided clues to the underlying associations. RESULTS: A total of 321,107 participants aged >/=45 years were included in the analysis. Advanced CKM syndrome exhibited higher risks of five disorders (Stage 4 in UK Biobank: HR, 95%CI: 1.91, 1.79-2.04 in dementia; 1.62, 1.45-1.80 in Parkinson's disease; 1.75, 1.66-1.84 in depression; 2.33, 2.18-2.48 in sleep disorders; 1.48, 1.40-1.56 in anxiety). CKM syndrome was associated with accelerated phenotypic aging and reduced volumes in the parietal, temporal, and orbitofrontal lobes. Enrichment analysis identified the \"Cytokine-cytokine receptor interaction\" pathway as a top enriched pathway in both disease clusters, highlighting the central role of immune-inflammatory signaling. Inflammatory markers, phenotypic aging, and certain proteins (GDF15 and PLAUR) may partly mediate the associations of CKM syndrome with these outcomes. CONCLUSIONS: Results of this study revealing the robust and persistent association of CKM stages with neurological and psychiatric disorders suggest that early intervention may be important for cognitive performance and emotional well-being in middle-aged and older adults.",
+    "date": "2026 Aug 25",
+    "pmid": "42641671",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42641671/"
+  },
+  {
+    "title_en": "Phase 2a Randomized Controlled Trial of TPN-101, A Nucleoside Reverse Transcriptase Inhibitor, in Progressive Supranuclear Palsy.",
+    "title_zh": "Phase 2a Randomized Controlled Trial of TPN-101, A Nucleoside Reverse Transcriptase Inhibitor, in Progressive Supranuclear Palsy.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Preclinical and human brain postmortem studies indicate that progressive supranuclear palsy (PSP) is associated with increased expression of the retrotransposon Long Interspersed Nuclear Element-1 (L1Hs). L1Hs activity initiates an innate immune response that leads to neuroinflammation and neurodegeneration, which can be attenuated by inhibiting the L1Hs-encoded reverse transcriptase. TPN-101 is a potent inhibitor of the L1Hs reverse transcriptase. OBJECTIVE: The objective of this study was to assess the safety, pharmacokinetics, and biomarker and clinical effects of TPN-101 in patients with PSP. METHODS: A double-blind, placebo-controlled, parallel-group study randomly assigned patients with probable PSP to receive TPN-101 100, 200, or 400 mg, or placebo daily for 24 weeks. Following the double-blind period, all patients received open-label TPN-101 400 mg daily for 24 weeks. The primary outcome was the incidence and severity of treatment-emergent adverse events. Biomarker, clinical, and TPN-101 pharmacokinetic assessments were conducted throughout the study. RESULTS: Forty-two patients were randomly assigned to TPN-101 100 mg (N = 11), 200 mg (N = 10), 400 mg (N = 11), or placebo (N = 10). TPN-101 was well tolerated, with no notable safety differences between any drug dose and placebo. Greater reductions in cerebrospinal fluid levels of neurofilament light chain with increasing dose were seen in patients taking TPN-101 during the double-blind period, compared with an increase in the placebo arm. There were no differences among the treatments on the Progressive Supranuclear Palsy Rating Scale during the double-blind period. CONCLUSIONS: The safety, pharmacokinetics, and reductions in biomarkers of neuroinflammation and neurodegeneration warrant future trials powered to detect clinical effects of TPN-101 in PSP. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 21",
+    "pmid": "42626922",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42626922/"
+  },
+  {
+    "title_en": "Neuronal Antibodies in Patients With Atypical Parkinsonism.",
+    "title_zh": "Neuronal Antibodies in Patients With Atypical Parkinsonism.",
+    "journal": "Neurology(R) neuroimmunology & neuroinflammation",
+    "impact_factor": 7.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: Patients with antibody-associated movement disorders sometimes lack specific features of autoimmune diseases and can therefore be misdiagnosed, for example, as neurodegenerative diseases. A well-known example is anti-IgLON5 disease, which may mimic atypical parkinsonian (AP) syndromes. Our objectives were (1) to test different cohorts of patients with suspected AP for anti-IgLON5 and other neuronal antibodies and (2) to describe the characteristics of AP in anti-IgLON5 disease. METHODS: We performed a retrospective observational cohort study in which we screened 5 cohorts of patients with AP syndromes for antibodies by immunohistochemistry. Positive results were evaluated with additional techniques including human live neurons. We also reviewed all Dutch patients with anti-IgLON5 disease for parkinsonian features. RESULTS: We identified 719 patients with AP syndromes, of which 532 had available serum or CSF. Seven (1.3%) had antibody-associated disorders (2 anti-IgLON5, 1 anti-IgLON5/anti-NMDAR, 1 anti-Caspr2, 1 anti-CV2, 1 anti-Hu, and 1 anti-CV2/anti-Hu). All but 1 of these patients were already suspected of an autoimmune cause.Furthermore, we identified 30 Dutch patients with anti-IgLON5 disease. Twelve (40%) had AP features, but 11 of the 12 patients also had additional features that differentiated them from classical AP (prominent sleep apnea in 10, neuromuscular symptoms in 6, and chorea in 3). The phenotype of the last patient was clinically indistinguishable from idiopathic Parkinson disease (with probable concurrent mild anti-IgLON5 disease). We also found 8 patient cases falsely identified as anti-IgLON5 positive using a commercial cell-based assay. DISCUSSION: Routine testing for anti-IgLON5 or other neuronal antibodies in AP is not recommended. Rather, careful clinical phenotyping is essential to uncover additional features that might suggest an underlying antibody-associated disease in selected patient cases.",
+    "date": "2026 Sep",
+    "pmid": "42636415",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42636415/"
+  },
+  {
+    "title_en": "Global patterns of clozapine prescribing: An international comparison of prescribing indications across 15 regions.",
+    "title_zh": "Global patterns of clozapine prescribing: An international comparison of prescribing indications across 15 regions.",
+    "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+    "impact_factor": 6.7,
+    "abstract": "Evidence of clozapine's transdiagnostic benefits beyond schizophrenia spectrum disorders (SSDs) is increasing. Whether this has impacted clozapine usage patterns in practice is yet to be assessed. This study aims to examine the range of indications associated with clozapine prescribing internationally and explore cross-country variation in the distribution of utilisation across diagnostic categories. Information on prescribing indication was obtained using the IQVIA Multinational Integrated Data Analysis System (MIDAS) Disease Insights database. The database contained information on indications recorded for clozapine prescribing in 55 countries and 15 regions. Prescribing indications for clozapine were obtained by IQVIA through a combination of (1) electronic medical records, (2) prescription and claims data, and (3) patient medication records. Results were analysed descriptively. Collectively, prescribing of clozapine was most commonly recorded within SSDs (82.3%). Clozapine prescribing within non-SSDs accounted for approximately 18% of all indications recorded; mood disorders (13.6%), anxiety disorders (2.5%), movement disorders (1.1%), epilepsy (0.4%), and dementia (0.1%). Bipolar disorder (59.3%) was the most commonly recorded prescribing indication within mood disorder management. Substantial interregional variation in utilisation trends were apparent. Recorded clozapine prescribing within non-SSDs was highest in African and Asian regions, accounting for an average of 34.3% and 21% of all recorded indications within each region respectively. In conclusion, substantial use of clozapine outside of SSDs was identified, with approximately 1 in 5 recorded indications occurring for a non-SSD indication. International guidance considering the availability and quality of evidence supporting clozapine use more broadly in psychiatry is now required to promote rationale, evidence-based use.",
+    "date": "2026 Aug 21",
+    "pmid": "42628494",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42628494/"
+  },
+  {
     "title_en": "Mitochondrial Ca(2+) Influx via MCU-1 Contributes to Oxidative Mitochondrial Defects in PDR-1/Parkin-Deficient Caenorhabditis elegans Body-Wall Muscle.",
     "title_zh": "Mitochondrial Ca(2+) Influx via MCU-1 Contributes to Oxidative Mitochondrial Defects in PDR-1/Parkin-Deficient Caenorhabditis elegans Body-Wall Muscle.",
     "journal": "Antioxidants (Basel, Switzerland)",
@@ -38,5 +198,105 @@
     "date": "2026 Aug 21",
     "pmid": "42650307",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42650307/"
+  },
+  {
+    "title_en": "Mechanism analysis of MPTP-induced Parkinson's disease-like pathology via the HPA axis-microglial glucocorticoid receptor pathway.",
+    "title_zh": "Mechanism analysis of MPTP-induced Parkinson's disease-like pathology via the HPA axis-microglial glucocorticoid receptor pathway.",
+    "journal": "Ecotoxicology and environmental safety",
+    "impact_factor": 6.1,
+    "abstract": "MPTP (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) is a neurotoxicant widely used to model Parkinson's disease (PD). However, the mechanisms by which MPTP induces neuroinflammation and dopaminergic (DA) degeneration via the hypothalamic-pituitary-adrenal (HPA) axis remain incompletely understood. In this study, we established a mouse model of MPTP-induced neurotoxicity to investigate the associated pathological changes and underlying mechanisms. Behavioral assessments, Nissl staining, immunofluorescence, immunohistochemistry, ELISA, and Western blotting were employed. MPTP exposure significantly impaired motor coordination, reduced neuronal viability, and led to the loss of tyrosine hydroxylase (TH)-positive DA neurons in the substantia nigra (SN). MPTP also activated the HPA axis, as evidenced by elevated levels of corticotropin-releasing hormone (CRH), adrenocorticotropic hormone (ACTH), their respective receptors (CRHR, ACTHR), and glucocorticoids (GCs), along with reduced glucocorticoid receptor (GR) expression. Furthermore, MPTP promoted microglial activation and microglia-mediated neuroinflammation, characterized by upregulated expression of iNOS, TNF-alpha, IL-1beta, and IL-6, and downregulated expression of Arg-1 and IL-10. Electroacupuncture (EA) intervention reversed these pathological changes. Notably, pharmacological activation of the HPA axis with Urocortin III counteracted the protective effects of EA, resulting in renewed DA neuron loss, reduced microglial GR expression, and exacerbated neuroinflammation. In summary, MPTP-induced PD is accompanied by HPA axis overactivation and downregulation of microglial GR signaling, suggesting that this pathway contributes to MPTP neurotoxicity. EA reversed these pathological changes. These findings provide new insights into the pathogenesis of environmental neurotoxin-induced PD.",
+    "date": "2026 Aug 26",
+    "pmid": "42648037",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42648037/"
+  },
+  {
+    "title_en": "The interplay of air pollution with plasma neurodegenerative markers and metabolome for dementia, Parkinson's disease and all-cause mortality risks and transitions: The UK Biobank study.",
+    "title_zh": "The interplay of air pollution with plasma neurodegenerative markers and metabolome for dementia, Parkinson's disease and all-cause mortality risks and transitions: The UK Biobank study.",
+    "journal": "Ecotoxicology and environmental safety",
+    "impact_factor": 6.1,
+    "abstract": "We investigated the joint associations of circulating neurodegeneration markers-neurofilament light (NfL) and glial fibrillary acidic protein (GFAP)-ambient air pollution, and plasma metabolomic profiles with transitions from a healthy state to dementia, Parkinson's disease (PD), and all-cause mortality in the UK Biobank. The analytic sample included 19,645 participants aged >/= 50 years with complete proteomic, metabolomic, and environmental data. Time-to-event analyses used Cox proportional hazards and multistate Weibull models to evaluate associations and statistical interactions across health transitions. Higher NfL concentrations were associated with increased risks of transitions from healthy to PD, dementia, and death, whereas higher GFAP concentrations were specifically associated with dementia (HR = 2.65, 95% CI: 2.17-3.25). At the nominal level, particulate matter (PM(2.5), PM(10)) showed positive statistical interactions with NfL for mortality, while nitrogen oxides (NO(2)/NO(x)) showed negative interactions with GFAP. There was little evidence of interaction between PM(2.5) and either biomarker for dementia. Metabolomic principal components reflecting lipid, amino acid, and energy pathways were associated with variation in the relationships of NfL and GFAP with dementia and mortality and interacted with PM(2.5) for PD and dementia. A branched-chain amino acid-related component showed a negative interaction with GFAP for dementia, indicating weaker associations at higher levels. These findings highlight complex relationships linking air pollution, metabolic dysregulation, and neurodegeneration, and support integrative multi-omics approaches to identify pathways relevant to prevention of neurodegenerative diseases and premature mortality.",
+    "date": "2026 Aug 22",
+    "pmid": "42632170",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42632170/"
+  },
+  {
+    "title_en": "Comparative risks of dementia and Parkinson's disease with GLP-1 RAs versus other oral glucose-lowering medications in obese patients with type 2 diabetes: a large real-world cohort study.",
+    "title_zh": "Comparative risks of dementia and Parkinson's disease with GLP-1 RAs versus other oral glucose-lowering medications in obese patients with type 2 diabetes: a large real-world cohort study.",
+    "journal": "European journal of internal medicine",
+    "impact_factor": 6.1,
+    "abstract": "OBJECTIVE: This study evaluates dementia and Parkinson's disease (PD) risk among patients with type 2 diabetes (T2D) and obesity initiating GLP-1 receptor agonists (GLP-1 RAs) compared with other oral glucose-lowering medications, addressing the unclear comparative neurocognitive effects despite GLP-1 RAs' neuroprotective potential in preclinical studies. RESEARCH DESIGN AND METHODS: This historical prospective cohort study used electronic health records from Clalit Health Services. Adults with T2D and obesity (body mass index [BMI] >/=30 kg/m(2)) initiating non-insulin glucose-lowering medications between 2008-2021 were included. After exclusions and 1:1 nearest-neighbor matching, the final cohort comprised 46,962 patients. Associations were assessed using Cox proportional hazards models. RESULTS: Among 46,962 matched participants (mean age, 62.8 years; 52.6% women), median follow-up period was 7 years. Dementia occurred in 1125 GLP-1 RA users (4.8%) and 1822 non-GLP-1 users (7.8%) (adjusted hazard ratio [HR], 0.86 (0.75-0.99)). PD occurred in 231 GLP-1 RA users (1.0%) and 338 non-GLP-1 users (1.4%) (0.90 (0.67-1.22)). In the secondary analysis, GLP-1 RA use was associated with lower risks of dementia compared with sulfonylureas (0.75 (0.61-0.93)) and PD (0.56 (0.36-0.86)). No significant differences were observed compared with DPP-4 inhibitors or SGLT2 inhibitors. Subgroup analyses showed stronger protective associations for dementia among women (0.78 (0.65-0.94)) and participants aged >/=65 years (0.82 (0.69-0.97)). CONCLUSIONS: The use of GLP-1 RAs was associated with a lower risk of dementia compared with other glucose-lowering therapies. These findings support the neuroprotective potential of GLP-1 RAs and highlight the importance of incorporating brain health into diabetes management strategies.",
+    "date": "2026 Aug 21",
+    "pmid": "42629262",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629262/"
+  },
+  {
+    "title_en": "The neuroimmune network in Alzheimer's and Parkinson's diseases: from mechanistic insights to biomarker-guided immunotherapies and clinical translation.",
+    "title_zh": "The neuroimmune network in Alzheimer's and Parkinson's diseases: from mechanistic insights to biomarker-guided immunotherapies and clinical translation.",
+    "journal": "Inflammopharmacology",
+    "impact_factor": 5.3,
+    "abstract": "Neurodegenerative disorders such as Alzheimer's (AD) and Parkinson's (PD) have traditionally been examined from the perspectives of neurons or microglia, resulting in constrained therapeutic achievements. Recent findings endorse a cohesive neuroimmune framework in which central nervous system (CNS)-resident microglia, border-associated macrophages, clonally proliferated CD8(+) T cells, and peripheral signaling centers (IL-20 family, gut-brain axis) perpetuate chronic maladaptive inflammation via feed-forward mechanisms. This review critically examines investigational immunotherapies aimed at this network: the CNS‑penetrant NLRP3 inhibitor NT-0796 (Phase 1b/2a) demonstrated preliminary biomarker reductions in axonal damage and T-cell activation in PD but remains unapproved and necessitates further confirmatory trials; the anti‑SIGLEC10 antibody ONC-841 improved microglial phagocytosis of Abeta and tau in preclinical studies but has yet to commence human trials; and CAR‑based platforms (CAR-T/NK) remain in the nascent preclinical phase, facing significant delivery and toxicity challenges. A three-part biomarker framework, encompassing target engagement (CSF IL-1beta, caspase-1), pharmacodynamic responses (neurofilament light chain, ASC specks), and predictive endotyping (T-cell clonality, complement profiles), is proposed to facilitate patient stratification by neuroimmune endotype. None of these agents have received regulatory approval for neurodegenerative conditions; all findings are preliminary. Effective immunotherapy may ultimately necessitate multi-node, network-aware combinations (e.g., inflammasome inhibition coupled with Treg augmentation) rather than single-target suppression. Embracing this complexity offers a roadmap for future disease-modifying therapies, though rigorous clinical validation remains essential.",
+    "date": "2026 Aug 21",
+    "pmid": "42627617",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627617/"
+  },
+  {
+    "title_en": "Effects of alpha-Synuclein on the Lipid Phenotype of SZ95 Human Sebocytes: A Preliminary Study in the Context of Parkinson's Disease.",
+    "title_zh": "Effects of alpha-Synuclein on the Lipid Phenotype of SZ95 Human Sebocytes: A Preliminary Study in the Context of Parkinson's Disease.",
+    "journal": "Cells",
+    "impact_factor": 5.2,
+    "abstract": "Pathological aggregation of alpha-synuclein (alphaSyn) is a hallmark of Parkinson's disease (PD), but increasing evidence indicates that alphaSyn deposits extend beyond the central nervous system to peripheral tissues, including the skin. In PD patients, cutaneous alphaSyn accumulation has been associated with seborrheic dermatitis (SD), a chronic inflammatory condition linked to sebocyte dysfunction and altered sebum production. Marked differences in sebum composition between PD patients and healthy controls have been described. We aimed to investigate whether pathological alphaSyn could contribute to dysregulated sebum production and composition by assessing key markers of sebocyte differentiation and lipogenesis in human sebaceous gland cells and skin biopsies from PD patients (n = 5) and matched controls (n = 5) without clinically recorded SD. O-alphaSyn exposure of immortalized sebaceous gland cells (SZ95) altered the transcriptional programs related to sebocyte differentiation, inflammation, metabolism, and lipogenesis. Consistently, protein markers of mid-to-late sebocyte differentiation were increased. Upregulation of PLIN2, together with elevated PPARgamma, SREBP1, SCD1, and FADS2, indicated progression toward a mature and lipid-producing phenotype characterized by enhanced accumulation of neutral lipids within lipid droplets. Lipidomic profiling revealed remodeling of multiple lipid classes, with increases in triglycerides, ceramides, and selected phospholipids. Increased expression of PLIN2 and PPARgamma was also observed in sebaceous glands from PD skin biopsies compared to controls. Collectively, our findings indicate that O-alphaSyn exposure is associated with molecular changes consistent with altered sebocyte differentiation and lipid remodeling. These results support a potential association between alphaSyn and lipid dysregulation in sebocytes and suggest that these cells may represent unrecognized peripheral targets of alphaSyn.",
+    "date": "2026 Aug 21",
+    "pmid": "42645231",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42645231/"
+  },
+  {
+    "title_en": "Serotonin content and uptake in platelets can distinguish Parkinson's disease from control patients and essential tremor.",
+    "title_zh": "Serotonin content and uptake in platelets can distinguish Parkinson's disease from control patients and essential tremor.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "We have demonstrated that platelets from Parkinson's disease patients exhibit impaired serotonin uptake and release. This seems to be caused by a dysfunction in secretory vesicles (SecVs), which share the mechanisms of accumulation with dopaminergic neurons. As a working hypothesis, this dysfunction may create an excess of dopamine causing neurotoxicity a process absent in other conditions like Essential Tremor or Essential Tremor Plus. The serotonin functional analysis in platelets is a potential tool to reduce misdiagnosis.To validate this, we performed a functional study using liquid chromatography (UHPLC) to analyze serotonin content, uptake, and secretion in platelets from 50 Parkinson's disease patients, 23 essential tremor, 17 essential tremor plus, and 50 controls.Parkinson's disease patients show impaired platelet serotonin content and uptake vs. Controls (P < 0.001), essential tremor (P < 0.01) and essential tremor plus (P < 0.05), ANOVA. Notably, no significant differences were found between controls and essential tremor nor essential tremor plus; although, essential tremor plus manifested mild serotonin storage dysfunction.Platelet serotonin dysfunction reflects distinct pathological origins between Parkinson's disease and other tremor syndromes, suggesting that platelet serotonin analysis is a viable and objective tool for differential diagnosis between Parkinson's disease and tremor syndromes.",
+    "date": "2026 Aug 26",
+    "pmid": "42648890",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42648890/"
+  },
+  {
+    "title_en": "Impaired olfaction and Parkinsonism: A \"hidden gem\" in the neurological literature.",
+    "title_zh": "Impaired olfaction and Parkinsonism: A \"hidden gem\" in the neurological literature.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Though impaired olfaction in Parkinson disease is now a widely accepted characteristic of this disorder, this discovery arose from several international case reports preceding the first formal research on this topic (conducted in 1975 by Ansari and Johnson). The clinical observations have supplemented findings by Braak and colleagues demonstrating that, like impaired sense of smell, olfactory bulb involvement by Lewy pathology is a common early feature in Parkinson disease.",
+    "date": "2026 Aug 26",
+    "pmid": "42647114",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42647114/"
+  },
+  {
+    "title_en": "Low vs high frequency deep brain stimulation for Parkinson's disease-associated motor symptoms: A systematic review and meta-analysis of randomized control trials.",
+    "title_zh": "Low vs high frequency deep brain stimulation for Parkinson's disease-associated motor symptoms: A systematic review and meta-analysis of randomized control trials.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "PurposeDeep brain stimulation (DBS) is an established treatment for motor symptoms in Parkinson's Disease (PD), but the optimal stimulation frequency remains uncertain. Previous studies have suggested that low and high frequency DBS may produce different clinical effects. This study aimed to compare the effects of low versus high frequency DBS on motor outcomes in PD.MethodsA systematic review and meta-analysis of randomized controlled trials was conducted. PubMed, Ovid, CINAHL, Clinicaltrials.gov and the Cochrane Library were searched from 2010 to November 26, 2025. Studies comparing low and high frequency DBS in patients with PD were included. Motor outcomes were pooled using a random-effects model, and subgroup analyses were performed based on age and disease duration.ResultsA total of 15 randomized controlled trials involving 416 participants were included. Overall, no significant difference in motor outcomes was observed between low and high frequency DBS. Subgroup analysis based on age showed no significant effect modification. However, subgroup analysis suggested greater improvement with high frequency DBS in patients with shorter disease duration, whereas no significant difference was observed in those with longer disease duration. Sensitivity analyses demonstrated that these findings were robust. Additionally, tremor improvement favored the use of HFDBS.ConclusionHigh and low frequency DBS appear to provide comparable overall motor benefit in PD. Stimulation frequency may have differential effects depending on disease duration, although these findings should be interpreted cautiously. Further prospective trials are needed to determine optimal programming strategies across disease stages.RegistrationThis study was registered on PROSPERO (CRD420251238009).",
+    "date": "2026 Aug 26",
+    "pmid": "42647110",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42647110/"
+  },
+  {
+    "title_en": "Kinetic-rest tremor dominance for differentiating dystonic tremor from Parkinson's disease.",
+    "title_zh": "Kinetic-rest tremor dominance for differentiating dystonic tremor from Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundDifferentiating dystonic tremor (DT) from Parkinson's disease (PD) remains challenging, particularly when dystonic signs are subtle, and DT is a major contributor to scans without evidence of dopaminergic deficit. Although dopamine transporter imaging can support the distinction, it is costly and not universally accessible. Simple diagnostic indicators less reliant on subjective clinical interpretation are needed.MethodsIn a dopamine transporter imaging-supported cohort (n = 102; DT, 51; PD, 51), we used accelerometry to characterize ordinal patterns of tremor amplitude across rest, postural, and kinetic (spiral drawing) conditions. Candidate ordinal rules were evaluated, and the rule with the highest classification accuracy was selected for subsequent blinded visual assessment by three raters within the same cohort.ResultsAccelerometry showed greater kinetic tremor amplitude in DT and greater rest tremor amplitude in PD, whereas postural tremor amplitude did not differ significantly between groups. Among candidate ordinal rules, the pairwise comparison of kinetic versus rest tremor amplitude achieved the highest overall diagnostic performance for identifying DT (90% sensitivity, 85% specificity, 88% accuracy). Blinded visual classification of this rule showed excellent inter-rater agreement (Fleiss' kappa = 0.92), high concordance with accelerometer-based classification (Cohen's kappa = 0.86), and 90% sensitivity, 88% specificity, and 89% accuracy.ConclusionsA simple visual comparison of tremor amplitude during spiral drawing versus at rest required no specialized equipment and showed high reproducibility in blinded ratings. Although probabilistic and requiring validation in independent cohorts, this approach may serve as a practical bedside adjunct for distinguishing DT from PD.",
+    "date": "2026 Aug 25",
+    "pmid": "42640743",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640743/"
+  },
+  {
+    "title_en": "Global research synergy: Advancing fundamental Parkinson's research through international collaboration.",
+    "title_zh": "Global research synergy: Advancing fundamental Parkinson's research through international collaboration.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundThe remarkable advances achieved in Parkinson's disease (PD) research across clinical science, genetics, molecular and cellular mechanisms, disease modeling, pathophysiology, biomarkers, and therapeutics reflect not only scientific innovation but also the evolution of collaborative research. The field has transitioned from single-investigator observations and isolated institutional efforts to regional networks and global consortia that now drive many of the most important PD discoveries.ObjectiveTo review the evolution of collaborative research approaches in PD, examine barriers and challenges to global research synergy, and discuss potential solutions to promote equitable and impactful international collaboration.State of the Art and Future DirectionsKey challenges to global PD research include funding inequities, regulatory and data-sharing complexities, difficulties in standardization and generalizability, language barriers, limited interdisciplinary communication, unequal resource allocation, insufficient training opportunities, regional mistrust, and the need to address diverse cultural contexts. Successful international initiatives have demonstrated the value of shared databases, harmonized protocols, cross-border funding mechanisms, and synergistic multidisciplinary, multicultural, and multinational partnerships. Future efforts should be grounded in trust, transparency, ethical reciprocity, equitable governance, and meaningful stakeholder engagement, while prioritizing capacity building, workforce development, and sustainable training opportunities.ConclusionsAccelerating progress in PD research requires collaborative frameworks that integrate diverse populations, disciplines, institutions, and regions. Strengthening research infrastructure, community engagement, culturally grounded education, participant-centered research practices, and scientific leadership, particularly in low- and middle-income countries, will be essential to ensure that all populations can contribute to and benefit from scientific advances, fostering a more equitable and effective global PD research ecosystem.",
+    "date": "2026 Aug 21",
+    "pmid": "42627362",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42627362/"
   }
 ]

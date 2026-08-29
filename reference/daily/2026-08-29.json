@@ -1,0 +1,22 @@
+[
+  {
+    "title_en": "A New agent in the matrix: PINK1's expanded role in mitochondrial surveillance and Regulation.",
+    "title_zh": "A New agent in the matrix: PINK1's expanded role in mitochondrial surveillance and Regulation.",
+    "journal": "Autophagy",
+    "impact_factor": 14.3,
+    "abstract": "The identification of pathogenic autosomal recessive mutations in the gene encoding the PINK1 kinase provided early evidence linking mitochondrial dysfunction to neurodegeneration - in this case Parkinson's Disease. PINK1 has since become synonymous with mitophagy, with the prevailing model proposing two alternative fates. The first being partial import - inner-membrane penetration of its transmembrane domain (TMD) - followed by PARL-mediated cleavage and degradation. This happens in healthy mitochondria with a high membrane potential (DeltaPsi) across the inner-membrane - required for passage of proteins into or across the inner-membrane. The second being surface stabilization, Parkin activation and initiation of mitophagy upon membrane depolarization. But what if PINK1 acts in active mitochondria as well? Our recent work identifies a third fate - matrix entry! The findings expand the biology of PINK1 beyond mitochondrial surveillance for quality control alone. They suggest an additional mitophagy-independent regulatory role within the matrix, which turns out to be governed by the unusual properties of its TMD for the conferral of a decisive conformational switch.",
+    "date": "2026 Aug 28",
+    "pmid": "42663105",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42663105/"
+  },
+  {
+    "title_en": "From neuroinflammation to immune reprogramming: Nanozyme-Integrated nanoplatforms for neuroimmune modulation in Parkinson's disease.",
+    "title_zh": "From neuroinflammation to immune reprogramming: Nanozyme-Integrated nanoplatforms for neuroimmune modulation in Parkinson's disease.",
+    "journal": "Materials today. Bio",
+    "impact_factor": 10.2,
+    "abstract": "Parkinson's disease (PD) is a progressive neuroimmune disorder in which dysregulated neuron-glia-immune crosstalk drives chronic neuroinflammation, alpha-synuclein pathology, blood-brain barrier dysfunction, and mitochondrial failure, establishing interconnected neuroimmune pathways as therapeutic targets. Aberrant neuron-immune crosstalk promotes chronic neuroinflammation, oxidative stress, mitochondrial dysfunction, blood-brain barrier (BBB) disruption, and alpha-synuclein pathology, thereby accelerating neurodegeneration. Understanding these interconnected mechanisms has identified multiple neuroimmune pathways as promising therapeutic targets. This review summarizes the cellular and molecular basis of physiological and pathological neuron-immune communication in PD, highlighting the roles of microglial activation, astrocyte reactivity, adaptive immune responses, inflammatory signaling networks, and neurovascular dysfunction. We further discuss emerging neuroimmune-targeted interventions aimed at restoring immune homeostasis and slowing disease progression. Particular emphasis is placed on nanozyme-integrated nanoplatforms that function simultaneously as nanozymatic catalysts and immunomodulatory adjuvants, including enzyme-mimetic nanozymes (SOD/CAT/GPx-like), single-atom catalysts, and nanozyme-integrated nanoplatforms. These platforms not only scavenge reactive oxygen species, degrade alpha-synuclein aggregates, and reinforce BBB integrity through localized catalytic reactions, but also reprogram innate and adaptive immune responses by modulating microglial polarization toward neuroprotective phenotypes, suppressing pro-inflammatory cytokine cascades (TNF-alpha, IL-1beta, IL-6), and supporting regulatory T cell (Treg) responses. We examine how these nanozyme-integrated nanoplatforms can be combined with lipid-based nanoparticles, polymeric carriers, biomimetic systems, and extracellular vesicles (EVs) to achieve synergistic targeted drug delivery, gene modulation, neuroprotection, and neural repair. Finally, we address the translational challenges and prospects for merging neuroimmunology, nanocatalysis, and adjuvant engineering in PD therapy.",
+    "date": "2026 Oct",
+    "pmid": "42662413",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42662413/"
+  }
+]
