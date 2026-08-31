@@ -1,0 +1,132 @@
+[
+  {
+    "title_en": "A self-assembled peptide forms alpha-helical nanopores for ultrasensitive biomarker profiling.",
+    "title_zh": "A self-assembled peptide forms alpha-helical nanopores for ultrasensitive biomarker profiling.",
+    "journal": "Nature nanotechnology",
+    "impact_factor": 34.9,
+    "abstract": "alpha-Helical nanopores are attractive molecular sensors, yet their rational design and assembly remain challenging. Here we show that the single peptide pPorA, derived from porin PorACj, self-assembles into flexible alpha-helical nanopores, inserts in lipid membranes and exists in distinct small- and large-conductance states. By strategically incorporating unnatural amino acids, we engineered small- and large-diameter pores exhibiting single-channel conductances of 2.4 nS and 3.5 nS in 1 M KCl, respectively, while retaining a common octameric architecture. These nanopores enabled the detection of sugars, peptide enantiomers and intrinsically disordered disease proteins that form dynamic, heterogeneous assemblies. The large pores detected multiple alpha-synuclein (alpha-syn) variants, including a pathogenic Parkinson's disease-associated C-terminal deletion mutant with nanomolar affinity (K(D)  approximately  20 nM). Selective electrostatic trapping of the alpha-syn N-terminus enabled charge-resolved identification of individual alpha-syn species within heterogeneous mixtures. The nanopores further resolved time-dependent and inhibitor-modulated alpha-syn aggregation pathways from monomers to toxic oligomers and fibrils. The small pores detected humanin and superoxide dismutase peptides associated with apoptosis and amyotrophic lateral sclerosis, demonstrating tunable sensing through pore-size control. These conformationally programmable alpha-helical nanopores provide a versatile platform for ultrasensitive profiling of disease biomarkers.",
+    "date": "2026 Aug 28",
+    "pmid": "42665653",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665653/"
+  },
+  {
+    "title_en": "A New agent in the matrix: PINK1's expanded role in mitochondrial surveillance and Regulation.",
+    "title_zh": "A New agent in the matrix: PINK1's expanded role in mitochondrial surveillance and Regulation.",
+    "journal": "Autophagy",
+    "impact_factor": 14.3,
+    "abstract": "The identification of pathogenic autosomal recessive mutations in the gene encoding the PINK1 kinase provided early evidence linking mitochondrial dysfunction to neurodegeneration - in this case Parkinson's Disease. PINK1 has since become synonymous with mitophagy, with the prevailing model proposing two alternative fates. The first being partial import - inner-membrane penetration of its transmembrane domain (TMD) - followed by PARL-mediated cleavage and degradation. This happens in healthy mitochondria with a high membrane potential (DeltaPsi) across the inner-membrane - required for passage of proteins into or across the inner-membrane. The second being surface stabilization, Parkin activation and initiation of mitophagy upon membrane depolarization. But what if PINK1 acts in active mitochondria as well? Our recent work identifies a third fate - matrix entry! The findings expand the biology of PINK1 beyond mitochondrial surveillance for quality control alone. They suggest an additional mitophagy-independent regulatory role within the matrix, which turns out to be governed by the unusual properties of its TMD for the conferral of a decisive conformational switch.",
+    "date": "2026 Aug 28",
+    "pmid": "42663105",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42663105/"
+  },
+  {
+    "title_en": "Targeting glycine transporter type 1 (GlyT1) in epilepsy: Pathophysiological rationale and therapeutic perspectives.",
+    "title_zh": "Targeting glycine transporter type 1 (GlyT1) in epilepsy: Pathophysiological rationale and therapeutic perspectives.",
+    "journal": "Pharmacology & therapeutics",
+    "impact_factor": 12.5,
+    "abstract": "Glycine transporter type 1 (GlyT1) plays a crucial role in regulating extracellular glycine concentrations, thereby maintaining the balance between excitatory and inhibitory neurotransmission in the central nervous system. GlyT1 is expressed predominantly in astrocytes, as well as in neurons, throughout most regions of the mammalian brain, and dysregulation of glycinergic transmission has been implicated in the pathophysiology of several neurological and neuropsychiatric disorders, including schizophrenia, autism spectrum disorder, Parkinson's disease, chronic pain, and epilepsy. Preclinical studies indicate that selective inhibition of GlyT1 can elevate seizure thresholds, modulate hippocampal network activity, and influence epigenetic mechanisms involved in epileptogenesis. In this review, we provide a comprehensive and critical overview of current evidence on GlyT1 as a potential molecular target for antiseizure therapy, highlighting research gaps and future directions. Despite these promising findings, the therapeutic potential of GlyT1 inhibitors remains largely unexplored in chronic and drug-resistant epilepsy models. Moreover, excessive extracellular glycine may overactivate NMDA receptors, posing a risk of adverse effects, including increased seizure susceptibility. Altogether, the preclinical data support the notion that balanced inhibition of GlyT1 may represent a novel mechanistic strategy for the treatment of epilepsy. However, further studies are required to establish its clinical efficacy, optimal dosing, safety profile, and overall therapeutic potential.",
+    "date": "2026 Aug 29",
+    "pmid": "42668023",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42668023/"
+  },
+  {
+    "title_en": "A retrospective cohort study using the Veterans Affairs Cancer Registry database: Increased hazard of Parkinson's disease in United States Veterans with melanoma.",
+    "title_zh": "A retrospective cohort study using the Veterans Affairs Cancer Registry database: Increased hazard of Parkinson's disease in United States Veterans with melanoma.",
+    "journal": "Journal of the American Academy of Dermatology",
+    "impact_factor": 11.8,
+    "abstract": "暂无摘要",
+    "date": "2026 Aug 27",
+    "pmid": "42660431",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42660431/"
+  },
+  {
+    "title_en": "From neuroinflammation to immune reprogramming: Nanozyme-Integrated nanoplatforms for neuroimmune modulation in Parkinson's disease.",
+    "title_zh": "From neuroinflammation to immune reprogramming: Nanozyme-Integrated nanoplatforms for neuroimmune modulation in Parkinson's disease.",
+    "journal": "Materials today. Bio",
+    "impact_factor": 10.2,
+    "abstract": "Parkinson's disease (PD) is a progressive neuroimmune disorder in which dysregulated neuron-glia-immune crosstalk drives chronic neuroinflammation, alpha-synuclein pathology, blood-brain barrier dysfunction, and mitochondrial failure, establishing interconnected neuroimmune pathways as therapeutic targets. Aberrant neuron-immune crosstalk promotes chronic neuroinflammation, oxidative stress, mitochondrial dysfunction, blood-brain barrier (BBB) disruption, and alpha-synuclein pathology, thereby accelerating neurodegeneration. Understanding these interconnected mechanisms has identified multiple neuroimmune pathways as promising therapeutic targets. This review summarizes the cellular and molecular basis of physiological and pathological neuron-immune communication in PD, highlighting the roles of microglial activation, astrocyte reactivity, adaptive immune responses, inflammatory signaling networks, and neurovascular dysfunction. We further discuss emerging neuroimmune-targeted interventions aimed at restoring immune homeostasis and slowing disease progression. Particular emphasis is placed on nanozyme-integrated nanoplatforms that function simultaneously as nanozymatic catalysts and immunomodulatory adjuvants, including enzyme-mimetic nanozymes (SOD/CAT/GPx-like), single-atom catalysts, and nanozyme-integrated nanoplatforms. These platforms not only scavenge reactive oxygen species, degrade alpha-synuclein aggregates, and reinforce BBB integrity through localized catalytic reactions, but also reprogram innate and adaptive immune responses by modulating microglial polarization toward neuroprotective phenotypes, suppressing pro-inflammatory cytokine cascades (TNF-alpha, IL-1beta, IL-6), and supporting regulatory T cell (Treg) responses. We examine how these nanozyme-integrated nanoplatforms can be combined with lipid-based nanoparticles, polymeric carriers, biomimetic systems, and extracellular vesicles (EVs) to achieve synergistic targeted drug delivery, gene modulation, neuroprotection, and neural repair. Finally, we address the translational challenges and prospects for merging neuroimmunology, nanocatalysis, and adjuvant engineering in PD therapy.",
+    "date": "2026 Oct",
+    "pmid": "42662413",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42662413/"
+  },
+  {
+    "title_en": "Pathological Mutation E46K Acts as an Electrostatic Switch to Increase Distant Interdomain Interactions and Promote alpha‑Synuclein Phase Separation.",
+    "title_zh": "Pathological Mutation E46K Acts as an Electrostatic Switch to Increase Distant Interdomain Interactions and Promote alpha‑Synuclein Phase Separation.",
+    "journal": "JACS Au",
+    "impact_factor": 8.7,
+    "abstract": "The Parkinson's disease-related protein alpha-synuclein can form solid amyloid fibrils through liquid-liquid phase separation (LLPS) and liquid-to-solid phase transition. The most deleterious familial mutation E46K has recently been shown to enhance alpha-synuclein LLPS and subsequent solidification; yet, the precise mechanisms remain largely unknown. Here, using molecular dynamics simulations at different spatiotemporal scales combined with biochemical experiments, we show that the E46K mutation acts as an electrostatic switch to remodel interactions between the oppositely charged N-terminal domain (NTD) and C-terminal domain (CTD) of alpha-synuclein. This remodeling shifts the interaction site of NTD with CTD from its N-terminus to the mutation region. Such reorganization increases the hydrophobic solvent exposure of key LLPS-promoting motifs, potentially facilitating intermolecular interactions that initiate phase separation. Phase coexistence simulations further support this hypothesis, showing that the E46K mutant exhibits enhanced LLPS and solidification propensities. This enhancement is primarily driven by intermolecular electrostatic interactions between the mutation region and the CTD, followed by the hydrophobic NAC-NAC interactions mediated by the LLPS-promoting motifs. Collectively, these results reveal that NTD-CTD electrostatic crosstalk acts as the key modulator of alpha-synuclein phase separation, while NAC-NAC interactions play an auxiliary role, both of which synergistically govern alpha-synuclein phase separation. This study offers a complete and detailed mechanistic framework for understanding alpha-synuclein phase separation and its enhancement induced by the E46K mutation.",
+    "date": "2026 Aug 24",
+    "pmid": "42656830",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42656830/"
+  },
+  {
+    "title_en": "Lesion-Level Subtypes of White Matter Hyperintensity Evolution Beyond Spatial Location.",
+    "title_zh": "Lesion-Level Subtypes of White Matter Hyperintensity Evolution Beyond Spatial Location.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: White matter hyperintensities (WMHs) are common neuroimaging markers of cerebrovascular pathology in aging and neurodegeneration. Despite their clinical relevance, WMH are typically quantified using global burden measures that assume a relatively homogeneous pathologic process. However, growing evidence suggests substantial biological heterogeneity across lesions. We aimed to identify lesion-level WMH subtypes beyond anatomic location and evaluate their associations with neurodegeneration and vascular risk. METHODS: We conducted a longitudinal observational study analyzing 3224 MRI scans from 403 participants spanning cognitively normal aging, mild cognitive impairment, Alzheimer, and Parkinson disease. Imaging at baseline and 2-year follow-up included structural, diffusion, and resting-state MRI. A total of 2107 WMH lesions were identified, and lesion-wise longitudinal changes were used to derive subtypes using unsupervised clustering. Associations with neurodegeneration and vascular risk factors were assessed using multivariable models with false discovery rate correction. RESULTS: Three lesion subtypes (L(1)-L(3)) were identified, frequently coexisting within the same individual. L(1) lesions were the most prevalent (48.1%), predominated in cognitively normal individuals, and exhibited relatively stable trajectories without association with brain atrophy. L(2) lesions represented a less frequent (11.3%) unstable subtype associated with weight gain (odds ratio [OR] 1.33, 95% CI 1.22-1.45; p(FDR) </= 0.001), suggesting metabolic vulnerability. L(3) lesions (40.6%) represented an unstable subtype associated with brain atrophy (beta = -0.11, 95% CI -0.16 to -0.05; p(FDR) < 0.001), older age (OR 1.15, 95% CI 1.07-1.23; p(FDR) < 0.001), and vascular risk reflected by pulse pressure changes (OR 1.09, 95% CI 1.03-1.15; p(FDR) = 0.006). Global WMH burden was no longer associated with brain atrophy after accounting for L(3) lesion burden. Clustering robustness was supported by sensitivity analyses excluding anatomical location and by external validation in an independent cohort reproducing the main atrophy-related findings. DISCUSSION: WMH are not a homogeneous entity but comprise biologically distinct lesion subtypes with differential neurobiological and clinical significance. Lesion composition may therefore offer a more informative framework than global WMH burden for understanding cerebrovascular contributions to aging and neurodegeneration, with potential implications for risk stratification, clinical interpretation, and targeted interventions.",
+    "date": "2026 Sep 22",
+    "pmid": "42659615",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659615/"
+  },
+  {
+    "title_en": "Reply to: Bridging predictive algorithms and clinical practice in DBS contact selection.",
+    "title_zh": "Reply to: Bridging predictive algorithms and clinical practice in DBS contact selection.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "We thank the authors (Weide et al.(1)) for their evaluation of our algorithm, which predicts optimal deep-brain stimulation contact points in Parkinson's disease. Their analysis on an independent dataset highlights practical challenges of translating predictive tools into routine clinical use. Here, we clarify key methodological points, discuss the robustness of the algorithm, and emphasize the need for broader validation across diverse clinical centers to fully demonstrate its utility.",
+    "date": "2026 Aug 27",
+    "pmid": "42660964",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42660964/"
+  },
+  {
+    "title_en": "Biological heterogeneity in Parkinson's disease: implications for MRI-based patient stratification.",
+    "title_zh": "Biological heterogeneity in Parkinson's disease: implications for MRI-based patient stratification.",
+    "journal": "NPJ Parkinson's disease",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease is increasingly recognized as a heterogeneous syndrome characterized by diverse pathological processes and clinical manifestations. Here, we propose a multidimensional framework to assess this heterogeneity, with each dimension potentially captured using advanced magnetic resonance imaging techniques. The framework comprises dominant pathological processes, spatial distribution patterns of pathology across brain regions, propagation architecture, temporal dynamics of disease progression, co-pathology burden, and system response and resilience mechanisms.",
+    "date": "2026 Aug 27",
+    "pmid": "42660962",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42660962/"
+  },
+  {
+    "title_en": "The Costs of Parkinson's Disease in Europe: Results of the Costs of Illness in Neurology Initiative.",
+    "title_zh": "The Costs of Parkinson's Disease in Europe: Results of the Costs of Illness in Neurology Initiative.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Parkinson's disease (PD) is the second most common neurodegenerative disease. It imposes substantial and growing burden on patients, families, and caregivers and reduces quality of life. The disability and care needs associated with PD carry economic ramifications. OBJECTIVE: The objective of the study was to estimate the socioeconomic costs of PD across 47 European countries in 2019. METHODS: Estimation is based on four steps: (1) determination of prevalence, (2) systematic review of costs, (3) data preparation and imputation, and (4) expert validation. Prevalence data were obtained from the Global Burden of Disease 2021 study (reference year: 2019). Direct, indirect, and informal care costs were analyzed. For countries lacking primary data, an imputation method was employed on the basis of gross national income categories and country-specific economic indicators. RESULTS: Fourteen cost-of-illness studies met the inclusion criteria, with all but one being conducted in high-income countries and no eligible data being available for lower-middle-income countries, which precluded cost estimation for these regions. The estimated total costs are euro22.8 billion (2019, purchasing power parities [PPP]-adjusted), of which euro17.3 billion (76%) are direct costs, euro1 billion (5%) are indirect costs, and euro4.4 billion (19%) are informal care costs. The mean cost per patient was euro14,278 (median: euro8393). CONCLUSIONS: The increasing economic burden of PD reflects its increasing prevalence, posing significant challenges for health care systems. Our findings emphasize the need for disease-modifying therapies and preventive strategies. Considerable knowledge gaps remain in the cost-of-illness literature, particularly in lower-middle-income regions. The results provide evidence to inform political and health economic decision-making. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Aug 27",
+    "pmid": "42659761",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659761/"
+  },
+  {
+    "title_en": "Use of receptor and nonreceptor tyrosine kinase inhibitors and Parkinson disease risk.",
+    "title_zh": "Use of receptor and nonreceptor tyrosine kinase inhibitors and Parkinson disease risk.",
+    "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+    "impact_factor": 6.9,
+    "abstract": "There are currently no disease-modifying therapies for Parkinson disease (PD), although various targets for disease modification have been explored. Expression and binding of receptor tyrosine kinases (rTKs) and nonreceptor tyrosine kinases (nrTKs) have been implicated in PD pathogenesis, and their inhibition is a promisingneuroprotective strategy. This population-based, case-control study of US Medicare beneficiaries included 207,532 incident PD patients and 975,177 comparable, population-based control subjects from 2016 to 2018. This study investigated associations between Medicare Part D prescription fills prior to PD diagnosis for 7 rTK inhibitors (erlotinib, sorafenib, pazopanib, imatinib, sunitinib, nintedanib, and dasatinib) and 4 nrTK inhibitors (nilotinib, ibrutinib, ruxolitinib, and tofacitinib) and PD risk. Logistic regression estimated relative risks (RR) and 95% confidence intervals (CIs) adjusted for age, sex, race, smoking, and healthcare utilization. All medications were inversely associated with incident PD. The rTK inhibitors erlotinib (RR = 0.53, 95% CI: 0.38-0.74), sorafenib (RR = 0.43, 95% CI: 0.25-0.74), imatinib (RR = 0.60, 95% CI: 0.47-0.75), pazopanib (RR = 0.58, 95% CI: 0.39-0.86), nintedanib (RR = 0.66, 95% CI: 0.50-0.88), sunitinib (RR = 0.60, 95% CI: 0.39-0.93), and dasatinib (RR = 0.53, 95% CI: 0.35-0.82) had the strongest inverse associations. Among nrTK inhibitors, ibrutinib (RR = 0.62, 95% CI: 0.51-0.75) had a marked inverse association. Given the chemotherapeutic mechanisms of these medications, and the known cancer-PD inverse relationship, we performed a sensitivity analysis adjusting for relevant cancer subtypes, yielding a similar inverse association. Overall, the use of rTK and nrTK inhibitors was associated with a lower risk of developing PD, although there may be differential impact of this medication class depending on specific inhibition pathways.",
+    "date": "2026 Aug 27",
+    "pmid": "42659831",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42659831/"
+  },
+  {
+    "title_en": "The PINK1-VCP-p47 pathway protects against tau-induced dendritic shrinkage in cortical neurons through interaction with STIP1.",
+    "title_zh": "The PINK1-VCP-p47 pathway protects against tau-induced dendritic shrinkage in cortical neurons through interaction with STIP1.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Microtubule associated protein tau (tau) contributes to the pathogenesis of AD and some forms of Frontotemporal Lobar Dementia wherein dendritic simplification is strongly related to cognitive dysfunction. Loss of function mutations in PTEN-induced kinase 1 (PINK1) cause recessive early-onset Parkinson's disease with dementia, and reduced wild-type PINK1 expression is observed in Alzheimer's disease (AD). We previously found that PINK1 interacts with valosin-containing protein (VCP) and promotes phosphorylation of the VCP co-factor NSFL1C (p47). This study was designed to test the hypothesis that PINK1 rescues tau-induced dendritic simplification through the VCP-p47 pathway, and to define neuroprotective mechanisms downstream of p47 phosphorylation. Mouse primary cortical neurons were transfected with 2N4R-Tau and plasmids encoding components of the PINK1-VCP-p47 signaling pathway and the impact on Tau-mediated dendritic injury was assessed. Immunoprecipitation-mass spectrometry, immunoblotting, RNAi and Sholl analysis were performed to define downstream mechanisms of neuroprotection. Tau-induced dendritic shortening and simplification was fully rescued by co-expression of PINK1, VCP, p47 or the p47-S176D phosphomimic (p47D), but not by the non-phosphorylatable p47-S176A (p47A) variant. Pathway analysis showed enhanced interactions of p47D with proteins in the Rho-GTPase pathway. Immunoprecipitation confirmed that STIP1 interacts with p47D to a significantly higher degree than p47A. Overexpression of STIP1 rescued tau-mediated dendritic simplification. Moreover, STIP1 siRNA impaired the neuroprotective effects of both PINK1 and p47D, indicating an essential role in the PINK1-p47D neuroprotection pathway. The current study highlights a novel PINK1-(phospho)p47-STIP1 signaling axis that promotes dendritic complexity and protects against tau-induced neurodegeneration in cortical neurons.",
+    "date": "2026 Aug 29",
+    "pmid": "42667935",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42667935/"
+  },
+  {
+    "title_en": "Extracellular vesicles carrying the tenascin-C protein participate in glucose metabolism in neurodegenerative injury via inhibiting the AKT/GLUT1 pathway.",
+    "title_zh": "Extracellular vesicles carrying the tenascin-C protein participate in glucose metabolism in neurodegenerative injury via inhibiting the AKT/GLUT1 pathway.",
+    "journal": "Chemico-biological interactions",
+    "impact_factor": 5.4,
+    "abstract": "Extracellular vesicles (EVs) serve as key mediators of intercellular communication within the nervous system. An adequate glucose supply is essential for normal brain function; however, cerebral glucose metabolism is progressively impaired in Parkinson's disease (PD). Here, we show that EVs released by microglia exposed to 40 muM paraquat (PQ) are internalized by dopaminergic neurons, where they impair glucose metabolism and induce neurodegenerative injury through the intercellular transfer of tenascin-C (TNC). TNC, which has been proposed as a potential indicator of disease severity, is upregulated following neurological injury and has been implicated in neuronal apoptosis and neuroinflammation. EVs released by microglia exposed to 40 muM PQ reduced neuronal glucose uptake, disrupted glucose metabolism, and exacerbated mitochondrial dysfunction. Proteomic analysis revealed that EVs derived from PQ-exposed microglia were enriched in TNC. Co-immunoprecipitation analysis further demonstrated an interaction between EV-transferred TNC and protein kinase B (AKT) in recipient neurons. Both depletion of TNC from EVs and pharmacological activation of AKT restored glucose uptake in recipient neurons. Collectively, these findings demonstrate that, under PQ exposure, activated microglia impair neuronal glucose metabolism by releasing TNC-enriched EVs. The EV-mediated TNC-AKT/ glucose transporter 1 (GLUT1) axis may therefore contribute to PQ-induced dopaminergic neurotoxicity and represent a potential therapeutic target for PD.",
+    "date": "2026 Aug 28",
+    "pmid": "42665116",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42665116/"
+  }
+]
