@@ -1,0 +1,52 @@
+[
+  {
+    "title_en": "Control Algorithms for Adaptive Deep Brain Stimulation in Parkinson's Disease.",
+    "title_zh": "Control Algorithms for Adaptive Deep Brain Stimulation in Parkinson's Disease.",
+    "journal": "IEEE reviews in biomedical engineering",
+    "impact_factor": 12.0,
+    "abstract": "Thirty years on from the introduction of deep brain stimulation as a therapy for Parkinson's disease, adaptive deep brain stimulation (aDBS) is poised to transform neural stimulation for the treatment of motor disorders. Implementation of aDBS has been facilitated by the identification of biomarkers that reflect patients' clinical states and the introduction of hardware allowing simultaneous sensing and stimulation. However, the most appropriate algorithms for aDBS remain unclear. This review provides an overview of control algorithms used in computational, animal and human studies of aDBS in Parkinson's disease to date. Although shown to be effective and well-tolerated, only relatively simple aDBS algorithms have been used clinically. Computational studies have explored a wider range of more advanced algorithms which promise superior performance but need to be rigorously tested and compared against clinically-tested techniques before translating to patients. The need for comparative studies is further driven by advances in machine learning, which promise patient-specific programming solutions but require large datasets and have high computational requirements. Understanding the advantages and limitations of these different algorithms is critical for aDBS to reach its potential and enable personalized treatment to provide maximum patient benefit.",
+    "date": "2026 Sep 3",
+    "pmid": "42691001",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42691001/"
+  },
+  {
+    "title_en": "Fifteen-Year Outcomes of Bilateral Pallidal Stimulation in Isolated Generalized Dystonia: Characterization of Therapeutic Response and Emergence of Parkinsonism.",
+    "title_zh": "Fifteen-Year Outcomes of Bilateral Pallidal Stimulation in Isolated Generalized Dystonia: Characterization of Therapeutic Response and Emergence of Parkinsonism.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Bilateral pallidal deep brain stimulation (GPi-DBS) is effective for dystonia. Long-term evolution of therapeutic benefit and emergence of parkinsonism have not been systematically characterized. OBJECTIVES: To assess 15-year dystonia outcomes and characterize parkinsonism after bilateral GPi-DBS. METHODS: Dystonia severity and disability were evaluated at baseline,1, 3, and 15 years postoperatively with the Burke-Fahn-Marsden Dystonia Rating Scale (BFMDRS). Parkinsonism was assessed at last visit using the Movement Disorder Society-Unified Parkinson's Disease Rating Scale-Part III and freezing of gait (FoG) questionnaire. RESULTS: Of 17 patients reassessed at 15 years, 41% maintained clinical benefit. Parkinsonism was observed in 94%, predominantly axial, with self-reported FoG in 67%. Higher baseline BFMDRS-Motor scores predicted last follow-up axial parkinsonism (R = 0.800, P < 0.001). CONCLUSIONS: Over 15 years, interindividual therapeutic benefit diverged while axial parkinsonism emerged in nearly all patients. These findings highlight the need for systematic long-term monitoring extending beyond dystonia control after GPi-DBS. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Sep 3",
+    "pmid": "42689521",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42689521/"
+  },
+  {
+    "title_en": "Dopamine-Deficiency-Related Reorganization of the Somatomotor Network in Prodromal and Early Parkinson's Disease.",
+    "title_zh": "Dopamine-Deficiency-Related Reorganization of the Somatomotor Network in Prodromal and Early Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "INTRODUCTION: Network attack tolerance (NAT) measures the brain's ability to sustain information flow despite the loss of critical brain regions. In Parkinson's disease (PD), NAT has been linked to cognitive and motor function. However, it remains unclear how dopaminergic degeneration shapes NAT, and whether it relates to motor symptom progression. OBJECTIVE: To examine dopamine deficiency-related changes in NAT across the early PD disease continuum and its association with longitudinal motor outcomes. METHODS: We used cross-sectional resting-state functional magnetic resonance imaging of 28 healthy controls, 60 prodromal, and 94 clinical PD patients to create graph-theoretical networks. NAT was assessed at the global and subnetwork levels by calculating the global efficiency upon iterative node removal at different network densities. Using linear mixed-effects models, we assessed how putaminal dopamine transporter (DaT) binding or disease status affected NAT, controlling for network density, age, sex, and education. Baseline somatomotor (SMN) NAT was examined as a predictor of motor symptom progression in 145 patients. RESULTS: Lower putaminal DaT signal was associated with higher SMN NAT across groups. PD patients exhibited elevated SMN NAT relative to controls. Neither global nor other subnetworks showed effects. While the effect of baseline SMN NAT on motor progression was not significant, an exploratory analysis (Johnson-Neyman) suggested that higher SMN NAT may associate with slower motor decline across most of the observed NAT range. CONCLUSIONS: Dopaminergic depletion is associated with a targeted SMN reorganization, potentially maintaining network information flow despite progressive hub loss. Whether this reorganization represents compensation or a consequence of progressive pathology requires further longitudinal assessment. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Sep 3",
+    "pmid": "42689420",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42689420/"
+  },
+  {
+    "title_en": "The Worldwide Burden of Parkinson's Disease Is Growing, but Its Incidence Is Not: Lessons from Population-Based Studies.",
+    "title_zh": "The Worldwide Burden of Parkinson's Disease Is Growing, but Its Incidence Is Not: Lessons from Population-Based Studies.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Sep 3",
+    "pmid": "42689419",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42689419/"
+  },
+  {
+    "title_en": "A Thiol-Click-Based Dopaminequinone-Specific Fluorescent Probe for In Vivo Imaging in Parkinson's Disease Models.",
+    "title_zh": "A Thiol-Click-Based Dopaminequinone-Specific Fluorescent Probe for In Vivo Imaging in Parkinson's Disease Models.",
+    "journal": "Analytical chemistry",
+    "impact_factor": 6.7,
+    "abstract": "Parkinson's disease (PD) is closely associated with dopaminequinone (DAQ). However, DAQ's high reactivity, short half-life, and difficulty in in vivo detection have hindered direct observation of its spatiotemporal dynamics and pathological progression. In this study, a series of fluorescent probes were developed using dicyanoisophorone as the fluorescent parent molecule and 3-mercaptopropionic acid as the click group, while the electron density of the ester group was regulated by push-pull electron groups. In the presence of PBS buffer and Co2+, the probe responds specifically and rapidly to dopamine (DA), and among them, probe OCH3-HS could detect DAQ within 260 s. This mechanism relies on a click reaction between the quinone moiety of DAQ and the thiol group (-SH) of the probe, followed by an amine attack on the ester group, which ultimately releases the fluorophore, thereby enabling the in vivo monitoring of DAQ. Cell imaging results showed that during the 6-8 h incubation of cells with N-methyl-4-phenylpyridinium iodide (MPP+), DAQ levels increased significantly. The probe can cross the blood-brain barrier (BBB), and in vivo imaging of mice treated with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) showed that the brain fluorescence intensity increased by 2.8-fold, indicating a significant generation of DAQ. Behavioral analysis showed that DAQ accumulation was associated with motor deficits. The fluorescent probe developed in this study enables spatiotemporal dynamic monitoring of DAQ, providing a precise tool for the early diagnosis and intervention of PD, as well as a new strategy for the real-time monitoring of active intermediates in DA.",
+    "date": "2026 Sep 1",
+    "pmid": "42689612",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42689612/"
+  }
+]
