@@ -4949,3 +4949,11 @@ TEMPO-1是tavapadon在早期PD中的注册III期试验
 D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研究中提出
 
 现Cerevel Therapeutics已并入AbbVie
+
+## 2026-09-12 每日新增文献补录
+
+- [Retromer-targeted therapy for neurodegenerative diseases.](https://doi.org/10.1186/s13024-026-00971-z)
+  - 期刊：Molecular Neurodegeneration；类型：叙述性综述。
+  - PMID：42723096；来源：https://pubmed.ncbi.nlm.nih.gov/42723096/
+  - DOI 与标题核验：2026-09-12，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
+  - 本次 daily 首次收录日期：2026-09-12；不等同于论文发表日期。
