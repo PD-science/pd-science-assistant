@@ -4957,3 +4957,29 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - PMID：42723096；来源：https://pubmed.ncbi.nlm.nih.gov/42723096/
   - DOI 与标题核验：2026-09-12，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
   - 本次 daily 首次收录日期：2026-09-12；不等同于论文发表日期。
+
+## 2026-09-14 每日新增文献补录
+
+- [An implantable transistor neuroprobe with dual-recognition interface for in vivo dopamine monitoring.](https://doi.org/10.1016/j.bios.2026.119207)
+  - 期刊：Biosensors & bioelectronics；PMID：42731314。
+  - 来源：https://pubmed.ncbi.nlm.nih.gov/42731314/
+  - DOI 与标题核验：2026-09-14，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
+  - 本次 daily 首次收录日期：2026-09-14；不等同于论文发表日期。
+
+- [The method matters: free water imaging in Parkinson's disease is not a binary verdict.](https://doi.org/10.1038/s41531-026-01492-8)
+  - 期刊：NPJ Parkinson's disease；PMID：42731990。
+  - 来源：https://pubmed.ncbi.nlm.nih.gov/42731990/
+  - DOI 与标题核验：2026-09-14，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
+  - 本次 daily 首次收录日期：2026-09-14；不等同于论文发表日期。
+
+- [Reply to 'The method matters: free water imaging in Parkinson's disease is not a binary verdict'.](https://doi.org/10.1038/s41531-026-01490-w)
+  - 期刊：NPJ Parkinson's disease；PMID：42731984。
+  - 来源：https://pubmed.ncbi.nlm.nih.gov/42731984/
+  - DOI 与标题核验：2026-09-14，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
+  - 本次 daily 首次收录日期：2026-09-14；不等同于论文发表日期。
+
+- [Exploring TIMP2 genetics and CSF levels in Parkinson's disease: biomarkers of neurodegeneration and ageing.](https://doi.org/10.1007/s11357-026-02495-2)
+  - 期刊：GeroScience；PMID：42730910。
+  - 来源：https://pubmed.ncbi.nlm.nih.gov/42730910/
+  - DOI 与标题核验：2026-09-14，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
+  - 本次 daily 首次收录日期：2026-09-14；不等同于论文发表日期。
