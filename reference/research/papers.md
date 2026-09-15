@@ -4983,3 +4983,15 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 来源：https://pubmed.ncbi.nlm.nih.gov/42730910/
   - DOI 与标题核验：2026-09-14，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
   - 本次 daily 首次收录日期：2026-09-14；不等同于论文发表日期。
+
+## 2026-09-15 每日新增文献补录
+
+- [From optical control to translational readiness: an evidence-tiered framework for optogenetics in neuromuscular and neurological disorders.](https://doi.org/10.1016/j.mtbio.2026.103643)
+  - 期刊：Materials today. Bio；PMID：42733868。
+  - DOI 与标题核验：2026-09-15，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
+  - 本次 daily 首次收录日期：2026-09-15；不等同于论文发表日期。
+
+- [Multifunctional polyaniline@Cu0.95V2O5@carbon cloth composite for zinc ion battery-powered wearable sensing system toward Parkinson's auxiliary diagnosis.](https://doi.org/10.1016/j.jcis.2026.141578)
+  - 期刊：Journal of colloid and interface science；PMID：42732719。
+  - DOI 与标题核验：2026-09-15，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
+  - 本次 daily 首次收录日期：2026-09-15；不等同于论文发表日期。
