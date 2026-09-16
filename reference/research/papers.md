@@ -4995,3 +4995,24 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：Journal of colloid and interface science；PMID：42732719。
   - DOI 与标题核验：2026-09-15，NCBI PubMed efetch XML 的本文 ArticleIdList 与 ArticleTitle。
   - 本次 daily 首次收录日期：2026-09-15；不等同于论文发表日期。
+
+## 2026-09-16 每日新增 PD 文献补录
+
+- [Resilience mechanisms in Parkinson's disease: a domain-specific conceptual framework.](https://doi.org/10.1093/brain/awag310)
+  - 期刊：Brain；PMID：42742269。
+- [How Language Shapes Mechanistic Thinking in Parkinson Disease.](https://doi.org/10.1212/WNL.0000000000218510)
+  - 期刊：Neurology；PMID：42743444。
+- [Reply to: "Rare-Variant Burden in Mitochondrial Parkinson's Disease".](https://doi.org/10.1002/mds.70543)
+  - 期刊：Movement disorders；PMID：42742600。
+- [Pharmacological modulation of cGAS-STING-NLRP3 signaling by nano-immunomodulators in Alzheimer and Parkinson disease.](https://doi.org/10.1007/s10787-026-02386-0)
+  - 期刊：Inflammopharmacology；PMID：42742907。
+- [The Impact of Anticholinergic Burden on Cognitive Function and Adverse Events Among Patients with Parkinson's Disease: A Meta-Analysis.](https://doi.org/10.2174/011570159X464947260902052340)
+  - 期刊：Current neuropharmacology；PMID：42736699。
+- [The Microbiome-Gut-Brain Axis: Decoding the Molecular Dialogue for Next-Generation Neurotherapeutics.](https://doi.org/10.2174/011570159X491341260902051725)
+  - 期刊：Current neuropharmacology；PMID：42736672。
+- [Full-length brain-derived α-synuclein fibril models reveal fuzzy-coat control of peptide recognition.](https://doi.org/10.1002/pro.70782)
+  - 期刊：Protein science；PMID：42742050。
+- [Rethinking the concept of disease modification in an evolving Parkinson's disease treatment landscape.](https://doi.org/10.1177/1877718X261481704)
+  - 期刊：Journal of Parkinson's disease；PMID：42742463。
+
+以上标题和 DOI 均于 2026-09-16 依据 NCBI PubMed efetch XML 的 ArticleTitle 与 ArticleIdList 核验；本次 daily 首次收录日期不等同于论文发表日期。
