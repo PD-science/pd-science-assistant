@@ -5016,3 +5016,19 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：Journal of Parkinson's disease；PMID：42742463。
 
 以上标题和 DOI 均于 2026-09-16 依据 NCBI PubMed efetch XML 的 ArticleTitle 与 ArticleIdList 核验；本次 daily 首次收录日期不等同于论文发表日期。
+
+
+## 2026-09-17 每日新增文献补录
+
+- [Catechol-O-methyltransferase connects dopamine homeostasis to redox signaling, metal homeostasis, and protein folding in schizophrenia.](https://doi.org/10.1073/pnas.2606205123)
+  - 期刊：Proceedings of the National Academy of Sciences of the United States of America；PMID：42748150。
+- [Nicotine modulates α7nAChR associated ceramide-mitochondrial stress responses in Parkinsonian models.](https://doi.org/10.1016/j.freeradbiomed.2026.09.010)
+  - 期刊：Free radical biology & medicine；PMID：42744161。
+- [EA-DualGAT: An error-aware dual-graph attention framework for Parkinson's disease diagnosis from wearable plantar pressure gait signals.](https://doi.org/10.1016/j.compbiomed.2026.111942)
+  - 期刊：Computers in biology and medicine；PMID：42743854。
+- [Cu/Cu2O-embedded carbon from Cu-MOF integrated with MWCNTs-COOH for sensitive levodopa detection in biological samples.](https://doi.org/10.1016/j.colsurfb.2026.116177)
+  - 期刊：Colloids and surfaces. B, Biointerfaces；PMID：42743869。
+- [Association between age at Parkinson's disease onset and divorce: An exploratory analysis from the fox insight cohort.](https://doi.org/10.1177/1877718X261479270)
+  - 期刊：Journal of Parkinson's disease；PMID：42746990。
+
+以上标题与 DOI 于 2026-09-17 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；今日新增指 daily 首次收录，不等同于发表日期。PMID 42748150 的研究主题为精神分裂症，仅背景提及 PD，不作为社区 PD 研究候选。
