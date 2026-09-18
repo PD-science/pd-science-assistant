@@ -5032,3 +5032,23 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：Journal of Parkinson's disease；PMID：42746990。
 
 以上标题与 DOI 于 2026-09-17 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；今日新增指 daily 首次收录，不等同于发表日期。PMID 42748150 的研究主题为精神分裂症，仅背景提及 PD，不作为社区 PD 研究候选。
+
+
+## 2026-09-18 每日新增文献补录
+
+- [Deep Learning-Powered Plasmonic Platform for Decoding Dynamic Protein Aggregation Landscapes in Parkinson's Disease Progression.](https://doi.org/10.1002/adma.74985)
+  - 期刊：Advanced materials (Deerfield Beach, Fla.)；PMID：42750405。
+- [Brain region-resolved pharmacodynamics of an antisense oligonucleotide targeting human SNCA 3'UTR in BAC-hSNCA rats.](https://doi.org/10.1186/s40035-026-00577-x)
+  - 期刊：Translational neurodegeneration；PMID：42750047。
+- [Disrupted TFEB/GDNF-cAMP/ATP Coupling Underlies Astrocytic Dysfunction and Depression in LRRK2 G2019S Parkinson's Mice.](https://doi.org/10.1002/advs.202522066)
+  - 期刊：Advanced science (Weinheim, Baden-Wurttemberg, Germany)；PMID：42750142。
+- [Intranasal delivery of cerium oxide nanozyme and superoxide dismutase in exosomes for Parkinson's disease therapy.](https://doi.org/10.1016/j.mtbio.2026.103629)
+  - 期刊：Materials today. Bio；PMID：42750983。
+- [Inconsistent subthalamic local field potential beta activity amid in- and antiphasic neuronal bursts.](https://doi.org/10.1038/s41531-026-01531-4)
+  - 期刊：NPJ Parkinson's disease；PMID：42749741。
+- [Nigrostriatal imaging in patients with clinically uncertain Parkinsonian syndromes: a head-to-head comparison between SPECT, PET, and MRI.](https://doi.org/10.1007/s00259-026-08184-8)
+  - 期刊：European journal of nuclear medicine and molecular imaging；PMID：42752958。
+- [Spatial multi-omics reveals OAT-associated arginine-proline metabolic remodeling in Paraquat-induced Parkinsonian and depression-like phenotypes.](https://doi.org/10.1016/j.ecoenv.2026.120812)
+  - 期刊：Ecotoxicology and environmental safety；PMID：42748831。
+
+以上标题与 DOI 于 2026-09-18 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；今日新增指 daily 首次收录，不等同于发表日期。
