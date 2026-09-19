@@ -5052,3 +5052,29 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：Ecotoxicology and environmental safety；PMID：42748831。
 
 以上标题与 DOI 于 2026-09-18 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；今日新增指 daily 首次收录，不等同于发表日期。
+
+
+## 2026-09-19 每日新增文献补录
+
+- [Genomic and transcriptomic quality control for an autologous iPSC-derived cell therapy for Parkinson's disease.](https://doi.org/10.1016/j.stem.2026.08.014)
+  - 期刊：Cell stem cell；PMID：42753738。
+- [Species-dependent activities of the PINK1-parkin axis.](https://doi.org/10.1186/s40035-026-00586-w)
+  - 期刊：Translational neurodegeneration；PMID：42754914。
+- [GBA1 in Parkinson's disease: past, present and future.](https://doi.org/10.1093/brain/awag322)
+  - 期刊：Brain : a journal of neurology；PMID：42758574。
+- [Neuropathology of a patient with Parkinson's disease and biallelic expansion in RFC1.](https://doi.org/10.1111/bpa.70152)
+  - 期刊：Brain pathology (Zurich, Switzerland)；PMID：42757740。
+- [Continuous apomorphine infusion modulates cortical hyperexcitability and abnormal plasticity in Parkinson's disease.](https://doi.org/10.1177/1877718X261479077)
+  - 期刊：Journal of Parkinson's disease；PMID：42758009。
+- [Gut microbiome dysbiosis, short-chain fatty acid depletion and implications for neuroinflammation in atypical parkinsonian syndromes - a systematic review of patient cohorts.](https://doi.org/10.1177/1877718X261485793)
+  - 期刊：Journal of Parkinson's disease；PMID：42754368。
+- [ACE2 dysregulation and lipid metabolism: Mechanistic interplay between COVID-19 and neurodegeneration.](https://doi.org/10.1016/j.mam.2026.101519)
+  - 期刊：Molecular aspects of medicine；PMID：42753425。
+- [Pre-operative neural substrates of deep brain stimulation outcomes: A systematic review and cross-disorder network synthesis.](https://doi.org/10.1016/j.neubiorev.2026.106977)
+  - 期刊：Neuroscience and biobehavioral reviews；PMID：42753347。
+- [New approach methodologies in neurotherapeutics development.](https://doi.org/10.1016/j.neurot.2026.e01056)
+  - 期刊：Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics；PMID：42753291。
+- [Small-Conductance Ca2+-Activated K+ Channels and Their Regulation of Excitability of Autonomic Neurons.](https://doi.org/10.1007/s12264-026-01715-1)
+  - 期刊：Neuroscience bulletin；PMID：42758261。
+
+以上标题与 DOI 于 2026-09-19 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；今日新增指 daily 首次收录，不等同于发表日期。条目包含直接 PD/帕金森综合征研究及跨疾病、背景相关综述，不能全部视为 PD 专项研究。
