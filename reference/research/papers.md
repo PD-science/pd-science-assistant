@@ -5078,3 +5078,28 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：Neuroscience bulletin；PMID：42758261。
 
 以上标题与 DOI 于 2026-09-19 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；今日新增指 daily 首次收录，不等同于发表日期。条目包含直接 PD/帕金森综合征研究及跨疾病、背景相关综述，不能全部视为 PD 专项研究。
+
+
+## 2026-09-21 每日新增文献补录
+
+- [Real-world use and evaluation of a generative AI chatbot for Parkinson's disease information: a prospective observational study.](https://doi.org/10.1016/j.lanepe.2026.101866)
+  - 期刊：The Lancet regional health. Europe；PMID：42761851。
+- [The burden of brain disorders in Norway: an analysis of data from the global burden of disease study 2023.](https://doi.org/10.1016/j.lanepe.2026.101857)
+  - 期刊：The Lancet regional health. Europe；PMID：42761424。
+- [Vertex-wise biomechanical sensitivity mapping of subcortical structures under atrophy in Parkinson's disease.](https://doi.org/10.1016/j.media.2026.104332)
+  - 期刊：Medical image analysis；PMID：42762597。
+- [Life at the interface: Byron Caughey's search for prion disease inhibitors through chemistry, structure, and cell physiology.](https://doi.org/10.1007/s00401-026-03080-9)
+  - 期刊：Acta neuropathologica；PMID：42762360。
+- [Colonic LRRK2 expression is increased in Crohn's disease but not in Parkinson's disease and idiopathic RBD.](https://doi.org/10.1007/s00401-026-03087-2)
+  - 期刊：Acta neuropathologica；PMID：42762331。
+- [Subthalamic DBS Engages Right-lateralized Frontal Control to Improve Gait Adaptation in Parkinson's Disease.](https://doi.org/10.1016/j.brs.2026.103207)
+  - 期刊：Brain stimulation；PMID：42759877。
+- [Serum Metabolomic Profiles Unveil Biomarkers and Core Metabolic Pathways in Multiple System Atrophy Patients.](https://doi.org/10.1002/mds.70541)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42760624。
+- [BenSParX: A robust explainable machine learning framework for Parkinson's disease detection from Bengali conversational speech.](https://doi.org/10.1016/j.artmed.2026.103538)
+  - 期刊：Artificial intelligence in medicine；PMID：42762659。
+
+以上标题与 DOI 于 2026-09-21 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。包含直接 PD 研究、鉴别诊断及跨疾病或背景相关文章。
+
+- [Histone Modifications and Chromatin Landscapes in Microglial Function: Developmental Imprinting and Disease-Associated Reprogramming.](https://doi.org/10.1016/j.arr.2026.103377)
+  - 期刊：Ageing research reviews；PMID：42759574；跨疾病背景综述，标题和 DOI 同日以 NCBI XML 核验。
