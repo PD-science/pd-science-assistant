@@ -5103,3 +5103,18 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
 
 - [Histone Modifications and Chromatin Landscapes in Microglial Function: Developmental Imprinting and Disease-Associated Reprogramming.](https://doi.org/10.1016/j.arr.2026.103377)
   - 期刊：Ageing research reviews；PMID：42759574；跨疾病背景综述，标题和 DOI 同日以 NCBI XML 核验。
+
+
+## 2026-09-22 每日新增文献补录
+
+- [Lysosomal Expression Profile in Plasma Associates with Disease Severity in Parkinson's Disease.](https://doi.org/10.1002/mds.70542)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42765453。
+- [Cognition endpoints for Parkinson's disease: A roadmap for developing patient-focused assessment tools to accelerate drug development.](https://doi.org/10.1177/1877718X261483866)
+  - 期刊：Journal of Parkinson's disease；PMID：42765834。
+- [Effects of deep brain stimulation on functional autonomy and quality of life in Parkinson's disease: A systematic review and meta-analysis.](https://doi.org/10.1177/1877718X261461967)
+  - 期刊：Journal of Parkinson's disease；PMID：42765824。
+
+以上标题与 DOI 于 2026-09-22 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。
+
+- [Multifactorial and multiple component interventions for preventing falls in older people living in the community.](https://doi.org/10.1002/14651858.CD012221.pub3)
+  - 期刊：The Cochrane database of systematic reviews；PMID：42764178。检索误命中：摘要纳入标准明确排除 PD 人群，不列入今日 PD 社区候选。标题与 DOI 同日以 NCBI XML 核验。
