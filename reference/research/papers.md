@@ -5118,3 +5118,35 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
 
 - [Multifactorial and multiple component interventions for preventing falls in older people living in the community.](https://doi.org/10.1002/14651858.CD012221.pub3)
   - 期刊：The Cochrane database of systematic reviews；PMID：42764178。检索误命中：摘要纳入标准明确排除 PD 人群，不列入今日 PD 社区候选。标题与 DOI 同日以 NCBI XML 核验。
+
+
+## 2026-09-23 每日新增文献补录
+
+- [Cross-Ethnic Replication of Intersectin-1 as a Parkinson's Disease Susceptibility Gene in a Large Chinese Cohort.](https://doi.org/10.1002/mds.70554)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42770488。
+- [Role of the Dorsal Striatum in Cognitive Functions and Related Disorders with Cognitive Impairment.](https://doi.org/10.2174/011570159X484443260903062736)
+  - 期刊：Current neuropharmacology；PMID：42770369。
+- [Clinical trials in late-stage Parkinson's disease.](https://doi.org/10.1177/1877718X261491591)
+  - 期刊：Journal of Parkinson's disease；PMID：42770427。
+
+以上标题与 DOI 于 2026-09-23 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。
+
+- [ATXN8OS Intermediate Expansion Acts as a Genetic Modifier in Spinocerebellar Ataxia Type 48 (SCA48/STUB1).](https://doi.org/10.1002/mds.70534)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42768770。
+- [Striatal Dopaminergic Reserve Shapes the Longitudinal Impact of Peripheral Immune Activation on Motor Progression in Parkinson's Disease.](https://doi.org/10.1002/mds.70549)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42768746。
+- [Urine-Derived Neuronal Extracellular Vesicle α-Synuclein Seed Amplification Assay for Synucleinopathies: A Non-Invasive Biomarker Study.](https://doi.org/10.1002/mds.70533)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42768739。
+- [Ursodeoxycholic Acid and Parkinson's Disease Risk: An Emulated Target Trial in UK Electronic Health Records.](https://doi.org/10.1002/mds.70535)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42768726。
+- [Oral health and oral microbiota composition in patients with Parkinson's disease: a case‒control study.](https://doi.org/10.1080/20002297.2026.2726612)
+  - 期刊：Journal of oral microbiology；PMID：42769625。
+
+上述补充条目同日以 NCBI XML 核验；SCA48 条目非 PD 专项研究，不列入社区候选。
+
+- [New small isoform of glial cell line-derived neurotrophic factor djGDNF47 promotes neuronal viability, differentiation, and adult neurogenesis: Evidence from in vitro and in vivo models.](https://doi.org/10.1016/j.ijbiomac.2026.154555)
+  - 期刊：International journal of biological macromolecules；PMID：42767292。
+- [Mental Health, Neurodegenerative, and Cardiovascular Health of Korean Kidney Transplant Recipients in Single-Person Households.](https://doi.org/10.1053/j.ajkd.2026.06.012)
+  - 期刊：American journal of kidney diseases : the official journal of the National Kidney Foundation；PMID：42767320。
+
+上述补充条目同日以 NCBI XML 核验。
