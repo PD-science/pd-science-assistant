@@ -5150,3 +5150,19 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：American journal of kidney diseases : the official journal of the National Kidney Foundation；PMID：42767320。
 
 上述补充条目同日以 NCBI XML 核验。
+
+
+## 2026-09-24 每日新增文献补录
+
+- [Lipophagy and lipid droplets in neurodegeneration.](https://doi.org/10.1016/j.tips.2026.08.004)
+  - 期刊：Trends in pharmacological sciences；PMID：42773049。
+- [Three-Dimensional Point-Cloud Learning for Patient-Specific Deep Brain Stimulation Motor Response Prediction in Parkinson Disease.](https://doi.org/10.34133/bmef.0276)
+  - 期刊：BME frontiers；PMID：42774635。
+- [Inhibition of Abnormal Elevated α-Synuclein Ameliorates Dopaminergic Neuron Degeneration in Parkinson's Disease Mouse Model.](https://doi.org/10.1111/acel.70717)
+  - 期刊：Aging cell；PMID：42775696。
+- [Mitochondrial Fusion and Fission in Age-Related Cardio-Cerebral Diseases: Mechanisms and Interventions.](https://doi.org/10.1111/acel.70729)
+  - 期刊：Aging cell；PMID：42775668。
+- [Advances in Machine Learning for Drug Repurposing: From Methodologies to Precision Medicine with Case Studies in COVID-19, Parkinson's Disease, and Cancer.](https://doi.org/10.1109/JBHI.2026.3737030)
+  - 期刊：IEEE journal of biomedical and health informatics；PMID：42776876。
+
+以上标题与 DOI 于 2026-09-24 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。
