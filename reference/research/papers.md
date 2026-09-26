@@ -5166,3 +5166,52 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：IEEE journal of biomedical and health informatics；PMID：42776876。
 
 以上标题与 DOI 于 2026-09-24 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。
+
+
+## 2026-09-26 每日新增文献补录
+
+- [Novel Targets and Treatments for Neurodegenerative Diseases Revealed by Drosophila.](https://doi.org/10.1146/annurev-pharmtox-060325-064705)
+  - 期刊：Annual review of pharmacology and toxicology；PMID：42789798。
+- [PDFormer: A Multimodal Transformer for Quantifying Motor Symptom Severity in Parkinson's Disease.](https://doi.org/10.1016/j.media.2026.104323)
+  - 期刊：Medical image analysis；PMID：42785226。
+- [Deletion or immunotherapeutic blockade of FcγRIIb (CD32b) impairs α-Syn propagation in vivo.](https://doi.org/10.1007/s00401-026-03082-7)
+  - 期刊：Acta neuropathologica；PMID：42789107。
+- [Author Response: Midlife Vascular Risk Factors, Parkinson Disease, and Parkinson Disease-Dementia: The ARIC Study.](https://doi.org/10.1212/WNL.0000000000214893)
+  - 期刊：Neurology；PMID：42789821。
+- [Reader Response: Midlife Vascular Risk Factors, Parkinson Disease, and Parkinson Disease-Dementia: The ARIC Study.](https://doi.org/10.1212/WNL.0000000000214854)
+  - 期刊：Neurology；PMID：42789820。
+- [Editors' Note: The Muted Role of Vascular Risk Factors in Parkinson Disease and Associated Dementia.](https://doi.org/10.1212/WNL.0000000000218652)
+  - 期刊：Neurology；PMID：42789816。
+- [Unified long-read panel for Parkinson's and repeat expansion disorders.](https://doi.org/10.1038/s41531-026-01585-4)
+  - 期刊：NPJ Parkinson's disease；PMID：42786195。
+- [Brain-motor behavior coupling during walking while negotiating obstacle: A systematic review.](https://doi.org/10.1016/j.neubiorev.2026.106996)
+  - 期刊：Neuroscience and biobehavioral reviews；PMID：42785654。
+- [DDX39A unwinds viral RNA G-quadruplexes to limit α-Synuclein amyloidogenesis.](https://doi.org/10.1016/j.celrep.2026.118060)
+  - 期刊：Cell reports；PMID：42789391。
+- [Wearable Sensors in Gait Assessment for Parkinson Disease and Stroke in Real-World Environments: Systematic Review and Meta-Analysis.](https://doi.org/10.2196/93413)
+  - 期刊：Journal of medical Internet research；PMID：42788867。
+- [AI in Neurological Health Care: Qualitative Study of Patient and Public Perceptions.](https://doi.org/10.2196/87806)
+  - 期刊：Journal of medical Internet research；PMID：42785740。
+- [Targeting Glial Glycolysis with EGCG Alleviates Parkinson's Disease in a PINK1 mutant Drosophila Model.](https://doi.org/10.1016/j.jep.2026.122405)
+  - 期刊：Journal of ethnopharmacology；PMID：42785532。
+- [Blood-Mediated Gut-Brain Axis in Parkinson's Disease: Focus on α-Synuclein Transport and Microbiota Dysbiosis-Induced Inflammation.](https://doi.org/10.3390/cells15181718)
+  - 期刊：Cells；PMID：42782818。
+- [ERBB4 and Neurodegeneration: Association Between Hypothalamic-Pituitary-Adrenal (HPA) Axis: Associated Neurodegenerative Pathogenesis.](https://doi.org/10.3390/cells15181710)
+  - 期刊：Cells；PMID：42782811。
+- [Integrating a biopsychosocial perspective: WHODAS 2.0 enhances functioning assessment in Parkinson's disease.](https://doi.org/10.1177/1877718X261470254)
+  - 期刊：Journal of Parkinson's disease；PMID：42789398。
+
+以上标题与 DOI 于 2026-09-26 依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。
+
+- [Interaction- and asymmetry-aware facial blendshape analysis for objective quantification of Parkinsonian hypomimia.](https://doi.org/10.1038/s41531-026-01579-2)
+  - 期刊：NPJ Parkinson's disease；PMID：42778620。
+- [Multilevel Structure-Function Coupling Reveals Network Signatures of Remission in Paroxysmal Kinesigenic Dyskinesia.](https://doi.org/10.1002/mds.70512)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42779529。
+- [Association Between Long-Term Exposure to Air Pollution and Parkinson's Disease: Administrative Cohort of Older Adults in South Korea.](https://doi.org/10.1002/mds.70518)
+  - 期刊：Movement disorders : official journal of the Movement Disorder Society；PMID：42778501。
+- [Brain energy metabolism in neurodegenerative disease.](https://doi.org/10.1016/j.nbd.2026.107615)
+  - 期刊：Neurobiology of disease；PMID：42777966。
+- [Parishin B, a phenolic constituent of Gastrodia elata Blume, extends lifespan and improves stress resistance in Caenorhabditis elegans.](https://doi.org/10.1016/j.jep.2026.122390)
+  - 期刊：Journal of ethnopharmacology；PMID：42777983。
+
+上述补充条目同日以 NCBI XML 核验。
