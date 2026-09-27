@@ -5215,3 +5215,23 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：Journal of ethnopharmacology；PMID：42777983。
 
 上述补充条目同日以 NCBI XML 核验。
+
+
+## 2026-09-27 daily 新增文献
+
+- [Reply to: Data from the ROPAD study corroborate an association between ITSN1 loss-of-function variants and Parkinson's disease.](https://doi.org/10.1038/s41531-026-01470-0)
+  - 期刊：NPJ Parkinson's disease；PMID：42791250。
+- [Data from the ROPAD study corroborate an association between ITSN1 loss-of-function variants and Parkinson's disease.](https://doi.org/10.1038/s41531-026-01562-x)
+  - 期刊：NPJ Parkinson's disease；PMID：42791240。
+- [Acteoside alleviates Parkinson's disease-associated neurodegeneration and oxidative stress via an m6A-dependent Nrf2 regulatory axis.](https://doi.org/10.1016/j.biopha.2026.119945)
+  - 期刊：Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie；PMID：42790352。
+- [Phytocannabinoid cannabidiol (CBD) in neurodegenerative diseases: From polypharmacology to drug development.](https://doi.org/10.1016/j.ejmech.2026.119360)
+  - 期刊：European journal of medicinal chemistry；PMID：42790169。
+- [Sephin1 directly targets PHB2 to activate PINK1-PRKN-dependent mitophagy and alleviate α-synuclein neurotoxicity in Parkinson's disease models.](https://doi.org/10.1016/j.bcp.2026.118498)
+  - 期刊：Biochemical pharmacology；PMID：42790826。
+- [Image-guided programming improves motor control in chronic subthalamic nucleus deep brain stimulation in Parkinson's disease: A prospective study.](https://doi.org/10.1177/1877718X261492273)
+  - 期刊：Journal of Parkinson's disease；PMID：42798288。
+- [A review of FDG-PET biomarker analysis methods in Parkinson's disease.](https://doi.org/10.1177/1877718X261492275)
+  - 期刊：Journal of Parkinson's disease；PMID：42798283。
+
+以上标题与 DOI 已依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。
