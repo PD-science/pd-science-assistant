@@ -5235,3 +5235,23 @@ D1/D5选择性激动剂概念由Bezard等在多巴胺受体亚型选择性DA研�
   - 期刊：Journal of Parkinson's disease；PMID：42798283。
 
 以上标题与 DOI 已依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。
+
+
+## 2026-09-28 daily 新增文献
+
+- [Probing the Energy Landscape of α-Synuclein Amyloid Fibril Formation by Systematic K-to-Q Mutagenesis.](https://doi.org/10.1002/advs.77643)
+  - 期刊：Advanced science (Weinheim, Baden-Wurttemberg, Germany)；PMID：42801676。
+- [PLXDC2 siRNA-Mediated Intervention Attenuates Microglial Senescence Through cGAS-STING Signaling.](https://doi.org/10.1002/advs.77793)
+  - 期刊：Advanced science (Weinheim, Baden-Wurttemberg, Germany)；PMID：42801545。
+- [Hyphenated Mass Spectrometry-Based Strategies for Characterizing Oligomers of α‑Synuclein in Parkinson's Disease.](https://doi.org/10.1021/acscentsci.6c00514)
+  - 期刊：ACS central science；PMID：42799140。
+- [Recent advances in metabolism and applications of medium-chain triglycerides in neurodegenerative diseases.](https://doi.org/10.1080/10408398.2026.2737560)
+  - 期刊：Critical reviews in food science and nutrition；PMID：42799694。
+- [Correction: Influence of co-pathology on CSF and plasma synaptic markers SNAP25 and VAMP2 in Alzheimer's disease and Parkinson's disease.](https://doi.org/10.1186/s13195-026-02197-z)
+  - 期刊：Alzheimer's research & therapy；PMID：42800866。
+- [Polyamines across neurodegenerative proteinopathies.](https://doi.org/10.1016/j.nbd.2026.107629)
+  - 期刊：Neurobiology of disease；PMID：42800647。
+- [The Versatile Roles of Exosomes in Neurodegenerative Disorders: From Pathological Mechanism and Diagnostic Biomarkers to Therapeutic Application.](https://doi.org/10.2147/DDDT.S631482)
+  - 期刊：Drug design, development and therapy；PMID：42801200。
+
+以上标题与 DOI 已依据 NCBI PubMed efetch XML 的 ArticleTitle 与本文 ArticleIdList 核验；新增指 daily 首次收录，不等同于发表日期。
