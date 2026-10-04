@@ -1,0 +1,42 @@
+[
+  {
+    "title_en": "From patient cells to patient therapy: Twenty years of iPSC-based translation in neurodegenerative disease.",
+    "title_zh": "From patient cells to patient therapy: Twenty years of iPSC-based translation in neurodegenerative disease.",
+    "journal": "Cell reports. Medicine",
+    "impact_factor": 10.6,
+    "abstract": "Twenty years after the discovery of induced pluripotent stem cells, the field has progressed from patient-specific disease modeling toward cell-based therapies for neurodegenerative disorders. Parkinson's disease has emerged as the leading model for neuronal replacement, whereas Huntington's disease, Alzheimer's disease, and amyotrophic lateral sclerosis require distinct combinations of circuit reconstruction, cellular support, immune modulation, and engineered therapeutic delivery. We discuss key determinants of clinical translation, including cell source, product identity, graft composition, graft-host interactions, manufacturing reproducibility, genomic integrity, and clinical evaluation. We propose that the interval between cell transplantation and long-term engraftment constitutes a biological \"black box\" in which graft fate and therapeutic outcome are determined. As regenerative medicine enters its third decade, future progress will depend not only on generating therapeutic cells but also on elucidating and engineering the biological processes that determine their fate after transplantation, marking a conceptual transition from stem cell biology toward transplantation biology.",
+    "date": "2026 Oct 2",
+    "pmid": "42826718",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826718/"
+  },
+  {
+    "title_en": "Acidic cannabinoids in brain disorders: Neurobiological mechanisms, preclinical evidence, and translational challenges.",
+    "title_zh": "Acidic cannabinoids in brain disorders: Neurobiological mechanisms, preclinical evidence, and translational challenges.",
+    "journal": "Neuroscience and biobehavioral reviews",
+    "impact_factor": 7.9,
+    "abstract": "Acidic cannabinoids, including tetrahydrocannabinolic acid (THCA), cannabidiolic acid (CBDA), cannabigerolic acid (CBGA), and related biosynthetic precursors, represent the predominant phytocannabinoid forms naturally produced by Cannabis sativa. Long considered pharmacologically inactive intermediates, these compounds are now increasingly recognized as bioactive molecules with potential therapeutic relevance for brain disorders. Compared with their decarboxylated counterparts, acidic cannabinoids exhibit distinct physicochemical, pharmacokinetic, and pharmacodynamic properties that may confer reduced psychotropic liability together with unique neurobiological effects. Emerging preclinical evidence indicates that acidic cannabinoids modulate multiple processes implicated in neurological and psychiatric disorders, including serotonergic and endocannabinoid signaling, neuroinflammation, oxidative stress, mitochondrial dysfunction, calcium dyshomeostasis, and synaptic transmission. In this review, we critically examine current knowledge regarding acidic cannabinoids in the context of brain disorders. We first summarize their biosynthesis, chemical stability, pharmacokinetic characteristics, and pharmacological differences from neutral cannabinoids. We then examine preclinical evidence supporting their potential therapeutic effects in epilepsy, anxiety, depression, psychosis-related conditions, and neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. We also discuss how artificial intelligence and computational approaches may support target identification, formulation optimization, pharmacokinetic modeling, and the development of personalized cannabinoid-based interventions. Finally, we highlight key methodological and translational challenges limiting the field and outline priorities for future research. Overall, acidic cannabinoids emerge as promising but still underexplored multitarget compounds with potential relevance for the treatment of brain disorders.",
+    "date": "2026 Oct 2",
+    "pmid": "42826598",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826598/"
+  },
+  {
+    "title_en": "Dopaminergic transmissive dormancy as a protective state against cellular stress.",
+    "title_zh": "Dopaminergic transmissive dormancy as a protective state against cellular stress.",
+    "journal": "Genes & development",
+    "impact_factor": 7.7,
+    "abstract": "No therapies ensure long-term survival of dopaminergic neurons in Parkinson's disease. In this context, we propose that early neurodegeneration is an adaptive state of transmissive dormancy, not dysfunction. Upon sensing cellular stress, an inducible transcriptional program restricts cytosolic dopamine and actively silences neurotransmission. This adaptive response precedes neuronal death, reframing early symptoms as programmed dormancy rather than frank degeneration. Thus, reactivation strategies represent a compelling new approach to perhaps revive neural networks and abrogate disease. This principle may extend beyond the dopaminergic system and offers a new perspective on neurodegeneration.",
+    "date": "2026 Oct 2",
+    "pmid": "42827007",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827007/"
+  },
+  {
+    "title_en": "Astrocytic cathepsin D promotes alpha-synuclein processing and Lewy neurite-like aggregate maturation.",
+    "title_zh": "Astrocytic cathepsin D promotes alpha-synuclein processing and Lewy neurite-like aggregate maturation.",
+    "journal": "EMBO reports",
+    "impact_factor": 6.2,
+    "abstract": "Parkinson's disease (PD) and related synucleinopathies are marked by the accumulation and propagation of alpha-synuclein (alpha-syn) aggregates, a process primarily studied in neurons. Whether astrocytes actively contribute to alpha-syn processing and intercellular transfer remains unclear. Here, using a physiologically relevant neuron-astrocyte co-culture system that recapitulates tripartite synapse architecture, we show that astrocytes process alpha-syn and influence the morphological maturation of neuronal aggregates. Astrocytes internalize alpha-syn pre-formed fibrils (PFFs) and generate C-terminally truncated alpha-syn species via a Cathepsin D (CtsD)-dependent process. PFF-loaded astrocytes transfer alpha-syn-containing material to neurons and promote the formation and maturation of pS129-alpha-syn-positive Lewy neurite (LN)-like aggregates. Notably, alpha-syn PFF exposure induces lysosomal membrane damage, a senescence-like reactive state, and CtsD upregulation in astrocytes. Although PFF-containing lysosomes undergo autophagic engulfment, they persist within astrocytes, and a subset is detected beyond the astrocytic membrane boundary. Together, our findings support a model in which astrocytic lysosomal remodeling of internalized alpha-syn contributes to the morphological maturation and intercellular propagation of neuronal alpha-syn pathology in this co-culture system.",
+    "date": "2026 Oct 2",
+    "pmid": "42827189",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827189/"
+  }
+]
