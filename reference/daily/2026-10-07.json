@@ -1,5 +1,25 @@
 [
   {
+    "title_en": "New Parkinson's drug approved in US-but no clarity on when it might reach UK.",
+    "title_zh": "New Parkinson's drug approved in US-but no clarity on when it might reach UK.",
+    "journal": "BMJ (Clinical research ed.)",
+    "impact_factor": 42.7,
+    "abstract": "暂无摘要",
+    "date": "2026 Sep 30",
+    "pmid": "42815978",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42815978/"
+  },
+  {
+    "title_en": "Single-cell profiling and genetic regulation of alternative polyadenylation in the human brain.",
+    "title_zh": "Single-cell profiling and genetic regulation of alternative polyadenylation in the human brain.",
+    "journal": "Nature genetics",
+    "impact_factor": 29.0,
+    "abstract": "Alternative polyadenylation (APA) has a central role in regulation of the fate of mRNA and exhibits high variability in the brain and in neurons. However, brain APA regulation has not been mapped at cell type resolution, and the genetic control of APA in brain cell types and its contribution to genetic disease have remained unclear. Here we report a single-cell atlas of APA of the aged human brain across 2 million cells from 379 human postmortem brains across individuals with and without Alzheimer's disease (AD). We show that APA provides an independent mechanistic layer for understanding gene regulatory changes in AD, as genes with APA alterations are distinct from those with expression changes but often converge to similar pathways, including microglial activation and microtubule transport in neurons. We integrate APA variation with whole-genome sequencing to identify cell-type-resolved 3' untranslated region quantitative trait loci (3'aQTLs) for 4,288 genes. We find that 3'aQTLs preferentially colocalize with pQTLs over eQTLs. Across 17 brain traits and diseases, we identify 168 GWAS loci dependent on 3'aQTLs, of which only 17.5% are shared with eQTLs. These include PLEKHA1 and APOC2 for AD, PAK6 and AP3B2 for schizophrenia, NDUFA13 for bipolar disorder, MTCH2 for multiple brain traits, and SNCA, the top locus in Parkinson's disease. We show that 3' untranslated region choice alters SNCA mRNA localization within the cell, consistent with the observation that the SNCA risk locus acts in an eQTL-independent manner in neurons and oligodendrocytes. Our results provide a cell-type-specific foundation to interrogate the cis and trans regulation of APA and to understand the contribution to disease heritability of this key post-transcriptional layer.",
+    "date": "2026 Sep 30",
+    "pmid": "42816601",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42816601/"
+  },
+  {
     "title_en": "In vivo detection of pathologic alpha- synuclein and TDP-43 in the skin and olfactory mucosa of a patient with Parkinson's disease-like phenotype carrying the p.Thr272Serfs*10 GRN mutation.",
     "title_zh": "In vivo detection of pathologic alpha- synuclein and TDP-43 in the skin and olfactory mucosa of a patient with Parkinson's disease-like phenotype carrying the p.Thr272Serfs*10 GRN mutation.",
     "journal": "Molecular neurodegeneration",
@@ -8,6 +28,16 @@
     "date": "2026 Oct 1",
     "pmid": "42823745",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42823745/"
+  },
+  {
+    "title_en": "Modulation of the TGF-beta/Smad Signaling Pathway by a Bioactive Oxidized Polygonati Rhizoma Polysaccharide Crosslinked Chitosan Hydrogel as Therapeutic Carrier for Parkinson's Disease Treatment.",
+    "title_zh": "Modulation of the TGF-beta/Smad Signaling Pathway by a Bioactive Oxidized Polygonati Rhizoma Polysaccharide Crosslinked Chitosan Hydrogel as Therapeutic Carrier for Parkinson's Disease Treatment.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "impact_factor": 14.1,
+    "abstract": "Parkinson's disease (PD) is characterized by progressive dopaminergic neuron loss compounded by oxidative stress and neuroinflammation within a self-perpetuating pathological brain microenvironment. Here, we report a bioactive injectable self-healing hydrogel (COPRP) constructed by crosslinking oxidized Polygonati rhizoma polysaccharide (OPRP) with carboxymethyl chitosan via dynamic Schiff base linkages. OPRP is structurally identified as an inulin neoseries-type fructan with relevance to TGF-beta/Smad pathway regulation. Without levodopa loading, COPRP reduced ROS accumulation and M1-associated inflammatory markers in LPS-stimulated microglia. It also improved cell viability, preserved mitochondrial membrane potential, and maintained TH expression in 6-OHDA-challenged SH-SY5Y cells, supporting the intrinsic bioactivity of the hydrogel matrix. In a 6-OHDA rat PD model, COPRP significantly ameliorated motor deficits and preserved TH-positive neurons. Incorporating levodopa into COPRP creates a dual-mechanism platform combining active microenvironmental remodeling with passive dopaminergic supplementation. Proteomic analysis, corroborated by western blotting, identified the TGF-beta/Smad signaling axis as the principal mechanistic mediator. Pharmacological intervention with pirfenidone attenuated TGF-beta2/Smad2/3 activation and partially reduced the behavioral and neuroprotective effects associated with COPRP, supporting the functional involvement of this pathway. This work delineates how a defined polysaccharide structure modulates the intracranial pathological microenvironment, offering insights for the rational design of bioactive biomaterials targeting neurodegenerative disease.",
+    "date": "2026 Sep 30",
+    "pmid": "42815006",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42815006/"
   },
   {
     "title_en": "Near-infrared photocatalytic oral microalgae-carbon nitride-based nanozyme ameliorate Parkinson's disease via suppressing gut microbiota-indole-3-lactic acid-brain axis-mediated neuroinflammation.",
@@ -28,6 +58,16 @@
     "date": "2026 Oct 5",
     "pmid": "42831534",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42831534/"
+  },
+  {
+    "title_en": "Baicalein-loaded procyanidins nanoparticles alleviate neuroinflammation in Parkinson's disease by restoring microglial 8-oxoguanine DNA glycosylase 1.",
+    "title_zh": "Baicalein-loaded procyanidins nanoparticles alleviate neuroinflammation in Parkinson's disease by restoring microglial 8-oxoguanine DNA glycosylase 1.",
+    "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+    "impact_factor": 11.5,
+    "abstract": "Microglial NLRP3 inflammasome activation and M1 polarization, driven by unresolved 8-oxoguanine (8-oxoG) DNA damage resulting from downregulated 8-oxoguanine DNA glycosylase 1 (OGG1), are key drivers of neuroinflammation in Parkinson's disease (PD). Baicalein (BAI) can restore OGG1 and interrupt this pathological cycle, but its poor solubility and low brain accumulation limit its therapeutic efficacy. Procyanidins (PC), a class of flavanol polyphenols with neuroprotective and anti-inflammatory effects, can self-assemble into nanoparticles (PC NPs) to encapsulate hydrophobic BAI while exerting synergistic therapeutic effects. However, PC NPs alone fail to overcome three sequential biological barriers for PD treatment: systemic clearance, blood brain barrier (BBB) transcytosis, and selective microglial uptake. To tackle these challenges, we engineered a cascade-delivery nanoplatform named RVG/MG1-M@PC@BAI NPs for the co-delivery of BAI and PC. In this system, PC forms self-assembled inner core to encapsulate BAI. This core is further coated with an immune-evasive hybrid membrane (M) surface-functionalized with RVG29 peptide for BBB penetration and MG1 peptide for selective M1 microglial uptake. In vitro and in vivo characterization demonstrated that the nanoplatform effectively penetrates the BBB and is preferentially internalized by microglia. Pharmacological evaluation demonstrated that the nanoplatform efficiently upregulates OGG1 expression, thereby reducing 8-oxoG accumulation, suppressing aberrant NLRP3 inflammasome activation, restoring the physiological balance of microglial M1/M2 phenotypes, and ultimately alleviating neuroinflammation. Safety assessment confirmed its favorable biocompatibility. In conclusion, RVG/MG1-M@PC@BAI NPs represent an OGG1-targeted synergistic nanoplatform, providing a promising strategy for PD therapy.",
+    "date": "2026 Sep 30",
+    "pmid": "42815649",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42815649/"
   },
   {
     "title_en": "Cognitive impairment in Parkinson disease correlates with loss of cholinergic axon projections to cortex in an autopsy study.",
@@ -230,6 +270,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42827189/"
   },
   {
+    "title_en": "Agentic AI for Clinical Outcomes Research, Population Health Management Analyses With Large Administrative Databases, and Generating Epidemiological Estimates of Diseases: Feasibility and Validation Study.",
+    "title_zh": "Agentic AI for Clinical Outcomes Research, Population Health Management Analyses With Large Administrative Databases, and Generating Epidemiological Estimates of Diseases: Feasibility and Validation Study.",
+    "journal": "Journal of medical Internet research",
+    "impact_factor": 6.0,
+    "abstract": "BACKGROUND: There is tremendous enthusiasm for the use of AI in health care because of the ability to analyze existing data for preventative, diagnostic, and treatment support. Agentic AI can feasibly provide access to large real-world datasets for the generation of real-world evidence for health care and clinical applications to health care providers, researchers, and administrators without access to large analytic programming resources. OBJECTIVE: The objective of this study was to understand the feasibility of using agentic AI for clinical outcome research and population health management. Specifically, this study used an agentic AI evidence-generation platform to obtain epidemiological estimates of diverse medical conditions, with the results evaluated against existing AI frameworks. METHODS: Prevalence estimates of 6 conditions (amyotrophic lateral sclerosis, acute myeloid leukemia, bladder cancer, Huntington disease, elevated lipoprotein (a), and Parkinson disease) were estimated using an agentic AI evidence-generation platform applied to an administrative claims database with representation from every US state. Gender-specific rates were calculated within the following age categories: 0 to 17, 18 to 24, 25 to 34, 35 to 44, 45 to 54, 55 to 64, and 65 to 74 years and 75 years and older. Period prevalence was estimated from January 1, 2020, to June 30, 2025, and annual prevalence rates for each year were estimated from 2020 to 2024. Continuous enrollment for 12 months was required during the study period for inclusion. Source code generated by the platform as part of the analysis was reviewed by an independent programmer for validation of methods and programming, and analyses were replicated using traditional programming methods. Results obtained throughout the process were evaluated against several existing AI application frameworks. RESULTS: Regarding accuracy, epidemiological estimates obtained using the agentic AI platform were consistent with published estimates for all 6 conditions, as well as with estimates obtained from traditional programming methods. Regarding rigor, the agentic AI platform conducted the analysis with rigor by confirming acceptable methods in published literature for the type of data source used. Code lists used for the analysis were confirmed against existing algorithms when available. Appropriate statistical methods were used to compare differences in prevalence rates by age and gender. Regarding trust (explainability, transparency, replicability, traceability, and validation), the agentic AI platform generated all source code used for the analyses, which was reviewed and validated for accuracy and appropriateness. The analysis included a \"human in the loop\" to validate the research question, data extraction method, statistical analysis plan, and output plan prior to proceeding with each step. CONCLUSIONS: With specific design considerations to ensure responsible use, agentic AI can be invaluable to increasing the accessibility of large datasets for applied clinical outcome research and population health management analyses.",
+    "date": "2026 Sep 30",
+    "pmid": "42814997",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814997/"
+  },
+  {
     "title_en": "Poly(N-acryloyl L-tryptophan) nanoparticles: anti-inflammatory and neuroprotective effects.",
     "title_zh": "Poly(N-acryloyl L-tryptophan) nanoparticles: anti-inflammatory and neuroprotective effects.",
     "journal": "Journal of materials chemistry. B",
@@ -270,6 +320,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42822679/"
   },
   {
+    "title_en": "Bioinspired Nanomaterials for Parkinson's Disease: Engineering Membrane Interfaces to Overcome the Blood-Brain Barrier and Enable Neuron-Targeted Delivery.",
+    "title_zh": "Bioinspired Nanomaterials for Parkinson's Disease: Engineering Membrane Interfaces to Overcome the Blood-Brain Barrier and Enable Neuron-Targeted Delivery.",
+    "journal": "ACS biomaterials science & engineering",
+    "impact_factor": 5.5,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder marked by the selective loss of dopaminergic neurons in the substantia nigra, which gives rise to characteristic motor and non-motor behavioral impairments. Disease-modifying therapies remain elusive, largely due to the restrictive nature of the blood-brain barrier (BBB) and the lack of effective neuron-targeting strategies. Bioinspired nanomaterials-including cell membrane-derived vesicles, engineered biomimetic nanocarriers, and liposomes-have emerged as versatile platforms to address these limitations. By recapitulating key surface properties of endogenous cells, these nanocarriers facilitate BBB transport and brain accumulation, enhance neuronal recognition and preferential uptake, and enable controlled drug release, thereby potentially improving therapeutic index. In the context of PD, such targeted delivery systems offer potential not only for neuroprotection but also for ameliorating behavioral deficits. This review critically examines recent progress in bioinspired nanomaterial-based interventions for PD, with emphasis on the underlying mechanisms of BBB penetration and neuronal targeting. We further evaluate the translational promise of these platforms for modifying disease trajectories and restoring behavioral functions, and we identify remaining challenges and priority directions for future development in PD and related neurodegenerative disorders.",
+    "date": "2026 Sep 30",
+    "pmid": "42814893",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814893/"
+  },
+  {
     "title_en": "Beyond Fuel: Metabolic Intermediates as Signaling Molecules in Neuroinflammation and Neurodegeneration.",
     "title_zh": "Beyond Fuel: Metabolic Intermediates as Signaling Molecules in Neuroinflammation and Neurodegeneration.",
     "journal": "Current neuropharmacology",
@@ -278,6 +338,16 @@
     "date": "2026 Sep 30",
     "pmid": "42817127",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42817127/"
+  },
+  {
+    "title_en": "Neuroprotective effects of dapansutrile in rotenone-induced parkinsonism: targeting NLRP3/caspase-1, NF-kappaB, Nrf2/HO-1, and PINK1/Parkin pathways.",
+    "title_zh": "Neuroprotective effects of dapansutrile in rotenone-induced parkinsonism: targeting NLRP3/caspase-1, NF-kappaB, Nrf2/HO-1, and PINK1/Parkin pathways.",
+    "journal": "Inflammopharmacology",
+    "impact_factor": 5.3,
+    "abstract": "BACKGROUND AND PURPOSE: Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by dopaminergic dysfunction, neuroinflammation, oxidative stress, and mitochondrial abnormalities. Activation of the NLRP3 inflammasome has been implicated in PD pathophysiology; however, its relationship with other pathological processes remains incompletely understood. The present study investigated the neuroprotective effects of dapansutrile (DPST), a selective NLRP3 inhibitor, in a rotenone (ROTN)-induced rat model of parkinsonism and examined its effects on inflammation-, oxidative stress-, mitophagy-, and apoptosis-related markers. METHODS: Forty-four adult male Wistar rats were randomly allocated into four groups: control, DPST-treated control (200 mg/kg/day, p.o.), ROTN-treated (1.5 mg/kg, s.c., every other day for 21 days), and ROTN + DPST-treated groups. Behavioral assessments were conducted followed by biochemical, molecular, histopathological, and immunohistochemical analyses of brain tissues. Markers related to oxidative stress, inflammatory signaling, mitophagy-associated pathways, and apoptosis-associated signaling were evaluated. RESULTS: ROTN administration induced marked behavioral deficits, dopamine depletion, oxidative stress, neuroinflammation, histopathological alterations, and increased GFAP immunoreactivity. These changes were accompanied by increased NLRP3 expression, caspase-1 activity, IL-18 levels, and Apaf-1 expression, together with reduced PINK1, Parkin, and MFN1 protein expression. DPST treatment significantly improved behavioral performance, restored dopamine and BDNF levels, attenuated oxidative stress and inflammatory responses, reduced NLRP3-associated inflammatory markers, improved the expression of PINK1-, Parkin-, and MFN1-related proteins, and lowered Apaf-1 expression. Furthermore, DPST ameliorated the histopathological alterations and astroglial activation induced by ROTN. CONCLUSION: DPST exerted significant neuroprotective effects in the rotenone-induced rat model of parkinsonism. These beneficial effects were associated with modulation of NLRP3-associated inflammatory signaling, attenuation of oxidative stress, and alterations in mitophagy-related and apoptosis-related markers. While the findings support a potential role for NLRP3 signaling in ROTN-induced neurotoxicity, the present data establish associations rather than direct causal mechanisms. Further studies employing dedicated assessments of pyroptosis, mitophagic flux, mitochondrial function, apoptosis, and dopaminergic neuronal survival are required to clarify the mechanistic basis of DPST-mediated neuroprotection.",
+    "date": "2026 Sep 30",
+    "pmid": "42816721",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42816721/"
   },
   {
     "title_en": "Quadra-Brain: Quadruplet Higher-Order Topological Representation Learning for fMRI-Based Brain Disorder Diagnosis.",
