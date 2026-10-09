@@ -20,6 +20,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42848371/"
   },
   {
+    "title_en": "L-Arginine inhibits NLRP3 inflammasome activation.",
+    "title_zh": "L-Arginine inhibits NLRP3 inflammasome activation.",
+    "journal": "Nature metabolism",
+    "impact_factor": 20.8,
+    "abstract": "Nutritional status and metabolic homeostasis are intricately associated with the inflammatory response. However, the direct mechanistic link between nutrition, metabolism and inflammation remains unclear. Here, we show that the amino acid L-arginine (L-Arg) is a potent endogenous inhibitor of the NLRP3 inflammasome, a central component of the inflammatory signalling pathway. We show that L-Arg binds directly to the Asp31 site of the NLRP3 protein, blocking its interaction with the adaptor ASC and subsequent inflammasome assembly and activation. L-Arg supplementation inhibits the NLRP3 inflammasome activation in macrophages, while deprivation promotes it. Treatment with L-Arg in mice alleviates monosodium urate crystal-induced arthritis and aluminium-induced peritonitis. In addition, L-Arg supplementation alleviates neuroinflammation and motor deficits in mouse models of Parkinson's disease, whereas L-Arg deprivation exacerbates pathology. In patients with Parkinson's disease, L-Arg levels are reduced in serum. Our study establishes L-Arg supplementation as a promising therapeutic avenue for managing NLRP3-driven inflammatory pathologies.",
+    "date": "2026 Oct 6",
+    "pmid": "42839106",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42839106/"
+  },
+  {
     "title_en": "Human microglia clear intraneuronal alpha-synuclein aggregates by GPNMB-mediated trogocytosis.",
     "title_zh": "Human microglia clear intraneuronal alpha-synuclein aggregates by GPNMB-mediated trogocytosis.",
     "journal": "Science translational medicine",
@@ -30,6 +40,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42842725/"
   },
   {
+    "title_en": "A silent RAGE: The inflammatory pathway to dementia in Parkinson's disease.",
+    "title_zh": "A silent RAGE: The inflammatory pathway to dementia in Parkinson's disease.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Cognitive decline in Parkinson's disease (PD), progressing from mild cognitive impairment (PD-MCI) to severe dementia (PD-D), is a debilitating core feature driven by complex neuropathological interactions. While alpha-synuclein accumulation is the disease's hallmark, co-pathologies involving amyloid-beta and tau, alongside chronic neuroinflammation, are critical accelerators of cognitive collapse. This review positions the receptor for advanced glycation end products (RAGE) as a key molecular orchestrator bridging these disparate pathological events. Functioning as a multi-ligand sensor, RAGE binds proteotoxic aggregates (alpha-synuclein, amyloid-beta, and tau) and damage-associated molecular patterns like HMGB1. We discuss how RAGE can drive early synaptic failure through four interconnected mechanisms: (1) triggering a \"two-hit\" hyperinflammatory microglial response along with TLRs; (2) initiating non-canonical intracellular neuroinflammation through RAGE-RIPK1 complex; (3) acting as a neurovascular gateway to actively transport peripheral amyloid-beta and recruit circulating monocytes into the central nervous system; and (4) directly blocking long-term potentiation (LTP) and degrading dendritic spines prior to overt neuronal death. Furthermore, clinical evidence highlights the depletion of protective soluble RAGE (sRAGE) in dementia, reinforcing the prognostic value of the RAGE axis. By reframing RAGE as a convergence point for proteinopathy, neurovascular breakdown, and synaptic dysfunction, this review highlights its valuable translational potential. We conclude by exploring how selective interventions-such as RAGE-RIPK1 uncoupling peptides and sRAGE modulation-could effectively intercept the molecular cascades that precipitate dementia in prodromal PD cohorts.",
+    "date": "2026 Oct 6",
+    "pmid": "42838289",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42838289/"
+  },
+  {
     "title_en": "Tyrosine nitration: An emerging mechanistic landscape in neurodegeneration and cardiopulmonary disease.",
     "title_zh": "Tyrosine nitration: An emerging mechanistic landscape in neurodegeneration and cardiopulmonary disease.",
     "journal": "Redox biology",
@@ -38,6 +58,26 @@
     "date": "2026 Oct 3",
     "pmid": "42843275",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42843275/"
+  },
+  {
+    "title_en": "Mitochondrial DNA damage elicits PINK1 upregulation in pontine cholinergic neurons in Parkinson's disease.",
+    "title_zh": "Mitochondrial DNA damage elicits PINK1 upregulation in pontine cholinergic neurons in Parkinson's disease.",
+    "journal": "Brain : a journal of neurology",
+    "impact_factor": 11.7,
+    "abstract": "In Parkinson's disease, cholinergic neurons of the pedunculopontine nucleus, located in the upper pons, undergo extensive degeneration, contributing to severe hypokinetic-motor and non-motor symptoms. We previously demonstrated that loss of these neurons is associated with mitochondrial dysfunction, driven by high mitochondrial DNA deletion burden. Increased mitochondrial DNA replication was also observed in these neurons, contrasting with reduced mitochondrial DNA copy number previously reported in Parkinson's-affected surviving nigral-dopaminergic neurons. Here, ultra-deep whole-genome sequencing combined with stringent quality control was used to characterise mitochondrial DNA alterations within single-cell pedunculopontine-cholinergic neurons isolated from Parkinson's-affected and neurologically-normal post-mortem specimens. Analyses included mitochondrial DNA deletion spectrum, -size distribution, genomic location, heteroplasmy levels, breakpoint classification, and point-mutation frequency. Thermodynamic modelling was used to investigate whether the stability of mitochondrial DNA secondary structures surrounding deletion breakpoints could provide insight into the mechanisms underlying mitochondrial DNA deletion formation in Parkinson's disease. In parallel, nuclear-encoded mitochondrial pathway responses were assessed using a customised single-cell multiplexed multi-target gene expression assay, comparing Parkinson's and control post-mortem neurons. Parkinson's-affected neurons exhibited substantial mitochondrial DNA damage, characterised by large-scale mitochondrial DNA deletions predominantly locating within mitochondrial DNA's major arc. Mitochondrial DNA deletions ranged  approximately 50-5,500 base-pairs, with most exceeding 1,000 base-pairs. Clonal expansion of large-scale mitochondrial DNA deletions, likely arising from replication-associated errors, represented the dominant mutant species. Small mitochondrial DNA deletions (<50bp) were rare, suggesting that free radical-induced strand breakage was not the primary driver of somatic mitochondrial DNA damage. Point-mutation frequency was similar between Parkinson's and control neurons but showed greater functional impact on electron transport chain complex-I subunits in Parkinsonian neurons. Thermodynamic modelling revealed reduced stability of mitochondrial DNA secondary structures flanking mitochondrial DNA deletion breakpoints in Parkinsonian post-mortem neurons, with an average decrease of  approximately 2 kJ/mol across two major mitochondrial DNA deletions formation models. The increased mitochondrial DNA damage was accompanied by marked upregulation of the nuclear-encoded mitophagy regulator PINK1, specifically in PD patients with extended survival, suggesting activation of a compensatory cytoprotective response. Together, these findings provide comprehensive single-cell resolution profiling of mitochondrial genomic alterations in pedunculopontine-cholinergic neurons in Parkinson's, displaying extensive mitochondrial DNA structural disruption dominated by large-scale mitochondrial DNA deletions. Our results further suggest that upregulation of mitophagy-related pathways may represent an adaptive mechanism to mitigate progressive mitochondrial genomic instability and preserve neuronal energy homeostasis.",
+    "date": "2026 Oct 7",
+    "pmid": "42839534",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42839534/"
+  },
+  {
+    "title_en": "Amyloid, p-tau, neurofilament light, and alpha-synuclein cerebrospinal fluid biomarkers across Alzheimer's disease, dementia with Lewy bodies, and Parkinson's disease.",
+    "title_zh": "Amyloid, p-tau, neurofilament light, and alpha-synuclein cerebrospinal fluid biomarkers across Alzheimer's disease, dementia with Lewy bodies, and Parkinson's disease.",
+    "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)",
+    "impact_factor": 11.1,
+    "abstract": "INTRODUCTION: Mounting evidence suggests overlapping pathology across Alzheimer's disease (AD), dementia with Lewy bodies (DLB), and Parkinson's disease (PD), yet its extent and clinical implications remain unclear. METHODS: Cerebrospinal fluid (CSF) amyloid beta (Abeta)42/40, phosphorylated tau 181 (p-tau181), neurofilament light chain (NfL), and total alpha-synuclein were centrally measured using fully-automated Elecsys immunoassays in 347 participants (European Platform for Neurodegenerative Diseases [EPND] cohort) and compared between groups. Associations of amyloid and tau positivity with cognitive and motor function were evaluated. RESULTS: Compared to controls, amyloid and tau levels were abnormal in DLB, but not in PD. Amyloid and tau positivity in DLB were associated with worse global cognitive outcomes, but not with motor performance. NfL levels were elevated across diseases, and total alpha-synuclein levels were associated with tau positivity. DISCUSSION: AD pathology is observed in DLB, and related to worse cognition, but it is less observed in PD. CSF NfL captures non-disease-specific processes, whereas CSF total alpha-synuclein likely reflects CSF tau positivity. Results can help patient management in clinical practice and trials.",
+    "date": "2026 Oct-Dec",
+    "pmid": "42841041",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42841041/"
   },
   {
     "title_en": "Relationship Between Braak and Clinical Stage in Autopsy-Confirmed Parkinson Disease: A UK Brain Bank Study.",
@@ -110,6 +150,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42844944/"
   },
   {
+    "title_en": "Neuropsychiatric and Cognitive Symptom Evolution over the First Decade of Biomarker-Positive, Sporadic Parkinson's Disease.",
+    "title_zh": "Neuropsychiatric and Cognitive Symptom Evolution over the First Decade of Biomarker-Positive, Sporadic Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Parkinson's disease (PD) is frequently accompanied by neuropsychiatric symptoms (NPS), including cognitive impairment, which often emerge early and co-occur. Their long-term evolution remains incompletely characterized, particularly in biomarker-positive cohorts. OBJECTIVE: The aim was to examine the evolution of NPS in biomarker-positive PD over the first decade following diagnosis. METHODS: Parkinson's Precision Medicine Initiative data were used to evaluate nine NPS in dual biomarker-positive PD (positive cerebrospinal fluid ⍺-synuclein seed amplification assay and abnormal dopamine transporter single-photon emission computed tomography; n = 846) and healthy controls (HCs; n = 282). Analyses included generalized estimating equations (GEEs), principal components analysis (PCA), and cluster analysis. RESULTS: In PD, absolute prevalence of eight NPS increased over 10 years (6.6%-23.5%), while anxiety declined slightly. Prevalence in HCs remained low and stable. GEE models demonstrated increasing odds of all NPS in PD except anxiety, with notable increases in psychosis (odds ratio [OR], 1.21; 95% confidence interval [CI], 1.17-1.25) and apathy (OR, 1.17; 95% CI, 1.13-1.22). PD participants had higher rates of depression, psychosis, apathy, rapid eye movement sleep behavior disorder, excessive daytime sleepiness, impulse control disorders, and impaired cognition than HCs over time. Mean NPS count increased in PD (1.39 to 2.39), but remained stable in HCs (0.60 to 0.58). PCA identified a stable affective domain, a perceptual domain that included cognitive and sleep symptoms, and a time-varying motivational-behavioral domain. Cluster analysis at diagnosis identified low- and high-burden NPS subgroups that remained applicable at 5- and 10-year timepoints. CONCLUSIONS: NPS increase in prevalence and co-occurrence over 10 years in biomarker-positive, sporadic PD. Time-varying symptom groupings and persistent low- and high-NPS burden phenotypes further highlight the progressive and heterogeneous nature of NPS evolution in PD. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 6",
+    "pmid": "42839627",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42839627/"
+  },
+  {
+    "title_en": "Directional Adaptive Deep Brain Stimulation: An Initial Report of Safety, Tolerability, and Effectiveness.",
+    "title_zh": "Directional Adaptive Deep Brain Stimulation: An Initial Report of Safety, Tolerability, and Effectiveness.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Adaptive deep brain stimulation (aDBS) is a safe and effective therapy for people with Parkinson's disease (PWP). Utilization of directional aDBS has not been specifically evaluated. OBJECTIVES: The goal is to report the first data on the safety, tolerability, and preliminary effectiveness of chronic, directional aDBS in PWP. METHODS: A supplemental cohort from the Adaptive DBS Algorithm for Personalized Therapy in Parkinson's Disease Trial received directional aDBS. Participants who were previously receiving stable continuous directional DBS (dDBS) completed an open-label evaluation of two aDBS modes. RESULTS: Seventeen participants were enrolled, with 15 completing directional aDBS evaluation. The prespecified primary endpoint and post hoc success criterion was met for both directional aDBS modes. On-time without troublesome dyskinesia was increased, with a median of 1.2 hours/day in directional dual threshold aDBS mode. Stimulation-related events were similar between dDBS and directional aDBS. All 15 participants chose to continue with directional aDBS chronically. CONCLUSIONS: Preliminary data indicates chronic directional aDBS is feasible, tolerable, effective, and safe in PWP. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 5",
+    "pmid": "42834674",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42834674/"
+  },
+  {
     "title_en": "FA-MFMR: a multivariable functional Mendelian randomization method that accounts for correlated longitudinal exposures via factor augmentation.",
     "title_zh": "FA-MFMR: a multivariable functional Mendelian randomization method that accounts for correlated longitudinal exposures via factor augmentation.",
     "journal": "Bioinformatics (Oxford, England)",
@@ -118,6 +178,16 @@
     "date": "2026 Oct 8",
     "pmid": "42847660",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42847660/"
+  },
+  {
+    "title_en": "Quadra-Brain: Quadruplet Higher-Order Topological Representation Learning for fMRI-Based Brain Disorder Diagnosis.",
+    "title_zh": "Quadra-Brain: Quadruplet Higher-Order Topological Representation Learning for fMRI-Based Brain Disorder Diagnosis.",
+    "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+    "impact_factor": 5.2,
+    "abstract": "Accurately characterizing higher-order coordination among distributed brain regions is important for understanding brain disorders from fMRI data. Existing methods mainly rely on pairwise connectivity or low-order motifs, which may overlook disease-related alterations in collective multi-region communication and higher-dimensional topological organization. To address this limitation, we propose Quadra-Brain, a computational framework for modeling quadruplet higher-order interactions in fMRI-based brain disease diagnosis. Quadra-Brain first estimates time-resolved quadruplet co-fluctuations using the multiplication of temporal derivatives, enabling the detection of transient four-region coordination patterns. It then constructs weighted brain simplicial complexes and employs two persistent-homology-based filtration processes to extract higher-dimensional neural organizations from complementary spatiotemporal perspectives. Finally, a three-branch feature fusion architecture with mutual cross-attention integrates lower-order edge features, quadruplet interaction features, and topological invariants for disease classification and interpretation. Experiments on ADNI, TaoWu, and PPMI datasets demonstrate the effectiveness and interpretability of Quadra-Brain. The learned higher-order patterns reveal disease-specific topological alterations: Alzheimer's disease progression is associated with reduced quadruplet coordination and increased topological voids, whereas Parkinson's disease shows an opposite trend. Group-level statistical analyses further indicate that the identified regions and structures are consistent with neuroscience findings. These results suggest that quadruplet interactions provide a meaningful representation of collective brain coordination and offer complementary insights beyond conventional connectivity-based analysis. The source code is publicly available at: https://github.com/Zdy12/Quadra-Brain.",
+    "date": "2026 Oct 6",
+    "pmid": "42837238",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42837238/"
   },
   {
     "title_en": "Grid to glide: A simple visual cue that alleviates upper-limb freezing.",
