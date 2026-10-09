@@ -20,6 +20,26 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42848371/"
   },
   {
+    "title_en": "Human microglia clear intraneuronal alpha-synuclein aggregates by GPNMB-mediated trogocytosis.",
+    "title_zh": "Human microglia clear intraneuronal alpha-synuclein aggregates by GPNMB-mediated trogocytosis.",
+    "journal": "Science translational medicine",
+    "impact_factor": 14.6,
+    "abstract": "Microglia are the primary immune cells of the brain, but their role in Parkinson's disease is not fully understood. Chronic microglial activation is toxic to neurons, but in the early stages of pathology, microglia also exert beneficial functions. We used induced pluripotent stem cell (iPSC)-derived coculture models to investigate how human microglia respond to alpha-synuclein aggregates that form de novo inside human dopaminergic neurons with alpha-synuclein gene triplication or are triggered by fibrils. We found that microglia cleared Ser(129)-phosphorylated alpha-synuclein aggregates through a contact-dependent mechanism. This process was fine-tuned by sensing (P2RY12) and inhibitory (CD22) signals and involved selective phagocytosis of neuronal subcompartments (trogocytosis), independently of TREM2 or phosphatidylserine. In the presence of intraneuronal alpha-synuclein aggregates, microglia exhibited morphological and transcriptional changes indicative of activation. Using single-cell sequencing, we identified a cluster of disease-associated microglia (DAM) responsible for this beneficial phenotype and the Parkinson's disease GWAS candidate glycoprotein nonmetastatic melanoma protein B (GPNMB) as a key effector of aggregate clearance by microglial lysosomes. GPNMB interacted with Ser(129)-phosphorylated alpha-synuclein in iPSC-derived microglia exposed to aggregate-laden dopaminergic neurons and was up-regulated in substantia nigra microglia of individuals with incidental Lewy bodies or Parkinson's disease. Microglia-specific GPNMB knockdown using CRISPRi reduced intraneuronal aggregate clearance. GPNMB-mediated trogocytosis was negatively regulated by an autocrine IL-10 signaling loop, whereas IL-10 receptor blockade enhanced the phagocytic response. Together, our study identifies a subtype of human microglia capable of removing intraneuronal aggregates and potential therapeutic targets.",
+    "date": "2026 Oct 7",
+    "pmid": "42842725",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842725/"
+  },
+  {
+    "title_en": "Tyrosine nitration: An emerging mechanistic landscape in neurodegeneration and cardiopulmonary disease.",
+    "title_zh": "Tyrosine nitration: An emerging mechanistic landscape in neurodegeneration and cardiopulmonary disease.",
+    "journal": "Redox biology",
+    "impact_factor": 11.9,
+    "abstract": "Protein tyrosine nitration is a post-translational modification associated with conditions of oxidative and inflammatory stress, driven by the production of reactive oxygen and nitrogen species (ROS and RNS). Once considered primarily a footprint of oxidative damage, tyrosine nitration is increasingly recognized as a selective modification that, in specific biological contexts, can alter protein structure, stability, enzymatic activity, and interaction networks. Mechanistically, nitration occurs through peroxynitrite-dependent and heme-peroxidase-dependent pathways and preferentially targets specific tyrosine residues based on local protein structure, solvent accessibility, and microenvironmental chemistry. Accumulating evidence has identified disease-specific nitration signatures across multiple pathological contexts. In neurodegenerative disorders, including Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis, nitration of proteins such as tau, alpha-synuclein, manganese superoxide dismutase, ATP synthase, glyceraldehyde-3-phosphate dehydrogenase, heat shock proteins, and cytoskeletal components contributes to mitochondrial dysfunction, protein aggregation, metabolic failure, and neuronal loss. Similarly, in cardiovascular and pulmonary diseases, protein tyrosine nitration disrupts vascular and epithelial homeostasis by impairing endothelial signaling, fibrinolysis, lipid metabolism, and barrier integrity through modification of key regulatory proteins. By influencing phosphorylation-dependent signaling, enzymatic function, and protein-protein interactions, tyrosine nitration contributes to the connection between redox imbalance and progressive cellular and tissue dysfunction. This review summarizes current mechanistic insights into site-specific protein tyrosine nitration, highlights the emerging disease-associated nitroproteome, and discusses how advances in analytical and structural approaches are redefining nitration as a functional regulatory modification. Understanding the molecular determinants and consequences of tyrosine nitration may enable the development of targeted diagnostics and therapeutic strategies across diverse human diseases.",
+    "date": "2026 Oct 3",
+    "pmid": "42843275",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42843275/"
+  },
+  {
     "title_en": "Relationship Between Braak and Clinical Stage in Autopsy-Confirmed Parkinson Disease: A UK Brain Bank Study.",
     "title_zh": "Relationship Between Braak and Clinical Stage in Autopsy-Confirmed Parkinson Disease: A UK Brain Bank Study.",
     "journal": "Neurology",
@@ -40,6 +60,56 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42848965/"
   },
   {
+    "title_en": "Hyaluronic acid-based CeO(2) nanozymes for brain-targeted Parkinson's disease therapy: Biointerface design, multifunctional neuroprotective regulation and future perspectives: A review.",
+    "title_zh": "Hyaluronic acid-based CeO(2) nanozymes for brain-targeted Parkinson's disease therapy: Biointerface design, multifunctional neuroprotective regulation and future perspectives: A review.",
+    "journal": "International journal of biological macromolecules",
+    "impact_factor": 8.5,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder driven by oxidative imbalance, mitochondrial dysfunction, and persistent neuroinflammation, yet current pharmacological interventions provide symptomatic relief but fail to halt neuronal degeneration largely owing to complex pathological mechanisms and poor blood-brain barrier (BBB) penetration. Cerium oxide (CeO(2)) nanozymes have garnered considerable attention for their reversible Ce(3+)/Ce(4+) redox cycling and intrinsic superoxide dismutase (SOD) and catalase (CAT)-like activities, although therapeutic efficacy is restricted by insufficient brain accumulation and limited nano-bio interface interactions. Hyaluronic acid (HA), a naturally occurring polysaccharide, has emerged as a bioactive macromolecule for nano-bio interface engineering, enhancing colloidal stability, biological recognition, cellular uptake, and brain-targeting efficiency of CeO(2) nanozymes via cluster of differentiation 44 (CD44)-mediated targeting of activated microglia. This review systematically summarizes recent advances in HA-CeO(2) nanozyme platforms for PD therapy, with key findings indicating multifaceted neuroprotection through modulation of oxidative stress (Nrf2/ARE), mitochondrial dysfunction (PINK1/Parkin), neuroinflammation (NF-kappaB/NLRP3), alpha-synuclein pathology (autophagy-lysosomal pathways), and ferroptosis (Nrf2/SLC7A11/GPX4). Structure-activity relationship analyses reveal that CeO(2) core properties and HA characteristics collectively determine catalytic activity and targeting efficiency. Significant limitations persist, including insufficient structural-efficacy correlations, unclear long-term biosafety, and lack of standardized protocols. By highlighting HA as a bioactive polysaccharide that governs nano-bio interface regulation, this review provides a biomacromolecule-oriented perspective for designing brain-targeted CeO(2) nanozyme platforms, while critically examining the translational barriers that must be overcome to realize their clinical potential.",
+    "date": "2026 Oct 7",
+    "pmid": "42843479",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42843479/"
+  },
+  {
+    "title_en": "Physical Activity and Motor and Cognitive Progression in Parkinson Disease: A Longitudinal Cohort Study.",
+    "title_zh": "Physical Activity and Motor and Cognitive Progression in Parkinson Disease: A Longitudinal Cohort Study.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: Evidence for the effect of physical activity on disease progression in Parkinson disease (PD) remains limited. We aimed to examine whether physical activity is associated with the rate of motor and cognitive progression in PD and to identify specific components of physical activity underlying these associations. METHODS: In this longitudinal cohort study, we analyzed data from individuals with mild-to-moderate PD enrolled in the Cincinnati Cohort Biomarker Program between January 2019 and February 2025. Physical activity was assessed using standardized interviews and quantified as total physical activity time (TPT), total physical activity volume (TPV), and vigorous physical activity time (VPT). Longitudinal associations between physical activity and annual changes in Movement Disorder Society-Unified Parkinson's Disease Rating Scale, part III (MDS-UPDRS-III; higher is worse) and Montreal Cognitive Assessment (MoCA; higher is better) scores were assessed using linear mixed-effects models adjusted for demographic and disease-related covariates. We compared predicted severity trajectories across tertiles of TPT and used residualized analyses to evaluate the independent effects of activity intensity and timing. RESULTS: A total of 294 individuals with PD (mean age, 66.4 years; 33.0% female) were included, with up to 5 years of follow-up for MoCA and 7 years for MDS-UPDRS-III. Higher TPT, TPV, and VPT were each associated with slower cognitive decline and motor progression. The annual MoCA change was -0.478, -0.090, and -0.007 points in the low, mid, and high TPT tertiles, respectively, with corresponding annual MDS-UPDRS-III changes of 0.143, -0.225, and -0.783. Compared with the lowest tertile, the highest tertile showed slower cognitive (beta = 0.470; 95% CI 0.203-0.737; p < 0.001) and motor (beta = -0.926; 95% CI -1.835 to -0.017; p = 0.048) progression. In residualized analyses, recent physical activity remained associated with longitudinal changes in both MoCA and MDS-UPDRS-III scores after accounting for previous 10-year physical activity, whereas vigorous physical activity was no longer associated with outcomes after adjustment for total physical activity time. DISCUSSION: Higher levels of physical activity were associated with slower cognitive and motor progression in PD. The beneficial associations of moderate-to-vigorous physical activity may be related to activity duration and ongoing engagement. Limitations include the observational design, self-reported physical activity, and potential selection bias.",
+    "date": "2026 Nov 10",
+    "pmid": "42842855",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42842855/"
+  },
+  {
+    "title_en": "The Gut-Brain Axis in Parkinson's Disease: From Clinical Observation toward Mechanism-Based Precision Medicine.",
+    "title_zh": "The Gut-Brain Axis in Parkinson's Disease: From Clinical Observation toward Mechanism-Based Precision Medicine.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "Gastrointestinal dysfunction is increasingly recognized as a core feature of Parkinson's disease (PD), affecting quality of life, nutrition, medication response, and potentially the earliest stages of pathogenesis. This perspective traces the evolution of the gut from a neglected source of non-motor symptoms to a central component of biological models of PD. Gastrointestinal manifestations are physiologically heterogeneous and require objective phenotyping to distinguish dysphagia, gastroparesis, slow transit, defecatory dysfunction, and overlapping mechanisms. The body-first/brain-first framework further suggests that Lewy pathology may follow distinct anatomical trajectories, with early enteric and autonomic involvement defining a subgroup in which gut-directed biomarkers and therapies may be especially relevant. Alterations of the gut microbiome are reproducibly associated with PD, although geography, constipation, medication, diet, disease stage, and reverse causation complicate interpretation. Emerging work is shifting from taxonomy toward microbial functions and host pathways, including barrier integrity, immune and enteroendocrine signaling, short-chain fatty acids, glucagon-like peptide-1 (GLP-1), host genetic susceptibility, alpha-synuclein aggregation and propagation, and microbial levodopa metabolism. Trials of probiotics, fecal microbiota transplantation, and dietary interventions remain heterogeneous and have not established disease-modifying efficacy. Progress will require longitudinal studies in prodromal and subtype-defined populations, objective gastrointestinal measurements, integrated microbial, host-genetic and other multi-omics, mechanistic human and animal models, and clinical trials combining target-engagement markers with meaningful outcomes. Such an approach may enable precision gut-brain medicine for appropriately selected patients with PD. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 8",
+    "pmid": "42845110",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42845110/"
+  },
+  {
+    "title_en": "Building Scalable Recruitment Models for Precision Medicine in Parkinson's Disease: Insights from GBA1 Trials.",
+    "title_zh": "Building Scalable Recruitment Models for Precision Medicine in Parkinson's Disease: Insights from GBA1 Trials.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Oct 8",
+    "pmid": "42845097",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42845097/"
+  },
+  {
+    "title_en": "KCNA2-Associated Hereditary Spastic Paraplegia: Clinical Characteristics and Rationale for Targeted Treatment.",
+    "title_zh": "KCNA2-Associated Hereditary Spastic Paraplegia: Clinical Characteristics and Rationale for Targeted Treatment.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: A single recurrent variant, NM_004974.4(KCNA2):c.881G>A:p.(Arg294His), causes hereditary spastic paraplegia (HSP) through a unique variant-specific mechanism. Data from paralogous variants suggest that this may be a druggable mechanism. OBJECTIVE: The objective of this work is to give an overview of the clinical spectrum and course of KCNA2-p.(Arg294His)-associated HSP (HSP-KCNA2) and report treatment with eplerenone, a potassium-sparing diuretic. METHODS: In this retrospective study, we recruited individuals with the variant of interest through international rare disease networks. Treatment with eplerenone was done as off-label use, and outcome measures were recorded during routine clinical care. RESULTS: We report the clinical characteristics of 23 individuals from 17 families with HSP-KCNA2. We observed a consistent core phenotype of abnormal evoked potentials (100%), cerebellar ataxia (83%), and lower limb spasticity (70%). Childhood-onset was more commonly associated with epilepsy (odds ratio, 4.16; P = 0.042), and 52% had developmental delay. Progression of motor disability was slow even in childhood onset. We observed full (100%) penetrance and estimated the prevalence to be 0.18 to 0.69 case per million. Treatment with eplerenone was associated with a decrease on the Scale for the Assessment and Rating of Ataxia (Cohen's d = -1.8; -7.9% change from baseline, P = 0.015), but not on the Spastic Paraplegia Rating Scale, whereas stopping treatment was associated with worsening symptoms. At 2-year follow-up, four of five (80%) individuals chose to remain on treatment. CONCLUSIONS: HSP-KCNA2 is a syndrome with a recognizable variant-specific core phenotype. Our exploratory analyses on eplerenone may serve as rationale for future investigations on targeted treatments. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 7",
+    "pmid": "42844944",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42844944/"
+  },
+  {
     "title_en": "FA-MFMR: a multivariable functional Mendelian randomization method that accounts for correlated longitudinal exposures via factor augmentation.",
     "title_zh": "FA-MFMR: a multivariable functional Mendelian randomization method that accounts for correlated longitudinal exposures via factor augmentation.",
     "journal": "Bioinformatics (Oxford, England)",
@@ -48,5 +118,45 @@
     "date": "2026 Oct 8",
     "pmid": "42847660",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42847660/"
+  },
+  {
+    "title_en": "Grid to glide: A simple visual cue that alleviates upper-limb freezing.",
+    "title_zh": "Grid to glide: A simple visual cue that alleviates upper-limb freezing.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Freezing of the upper limb (FoUL) is a poorly explored manifestation of Parkinson's disease. This report describes a case of a 54-year-old woman with FoUL predominantly affecting handwriting. Writing on grid paper with small squares (0.5 x 0.5 cm) markedly reduced FoUL frequency. A subsequent daily home-based writing and calligraphic training program led to sustained improvements in handwriting legibility, drawing ability, and transfer to writing on blank paper without the grid, without any change in medication. The immediate response to grid paper suggests that simple visual cueing-possibly by promoting block-letter writing and reducing motor planning complexity-could represent a practical strategy for writing-related FoUL, meriting further systematic investigation.",
+    "date": "2026 Oct 8",
+    "pmid": "42847649",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42847649/"
+  },
+  {
+    "title_en": "Measuring what matters: Evaluating quality of life instruments through the eyes of people with Parkinson's disease.",
+    "title_zh": "Measuring what matters: Evaluating quality of life instruments through the eyes of people with Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundMany instruments are used to assess quality of life in people living with Parkinson's disease. However, there is limited understanding of what people living with Parkinson's consider relevant and important when measuring quality of life.AimTo explore what people living with Parkinson's consider relevant and important in the assessment of quality of life.MethodsSemi-structured interviews were conducted with 31 people living with Parkinson's disease. Participants completed eight instruments, which were used to guide discussion and reflection on what helps and what hinders measuring quality of life in a way that is meaningful to them.ResultsParticipants highlighted a number of features they consider important in the assessment of quality of life. These include being able to select from a wide range of response options, addressing the personal, emotional, and practical impacts of issues, using clear, specific language, and including a balance of questions that address both positive and negative aspects of the Parkinson's experience.ConclusionsThere is a need for instruments that reflect the complex and varied ways Parkinson's disease affects individuals. While existing questionnaires incorporate some features that support meaningful assessment, participants also identified features that may hinder the extent to which quality of life is adequately captured and that warrant further refinement. Incorporating feedback from people with lived experience may help inform future evaluation and refinement of quality of life measures in research and care.",
+    "date": "2026 Oct 8",
+    "pmid": "42847645",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42847645/"
+  },
+  {
+    "title_en": "Considerations for therapeutic targets for clinical trials in biomarker-characterized prodromal Parkinson's disease populations.",
+    "title_zh": "Considerations for therapeutic targets for clinical trials in biomarker-characterized prodromal Parkinson's disease populations.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Parkinson's disease (PD) is a growing public health problem and biologically targeted therapeutics (BTTs) that slow disease progression are urgently needed. However, the development of effective BTTs is challenging as PD is a clinically defined syndrome with pathobiological heterogeneity and the pathobiological process begins many years before the onset of clinically detectable motor symptoms. Testing BTTs in a biomarker-defined population at an earlier stage in the disease course, before a clinical PD diagnosis, may be the key to achieving this objective. The recent emergence of biological definitions of neuronal alpha-synuclein disease (NSD) and research frameworks for staging disease represent the first step towards testing BTTs in biomarker-defined prodromal populations. While biomarker-defined populations are essential for implementing precision therapeutic approaches, selecting and prioritizing BTTs for testing in early-stage populations is also critical, and requires consideration of biological relevance, safety, and operational feasibility. Here, in preparation for such studies, we review the landscape of publicly available PD BTTs organized by mechanistic pathways and targets, and summarize scientific, safety, and operational considerations relevant to early-stage, biomarker-defined trials targeting NSD participants prior to PD clinical diagnosis. Recognizing that there are shared biological mechanisms across neurodegenerative disorders, we complement this review of the PD therapeutic target landscape with a review of publicly available Alzheimer's dementia and amyotrophic lateral sclerosis BTTs and provide a comprehensive list of agents for reference.",
+    "date": "2026 Oct 8",
+    "pmid": "42847638",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42847638/"
+  },
+  {
+    "title_en": "Profiling peripheral immune cells in Parkinson's disease: A scoping review.",
+    "title_zh": "Profiling peripheral immune cells in Parkinson's disease: A scoping review.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Parkinson's disease (PD) is increasingly recognized as a multi-system disorder with immune dysregulation extending beyond the central nervous system. Although numerous studies have examined peripheral immune alterations in people with PD, findings remain heterogeneous and difficult to reconcile. To clarify the current landscape, we conducted a comprehensive scoping review of human studies profiling peripheral blood immune cells in PD. Following PRISMA-ScR guidelines, we systematically screened the literature and curated studies reporting in vivo and ex vivo immune characterizations from PD patients. Eligible studies based on pre-defined criteria were assessed for patient demographics and clinical variables, experimental and analytical approaches, and reported immune outcomes. Our synthesis reveals a steady expansion and diversification of peripheral immune cell research in PD especially over the last decade. Deep immunophenotyping identifies convergent signatures across in vivo studies of both innate and adaptive compartments, including expanded pro-inflammatory T-cell subsets, altered monocyte subset distributions, increased cytotoxic natural killer cells and neutrophil-to-lymphocyte ratio, and dysregulated pathways related to immune activation, chemotaxis, mitochondrial function, and autophagy-lysosomal processes. Stimulation-based ex vivo assays further demonstrate recurrent T-cell hyper-responsiveness in PD, whereas myeloid cell responses are more variable and context dependent. Critically, this review highlights substantial variability and under-reporting in study design, which impeded our ability to make strong conclusions relating to many aspects of PD peripheral immunity.",
+    "date": "2026 Oct 8",
+    "pmid": "42847443",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42847443/"
   }
 ]
