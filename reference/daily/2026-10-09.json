@@ -70,6 +70,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42839534/"
   },
   {
+    "title_en": "Blood-brain barrier opening with focused ultrasound reduces neuromelanin in a non-human primate model.",
+    "title_zh": "Blood-brain barrier opening with focused ultrasound reduces neuromelanin in a non-human primate model.",
+    "journal": "Brain : a journal of neurology",
+    "impact_factor": 11.7,
+    "abstract": "Age-related accumulation of neuromelanin (NM) has been implicated in the intrinsic vulnerability of catecholaminergic neurons in Parkinson's disease. Postmortem studies in Parkinson's disease patients have revealed elevated intracellular and extracellular NM in the substantia nigra pars compacta, whereas experimental enhancement of NM synthesis in animal models disrupts neuronal homeostasis and accelerates neurodegeneration. Low-intensity focused ultrasound combined with microbubbles (LIFU-MB) induces focal opening of the blood-brain barrier. It has been shown to influence protein aggregation and modulate pigment-related processes, thereby raising the possibility that it may also impact NM dynamics in the brain. Here, we investigated the possibility that repeated LIFU-MB-mediated blood-brain barrier opening could modify NM accumulation in a non-human primate model that overexpresses human tyrosinase, leading to elevated NM accumulation in the substantia nigra pars compacta. Comprehensive characterization revealed that these animals exhibit several features compatible with early pathological changes in Parkinson's disease including extracellular NM release, increased iron accumulation, nigral inflammatory changes, and intracellular inclusion formation. Importantly, these alterations occur in the absence of substantial dopaminergic cell loss and behavioral deficits. LIFU-MB-treated animals showed a marked reduction in both intracellular and extracellular NM, accompanied by a trend toward decreased free ferric iron. These results indicate that early, non-invasive LIFU-MB intervention can counteract mechanisms linked to excessive NM accumulation. Moreover, this approach provides a translational framework to explore the broader feasibility of reducing intracellular pigments and pathological aggregates in the brain. Given its clinical safety, capacity to reach deep brain structures, and non-invasive nature, LIFU-MB warrants further investigation as a possible therapeutic approach in Parkinson s disease and other neurodegenerative disorders.",
+    "date": "2026 Oct 5",
+    "pmid": "42831534",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831534/"
+  },
+  {
     "title_en": "Amyloid, p-tau, neurofilament light, and alpha-synuclein cerebrospinal fluid biomarkers across Alzheimer's disease, dementia with Lewy bodies, and Parkinson's disease.",
     "title_zh": "Amyloid, p-tau, neurofilament light, and alpha-synuclein cerebrospinal fluid biomarkers across Alzheimer's disease, dementia with Lewy bodies, and Parkinson's disease.",
     "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)",
@@ -78,6 +88,26 @@
     "date": "2026 Oct-Dec",
     "pmid": "42841041",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42841041/"
+  },
+  {
+    "title_en": "From patient cells to patient therapy: Twenty years of iPSC-based translation in neurodegenerative disease.",
+    "title_zh": "From patient cells to patient therapy: Twenty years of iPSC-based translation in neurodegenerative disease.",
+    "journal": "Cell reports. Medicine",
+    "impact_factor": 10.6,
+    "abstract": "Twenty years after the discovery of induced pluripotent stem cells, the field has progressed from patient-specific disease modeling toward cell-based therapies for neurodegenerative disorders. Parkinson's disease has emerged as the leading model for neuronal replacement, whereas Huntington's disease, Alzheimer's disease, and amyotrophic lateral sclerosis require distinct combinations of circuit reconstruction, cellular support, immune modulation, and engineered therapeutic delivery. We discuss key determinants of clinical translation, including cell source, product identity, graft composition, graft-host interactions, manufacturing reproducibility, genomic integrity, and clinical evaluation. We propose that the interval between cell transplantation and long-term engraftment constitutes a biological \"black box\" in which graft fate and therapeutic outcome are determined. As regenerative medicine enters its third decade, future progress will depend not only on generating therapeutic cells but also on elucidating and engineering the biological processes that determine their fate after transplantation, marking a conceptual transition from stem cell biology toward transplantation biology.",
+    "date": "2026 Oct 2",
+    "pmid": "42826718",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826718/"
+  },
+  {
+    "title_en": "Human iPSC-Derived Tissue-Engineered Nigrostriatal Pathway for Chronic Restoration of Dopaminergic Axon Tracts in a Rat Parkinson's Model.",
+    "title_zh": "Human iPSC-Derived Tissue-Engineered Nigrostriatal Pathway for Chronic Restoration of Dopaminergic Axon Tracts in a Rat Parkinson's Model.",
+    "journal": "Advanced healthcare materials",
+    "impact_factor": 9.6,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by loss of dopamine-producing neurons in the substantia nigra, causing motor symptoms. Current surgical interventions fail to restore the native nigrostriatal pathway essential for dopamine regulation. We have developed tissue-engineered nigrostriatal pathways (TE-NSPs) using hyaluronic acid hydrogel microcolumns with a collagen/laminin core encasing aggregated dopaminergic neurons and long-projecting axon tracts. TE-NSPs fabricated using human iPSC-derived dopaminergic neurons extended bundled axon tracts at a rate of 1 mm/day-twice that of neuronal aggregates on planar surfaces. Fully grown engineered microtissue exhibited nigrostriatal-like cytoarchitecture, appropriate dopaminergic phenotypes, evoked dopamine release, and innervation of striatal neurons in vitro. TE-NSPs were then evaluated in a rat 6-OHDA PD model via histology and voltammetry at 3- and 6 months post-implantation. TE-NSPs showed dopaminergic neuronal survival in the substantia nigra, preserved axon tracts within the microcolumn, and outgrowth into host striatum. Voltammetry on ex vivo brain slices containing the implanted microtissue revealed evoked dopamine release at both 3- and 6-months post-implant. This study shows engineered microtissue fabricated using human cells with an anatomically-inspired architecture and subsequently used for chronic replacement of a long-distance brain pathway in a preclinical model, potentially offering a promising future treatment for pathway reconstruction in PD.",
+    "date": "2026 Oct 3",
+    "pmid": "42829468",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42829468/"
   },
   {
     "title_en": "Relationship Between Braak and Clinical Stage in Autopsy-Confirmed Parkinson Disease: A UK Brain Bank Study.",
@@ -118,6 +148,46 @@
     "date": "2026 Nov 10",
     "pmid": "42842855",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42842855/"
+  },
+  {
+    "title_en": "Association of Skin Denervation With Brain Atrophy and Cognitive Impairment in Patients With Parkinson Disease.",
+    "title_zh": "Association of Skin Denervation With Brain Atrophy and Cognitive Impairment in Patients With Parkinson Disease.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "BACKGROUND AND OBJECTIVES: Small fiber pathology is an intrinsic feature of Parkinson disease (PD), yet its relevance to central neurodegeneration remains unclear. Given that cognitive impairment is a major manifestation of disease progression closely linked to cortical structural changes, we aimed to determine whether peripheral skin denervation is associated with cognitive impairment and brain atrophy in PD. METHODS: In this cross-sectional study at a movement disorders center in China, patients with PD and healthy controls (HCs) were recruited. Key inclusion criteria included a clinical PD diagnosis based on the Movement Disorder Society criteria and an age range of 50-99 years. Patients were classified into normal cognition (PD-NC), mild cognitive impairment (PD-MCI), and patients develop dementia (PDD). All participants underwent skin biopsy for quantification of intraepidermal nerve fiber density (IENFD), neuropsychological assessments, and structural MRI. Multivariable regression and mediation analyses examined associations among IENFD, cognition, and brain volumes. RESULTS: A total of 155 patients with PD (mean age, 63.4 years; 52% female; PD-NC: n = 75; PD-MCI: n = 40; PDD: n = 40) and 50 HCs (mean age, 60.3 years; 50% female) were included. IENFD demonstrated a progressive decline across the PD cognitive spectrum (HC: 7.18 +/- 2.44; PD-NC: 5.89 +/- 2.05; PD-MCI: 4.65 +/- 1.33; PDD: 3.40 +/- 1.15 fibers/mm). IENFD positively correlated with global and 5 domain-specific cognitive scores (beta = 0.170-0.387, p < 0.05). Lower IENFD was independently associated with an increased risk of cognitive impairment (odds ratio = 0.541, 95% CI 0.420-0.697) and showed good diagnostic performance in distinguishing PD-MCI and PDD from PD-NC (area under the ROC curve = 0.772, 95% CI 0.697-0.838). Furthermore, IENFD correlated with frontal and insular gray matter volumes (beta = 0.155-0.195, p < 0.05), which statistically mediated the associations between IENFD and cognitive performance (proportion mediated for global cognition: 8.0%-10.2%). DISCUSSION: Our study suggests that skin denervation is closely associated with cognitive impairment in PD and that regional brain atrophy statistically mediates this relationship. These findings provide novel evidence for the peripheral-central axis in PD, suggesting that small fiber pathology may mirror central neurodegeneration. Future multicenter and longitudinal studies are required for validation.",
+    "date": "2026 Oct 27",
+    "pmid": "42821850",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42821850/"
+  },
+  {
+    "title_en": "The Fabulous Game of Parkinson Disease Biomarkers.",
+    "title_zh": "The Fabulous Game of Parkinson Disease Biomarkers.",
+    "journal": "Neurology",
+    "impact_factor": 8.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Oct 27",
+    "pmid": "42821846",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42821846/"
+  },
+  {
+    "title_en": "Acidic cannabinoids in brain disorders: Neurobiological mechanisms, preclinical evidence, and translational challenges.",
+    "title_zh": "Acidic cannabinoids in brain disorders: Neurobiological mechanisms, preclinical evidence, and translational challenges.",
+    "journal": "Neuroscience and biobehavioral reviews",
+    "impact_factor": 7.9,
+    "abstract": "Acidic cannabinoids, including tetrahydrocannabinolic acid (THCA), cannabidiolic acid (CBDA), cannabigerolic acid (CBGA), and related biosynthetic precursors, represent the predominant phytocannabinoid forms naturally produced by Cannabis sativa. Long considered pharmacologically inactive intermediates, these compounds are now increasingly recognized as bioactive molecules with potential therapeutic relevance for brain disorders. Compared with their decarboxylated counterparts, acidic cannabinoids exhibit distinct physicochemical, pharmacokinetic, and pharmacodynamic properties that may confer reduced psychotropic liability together with unique neurobiological effects. Emerging preclinical evidence indicates that acidic cannabinoids modulate multiple processes implicated in neurological and psychiatric disorders, including serotonergic and endocannabinoid signaling, neuroinflammation, oxidative stress, mitochondrial dysfunction, calcium dyshomeostasis, and synaptic transmission. In this review, we critically examine current knowledge regarding acidic cannabinoids in the context of brain disorders. We first summarize their biosynthesis, chemical stability, pharmacokinetic characteristics, and pharmacological differences from neutral cannabinoids. We then examine preclinical evidence supporting their potential therapeutic effects in epilepsy, anxiety, depression, psychosis-related conditions, and neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, Huntington's disease, and amyotrophic lateral sclerosis. We also discuss how artificial intelligence and computational approaches may support target identification, formulation optimization, pharmacokinetic modeling, and the development of personalized cannabinoid-based interventions. Finally, we highlight key methodological and translational challenges limiting the field and outline priorities for future research. Overall, acidic cannabinoids emerge as promising but still underexplored multitarget compounds with potential relevance for the treatment of brain disorders.",
+    "date": "2026 Oct 2",
+    "pmid": "42826598",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42826598/"
+  },
+  {
+    "title_en": "Dopaminergic transmissive dormancy as a protective state against cellular stress.",
+    "title_zh": "Dopaminergic transmissive dormancy as a protective state against cellular stress.",
+    "journal": "Genes & development",
+    "impact_factor": 7.7,
+    "abstract": "No therapies ensure long-term survival of dopaminergic neurons in Parkinson's disease. In this context, we propose that early neurodegeneration is an adaptive state of transmissive dormancy, not dysfunction. Upon sensing cellular stress, an inducible transcriptional program restricts cytosolic dopamine and actively silences neurotransmission. This adaptive response precedes neuronal death, reframing early symptoms as programmed dormancy rather than frank degeneration. Thus, reactivation strategies represent a compelling new approach to perhaps revive neural networks and abrogate disease. This principle may extend beyond the dopaminergic system and offers a new perspective on neurodegeneration.",
+    "date": "2026 Oct 2",
+    "pmid": "42827007",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827007/"
   },
   {
     "title_en": "The Gut-Brain Axis in Parkinson's Disease: From Clinical Observation toward Mechanism-Based Precision Medicine.",
@@ -168,6 +238,66 @@
     "date": "2026 Oct 5",
     "pmid": "42834674",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42834674/"
+  },
+  {
+    "title_en": "Retraction notice to \"A computational approach to identify blood cell-expressed Parkinson's disease biomarkers that are coordinately expressed in brain tissue\" [Computers in Biology and Medicine 113 (2019) 103385].",
+    "title_zh": "Retraction notice to \"A computational approach to identify blood cell-expressed Parkinson's disease biomarkers that are coordinately expressed in brain tissue\" [Computers in Biology and Medicine 113 (2019) 103385].",
+    "journal": "Computers in biology and medicine",
+    "impact_factor": 6.3,
+    "abstract": "暂无摘要",
+    "date": "2026 Oct 5",
+    "pmid": "42830240",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830240/"
+  },
+  {
+    "title_en": "Molecular mechanisms of Microcystin-LR decreasing dopamine release by binding VPS35 and clinical correlation between Microcystin-LR exposure and Parkinson's disease.",
+    "title_zh": "Molecular mechanisms of Microcystin-LR decreasing dopamine release by binding VPS35 and clinical correlation between Microcystin-LR exposure and Parkinson's disease.",
+    "journal": "Journal of environmental sciences (China)",
+    "impact_factor": 6.3,
+    "abstract": "Microcystins (MCs) are a class of monocyclic heptapeptide natural toxins produced by freshwater cyanobacteria. They can enter the human body via contaminated water or food. Currently, MCs are recognized by the World Health Organization as health risk factors, with microcystin-leucine-arginine (MC-LR) being the most prevalent and toxic. Our previous research demonstrated that chronic MC-LR exposure reduced dopamine (DA) release from dopaminergic neurons in the substantia nigra, causing Parkinson's disease (PD)-like motor dysfunction in mice. Motor dysfunction is closely linked to reduced DA levels. However, the molecular mechanism by which MC-LR reduces DA release remains unknown. Furthermore, whether serum MC-LR levels are a risk factor for PD in general population and correlates with patients' motor dysfunction warrants further investigation. After DA is synthesized within dopaminergic neurons, it is stored in synaptic vesicles through vesicular monoamine transporter 2 (VMAT2). The stability of VMAT2 requires retromer complex and its core component VPS35. We demonstrate that MC-LR directly binds to VPS35, destabilizing the retromer and leading to increased VMAT2 lysosomal degradation. Concurrently, MC-LR inhibits the Wnt1/beta-catenin signaling pathway by downregulating Wnt1, further reducing VPS35 transcription and VMAT2 levels. These effects collectively reducing dopamine levels. To further evaluate the clinical relevance between MC-LR and PD, a cross-sectional study in a human population was conducted. The results showed that elevated serum MC-LR levels are associated with an increased PD risk and motor dysfunction. Integrating evidence from in vivo, in vitro, and human population studies, this study establishes a link between MC-LR exposure and PD.",
+    "date": "2026 Nov",
+    "pmid": "42822928",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42822928/"
+  },
+  {
+    "title_en": "Astrocytic cathepsin D promotes alpha-synuclein processing and Lewy neurite-like aggregate maturation.",
+    "title_zh": "Astrocytic cathepsin D promotes alpha-synuclein processing and Lewy neurite-like aggregate maturation.",
+    "journal": "EMBO reports",
+    "impact_factor": 6.2,
+    "abstract": "Parkinson's disease (PD) and related synucleinopathies are marked by the accumulation and propagation of alpha-synuclein (alpha-syn) aggregates, a process primarily studied in neurons. Whether astrocytes actively contribute to alpha-syn processing and intercellular transfer remains unclear. Here, using a physiologically relevant neuron-astrocyte co-culture system that recapitulates tripartite synapse architecture, we show that astrocytes process alpha-syn and influence the morphological maturation of neuronal aggregates. Astrocytes internalize alpha-syn pre-formed fibrils (PFFs) and generate C-terminally truncated alpha-syn species via a Cathepsin D (CtsD)-dependent process. PFF-loaded astrocytes transfer alpha-syn-containing material to neurons and promote the formation and maturation of pS129-alpha-syn-positive Lewy neurite (LN)-like aggregates. Notably, alpha-syn PFF exposure induces lysosomal membrane damage, a senescence-like reactive state, and CtsD upregulation in astrocytes. Although PFF-containing lysosomes undergo autophagic engulfment, they persist within astrocytes, and a subset is detected beyond the astrocytic membrane boundary. Together, our findings support a model in which astrocytic lysosomal remodeling of internalized alpha-syn contributes to the morphological maturation and intercellular propagation of neuronal alpha-syn pathology in this co-culture system.",
+    "date": "2026 Oct 2",
+    "pmid": "42827189",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42827189/"
+  },
+  {
+    "title_en": "Poly(N-acryloyl L-tryptophan) nanoparticles: anti-inflammatory and neuroprotective effects.",
+    "title_zh": "Poly(N-acryloyl L-tryptophan) nanoparticles: anti-inflammatory and neuroprotective effects.",
+    "journal": "Journal of materials chemistry. B",
+    "impact_factor": 5.7,
+    "abstract": "Neuroinflammation is an immune response, which refers to the inflammation inside the nervous system, which involves complex processes and mechanisms that affect the brain and spinal cord. Viruses, bacteria, injuries, or autoimmune processes cause neuroinflammation, which can lead to Alzheimer's and Parkinson's diseases. Although there are reports on the development of neuroprotective and anti-inflammatory drugs or medicines that may cross the blood-brain barrier, the results are not satisfactory and demand a suitable solution. In this line, the present work is focused on developing poly(N-acryloyl-L-tryptophan) nanoparticles [poly(L-Tryp) NPs)] and evaluating their potential anti-inflammatory and neuroprotective roles. Poly(L-Tryp) NPs were characterized by their chemical, physical and optical properties; their cell viability and anti-inflammatory and neuroprotective effects were evaluated in both cell-based in vitro and in vivo mouse models. Cell based studies were performed with immune RAW 264.7 macrophages and neuronal SH-SY5Y cells. Results show that poly(L-Tryp) NPs are anti-inflammatory and neuroprotective in nature and suppress NF-kappaB activation, reduce pro-inflammatory cytokine secretion (TNF-alpha and IL-6), inhibit NO and ROS generation, and restore antioxidant defences (GSH and SOD). Furthermore, these NPs could be paramount for neuronal survival, which positions them as a transformative therapeutic platform for the central nervous system (CNS).",
+    "date": "2026 Oct 5",
+    "pmid": "42831699",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42831699/"
+  },
+  {
+    "title_en": "Plasma PINK1/Parkin ratio and ATF5 as potential biomarkers associated with dyskinesia in Parkinson's disease.",
+    "title_zh": "Plasma PINK1/Parkin ratio and ATF5 as potential biomarkers associated with dyskinesia in Parkinson's disease.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "BACKGROUND: Motor complications (MCs), particularly dyskinesia (DYS), affect many PD patients within years of levodopa therapy, yet reliable biomarkers for MC subtypes remain elusive. Mitochondrial quality control (MQC) pathways, including mitophagy and the mitochondrial unfolded protein response (UPR(mt)), are central to PD pathogenesis; however, their association with MCs remains to be clarified. METHODS: In this cross-sectional study, a total of 247 PD patients were enrolled and analyzed in a mitophagy discovery set (n = 174), a UPR(mt) discovery set (n = 179), and an overlap subset (n = 106) with complete data for both biomarker panels, which was used for internal consistency analyses. Plasma levels of PINK1, Parkin, PGAM5, ATF4, ATF5, and CHOP were measured by ELISA. Patients were classified as MC, further subtyped as wearing-off (WO) or DYS, or NMC. Univariate analysis identified candidate biomarkers; multivariable logistic regression and LASSO regression evaluated associations after covariate adjustment; and ROC analysis exploratorily assessed discriminative accuracy, with bootstrap resampling used to evaluate model stability. RESULTS: Neither mitophagy nor UPR(mt) markers distinguished MC from NMC. However, after batch correction and covariate adjustment, the PINK1/Parkin ratio (OR = 2.06, p = 0.044) and ATF5 (OR = 2.27, p = 0.010) remained associated with DYS. A three-biomarker panel comprising PINK1, the PINK1/Parkin ratio, and ATF5 achieved an AUC of 0.82 (95% CI: 0.68-0.93) in the overlap subset. Nonlinear associations with DYS status were observed, following a DYS > dyskinesia with wearing-off (DYSWO) > WO pattern. CONCLUSIONS: Circulating MQC biomarkers, particularly the PINK1/Parkin ratio and ATF5, are associated with prevalent DYS in PD, suggesting that MQC-related pathways may be involved in DYS pathophysiology.",
+    "date": "2026 Oct 5",
+    "pmid": "42833593",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42833593/"
+  },
+  {
+    "title_en": "Baroreflex Loading Reveals Exaggerated Ventilatory Inhibition in Patients With Parkinson's Disease.",
+    "title_zh": "Baroreflex Loading Reveals Exaggerated Ventilatory Inhibition in Patients With Parkinson's Disease.",
+    "journal": "Acta physiologica (Oxford, England)",
+    "impact_factor": 5.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42830416",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42830416/"
   },
   {
     "title_en": "FA-MFMR: a multivariable functional Mendelian randomization method that accounts for correlated longitudinal exposures via factor augmentation.",
