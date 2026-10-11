@@ -1,0 +1,52 @@
+[
+  {
+    "title_en": "The glymphatic-lymphatic axis: known pathways, open questions, and emerging roles in neurodegeneration.",
+    "title_zh": "The glymphatic-lymphatic axis: known pathways, open questions, and emerging roles in neurodegeneration.",
+    "journal": "Translational neurodegeneration",
+    "impact_factor": 15.2,
+    "abstract": "The discovery of the glymphatic system and meningeal lymphatic vessels has transformed our understanding of brain fluid homeostasis and central-peripheral communication, highlighting the critical role of cerebrospinal fluid in brain clearance. While substantial progress has been made in defining the structural components and physiological regulators of brain clearance, major uncertainties remain regarding (1) how these systems interact as an integrated physiological network, (2) how they fail in disease, and (3) whether they can be therapeutically manipulated. In this review, we first summarize the anatomical and physiological organization of the glymphatic-lymphatic axis, with particular emphasis on its regulatory mechanisms in light of rapid advances in this field. We then discuss how the glymphatic-lymphatic axis functionally integrates with peripheral immune and metabolic systems and describe how impairment of these clearance pathways is associated with the accumulation of pathological proteins, neuroinflammation, and vascular dysfunction and may contribute to the progression of neurodegenerative diseases such as Alzheimer's and Parkinson's diseases. Finally, we discuss emerging therapeutic strategies and biomarkers targeting the glymphatic-lymphatic axis. By redefining the central-peripheral crosstalk, the glymphatic-lymphatic axis provides a unifying framework for understanding brain clearance, neurodegeneration, and future therapeutic interventions.",
+    "date": "2026 Oct 9",
+    "pmid": "42855737",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42855737/"
+  },
+  {
+    "title_en": "Microbiota-regulated TCDCA associates with Parkinson's disease severity and promotes BBB dysfunction through VSMC TGR5 signaling in mice.",
+    "title_zh": "Microbiota-regulated TCDCA associates with Parkinson's disease severity and promotes BBB dysfunction through VSMC TGR5 signaling in mice.",
+    "journal": "Cell reports. Medicine",
+    "impact_factor": 10.6,
+    "abstract": "Parkinson's disease (PD) is a systemic disorder linked to gut dysbiosis, yet key microbiota-regulated metabolites remain unclear. Here, we observe elevated taurochenodeoxycholic acid (TCDCA) in patients with PD that correlates with disease severity. Reduced bile salt hydrolase (BSH) gene abundance correlates inversely with circulating TCDCA, consistent with altered bile acid deconjugation. Exogenous TCDCA correlates with aggravated motor and gastrointestinal deficits, impaired blood-brain barrier (BBB) integrity, and accelerated dopaminergic neurodegeneration in a PD mouse model. Mechanistically, TCDCA links to TGR5 signaling activation in vascular smooth muscle cells (VSMCs), alongside PKCalpha-dependent mitochondrial apoptosis and BBB disruption. VSMC-specific Tgr5 deletion coincides with neurovascular protection. Supplementation with a BSH-high Lactobacillus reuteri strain reduces TCDCA concentrations, improves gut and BBB integrity, mitigates inflammation, and alleviates PD-like phenotypes in a BSH-dependent manner. These data support a gut-BBB-brain axis linked to PD, identifying TCDCA as a candidate pathological marker.",
+    "date": "2026 Oct 9",
+    "pmid": "42854697",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854697/"
+  },
+  {
+    "title_en": "A second-generation \"hypoxia in a pill\" rescues neurodegenerative phenotypes across distinct mouse models.",
+    "title_zh": "A second-generation \"hypoxia in a pill\" rescues neurodegenerative phenotypes across distinct mouse models.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "A growing body of preclinical research is demonstrating the therapeutic potential of chronic, continuous hypoxia (11% FIO(2)) for rare and common diseases. However, the chronic delivery of hypoxic gas poses both practical challenges and long-term safety concerns. We previously introduced a small-molecule, \"hypoxia-in-a-pill\" combining a hemoglobin affinity enhancer (GBT440) to limit oxygen delivery with a HIF-2alpha inhibitor (PT2399) to prevent detrimental compensatory erythropoiesis. Although this small-molecule regimen extended the lifespan of the Ndufs4 knockout (KO) mouse model of mitochondrial complex I deficiency and Leigh syndrome, its efficacy did not match chronic 11% FIO(2). Here we optimize this regimen using GBT601, a second-generation hemoglobin affinity enhancer with longer half-life and greater hemoglobin occupancy, and show it rescues key neurodegenerative phenotypes in multiple models. When we initiate therapy in 50 d old Ndufs4 KO mice with advanced disease, GBT601 monotherapy alleviated neurological disease phenotypes and extended median lifespan from 62 to 105 d, while dual therapy with the GBT601/PT2399 combination extended median lifespan to 158 d. When initiated after onset of advanced disease in a mouse model of Friedreich's ataxia, the combination halted further progression of motor phenotypes. In a mouse model of Parkinson's disease due to alpha-synuclein toxicity, initiating the GBT601/PT2399 combination after onset of motor dysfunction attenuates brain hyperoxia and lipid peroxidation and reverses motor phenotypes. Importantly, the combination maintained body weight without inducing any signs of pulmonary hypertension. Our findings motivate further preclinical and clinical evaluation of our \"hypoxia in a pill\" approach for diseases with high unmet need.",
+    "date": "2026 Oct 13",
+    "pmid": "42853664",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853664/"
+  },
+  {
+    "title_en": "Dystrophic changes of nigrostriatal axons harboring a SYNJ1 Parkinson's mutation suggest catastrophic failure of endocytic mechanisms.",
+    "title_zh": "Dystrophic changes of nigrostriatal axons harboring a SYNJ1 Parkinson's mutation suggest catastrophic failure of endocytic mechanisms.",
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "impact_factor": 9.1,
+    "abstract": "Synaptojanin 1 is a brain enriched phosphoinositide phosphatase implicated in endocytosis at the synapse. A mutation (R258Q) that selectively impairs its Sac1 phosphatase domain causes early onset familial Parkinsonism. Neurons of mice with this mutation display synaptic vesicle traffic defects across the brain, but selective dystrophic changes in a subset of dopaminergic axons in the dorsolateral striatum. Using correlative light microscopy-FIB-SEM of mutant mouse striata to visualize in 3D these abnormal structures we show that they represent clusters of focal axonal dilations harboring massive, onion-like DAT enriched plasma membrane infoldings, generally localized next to cell bodies of neighboring cells, often engulfing evaginations of such cells. This dysmorphia was associated with a deficit in dopamine release in the same striatal region. Given the involvement of Synj1 in endocytic mechanisms, these structures may reflect an imbalance between exocytosis and endocytosis. Their occurrence only in a subset of axons suggests a vulnerability threshold of these axons beyond which the expansion of the plasma membrane is not counteracted by compensatory mechanisms.",
+    "date": "2026 Oct 13",
+    "pmid": "42853660",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853660/"
+  },
+  {
+    "title_en": "Dopaminergic state modulates shame and contextual emotional responses in Parkinson's disease.",
+    "title_zh": "Dopaminergic state modulates shame and contextual emotional responses in Parkinson's disease.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "BackgroundShame is frequent in Parkinson's disease (PD) and negatively affects quality of life, yet its dopaminergic modulation remains unclear.MethodsWe investigated the effect of dopaminergic replacement therapy (DRT) on shame in 41 fluctuating PD patients using an experimental tailored shame induction task. At visit 1, participants were presented with 60 short written scenarios (neutral, non-PD-related shame, PD-related shame). A tailored selection of 12 scenarios (4 per category) was generated in three steps: (1) initial rating of all 60 scenarios on a shame/embarrassment visual analogue scale (VAS); (2) selection of the highest-rated scenarios for shame conditions and lowest-rated scenarios for neutral condition to account for individual emotional relevance; and (3) emotional rating of these scenarios on 10 VAS (fear, sadness, disgust, joy, self- and other-directed anger, shame, embarrassment, guilt, stress) to ensure specificity of shame/embarrassment responses. At visits 2 and 3, patients rated the 12 scenarios once ON- and once OFF-DRT (randomized crossover design) using the same 10 VAS.ResultsIn OFF-DRT state, shame ratings were lower than in ON-DRT for non-PD-related shame scenarios (Zratio = -2.53, p = 0.02), with a similar trend for PD-related shame scenarios (Zratio = -2.02, p = 0.06). Conversely, patients reported higher embarrassment (Zratio = 4.53, p < 0.001), stress (Zratio = 3.49, p < 0.001), and self-directed anger (Zratio = 3.99, p < 0.001) when evaluating scenarios rated as neutral in the ON-DRT state.ConclusionsIn OFF-DRT state, emotional responses showed altered contextual calibration, with reduced shame in shame-eliciting contexts and increased negative emotions in neutral situations. These findings suggest that dopaminergic state may modulate intensity and appraisal processes of emotions.",
+    "date": "2026 Oct 9",
+    "pmid": "42853586",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853586/"
+  }
+]
