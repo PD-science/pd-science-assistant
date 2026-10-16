@@ -1,0 +1,12 @@
+[
+  {
+    "title_en": "Escherichia coli hns and methylglyoxal link gut microbial metabolism to host neuronal gene regulation in Parkinson's disease.",
+    "title_zh": "Escherichia coli hns and methylglyoxal link gut microbial metabolism to host neuronal gene regulation in Parkinson's disease.",
+    "journal": "Gut microbes",
+    "impact_factor": 11.0,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by dopaminergic neuron loss in the substantia nigra (SN). Although the gut microbiota has been implicated in PD pathogenesis, how defined bacterial genes and their metabolites influence host neuronal gene regulation remains unclear. Here, we identify a gut microbial hns-methylglyoxal (MG) pathway linking Escherichia coli (E. coli) metabolism to host neuronal gene regulation. In the stool metagenomic cohort, hns, a bacterial gene encoding the histone-like nucleoid structuring protein and primarily derived from E. coli, was enriched particularly in body-first PD, a subtype associated with gut-originating pathology. In a separate plasma MG cohort, plasma levels of MG, a reactive metabolite whose bacterial production was hns-dependent in our model system, were higher in body-first than in brain-first PD and were nominally inversely associated with cardiac meta-iodobenzylguanidine (MIBG) uptake within the body-first group. Using Caenorhabditis elegans (C. elegans) PD models, we found that feeding with Deltahns E. coli protected dopaminergic neurons, whereas exogenous MG abolished this neuroprotection. Transcriptomic and neuronal RNAi analyses identified rig-5 as a host mediator of hns deletion-induced neuroprotection. Cross-species analyses identified LSAMP as a candidate mammalian ortholog of rig-5. MG suppressed LSAMP expression in human neuronal cells, and LSAMP expression was reduced in the post-mortem SN of patients with PD. Conversely, Lsamp expression was increased in the SN of mice colonized with Deltahns E. coli. Together, these findings delineate a microbial gene-metabolite-host gene pathway through which E. coli hns and MG modulate rig-5-dependent dopaminergic vulnerability in C. elegans, with corresponding changes of LSAMP expression in mammalian systems.",
+    "date": "2026 Dec 31",
+    "pmid": "42878179",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878179/"
+  }
+]
