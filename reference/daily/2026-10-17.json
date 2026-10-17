@@ -1,0 +1,52 @@
+[
+  {
+    "title_en": "Regulating the iron-ROS cycle via electronic structure-engineered nanoregulators for Parkinson's disease therapy.",
+    "title_zh": "Regulating the iron-ROS cycle via electronic structure-engineered nanoregulators for Parkinson's disease therapy.",
+    "journal": "Biomaterials",
+    "impact_factor": 12.9,
+    "abstract": "Iron-driven reactive oxygen species (ROS) amplification forms a self-sustaining pathological cycle in Parkinson's disease (PD), yet remains difficult to therapeutically interrupt due to the lack of strategies that coordinate metal homeostasis and redox regulation. Here, we report an electronic-structure-engineered nanoregulatory strategy that regulates the iron-ROS cycle rather than passively scavenging ROS. Nitrogen-doped, herbal-derived carbon dots (CD) were rationally constructed to establish a conjugated electronic framework, in which heteroatom-induced electron delocalization defined redox-active sites and governed the coupling between iron chelation and catalytic ROS regulation. This structure-electronic state-function relationship enabled programmable disruption of the iron-ROS feedback loop at its source. Functionally, the nanoregulators achieved low-density lipoprotein receptor-related protein 1 (LRP1)-mediated brain delivery, exhibited efficient central nervous system exposure, and underwent brain clearance via the cerebrospinal fluid pathway. At the cellular level, they restored mitochondrial function, suppressed ferroptosis-associated lipid peroxidation, and reprogramed stress-related pathways toward neuronal survival. Transcriptomic analysis further revealed coordinated regulation of redox, metabolic, and inflammatory networks. In Parkinsonian mice, this strategy reduced iron deposition, preserved dopaminergic neurons, and improved motor function. Integration with levodopa further enabled sustained, disease-modifying neuroprotection.",
+    "date": "2026 Oct 12",
+    "pmid": "42880082",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42880082/"
+  },
+  {
+    "title_en": "Harnessing cGAS-STING in neurodegeneration: From mitochondrial DNA leakage and microglial reactivity to species-specific translational barriers.",
+    "title_zh": "Harnessing cGAS-STING in neurodegeneration: From mitochondrial DNA leakage and microglial reactivity to species-specific translational barriers.",
+    "journal": "Cytokine & growth factor reviews",
+    "impact_factor": 11.8,
+    "abstract": "The cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, a cornerstone of innate immunity, has emerged as a critical driver of sterile neuroinflammation in the aging brain. Age-related decline in mitochondrial quality control, coupled with nuclear and lysosomal erosion, fosters the aberrant accumulation of cytosolic self-DNA, establishing a permissive environment for chronic cGAS-STING activation. This review synthesizes recent breakthroughs elucidating how major neurodegenerative diseases-Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and Huntington's disease-converge on this pathway through distinct, disease-specific triggers, ranging from PINK1/Parkin deficiency-driven mitochondrial DNA leakage to TDP-43 proteinopathy-associated retrotransposon de-repression. Critically, we evaluate the translational landscape, highlighting the profound challenge posed by species-specific pharmacology, as exemplified by the failure of the covalent inhibitor H-151 to engage human STING. We argue that the future of therapeutic intervention lies not in wholesale pathway ablation, but in nuanced, context-dependent fine-tuning that disentangles its detrimental chronic effects from its indispensable homeostatic functions. This review positions the cGAS-STING axis as a promising yet delicate frontier for combating age-related neurodegeneration.",
+    "date": "2026 Oct 13",
+    "pmid": "42880056",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42880056/"
+  },
+  {
+    "title_en": "Escherichia coli hns and methylglyoxal link gut microbial metabolism to host neuronal gene regulation in Parkinson's disease.",
+    "title_zh": "Escherichia coli hns and methylglyoxal link gut microbial metabolism to host neuronal gene regulation in Parkinson's disease.",
+    "journal": "Gut microbes",
+    "impact_factor": 11.0,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by dopaminergic neuron loss in the substantia nigra (SN). Although the gut microbiota has been implicated in PD pathogenesis, how defined bacterial genes and their metabolites influence host neuronal gene regulation remains unclear. Here, we identify a gut microbial hns-methylglyoxal (MG) pathway linking Escherichia coli (E. coli) metabolism to host neuronal gene regulation. In the stool metagenomic cohort, hns, a bacterial gene encoding the histone-like nucleoid structuring protein and primarily derived from E. coli, was enriched particularly in body-first PD, a subtype associated with gut-originating pathology. In a separate plasma MG cohort, plasma levels of MG, a reactive metabolite whose bacterial production was hns-dependent in our model system, were higher in body-first than in brain-first PD and were nominally inversely associated with cardiac meta-iodobenzylguanidine (MIBG) uptake within the body-first group. Using Caenorhabditis elegans (C. elegans) PD models, we found that feeding with Deltahns E. coli protected dopaminergic neurons, whereas exogenous MG abolished this neuroprotection. Transcriptomic and neuronal RNAi analyses identified rig-5 as a host mediator of hns deletion-induced neuroprotection. Cross-species analyses identified LSAMP as a candidate mammalian ortholog of rig-5. MG suppressed LSAMP expression in human neuronal cells, and LSAMP expression was reduced in the post-mortem SN of patients with PD. Conversely, Lsamp expression was increased in the SN of mice colonized with Deltahns E. coli. Together, these findings delineate a microbial gene-metabolite-host gene pathway through which E. coli hns and MG modulate rig-5-dependent dopaminergic vulnerability in C. elegans, with corresponding changes of LSAMP expression in mammalian systems.",
+    "date": "2026 Dec 31",
+    "pmid": "42878179",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878179/"
+  },
+  {
+    "title_en": "Automated Quantification of Parkinsonian Facial Expressions via a Transformer-Based Multi-View Multimodal Fusion Framework.",
+    "title_zh": "Automated Quantification of Parkinsonian Facial Expressions via a Transformer-Based Multi-View Multimodal Fusion Framework.",
+    "journal": "IEEE journal of biomedical and health informatics",
+    "impact_factor": 6.8,
+    "abstract": "Facial hypomimia, a common symptom of Parkinson's disease (PD), is characterized by reduced facial expressiveness due to muscle rigidity. Its clinical assessment, typically based on the Movement Disorder Society-Unified PD Rating Scale, is challenging due to the limited clinician availability, subjectivity, and time consuming procedures. In this paper, we propose a transformer-based multi-view multimodal fusion framework for efficient and objective video-based automated assessment of PD facial expressions. The framework incorporates facial anatomical priors, jointly models global and local features, and progressively fuses complementary information across modalities. It uses a progressive fusion strategy for cross-modal interaction and compensation, together with a spatial-temporal transformer block for anatomically guided landmark modeling of global motion and local subtle dynamics. Our proposed method achieved an accuracy of 68.28% and an acceptable accuracy of 87.75% on the largest clinical dataset (637 videos from 354 PD patients) with four classes. Moreover, testing on an independent dataset from another hospital provides preliminary evidence of the model's cross-center transferability, and the framework was further evaluated on two additional medical facial assessment tasks of stroke facial palsy and facial function. In summary, the proposed framework provides an efficient and reliable solution for the objective assessment of PD facial expressions, with the potential to improve evaluation consistency and support broader clinical applications.",
+    "date": "2026 Oct 15",
+    "pmid": "42879266",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42879266/"
+  },
+  {
+    "title_en": "GBA1 Canada initiative (G-can), a pre-competitive, open science platform for GBA1 research.",
+    "title_zh": "GBA1 Canada initiative (G-can), a pre-competitive, open science platform for GBA1 research.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "GBA1 Canada (G-Can) is a pre-competitive, open-science platform serving as a central hub for basic, translational, and clinical research on GBA1, which encodes the lysosomal enzyme acid beta-glucocerebrosidase (GCase), a key component of the glycosphingolipid metabolism pathway. G-Can unites basic scientists, clinicians, and industry partners in Canada and internationally to minimize duplication of effort and maximize research impact. G-Can has established a comprehensive and growing suite of biological, clinical, and analytical resources for the GBA1 research community. Through the C-BIG Repository and partner infrastructures, these resources are made broadly accessible to academic and industry investigators under non-exclusive agreements, in accordance with G-Can's open-science mandate. G-Can's primary objectives are to deepen understanding of GCase biology and its genetic modifiers, validate disease-relevant biomarkers, and establish trial-ready cohorts exceeding 5000 genotyped participants. Therapeutic programs under development include gene therapy, RNA-based approaches, and combination strategies, with a Phase 0/1 clinical trial targeted within five years. By integrating open-science infrastructure with coordinated therapeutic development, G-Can aims to accelerate the translation of discovery into clinical application for patients with GBA1-associated neurodegeneration.",
+    "date": "2026 Oct 15",
+    "pmid": "42878652",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878652/"
+  }
+]
