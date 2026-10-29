@@ -1,5 +1,25 @@
 [
   {
+    "title_en": "Spatiotemporally resolved single-nucleus transcriptomics reveals cellular and regional vulnerability in the midbrain in Parkinson's disease.",
+    "title_zh": "Spatiotemporally resolved single-nucleus transcriptomics reveals cellular and regional vulnerability in the midbrain in Parkinson's disease.",
+    "journal": "Signal transduction and targeted therapy",
+    "impact_factor": 52.7,
+    "abstract": "Parkinson's disease (PD) is clinically and biologically heterogeneous, and ethnic differences may influence its pathogenesis. However, single-nucleus transcriptomic data from East Asian populations remain limited. Here, we present a spatially resolved single-nucleus transcriptomic atlas of the human substantia nigra (SN) across the PD continuum, control, incidental Lewy body disease (iLBD), and advanced PD, in pathologically confirmed Korean individuals. Our integrative analysis revealed early alpha-synuclein aggregation in the ventrolateral SN, subtype-selective vulnerability of dopaminergic neurons, and relative preservation of the dorsomedial SN and ventral tegmental area. Trajectory and gene regulatory network analyses of astrocytes and microglia revealed spatiotemporally distinct, disease-associated glial responses, each driven by divergent molecular programs. We also identified two transcriptionally distinct vascular spatial clusters that exhibited differential vulnerability and remodeling. Spatial ligand-receptor analysis of alpha-synuclein-positive regions revealed intercellular signaling events associated with early pathology, including extracellular matrix remodeling and synaptic adhesion, which were prominent in the iLBD but largely diminished in advanced PD. Integration with PD genome-wide association studies using MAGMA demonstrated differential coupling between genetic risk, spatially resolved cell-state programs, and pseudotime-inferred microglial dynamics across ancestries. This study provides the first high-resolution, spatially mapped single-nucleus transcriptomic resource from an East Asian PD cohort, illuminating early perturbations in the midbrain intercellular and microenvironment that may underlie selective dopaminergic vulnerability and guide the development of ancestry-informed therapeutic strategies.",
+    "date": "2026 Oct 26",
+    "pmid": "42928249",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928249/"
+  },
+  {
+    "title_en": "Microglial NUS1 deficiency drives dopaminergic neurodegeneration through intercellular iron dysregulation in Parkinson's disease models.",
+    "title_zh": "Microglial NUS1 deficiency drives dopaminergic neurodegeneration through intercellular iron dysregulation in Parkinson's disease models.",
+    "journal": "Nature neuroscience",
+    "impact_factor": 20.0,
+    "abstract": "The selective loss of dopaminergic neurons in the substantia nigra pars compacta is a defining feature of Parkinson's disease (PD), yet its underlying mechanisms remain unclear. NUS1, which encodes neurite outgrowth inhibitor-B receptor (NgBR), was recently identified as a PD risk gene. Here we show that NgBR is highly expressed in microglia, where its deficiency drives progressive PD-like motor deficits and dopaminergic neurodegeneration via the LCN2-SLC22A17 iron-transport axis in mice. NgBR deficiency in mouse and human microglia triggers endoplasmic reticulum stress and PERK-ATF4-NUPR1 signaling, which preferentially induces LCN2-mediated iron efflux over cytokine release. Subsequently, microglia-derived iron-loaded Holo-LCN2, but not iron-free Apo-LCN2, is internalized by SLC22A17, a receptor highly expressed in dopaminergic neurons, leading to iron overload and ferroptosis. Pharmacological inhibition of LCN2-SLC22A17 axis or ferroptosis alleviated dopaminergic neuron loss and PD-like symptoms caused by microglial NgBR deficiency in vitro and in vivo. Our findings identify disrupted intercellular iron homeostasis as a pathological driver of PD and highlight the LCN2-SLC22A17 axis as a potential therapeutic target.",
+    "date": "2026 Oct 26",
+    "pmid": "42934350",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42934350/"
+  },
+  {
     "title_en": "Genetic Analysis of the SLC38A6 Gene in Chinese Patients with Essential Tremor: Not Causative, But Rather an Additional Susceptibility Gene?",
     "title_zh": "Genetic Analysis of the SLC38A6 Gene in Chinese Patients with Essential Tremor: Not Causative, But Rather an Additional Susceptibility Gene?",
     "journal": "Movement disorders : official journal of the Movement Disorder Society",
@@ -38,6 +58,76 @@
     "date": "2026 Oct 27",
     "pmid": "42947475",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42947475/"
+  },
+  {
+    "title_en": "Mortality in People with Action Tremor: Findings from Three Population-Based Cohort Studies.",
+    "title_zh": "Mortality in People with Action Tremor: Findings from Three Population-Based Cohort Studies.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Action tremor is common in adults and increases with age. Although essential tremor (ET) is a major subgroup, action tremor comprises heterogeneous phenotypes, and its prognostic implications remain uncertain. OBJECTIVES: Our aim was to examine the association between action tremor and all-cause mortality using complementary population-based cohorts. METHODS: We triangulated data from three Danish cohorts: a nationwide register-based cohort of 3487 individuals with outpatient hospital-diagnosed ET, each matched to 10 controls; the Longitudinal Study of Aging Danish Twins (LSADT), including spiral-based tremor assessment on 2029 individuals and a neurologist-examined subgroup; and the Danish Symptom Cohort, including 2472 individuals with self-reported tremor, each matched to four controls. Mortality follow-up was obtained through nationwide registers. Cox regression models were applied with age as the time variable. RESULTS: In the outpatient cohort, hospital-diagnosed ET was associated with increased mortality (hazard ratio [HR], 1.37, 95% confidence interval, 1.27-1.46). In LSADT, subjects with high Archimedes scores indicating symptomatic action tremor (scores 5-7 vs. 0-2) yielded HR, 1.67 (1.42-1.97). Additionally, higher spiral scores were associated with progressively lower survival. In the Danish Symptom Cohort, even self-reported tremor was associated with increased mortality (HR, 1.56, 1.38-1.75), robust to adjustment for alcohol use. CONCLUSIONS: In three population-based cohorts, action tremor was consistently associated with increased mortality. We showed that our clinically diagnosed ET-cohort, a cohort with spiral score validated action tremor, and a cohort with self-diagnosed symptomatic action tremor, all showed increased mortality. Action tremor may represent a marker of underlying health vulnerability rather than a benign motor sign. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 27",
+    "pmid": "42935472",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42935472/"
+  },
+  {
+    "title_en": "Focused Ultrasound for Essential Tremor in Denmark: Results After 1 Year of Follow-Up.",
+    "title_zh": "Focused Ultrasound for Essential Tremor in Denmark: Results After 1 Year of Follow-Up.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Essential tremor (ET) is the most common hyperkinetic movement disorder. Magnetic resonance-guided focused ultrasound thalamotomy (MRgFUSTh) has become an established therapy in drug-refractory tremor as one treatment option. Here, we present the results of a large cohort of MRgFUSTh-treated ET patients followed-up 1 year post-ablation. OBJECTIVE: The primary endpoint durability of tremor reduction at 12 months at this timepoint. METHODS: This was a single-hospital cohort study. Prior to, and 12 months after, treatment, patients were rated according to the Fahn-Tolosa-Marin (FTM) scale, Quality of Life in Essential Tremor (QUEST) scale, Patient Global Assessment of Change (PGIC), as well as general health, well-being, and factors relating to social and everyday activities. Finally, side effects and adverse event data were collected at 12 months. RESULTS: The current cohort comprised 111 patients. Patients showed good response to MRgFUSTh with a mean decrease of 29.5 points in the total FTM-score from pretreatment (95% CI: 26.3; 32.8, P < 0.0001) corresponding to 62.4% (95% CI: 56.4%; 68.5%). This meant a reduction in the FTM-score of 13.8 points (+/- 5.2 points, 95% CI: 12.79; 14.73, P < 0.00001) or 85.2% (+/-24.2%, 95% CI: 80.70%; 89.78%) in the treated limb. For QUEST, symptoms improved by 20.9 points (95% CI: 12.1; 29.6, P < 0.0001) corresponding to a relative improvement of 54% (95% CI: 33.2%; 75.5%). CONCLUSION: Results showed clear and persistent tremor improvements as assessed by both clinicians and patients. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 26",
+    "pmid": "42934951",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42934951/"
+  },
+  {
+    "title_en": "Glymphatic Dysfunction Drives High-Urea-Induced Neurodegeneration in Parkinson's Disease.",
+    "title_zh": "Glymphatic Dysfunction Drives High-Urea-Induced Neurodegeneration in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Disruption of brain urea homeostasis has been implicated in neurodegenerative disorders, yet its molecular mechanisms remain elusive. This study aimed to investigate how urea metabolic disturbance drives neurodegeneration through astrocytic polarity impairment and to identify potential therapeutic targets. METHODS: A high-urea mouse model was generated by urea transporter B (UT-B) knockout. Pharmacological inhibition and genetic intervention were applied to examine dipeptidyl peptidase-like protein 6 (DPP6), protein kinase C eta (PKCeta), and aquaporin-4 (AQP4) expression and localization in astrocytes. Glymphatic clearance, alpha-synuclein (alpha-syn) pathology propagation, and dopaminergic neurodegeneration were evaluated. RESULTS: Urea upregulated astrocytic DPP6, activated PKCeta signaling, and induced AQP4 endocytosis with loss of membrane polarity, leading to impaired glymphatic clearance, accelerated alpha-syn spread, and dopaminergic neuronal degeneration. Mechanistically, the DPP6-PKCeta axis directly regulated AQP4 membrane localization; inhibiting this pathway pharmacologically or genetically rescued all pathological phenotypes. CONCLUSIONS: This study reveals that urea metabolic disruption promotes neurodegenerative progression via the DPP6-PKCeta-AQP4 pathway by compromising astrocytic polarity, offering new therapeutic targets for Parkinson's disease. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 26",
+    "pmid": "42929318",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42929318/"
+  },
+  {
+    "title_en": "Targeting the transcription factor SPI1 attenuates neuroinflammation and dopaminergic degeneration in Parkinson's disease via the tim-3/NF-kappab axis.",
+    "title_zh": "Targeting the transcription factor SPI1 attenuates neuroinflammation and dopaminergic degeneration in Parkinson's disease via the tim-3/NF-kappab axis.",
+    "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+    "impact_factor": 6.9,
+    "abstract": "Microglia-mediated neuroinflammation is a critical driver of dopaminergic neuronal loss in Parkinson's disease (PD), presenting a viable target for disease-modifying therapies. Although the transcription factor Spi-1 proto-oncogene (SPI1) is implicated in microglial regulation, its specific pathological role and therapeutic potential in PD remain elusive. In this study, utilizing in vivo MPTP-induced mouse models and in vitro MPP (+) stimulated microglia, we identified SPI1 as a crucial regulator of PD-associated neuroinflammation. We found that SPI1 expression is aberrantly upregulated in both PD models. Crucially, SPI1 knockdown significantly mitigated motor deficits, attenuated dopaminergic neuronal loss, and suppressed neuroinflammation by reducing proinflammatory cytokines. Mechanistically, we revealed that SPI1 directly binds to the promoter of T-cell immunoglobulin and mucin-domain-containing 3 (TIM-3) to activate its transcription. Silencing SPI1 facilitated a neuroprotective microglial M1-to-M2 phenotypic shift by downregulating TIM-3 and subsequently inhibiting the NF-kappaB signaling pathway, thereby protecting against synaptic impairment and neuronal apoptosis. Together, our findings elucidate a novel SPI1/TIM-3/NF-kappaB regulatory axis in microglial polarization and highlight the targeted inhibition of SPI1 as a promising therapeutic strategy for ameliorating neuroinflammation and halting disease progression in Parkinson's disease.",
+    "date": "2026 Oct 26",
+    "pmid": "42933062",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933062/"
+  },
+  {
+    "title_en": "TF-GaitDT(2): Trustworthy Personalized Federated Gait Twin Learning Under Heterogeneous Modalities for Parkinson's Detection and Severity Estimation.",
+    "title_zh": "TF-GaitDT(2): Trustworthy Personalized Federated Gait Twin Learning Under Heterogeneous Modalities for Parkinson's Detection and Severity Estimation.",
+    "journal": "IEEE journal of biomedical and health informatics",
+    "impact_factor": 6.8,
+    "abstract": "Gait impairment is a key motor manifestation of Parkinson's disease and can be assessed using wearable, plantar force, and vision-based sensing. In prac tice, however, clinical deployments are characterized by heterogeneous sensor availability and strict privacy con straints that preclude centralized data sharing. This paper proposes TF-GaitDT(2), a trustworthy and personalized fed erated digital-twin framework for multimodal PD gait anal ysis under partially observed sensing configurations. The framework integrates modality-specific encoders, masked multimodal fusion, and recurrent twin-state dynamics to learn a longitudinal representation of motor function while preserving data locality. Multi-task heads jointly support PD detection and severity estimation, with uncertainty calibration to improve reliability under non-IID federated settings. Experimental evaluation in a heterogeneous federated setting using public gait datasets shows that TF GaitDT2 improves upon standard federated baselines for PD detection and severity estimation, while approaching the performance obtained under centralized training. The proposed framework also yields more stable digital-twin representations and improved uncertainty calibration, with an associated increase in communication overhead. Over all, the results indicate that TF-GaitDT2 is suitable for privacy-preserving multimodal PD assessment in federated clinical settings.",
+    "date": "2026 Oct 26",
+    "pmid": "42932193",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42932193/"
+  },
+  {
+    "title_en": "Circadian aging and neurodegeneration: the emerging role of the melatonin-cortisol axis in brain homeostasis, disease progression, and precision chronomedicine.",
+    "title_zh": "Circadian aging and neurodegeneration: the emerging role of the melatonin-cortisol axis in brain homeostasis, disease progression, and precision chronomedicine.",
+    "journal": "Frontiers in neuroendocrinology",
+    "impact_factor": 6.7,
+    "abstract": "Circadian aging may promote neurodegenerative illnesses by dysregulating the melatonin-cortisol axis. Low nighttime melatonin synthesis, blunted cortisol circadian cycles, abnormal clock-gene oscillation patterns, and sleep-wake architecture undermine central and peripheral circadian equilibrium with age. Neuroendocrine alterations produce oxidative stress, mitochondrial failure, pervasive neuroinflammation (CNS immune function loss), and proteostasis. Increasing Alzheimer's, Parkinson's, ALS, Huntington's, frontotemporal dementia, Lewy body disease, PTSD, and vascular cognitive impairment due to impaired glymphatic axonal clearance/blood-brain barrier dysregulation/synaptic degeneration/pathoproteopathic protein We examine how clock genes, melatonin signaling, hypothalamic-pituitary-adrenal axis administration, microglia reactivity, and immune-mediated metabolic dysregulation affect dementia. New endocrine, transcriptomic, multi-omics, and wearable-derived digital biomarkers, chronopharmacology (including melatonin receptor agonists), bright-light therapy, time-restricted eating with exercise chronotherapy guidance/synchronization, sleep optimization, and gut microbiota modulation This study addressed inter-individual circadian variability, genetic susceptibility to therapy timing, biomarker standardization, and clinical trial design. The melatonin-cortisol axis may identify and treat age-related neurodegenerative diseases with tailored treatment.",
+    "date": "2026 Oct 27",
+    "pmid": "42933736",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933736/"
+  },
+  {
+    "title_en": "TREM2/IGF-1 Signaling Axis-induced microglial senescence Underlies Benzo[a]pyrene-associated Parkinson's Disease-like Lesions.",
+    "title_zh": "TREM2/IGF-1 Signaling Axis-induced microglial senescence Underlies Benzo[a]pyrene-associated Parkinson's Disease-like Lesions.",
+    "journal": "Chemico-biological interactions",
+    "impact_factor": 5.4,
+    "abstract": "Parkinson's disease (PD) is the second most prevalent neurodegenerative disorder worldwide. Accumulating evidence has linked environmental polycyclic aromatic hydrocarbons (PAHs), with benzo[a]pyrene (B[a]P) as a representative ubiquitous member, to elevated PD risk and disease pathogenesis. The present study aimed to investigate whether B[a]P can trigger typical PD-like lesions in mice, and further dissects the functional role of microglial senescence as well as its underlying regulatory mechanism, using complementary systems in vivo mouse model and in vitro BV2 microglia cell. Behavioral assessments revealed that B[a]P exposure induced significant, dose-dependent impairments in motor coordination and cognitive function compared with the control group. Moreover, the degree of functional impairments measured in the high-dose B[a]P group was comparable to that observed in the MPTP positive-control group. Following B[a]P treatment, brain-resident microglia cells exhibited signs of cell senescence, as evidenced by typical ultrastructural alterations, increased senescence-associated beta-galactosidase (SA-beta-gal) activity, and elevated expression of the core senescence markers p16, p21, and p53 proteins. Consistent with these in vivo observations, B[a]P was confirmed to also induce cell cycle arrest in cultured BV2 microglia cells. This pro-senescent effect was significnatly attenuated by Triggering receptor expressed on myeloid cells 2 (TREM2) overexpression, whereas it was markedly exacerbated following TREM2 knockout. Subsequent experiments further validated that insulin-like growth factor 1 (IGF-1), as a direct downstream effector regulated by TREM2, is functionally required for B[a]P-triggered microglial senescence. Collectively, these findings demonstrate that B[a]P exposure can induce PD-like lesions and microglial senescence, and which is primarily mediated via the TREM2/IGF-1 signaling axis.",
+    "date": "2026 Oct 26",
+    "pmid": "42933556",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933556/"
   },
   {
     "title_en": "Supporting meaningful contributions of people affected by Parkinson's throughout the research process: Key considerations for inclusive patient and public involvement across the globe.",
