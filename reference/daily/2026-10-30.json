@@ -10,6 +10,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42928249/"
   },
   {
+    "title_en": "Mitochondrial dysfunction in neurology: biomarkers and clinical implications.",
+    "title_zh": "Mitochondrial dysfunction in neurology: biomarkers and clinical implications.",
+    "journal": "Nature reviews. Neurology",
+    "impact_factor": 33.1,
+    "abstract": "Mitochondrial dysfunction is increasingly recognized as a shared downstream pathogenic mechanism across a wide spectrum of neurological disorders, ranging from primary mitochondrial diseases to conditions including amyotrophic lateral sclerosis, Alzheimer disease, Parkinson disease, multiple sclerosis, hereditary ataxias and idiopathic inflammatory myopathies. This Review examines the role of mitochondrial biomarkers in improving diagnostic accuracy, patient stratification and monitoring of disease progression and therapeutic response. Primary mitochondrial diseases are presented as proof-of-concept models of impaired oxidative phosphorylation, providing a framework for biomarker identification and validation with translational relevance to other neurological diseases. Mitochondrial biomarkers can be broadly categorized into four domains: fluid biomarkers, reflecting metabolic alterations and stress signalling; genetic biomarkers, capturing mitochondrial DNA integrity and dynamics; multi-omics approaches, integrating transcriptomic, proteomic and metabolomic signatures; and imaging biomarkers, enabling in vivo assessment of structural and functional consequences of mitochondrial dysfunction. Across disorders, these biomarkers reveal shared disturbances in bioenergetics, redox homeostasis, mitochondrial genome maintenance and inflammatory signalling. However, clinical implementation remains limited by methodological heterogeneity, biological variability and reduced disease specificity. Integrated, multimodal biomarker strategies, combined with longitudinal validation, will be essential for supporting precision medicine and guiding the development of therapies to target mitochondrial pathways in neurology.",
+    "date": "2026 Oct 23",
+    "pmid": "42919989",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919989/"
+  },
+  {
     "title_en": "Microglial NUS1 deficiency drives dopaminergic neurodegeneration through intercellular iron dysregulation in Parkinson's disease models.",
     "title_zh": "Microglial NUS1 deficiency drives dopaminergic neurodegeneration through intercellular iron dysregulation in Parkinson's disease models.",
     "journal": "Nature neuroscience",
@@ -28,6 +38,16 @@
     "date": "2026 Oct 28",
     "pmid": "42922083",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42922083/"
+  },
+  {
+    "title_en": "Neurodegeneration in sub-Saharan Africa: Intersections of biological ageing, genomic diversity and the lifetime exposome.",
+    "title_zh": "Neurodegeneration in sub-Saharan Africa: Intersections of biological ageing, genomic diversity and the lifetime exposome.",
+    "journal": "Ageing research reviews",
+    "impact_factor": 12.4,
+    "abstract": "Neurodegenerative diseases are emerging as an important consequence of population ageing in sub-Saharan Africa (SSA), but their scientific relevance extends beyond a projected rise in case numbers. SSA combines exceptional human genomic diversity with marked heterogeneity in vascular and metabolic risk, infection, nutrition, occupational exposures, air pollution, and access to health care. This combination creates an underused setting in which to study why biological ageing produces neurodegeneration in some individuals but relative resilience in others. This review critically synthesises evidence on Alzheimer's disease and related dementias, Parkinson's disease, amyotrophic lateral sclerosis/frontotemporal degeneration, Huntington's disease and related disorders, focusing on the intersection between hallmarks of ageing, disease-specific proteinopathies, ancestry and the lifetime exposome. Age-associated loss of proteostasis, mitochondrial dysfunction, impaired autophagy, chronic inflammation, neurovascular injury and genomic/epigenomic instability provide a mechanistic scaffold on which genetic susceptibility and cumulative exposures may act. Yet African evidence remains dominated by cross-sectional clinical phenotyping; neuropathology, longitudinal biomarkers, multi-omics and measured environmental exposures remain sparse. Recent African-ancestry Parkinson's disease genomics and emerging plasma biomarker studies demonstrate that ancestry-inclusive molecular neuroscience is feasible and can generate findings not predictable from European-ancestry datasets. The next phase should therefore move beyond documenting underdiagnosis toward longitudinal, biologically anchored cohorts that integrate phenotype, genomics, blood biomarkers, neuroimaging, exposomics, digital measures and health-system outcomes. This review proposes a research framework centred on biological ageing, gene-environment interaction and resilience. Such work would improve the validity of prevention, diagnosis and therapeutic translation in African populations while contributing globally to a more complete biology of neurodegenerative ageing.",
+    "date": "2026 Oct 23",
+    "pmid": "42918426",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42918426/"
   },
   {
     "title_en": "Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies.",
@@ -298,6 +318,16 @@
     "date": "2026 Oct 26",
     "pmid": "42933556",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42933556/"
+  },
+  {
+    "title_en": "Acoustofluidic enrichment of small extracellular vesicles: physical principles, microfluidic implementations, and prospects for Parkinson's disease liquid biopsy.",
+    "title_zh": "Acoustofluidic enrichment of small extracellular vesicles: physical principles, microfluidic implementations, and prospects for Parkinson's disease liquid biopsy.",
+    "journal": "Mikrochimica acta",
+    "impact_factor": 5.3,
+    "abstract": "Reliable blood-based small extracellular vesicle (sEV) analysis for Parkinson's disease (PD) is constrained by co-isolation of lipoproteins and proteins from plasma. This review examines acoustofluidics as a sample-preprocessing and integration-enabling strategy for PD liquid biopsy. We first summarize the analytical value and limitations of sEV-associated alpha-synuclein, microRNA panels, and multi-omics cargo, and then compare conventional and microfluidic enrichment methods with particular attention to lipoprotein co-isolation, recovery, fraction purity, throughput, and compatibility with downstream assays. We further analyze the physical basis of acoustofluidic separation, including particle volume, density, compressibility, and acoustic contrast factor, and assess its potential integration with on-chip lysis, nucleic acid amplification, protein assays, and signal readout. Current evidence suggests that acoustofluidics can provide label-free, noncontact enrichment of sEV-containing fractions while offering a physical separation dimension complementary to size and buoyant density. However, it achieves reduced lipoprotein co-isolation rather than complete removal, yielding sEV-enriched fractions rather than highly pure isolates. Clinical translation will therefore require standardized pre-analytical workflows, explicit reporting of sEV recovery and lipoprotein depletion, demonstration that improved fraction quality enhances biomarker measurement, and prospective multicenter validation. Acoustofluidics should thus be viewed as a promising front-end technology for improving the analytical reliability and integration of PD sEV liquid biopsy rather than as an independent diagnostic method. The critical question remains whether improved sEV enrichment can ultimately translate into more reliable and clinically useful PD biomarker measurements. We use sEV terminology without assuming endosomal origin.",
+    "date": "2026 Oct 23",
+    "pmid": "42918940",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42918940/"
   },
   {
     "title_en": "Supporting meaningful contributions of people affected by Parkinson's throughout the research process: Key considerations for inclusive patient and public involvement across the globe.",
