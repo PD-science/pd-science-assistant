@@ -50,6 +50,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42962668/"
   },
   {
+    "title_en": "Scutellarin as a multi-target neuroprotective agent: Analytical evidence, pharmacokinetic insights and translational strategies across neurodegenerative disorders.",
+    "title_zh": "Scutellarin as a multi-target neuroprotective agent: Analytical evidence, pharmacokinetic insights and translational strategies across neurodegenerative disorders.",
+    "journal": "Pharmacological research",
+    "impact_factor": 10.5,
+    "abstract": "Neurodegenerative disorders are a leading cause of disability and mortality globally, but effective disease-modifying therapeutic strategies are still largely unavailable. Scutellarin is a flavonoid glycoside extracted from Erigeron breviscapus (Vant.) Hand-Mazz. It has been widely studied in preclinical models of neurodegenerative disorders. In this study, we performed a systematic review of preclinical animal studies. We combined comprehensive database retrieval with quantitative synthesis of eligible outcomes. The pooled results demonstrated that scutellarin significantly reduced cerebral infarct volume and improved neurological deficit scores in cerebral ischemia-reperfusion models. It also ameliorated learning and memory impairments in experimental Alzheimer's disease (AD) models. Consistent neuroprotective effects were also found in models of depression, anxiety, Parkinson's disease, etc. Mechanistic analysis indicated that scutellarin produces multi-level neuroprotective effects. It acts by reducing oxidative stress, inhibiting neuroinflammation, suppressing apoptosis, stabilizing the neurovascular unit and other neurobiological processes. This review first evaluated the preclinical efficacy of scutellarin through systematic review and meta-analysis. It then integrated cross-disease mechanisms with network pharmacology, reverse virtual screening and molecular docking to identify computationally predicted targets. Although scutellarin shows promising preclinical effects, its clinical translation faces major limitations. These limitations include low oral bioavailability, poor blood-brain barrier (BBB) penetration and insufficient data on brain exposure. Overall, scutellarin is a multi-target neuroprotective candidate. Future studies should focus on target validation, exposure-response modeling, delivery optimization and clinically relevant translational evaluation.",
+    "date": "2026 Oct 29",
+    "pmid": "42956863",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42956863/"
+  },
+  {
     "title_en": "Engineered peroxisomes and patient-derived iPSC models as potential biomaterial platforms for precision neuroprotection in oxidative stress-driven central nervous system disorders.",
     "title_zh": "Engineered peroxisomes and patient-derived iPSC models as potential biomaterial platforms for precision neuroprotection in oxidative stress-driven central nervous system disorders.",
     "journal": "Materials today. Bio",
@@ -58,6 +68,16 @@
     "date": "2026 Dec",
     "pmid": "42959522",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42959522/"
+  },
+  {
+    "title_en": "GeoMind: Dancing with Geometric Brain Rhythm on Symmetric Positive Definite Manifolds.",
+    "title_zh": "GeoMind: Dancing with Geometric Brain Rhythm on Symmetric Positive Definite Manifolds.",
+    "journal": "IEEE transactions on medical imaging",
+    "impact_factor": 9.8,
+    "abstract": "State space model (SSM) is a powerful tool in neuroscience field to characterize the dynamic nature of brain functions by elucidating the mechanism of how brain system transits between brain states and how underlying states give rise to the observed neural activities. Although tremendous efforts have been made to lend the power of deep learning and mathematical insight of SSM in various functional neuroimaging studies, current state-of-the-art methods lack a holistic view of brain state evolution as a self-organized dynamical system where each part of the brain is functionally inter-connected. Since the topological co-activation of functional fluctuations exhibits an intrinsic geometric pattern (symmetric and positive definite, SPD) on the Riemannian manifold, the call for understanding how a selective set of functional connectivities in the brain supports diverse behavior and cognition emerge a new machine learning scenario of manifold-based SSM for largescale functional neuroimages. To that end, we propose a geometric neural network of SSM, coined GeoMind, designed to uncover evolving brain states by tracking the trajectory of functional dynamics on a high-dimensional Riemannian manifold of SPD matrices. GeoMind demonstrates promising results in identifying specific brain states on task-based functional Magnetic Resonance Imaging (fMRI) data, as well as in diseases early diagnosis for Alzheimer's disease, Parkinson's disease and Autism, by using resting-state fMRI. These results highlight the applicability of GeoMind in neuroscience research. To further evaluate generalizability of GeoMind, we applied GeoMind to electroencephalography (EEG) emotion datasets, outperforming competing methods and demonstrating scalability across neuroimaging modalities.",
+    "date": "2026 Oct 29",
+    "pmid": "42955763",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42955763/"
   },
   {
     "title_en": "From dosage alteration to amplification strategies: mechanistically defined alpha-synuclein mouse models for Parkinson's disease therapy development.",
@@ -70,6 +90,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42961519/"
   },
   {
+    "title_en": "Terazosin Activates or Inhibits Human Phosphoglycerate Kinase 1 on a Dose-Dependent Basis: Mechanistic and Structural Insights by NMR.",
+    "title_zh": "Terazosin Activates or Inhibits Human Phosphoglycerate Kinase 1 on a Dose-Dependent Basis: Mechanistic and Structural Insights by NMR.",
+    "journal": "JACS Au",
+    "impact_factor": 8.7,
+    "abstract": "Phosphoglycerate kinase 1 (PGK1) is a key metabolic enzyme responsible for ATP production, and its dysregulation is linked to the Warburg effect in cancer and to neurodegenerative diseases such as Parkinson's. Recent studies indicate that terazosin, an FDA-approved drug, enhances PGK1-mediated ATP production. However, X-ray crystallography indicates that terazosin binds at a site that partially overlaps the nucleotide-binding site, thereby inhibiting PGK1. In this study, we employed solution-state nuclear magnetic resonance (NMR) chemical shift titrations to confirm that terazosin binds at a site that partially overlaps the nucleotide-binding pocket of PGK1, stabilizing the enzyme in its open conformation, which is accessible to substrates and products. This binding shifts the equilibrium toward the open state, enhancing product release at low concentrations while blocking substrate binding at higher concentrations. These findings are strengthened by the 3D NMR(2) structure determination of the PGK1-terazosin complex, using selective unlabeling combined with subsequent partial amino acid assignments, which validates the available X-ray structure.",
+    "date": "2026 Oct 26",
+    "pmid": "42953203",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42953203/"
+  },
+  {
     "title_en": "Iron affects association and dissociation rates of alpha-synuclein iron-responsive element mRNA binding to iron regulatory protein in Parkinson's disease.",
     "title_zh": "Iron affects association and dissociation rates of alpha-synuclein iron-responsive element mRNA binding to iron regulatory protein in Parkinson's disease.",
     "journal": "International journal of biological macromolecules",
@@ -78,6 +108,26 @@
     "date": "2026 Oct 31",
     "pmid": "42966587",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966587/"
+  },
+  {
+    "title_en": "Modeling long-range human nigrostriatal connectivity in vitro reveals striatal target-dependent maturation of dopamine neurons.",
+    "title_zh": "Modeling long-range human nigrostriatal connectivity in vitro reveals striatal target-dependent maturation of dopamine neurons.",
+    "journal": "The EMBO journal",
+    "impact_factor": 8.3,
+    "abstract": "The human nigrostriatal pathway, comprising dopaminergic neurons in the ventral midbrain that project to the dorsolateral striatum, is essential for motor control and selectively vulnerable in Parkinson's disease. How this circuit assembles during human development remains poorly understood, and in vitro models capturing its long-range connectivity and spatial organization have been lacking. Here, we establish a compartmentalized, human stem cell-based model of the nigrostriatal pathway by integrating ventral midbrain and striatal organoids within a custom-engineered microfluidic device that confines cell bodies while guiding axonal growth to recapitulate key aspects of in vivo topography. Functional connectivity was confirmed by retrograde rabies tracing, and optogenetic and pharmacological stimulation. Single-nucleus transcriptomic analysis reveals that axonal target engagement with spatially separated striatal neurons promotes maturation of human dopaminergic neurons and activates transcriptional programs associated with neurotransmitter secretion. Our study establishes a biologically relevant in vitro system for investigating how long-range connectivity regulates neuronal assembly in the nigrostriatal circuit and for modelling key pathological features of Parkinson's disease.",
+    "date": "2026 Oct 28",
+    "pmid": "42957910",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42957910/"
+  },
+  {
+    "title_en": "Intranasal Mitochondria-Targeted Rosmarinic Acid Selenium Nanoparticles Restore Mitochondrial Function and Attenuate Dopaminergic Neurodegeneration in Parkinson's Disease.",
+    "title_zh": "Intranasal Mitochondria-Targeted Rosmarinic Acid Selenium Nanoparticles Restore Mitochondrial Function and Attenuate Dopaminergic Neurodegeneration in Parkinson's Disease.",
+    "journal": "ACS applied materials & interfaces",
+    "impact_factor": 8.2,
+    "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by dopaminergic neuronal loss, mitochondrial dysfunction, oxidative stress, and alpha-synuclein pathology, highlighting the need for mitochondria-targeted neuroprotective strategies. Here, we developed a mitochondria-targeted intranasal nanotherapeutic system comprising rosmarinic acid (RA)-loaded selenium nanoparticles (RASNPs) surface-functionalized with triphenylphosphonium (TPP)-conjugated chitosan (TCS-RASNPs) to enhance nose-to-brain delivery and improve mitochondrial function. TCS-RASNPs exhibited a spherical morphology, a uniform particle size distribution (140.13 +/- 0.40 nm), a narrow polydispersity, and a positive surface charge (33.7 +/- 0.75 mV), indicating good colloidal stability. Spectroscopic characterization confirmed successful RA loading and surface functionalization. Moreover, TCS-RASNPs enhanced antioxidant activity and sustained drug release compared with free RA and unmodified RASNPs. In neuronal cells, TCS-RASNPs significantly enhanced neuronal survival, reduced apoptosis, attenuated intracellular and mitochondrial reactive oxygen species (ROS) generation, and improved mitochondrial membrane potential under 1-methyl-4-phenylpyridinium (MPP+)-induced neurotoxicity. Confocal microscopy further confirmed efficient mitochondrial localization of TCS-RASNPs. Pharmacokinetic and biodistribution studies demonstrated prolonged retention of RA and significantly higher brain RA levels following intranasal administration. In 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced Parkinsonian mice, TCS-RASNPs increased tyrosine hydroxylase (TH) expression, reduced alpha-synuclein (SNCA) expression, and normalized oxidative stress biomarkers in the substantia nigra pars compacta (SNpc) and striatum (STR) regions. Together, these findings demonstrate that TCS-RASNPs facilitate mitochondrial targeting and nose-to-brain delivery, thereby representing a promising nanotherapeutic approach for the management of PD.",
+    "date": "2026 Oct 29",
+    "pmid": "42955076",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42955076/"
   },
   {
     "title_en": "Prediction of First and Recurrent Falls in Parkinson's Disease.",
@@ -100,6 +150,106 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42960446/"
   },
   {
+    "title_en": "High-Intensity Focused Ultrasound of Bilateral Pallidothalamic Tracts for Parkinson's Disease: Are We Ready?",
+    "title_zh": "High-Intensity Focused Ultrasound of Bilateral Pallidothalamic Tracts for Parkinson's Disease: Are We Ready?",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "暂无摘要",
+    "date": "2026 Oct 28",
+    "pmid": "42952278",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952278/"
+  },
+  {
+    "title_en": "Genetic Analysis of the SLC38A6 Gene in Chinese Patients with Essential Tremor: Not Causative, But Rather an Additional Susceptibility Gene?",
+    "title_zh": "Genetic Analysis of the SLC38A6 Gene in Chinese Patients with Essential Tremor: Not Causative, But Rather an Additional Susceptibility Gene?",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: A recent study implicated rare SLC38A6 variants in Han Chinese cases of essential tremor (ET). OBJECTIVES: To validate the association between SLC38A6 and ET in an independent cohort via gene-level burden analysis and family co-segregation. METHODS: We sequenced all coding exons and splice sites of SLC38A6 in 724 Han Chinese ET patients and 606 controls, performing gene-level burden tests and co-segregation analysis. RESULTS: Eleven rare variants were identified. The most recurrent variant, c.323A>T (p.Y108F), was enriched in cases (3.45% vs. 1.16%; odds ratio [OR] 3.06, 95% confidence interval [95% CI] 1.31-7.13, P = 0.0065). Gene-level analysis showed significantly more rare-variant carriers in cases than in controls (7.73% vs. 3.63%; OR 2.23, 95% CI 1.34-3.69, P = 0.0015), confirmed by sequence kernel association test (SKAT) (P = 0.0257). Six of 12 families showed co-segregation of c.323A>T (p.Y108F), c.719C>A (p.P240Q), or c.752A>G (p.Y251C) with ET. CONCLUSIONS: These findings support SLC38A6 as a candidate susceptibility gene for ET in Han Chinese. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 28",
+    "pmid": "42949100",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949100/"
+  },
+  {
+    "title_en": "Neuromelanin-Sensitive MRI as a Marker of Clinical Severity and Disease Burden in Parkinson's Disease: A Systematic Review and Meta-analysis.",
+    "title_zh": "Neuromelanin-Sensitive MRI as a Marker of Clinical Severity and Disease Burden in Parkinson's Disease: A Systematic Review and Meta-analysis.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "The neuropathology of Parkinson's disease (PD) is characterized in part by the degeneration of catecholaminergic neurons, particularly dopaminergic neurons in the substantia nigra pars compacta (SNpc) and noradrenergic neurons in the locus coeruleus (LC), yet no validated in vivo biomarker quantifies this process. Neuromelanin-sensitive magnetic resonance imaging (NM-MRI) enables noninvasive assessment of these neuronal populations, although relationships with clinical severity, disease burden, and progression remain incompletely defined. We conducted the first Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)-guided systematic review and random-effects meta-analysis examining associations between NM-MRI measures and clinical outcomes in PD, including subgroup, meta-regression, and sensitivity analyses. Reduced NM-MRI measures were associated with greater motor impairment (18 studies; pooled r = -0.406), longer disease duration (14; r = -0.426), higher Hoehn and Yahr stage (10; r = -0.336), and higher levodopa equivalent daily dose (6; r = -0.337) (all P < 0.001). Thirty-nine studies (1983 patients with PD) were included in the systematic review. Narrative synthesis demonstrated distinct SNpc/LC associations: SNpc measures were primarily associated with motor dysfunction and disease stage, displaying hemispheric asymmetry, intranigral topography, and phenotype-specific patterns, whereas LC measures were preferentially linked to cognitive, affective, autonomic, and sleep-related symptoms. Four longitudinal studies (~1.5-3 years) reported declines in selected NM-MRI measures (~5%-19% annually). Multimodal studies suggested NM-MRI captures a complementary dimension of nigrostriatal pathology alongside dopaminergic, iron-sensitive, and diffusion-based markers. NM-MRI provides a biologically interpretable in vivo measure of catecholaminergic neuron integrity and survival in PD, with consistent cross-sectional associations with clinical disease burden. Emerging longitudinal and multimodal evidence supports its potential as a progression-sensitive imaging biomarker for disease-modifying clinical trials. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 28",
+    "pmid": "42949087",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42949087/"
+  },
+  {
+    "title_en": "Reduced Sensory Attenuation Scales with Tic Severity in Tourette Syndrome.",
+    "title_zh": "Reduced Sensory Attenuation Scales with Tic Severity in Tourette Syndrome.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Patients with Tourette syndrome (TS) often describe tics as reactions to uncomfortable somatic sensations (premonitory urges), suggesting a breakdown in how the brain filters internally generated sensory information. This filtering capacity is indexed by sensory attenuation (SA), a mechanism relying on sensorimotor predictions to dampen the perceived intensity of self-produced inputs. However, objective behavioral evidence of such impairment in TS remains lacking. OBJECTIVES: The aims were to determine whether patients with TS exhibit reduced SA and to evaluate whether the magnitude of this impairment correlates with the severity of the symptoms related to the syndrome. METHODS: Thirty adults with TS and 30 healthy controls performed a force-matching task. Participants reproduced a target force in a direct condition (directly with their finger) and in an indirect condition (controlling force via a button). TS patients underwent a comprehensive clinical assessment, including the Yale Global Tic Severity Scale (YGTSS). RESULTS: Compared with controls, patients with TS exhibited reduced SA, evidenced by lower force overestimation during direct force reproduction, whereas no group differences were observed in the indirect condition. This reduction was associated with greater tic severity and accounted for additional variance in YGTSS total tic scores beyond medication load, obsessive-compulsive symptoms, and premonitory urge severity. CONCLUSIONS: These findings provide the first direct behavioral evidence of reduced SA in adults with TS. The observed association with tic severity suggests that SA may represent a clinically relevant behavioral marker of altered sensorimotor predictive processing in TS. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 28",
+    "pmid": "42947547",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42947547/"
+  },
+  {
+    "title_en": "Longitudinal Real-Time Quaking-Induced Conversion Analysis of Misfolded alpha-Synuclein in Idiopathic Rapid Eye Movement Sleep Behavior Disorder Patients with Baseline Cerebrospinal Fluid Negativity.",
+    "title_zh": "Longitudinal Real-Time Quaking-Induced Conversion Analysis of Misfolded alpha-Synuclein in Idiopathic Rapid Eye Movement Sleep Behavior Disorder Patients with Baseline Cerebrospinal Fluid Negativity.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: While most patients with idiopathic REM sleep behavior disorder (IRBD) show CSF misfolded alpha-synucleinpositivity, a subset tests negative with an uncertain underlying substrate that may include non-synucleinopathy conditions. OBJECTIVE AND METHODS: We performed a longitudinal study in polysomnography-confirmed IRBD patients with negative CSF alpha-synuclein at baseline (LP1) who underwent a second lumbar puncture (LP2). alpha-synuclein presence was determined by seed amplification assay. RESULTS: Among 43 alphaSyn -negative patients at LP1, 9 (20.9%) converted to alphaSyn positivity over a mean follow-up of 2.8 +/- 2.3 years. At LP1, converters exhibited a higher burden of Parkinson's disease biomarkers, including hyposmia, abnormal dopamine transporter single-photon emission computed tomography (DAT-SPECT), and increased REM sleep electromyographic activity, compared with patients with persistent alphaSyn negativity. Longer intervals between LP1 and LP2 were associated with higher alphaSyn shifting to positivity. CONCLUSION: Serial CSF alphaSyn assessments may identify a very early synucleinopathy stage. This strategy may improve patient selection for disease-modifying trials targeting alphaSyn. (c) 2026 International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 27",
+    "pmid": "42947475",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42947475/"
+  },
+  {
+    "title_en": "Mortality in People with Action Tremor: Findings from Three Population-Based Cohort Studies.",
+    "title_zh": "Mortality in People with Action Tremor: Findings from Three Population-Based Cohort Studies.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Action tremor is common in adults and increases with age. Although essential tremor (ET) is a major subgroup, action tremor comprises heterogeneous phenotypes, and its prognostic implications remain uncertain. OBJECTIVES: Our aim was to examine the association between action tremor and all-cause mortality using complementary population-based cohorts. METHODS: We triangulated data from three Danish cohorts: a nationwide register-based cohort of 3487 individuals with outpatient hospital-diagnosed ET, each matched to 10 controls; the Longitudinal Study of Aging Danish Twins (LSADT), including spiral-based tremor assessment on 2029 individuals and a neurologist-examined subgroup; and the Danish Symptom Cohort, including 2472 individuals with self-reported tremor, each matched to four controls. Mortality follow-up was obtained through nationwide registers. Cox regression models were applied with age as the time variable. RESULTS: In the outpatient cohort, hospital-diagnosed ET was associated with increased mortality (hazard ratio [HR], 1.37, 95% confidence interval, 1.27-1.46). In LSADT, subjects with high Archimedes scores indicating symptomatic action tremor (scores 5-7 vs. 0-2) yielded HR, 1.67 (1.42-1.97). Additionally, higher spiral scores were associated with progressively lower survival. In the Danish Symptom Cohort, even self-reported tremor was associated with increased mortality (HR, 1.56, 1.38-1.75), robust to adjustment for alcohol use. CONCLUSIONS: In three population-based cohorts, action tremor was consistently associated with increased mortality. We showed that our clinically diagnosed ET-cohort, a cohort with spiral score validated action tremor, and a cohort with self-diagnosed symptomatic action tremor, all showed increased mortality. Action tremor may represent a marker of underlying health vulnerability rather than a benign motor sign. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Oct 27",
+    "pmid": "42935472",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42935472/"
+  },
+  {
+    "title_en": "Dopaminergic Neurotoxicity Induces Parkinsonian-Like Phenotypes in Daphnia magna.",
+    "title_zh": "Dopaminergic Neurotoxicity Induces Parkinsonian-Like Phenotypes in Daphnia magna.",
+    "journal": "Environmental pollution (Barking, Essex : 1987)",
+    "impact_factor": 7.3,
+    "abstract": "Parkinson's disease (PD) is associated with dopaminergic neurodegeneration, in which mitochondrial dysfunction and oxidative stress play central roles. However, environmentally relevant invertebrate models for studying dopaminergic neurotoxicity remain limited. Here, we developed a Parkinsonism-like model in Daphnia magna using sublethal exposures to the prototypical dopaminergic neurotoxicant MPTP [1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine] and the environmentally relevant pesticide rotenone. Both compounds induced concentration-dependent increases in reactive oxygen species, marked depletion of dopamine and related metabolites in the head, and a strong downregulation of key dopaminergic genes, indicating profound disruption of dopaminergic homeostasis and redox balance and providing evidence consistent with construct validity. These molecular alterations were accompanied by functional alterations consistent with face validity, including reduced hopping distance, increased low-locomotion states, impaired photomotor responses and habituation, altered phototaxis and colour preference, particularly after MPTP exposure, and reduced heart rate. Together, these findings support the potential utility of D. magna as a sensitive, integrative, and ecologically relevant model for investigating dopaminergic neurotoxicity and Parkinsonism-related adverse outcome pathways triggered by environmental chemicals.",
+    "date": "2026 Oct 28",
+    "pmid": "42950968",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42950968/"
+  },
+  {
+    "title_en": "Dopamine turns mitochondrial stress into inflammation.",
+    "title_zh": "Dopamine turns mitochondrial stress into inflammation.",
+    "journal": "Cell reports",
+    "impact_factor": 6.9,
+    "abstract": "Daniali et al. show that dopamine drives mitochondrial stress, mtDNA release, and cGAS-STING-dependent IL-6 production in human macrophages. These findings suggest a mechanism linking dopaminergic signaling to mtDNA damage signatures increasingly detected in blood from patients with Parkinson's disease.",
+    "date": "2026 Oct 29",
+    "pmid": "42955948",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42955948/"
+  },
+  {
+    "title_en": "Mesenchymal stem cells inhibit ferroptosis in dopaminergic neurons of Parkinson's disease mice by phosphorylating STAT6.",
+    "title_zh": "Mesenchymal stem cells inhibit ferroptosis in dopaminergic neurons of Parkinson's disease mice by phosphorylating STAT6.",
+    "journal": "Neural regeneration research",
+    "impact_factor": 6.7,
+    "abstract": "Ferroptosis is recognized as a critical driver of dopaminergic neuronal injury. Emerging evidence suggests that the neuroprotective effects of bone marrow mesenchymal stem cells are partially mediated through signal transducer and activator of transcription 6 (STAT6) signaling. However, few studies have investigated whether bone marrow mesenchymal stem cells can modulate ferroptosis in dopaminergic neurons, and the specific regulatory role of STAT6 in neuronal ferroptosis remains poorly understood. We established an in vitro model of Parkinson's disease using SH-SY5Y cells treated with 1-methyl-4-phenyl-pyridinium and an in vivo model of Parkinson's disease using mice exposed to 1-methyl-4-phenyl- 1,2,3,6-tetrahydropyridine. Bone marrow mesenchymal stem cells were administered via Transwell coculture in vitro and stereotactic brain injection in vivo. Western blotting, immunohistochemistry, transmission electron microscopy, and behavioral tests were used to evaluate neuronal protection and motor function recovery. We assessed phosphorylated STAT6 (p-STAT6), the active form of STAT6, as well as markers related to ferroptosis, iron metabolism, and oxidative stress. Interventions with interleukin-4, AS1517499, and Cas9-mediated STAT6 knockout were performed to verify the regulatory role of the STAT6/p-STAT6 signaling pathway. Laser confocal microscopy was used to analyze the subcellular distribution of p-STAT6 and further elucidate the molecular mechanisms underlying bone marrow mesenchymal stem cells-mediated neuroprotection in Parkinson's disease. Bone marrow mesenchymal stem cells increased tyrosine hydroxylase expression in dopaminergic neurons and alleviated motor dysfunction in a mouse model of Parkinson's disease. Bone marrow mesenchymal stem cells promoted p-STAT6 phosphorylation at Tyr641. Nuclear-cytoplasmic fractionation assays showed that bone marrow mesenchymal stem cells restored nuclear p-STAT6 levels, while confocal microscopy confirmed the nuclear translocation of p-STAT6. Activated p-STAT6 stimulated the SLC7A11-GPX4 antioxidant pathway and restored reduced glutathione levels. Meanwhile, bone marrow mesenchymal stem cells downregulated DMT1 expression, thereby reducing intracellular iron accumulation, reactive oxygen species production, and lipid peroxidation. Interleukin-4 recapitulated the anti-ferroptotic effects of bone marrow mesenchymal stem cells, whereas AS1517499 abolished their neuroprotective effects. STAT6 knockout eliminated the ability of bone marrow mesenchymal stem cells to inhibit neuronal ferroptosis. This study demonstrates that bone marrow mesenchymal stem cells induce p-STAT6 phosphorylation at Tyr641 and facilitate its nuclear translocation. Activated p-STAT6 alleviates iron overload and lipid peroxidation by regulating SLC7A11-GPX4 and DMT1. Bone marrow mesenchymal stem cells activate the STAT6 pathway to inhibit neuronal ferroptosis, increase tyrosine hydroxylase expression, and improve Parkinson's disease-related pathological changes and motor deficits.",
+    "date": "2026 Oct 29",
+    "pmid": "42955878",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42955878/"
+  },
+  {
+    "title_en": "Ultrasound-Guided Mobilization of Dual Autophagic Cleaning Crew by Exosomal Rapamycin Ameliorates the Progression of Parkinsonism.",
+    "title_zh": "Ultrasound-Guided Mobilization of Dual Autophagic Cleaning Crew by Exosomal Rapamycin Ameliorates the Progression of Parkinsonism.",
+    "journal": "International journal of nanomedicine",
+    "impact_factor": 6.5,
+    "abstract": "PURPOSE: Autophagy dysfunction is a key contributor to Parkinson's disease (PD) pathogenesis, driving alpha-synuclein (alpha-syn) accumulation and progressive dopaminergic neurodegeneration. Although enhancing autophagic clearance of alpha-syn represents a promising therapeutic strategy, achieving controlled modulation of autophagic flux while maintaining neuronal viability remains challenging. METHODS: A focused ultrasound (FUS)-enabled exosomal rapamycin delivery platform (EXO-RPM) was designed to modulate autophagic degradation in PD models. We systematically characterized their morphology, physicochemical properties, and environmental stability. In vitro studies assessed cellular uptake, cytotoxicity, autophagy induction, autophagic pathway modulation, and alpha-syn clearance. Subsequently, ultrasound-guided brain accumulation, behavioral recovery, brain immunofluorescence, and positron emission tomography (PET) imaging were evaluated in vivo. Finally, the biosafety of the nanoplatform was evaluated via histopathological and biochemical analyses. RESULTS: Under optimized conditions, EXO-RPM achieved a high encapsulation efficiency of 90.14%. This platform exploits endogenous transferrin-transferrin receptor interactions for brain-targeted delivery, while FUS provides spatiotemporal control by transiently opening the blood-brain barrier (BBB) and thereby enhancing drug accumulation in the brain parenchyma. Following FUS-mediated delivery, EXO-RPM reduced alpha-syn aggregation and neuronal toxicity in parkinsonian models. Mechanistically, EXO-RPM treatment activated both macroautophagy and chaperone-mediated autophagy (CMA)-related pathways, thereby promoting autophagic degradation of pathological alpha-syn. These effects were accompanied by increased striatal dopamine levels and elevated [(18)F]FP-(+)-DTBZ uptake in VMAT2-positive synaptic vesicles, as revealed by PET, ultimately ameliorating MPTP-induced motor deficits in parkinsonian mice. CONCLUSION: These findings suggest that FUS-enabled exosomal delivery may provide a strategy for restoring autophagic homeostasis and mitigating alpha-syn-driven neurodegeneration, with potential relevance to PD and other protein aggregation-associated central nervous system (CNS) disorders.",
+    "date": "2026",
+    "pmid": "42953137",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42953137/"
+  },
+  {
     "title_en": "Acceptability of Wearable Digital Devices for Remote Continuous Mobility Monitoring in People With Parkinson Disease and Carers: Qualitative Study.",
     "title_zh": "Acceptability of Wearable Digital Devices for Remote Continuous Mobility Monitoring in People With Parkinson Disease and Carers: Qualitative Study.",
     "journal": "Journal of medical Internet research",
@@ -120,6 +270,16 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42960435/"
   },
   {
+    "title_en": "The Role of Mediterranean, MIND, and Ketogenic Diets in the Management of Parkinson's Disease.",
+    "title_zh": "The Role of Mediterranean, MIND, and Ketogenic Diets in the Management of Parkinson's Disease.",
+    "journal": "Current nutrition reports",
+    "impact_factor": 5.5,
+    "abstract": "PURPOSE OF REVIEW: Parkinson's Disease (PD) is a progressive neurodegenerative disorder characterized by motor and nonmotor symptoms due to dopaminergic neuron degeneration. Recently, there has been growing interest in the impact of different dietary patterns on PD management. This review aims to evaluate the potential benefits and risks of the Mediterranean diet, ketogenic diet, and MIND diet in improving PD symptoms and disease progression. RECENT FINDINGS: The Mediterranean diet, rich in antioxidants and anti-inflammatory components, may help alleviate PD symptoms and slow disease progression. The ketogenic diet has shown promise in improving motor symptoms through the neuroprotective effects of ketone bodies. The MIND diet, known for its cognitive health benefits, may help mitigate cognitive decline in PD patients. However, studies directly assessing the efficacy of these diets in PD are still limited. A balanced diet plays a crucial role in managing PD symptoms and enhancing the quality of life. While current evidence suggests potential benefits of specific dietary patterns, further large-scale and long-term studies are necessary to determine their direct effects on PD progression and symptom management.",
+    "date": "2026 Oct 28",
+    "pmid": "42955473",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42955473/"
+  },
+  {
     "title_en": "Alpha-synuclein: The main actor at the first Patagonia Synuclein workshop.",
     "title_zh": "Alpha-synuclein: The main actor at the first Patagonia Synuclein workshop.",
     "journal": "Journal of Parkinson's disease",
@@ -128,5 +288,15 @@
     "date": "2026 Oct 30",
     "pmid": "42961317",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42961317/"
+  },
+  {
+    "title_en": "Supporting meaningful contributions of people affected by Parkinson's throughout the research process: Key considerations for inclusive patient and public involvement across the globe.",
+    "title_zh": "Supporting meaningful contributions of people affected by Parkinson's throughout the research process: Key considerations for inclusive patient and public involvement across the globe.",
+    "journal": "Journal of Parkinson's disease",
+    "impact_factor": 5.0,
+    "abstract": "Patient and public involvement (PPI), defined as research undertaken with people affected by a condition as partners rather than participants, is increasingly recognized as a marker of high-quality research and is now encouraged or required by many funders. Research agendas and practices need to reflect the realities of people living with Parkinson's Disease (PD) ensuring research addresses the priorities of those affected.This narrative review examines the role of PPI across the research cycle, including priority setting, commissioning, study design, delivery, dissemination, implementation, and evaluation. We provide guidance and practical examples of how meaningful PPI can be achieved in PD research. The review explains how perspectives of lived experience can improve the relevance, feasibility, accessibility, and highlight its impact on PD research. We discuss practical considerations for embedding meaningful PPI, including project governance structures, dedicated staffing, remuneration, flexibility in conduct, and how to embed the perspectives of under-served PD communities in PPI. Finally, we consider challenges and opportunities for PPI in low- and middle-income countries, where underdiagnosis, stigma, health literacy barriers, and structural inequities require culturally responsive and community-led approaches.Involving people affected by Parkinson's as equal partners in research has the potential to improve individual studies and to reshape the wider PD research agenda to be more inclusive, representative, and responsive to the priorities of those most affected.To realise this potential, we must make a collective commitment to treat PPI as a requirement, provide funding and infrastructure support for implementation, and share experiences.",
+    "date": "2026 Oct 27",
+    "pmid": "42937041",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42937041/"
   }
 ]

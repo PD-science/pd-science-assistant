@@ -1,0 +1,12 @@
+[
+  {
+    "title_en": "Iron affects association and dissociation rates of alpha-synuclein iron-responsive element mRNA binding to iron regulatory protein in Parkinson's disease.",
+    "title_zh": "Iron affects association and dissociation rates of alpha-synuclein iron-responsive element mRNA binding to iron regulatory protein in Parkinson's disease.",
+    "journal": "International journal of biological macromolecules",
+    "impact_factor": 8.5,
+    "abstract": "The interaction of alpha-synuclein (alpha-Syn) mRNA with iron regulatory protein 1 (IRP1) may influence translation through an iron-responsive element (IRE) mRNA in the 5'-untranslated region (5'-UTR). We measured the kinetics of alpha-Syn RNA/IRP1 binding across RNA concentrations and temperatures, with and without Fe(2+), and examined the interaction by molecular docking. In the absence of Fe(2+), the observed binding rate constant (k(obs)) increased approximately linearly from 37 s(-1) at 0.1 muM RNA to 358 s(-1) at 1.0 muM RNA. Kinetic analysis yielded an association rate constant (k(on)) of 347 muM(-1) s(-1) and a dissociation rate constant (k(off)) of 11.6 s(-1); addition of 50 muM Fe(2+) reduced k(on) to 138 muM(-1) s(-1) and increased k(off) to 18 s(-1). From 5 to 25  degrees C, k(obs) increased from 79 to 417 s(-1) without Fe(2+) and from 23 to 256 s(-1) with Fe(2+). Fe(2+) also increased the estimated activation energy for binding from 10.5 to 20.4 kcal/mol. Molecular docking predicted hydrogen-bond-mediated contacts between alpha-Syn RNA and internal pockets of IRP1. Together, the measured decrease in association rate, increase in dissociation rate, and change in activation energy demonstrate that Fe(2+) alters alpha-Syn RNA/IRP1 binding kinetics, providing an experimentally grounded mechanism to investigate iron-dependent regulation of alpha-Syn translation.",
+    "date": "2026 Oct 31",
+    "pmid": "42966587",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966587/"
+  }
+]
