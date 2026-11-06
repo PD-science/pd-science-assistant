@@ -1,0 +1,212 @@
+[
+  {
+    "title_en": "Clearing the way for a transformative stem-cell treatment for Parkinson's disease.",
+    "title_zh": "Clearing the way for a transformative stem-cell treatment for Parkinson's disease.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42983048",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983048/"
+  },
+  {
+    "title_en": "How a once-controversial idea is advancing understanding of Parkinson's disease.",
+    "title_zh": "How a once-controversial idea is advancing understanding of Parkinson's disease.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42983047",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983047/"
+  },
+  {
+    "title_en": "Fine-tuning brain stimulation to fight Parkinson's disease.",
+    "title_zh": "Fine-tuning brain stimulation to fight Parkinson's disease.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42983046",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983046/"
+  },
+  {
+    "title_en": "How the brain protects itself from Parkinson's disease.",
+    "title_zh": "How the brain protects itself from Parkinson's disease.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42983045",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983045/"
+  },
+  {
+    "title_en": "Could chemicals contribute to Parkinson's?",
+    "title_zh": "Could chemicals contribute to Parkinson's?",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42983044",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983044/"
+  },
+  {
+    "title_en": "Replacing the neurons that Parkinson's destroys.",
+    "title_zh": "Replacing the neurons that Parkinson's destroys.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42983043",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983043/"
+  },
+  {
+    "title_en": "Six highlights from Parkinson's disease research.",
+    "title_zh": "Six highlights from Parkinson's disease research.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42983042",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983042/"
+  },
+  {
+    "title_en": "Progress accelerates in Parkinson's treatments.",
+    "title_zh": "Progress accelerates in Parkinson's treatments.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov",
+    "pmid": "42983040",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983040/"
+  },
+  {
+    "title_en": "Parkinson's: beyond the brain.",
+    "title_zh": "Parkinson's: beyond the brain.",
+    "journal": "Nature",
+    "impact_factor": 48.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov 4",
+    "pmid": "42982969",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982969/"
+  },
+  {
+    "title_en": "Screening for Parkinson's disease across questionnaires using language models.",
+    "title_zh": "Screening for Parkinson's disease across questionnaires using language models.",
+    "journal": "Nature aging",
+    "impact_factor": 19.4,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov 4",
+    "pmid": "42983009",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983009/"
+  },
+  {
+    "title_en": "Language modeling screens Parkinson's disease with self-reported questionnaires.",
+    "title_zh": "Language modeling screens Parkinson's disease with self-reported questionnaires.",
+    "journal": "Nature aging",
+    "impact_factor": 19.4,
+    "abstract": "Parkinson's disease (PD) is a growing public health challenge as populations age. Current diagnosis relies on motor symptoms and invasive procedures, making early detection difficult. Here we present Quest2Dx, a generalized artificial intelligence model that analyzes health questionnaires to enable low-cost, non-invasive PD screening. Conventional models are built for each questionnaire, and missing responses degrade their performance. Quest2Dx uses language modeling to encode the meaning of each question and answer, allowing it to transfer across questionnaires while enhancing interpretability. On the Parkinson's Progression Markers Initiative (PPMI) Online and Fox Insight datasets, Quest2Dx achieved areas under the receiver operating characteristic curve (AUROCs) of 0.977 and 0.974, respectively, outperforming existing methods. Additionally, cross-questionnaire validation achieved AUROCs of 0.920 and 0.952, respectively, from PPMI Online to Fox Insight and vice versa. Quest2Dx also identified key predictors from the questions to provide further insights. These results indicate a promising path to PD screening in primary care.",
+    "date": "2026 Nov 4",
+    "pmid": "42983008",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983008/"
+  },
+  {
+    "title_en": "Brain clearance of protein aggregates in degenerative diseases: the role of microglia and astrocytes.",
+    "title_zh": "Brain clearance of protein aggregates in degenerative diseases: the role of microglia and astrocytes.",
+    "journal": "Translational neurodegeneration",
+    "impact_factor": 15.2,
+    "abstract": "Protein aggregation and impaired clearance constitute central pathological hallmarks of numerous neurodegenerative diseases, including Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, and frontotemporal dementia. Misfolded proteins, both extracellular and intracellular, disrupt proteostasis and contribute to synaptic dysfunction, neuroinflammation, and neuronal loss. Within the central nervous system, glial cells serve as the primary mediators of pathological protein clearance. Microglia detect, phagocytose, and degrade aggregated proteins. However, under chronic pathological stress, microglial function turns from clearing pathological proteins to paradoxically facilitating their spread. Astrocytes, which provide metabolic and homeostatic support for neurons, also participate in the clearance of aggregates through phagocytosis and glymphatic drainage. Critically, crosstalk between astrocytes and microglia enhances the clearance: microglia can recruit and process aggregates internalized by astrocytes, while astrocyte-derived signals modulate the microglial phagocytic activity. Aging, genetic risk factors, or sustained neuroinflammation may reduce the efficiency of glial removal of aggregates and accelerate disease progression. Understanding the cellular and molecular underpinnings of microglial and astrocytic clearance pathways is essential for developing therapies aimed at restoring proteostasis and mitigating neurodegeneration.",
+    "date": "2026 Nov 4",
+    "pmid": "42983584",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983584/"
+  },
+  {
+    "title_en": "Plasmonic Mediated Atomically Thin Aluminum Quasicrystal for Dopamine Sensing.",
+    "title_zh": "Plasmonic Mediated Atomically Thin Aluminum Quasicrystal for Dopamine Sensing.",
+    "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+    "impact_factor": 12.1,
+    "abstract": "Dopamine levels are linked to neurological illnesses like Parkinson's and Alzheimer's. Thus, reliable and sensitive detection of dopamine is crucial for early diagnosis and surveillance of neurodegenerative diseases. Non-noble-metal-based nanomaterials are ideal for light-mediated sensing of organic molecules. Among these, two-dimensional (2D) quasicrystal (QC) structures consisting of five elements (Al(70)Co(10)Fe(5)Ni(10)Cu(5) (2D Al QC)) provide active sites due to their high surface-to-volume ratio, making them excellent for organic chemical sensing. Here, we propose a simple, label-free, spatial self-phase-modulation (SSPM)-based sensing method in liquid form. SSPM-based time evolution of the diffraction pattern for varied mixing levels of a 1100 ppb dopamine solution shows a shift in the SPR-activated 2D Al QC nanostructure solution. The 1100 ppb solution shows a different dN/dI value, indicating a change in sensitivity to the nonlinear refractive index and time constant. SSPM is used to demonstrate dopamine-sensing methods and to perform qualitative and quantitative evaluations. The SSPM-based sensing has been further compared with other optical sensing methods, such as Raman Spectroscopy, UV-vis Spectroscopy, and FTIR Spectroscopy. The experimental observations are also explained using DFTB-based simulations.The current SSPM method can be used for rapid, large-scale medical diagnostics.",
+    "date": "2026 Nov 5",
+    "pmid": "42987188",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42987188/"
+  },
+  {
+    "title_en": "Protein adduction by multiple aldehydes contributes to alpha-synuclein aggregation and dopaminergic neuron loss in rat models of Parkinson's disease.",
+    "title_zh": "Protein adduction by multiple aldehydes contributes to alpha-synuclein aggregation and dopaminergic neuron loss in rat models of Parkinson's disease.",
+    "journal": "Redox biology",
+    "impact_factor": 11.9,
+    "abstract": "Dopaminergic neurodegeneration in the substantia nigra causes the motor symptoms of Parkinson's disease (PD). The mechanisms underlying this neurodegeneration remain unclear. Aldehydes exhibit high reactivity that can covalently modify functional proteins and cause cell damage. This study aimed to characterize protein adduction by endogenous aldehydes and investigate its role in dopaminergic neuron loss in PD. Forty free aldehydes were identified in rat models of PD induced by 6-hydroxydopamine (6-OHDA) and rotenone using chemical isotope labeling coupled with high-resolution mass spectrometry. Twenty-two aldehydes were found in the rat brain for the first time. In addition to lipid peroxidation, amine oxidation was the major source of aldehydes. Levels of 27 aldehyde-protein adducts in the substantia nigra and striatum were increased by 1- to 5-fold at 4-6 h after 6-OHDA injection. Consistently, most of these protein adducts were significantly increased in the rotenone model. Application of the trapping reagent phenelzine and the aldehyde dehydrogenase-2 activator Alda-1 reduced protein adduction by aldehydes and attenuated neuron loss induced by 6-OHDA injection. Twelve aldehydes covalently modified alpha-synuclein in 6-OHDA-treated rats, with the lysine residue in the GLSK peptide identified as the primary binding target. Aldehydes caused peptide crosslinking and aggregation of alpha-synuclein. Additive effects of covalent modification by aldehydes contributed to neuron death. Collectively, protein adduction by multiple aldehydes contributes to alpha-synuclein aggregation and dopaminergic neuron loss in rat models of PD. Multiple biogenic aldehydes, especially those from abnormal oxidation of amines, represent a novel class of toxic molecules that play a pathogenic role in PD.",
+    "date": "2026 Nov 2",
+    "pmid": "42981985",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981985/"
+  },
+  {
+    "title_en": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease.",
+    "title_zh": "Skin Seed Amplification Assay Differentiates Multiple System Atrophy from Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Misdiagnoses of multiple system atrophy (MSA) and Parkinson's disease (PD) remain common. OBJECTIVE: The objective of the study was to develop a skin alpha-synuclein seed amplification assay (alphaSyn-SAA) for detecting pathological alpha-synuclein and distinguishing MSA from PD. METHODS: In this blinded, cross-sectional study, 308 skin biopsies from 117 participants were analyzed using a standardized thioflavin T fluorescence-based alphaSyn-SAA protocol. The cohort included 42 PD, 31 MSA, 30 controls, and 14 progressive supranuclear palsy (PSP) cases. Kinetic parameters were analyzed to differentiate PD from MSA, and matched skin cerebrospinal fluid (CSF)/magnetic resonance imaging (MRI) analyses were performed. Assay thresholds were predefined using brain lysates from neuropathologically confirmed cases. Fibril morphology from amplified skin samples was compared to postmortem brain using proteinase K digestion and electron microscopy. RESULTS: alphaSyn-SAA detected synucleinopathy (PD or MSA) with 82.2% sensitivity and 90% specificity versus controls. Receiver operating characteristic (ROC) analysis showed that maximum fluorescence (F(max), area under the curve [AUC] = 0.93) and lag time (AUC = 0.91) distinguished PD from MSA at the biopsy level. SAA positivity correlated with rapid eye movement (REM) sleep behavior disorder (RBD) in both disorders. Among SAA-positive cases, the 50% mean F(max) cutoff correctly classified the underlying synucleinopathy in 81.7% of cases (49 of 60). Disease-specific kinetic and structural signatures were reproducible across laboratories and alphaSyn substrate batches and were supported by concordant findings in a subset of skin samples matched to CSF, MRI data, and postmortem brain tissue. CONCLUSION: Skin alphaSyn-SAA detects pathological alpha-synuclein in living patients with high accuracy and distinguishes MSA from PD based on assay kinetics and fibril strain properties, supporting its potential as a biomarker to distinguish among synucleinopathies. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Nov 5",
+    "pmid": "42984461",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984461/"
+  },
+  {
+    "title_en": "Regional Mitochondrial Density Maps Selective Posterior Atrophy in Parkinson's Disease.",
+    "title_zh": "Regional Mitochondrial Density Maps Selective Posterior Atrophy in Parkinson's Disease.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Mitochondrial dysfunction has been implicated in the pathobiology of Parkinson's disease (PD), yet the spatial relationship between regional energetic demand and patterns of neurodegeneration remains poorly understood, limiting mechanistic insight and development of disease-modifying therapies. OBJECTIVES: This study tested whether regional mitochondrial density aligns with patterns of brain atrophy in PD, how this alignment differs across genetic groups, and whether the mitochondrial-atrophy axis associates with motor and cognitive features. METHODS: Structural magnetic resonance imaging data were analyzed from 849 individuals (210 healthy controls, 639 patients with PD). Principal component analysis (PCA) identified dominant atrophy axes and tested their association with regional mitochondrial density and complex I activity. Transcriptomic validation used Allen Human Brain Atlas gene expression data restricted to 924 MitoCarta-annotated genes across 31 cortical regions. RESULTS: Participants with PD exhibited higher volumetric loss in limbic and subcortical regions than controls. PCA showed a posterior cortical axis of atrophy (PC3) that correlated positively with regional mitochondrial density and was more strongly expressed in LRRK2-PD than in sporadic PD. This axis was selectively associated with visuospatial dysfunction. Transcriptomic validation confirmed that regions of greater atrophy preferentially expressed mitochondrial genes, with mitoribosome assembly, mitochondrial DNA maintenance, and coenzyme Q biosynthesis emerging as the strongest pathway-level predictors. CONCLUSION: These findings link the brain's regional mitochondrial landscape to spatially patterned neurodegeneration in PD, with amplification in LRRK2 mutation carriers. This mitochondrial atrophy axis may provide a biologically informed marker aiding patient stratification and mitochondrial-targeted therapeutic development. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Nov 5",
+    "pmid": "42984454",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984454/"
+  },
+  {
+    "title_en": "Early and Extensive Degeneration of Sensory Neurons in Spinocerebellar Ataxia Type 3.",
+    "title_zh": "Early and Extensive Degeneration of Sensory Neurons in Spinocerebellar Ataxia Type 3.",
+    "journal": "Movement disorders : official journal of the Movement Disorder Society",
+    "impact_factor": 7.6,
+    "abstract": "BACKGROUND: Postmortem studies have shown significant degeneration of the peripheral nervous system (PNS) in spinocerebellar ataxia type 3 (SCA3). Although PNS involvement accelerates overall ataxia progression, PNS biomarkers for therapeutic trials are lacking and our mechanistic understanding of related clinical manifestations remains incomplete. OBJECTIVE: We employed a multimodal approach to characterize and quantify peripheral sensory nervous system degeneration throughout the course of SCA3. METHODS: Forty SCA3 mutation carriers, including 10 preataxic individuals, were enrolled in this study. Detailed clinical assessments of ataxia and neuropathy severity were combined with high-resolution nerve ultrasound and electrophysiological examinations to evaluate cross-sectional areas (CSAs) and sensory action potential amplitudes of upper and lower limb nerves. RESULTS: Sensory axonal loss in at least one nerve was found in 97% of ataxic and 50% of preataxic individuals. Ultrasound examinations showed CSA reductions at one or more measurement sites in at least two nerves in all participants. Upper limb nerves were more commonly affected than the sural nerve, which supports a widespread, non-length-dependent pattern of axonal damage. The degree of sensory axonal loss was associated with ataxia severity, estimated disease duration, and patient-reported ability to perform activities of daily living. CONCLUSIONS: Abnormalities of the peripheral sensory nervous system are highly prevalent in SCA3, emerge before ataxia onset, and reflect disease severity. The combination of electrophysiological and ultrasound profiles suggests early involvement of the dorsal root ganglia, highlighting an underestimated source of (sensory) ataxia in SCA3. Longitudinal studies are warranted to validate the biomarker potential of these measures. (c) 2026 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+    "date": "2026 Nov 5",
+    "pmid": "42984350",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42984350/"
+  },
+  {
+    "title_en": "Predicting progression in Parkinson's disease.",
+    "title_zh": "Predicting progression in Parkinson's disease.",
+    "journal": "Journal of neurology, neurosurgery, and psychiatry",
+    "impact_factor": 7.5,
+    "abstract": "暂无摘要",
+    "date": "2026 Nov 4",
+    "pmid": "42982581",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982581/"
+  },
+  {
+    "title_en": "Artificial intelligence-based voice biomarkers for early detection and monitoring of neurological diseases: current evidence, limitations, and clinical perspectives.",
+    "title_zh": "Artificial intelligence-based voice biomarkers for early detection and monitoring of neurological diseases: current evidence, limitations, and clinical perspectives.",
+    "journal": "Computers in biology and medicine",
+    "impact_factor": 6.3,
+    "abstract": "BACKGROUND: Early diagnosis and longitudinal monitoring of neurological diseases remain major clinical challenges because current diagnostic approaches are often expensive, invasive, or insufficiently sensitive to detect early functional changes. In recent years, artificial intelligence (AI) has emerged as a promising approach for analyzing voice and speech as non-invasive digital biomarkers capable of capturing subtle alterations associated with neurological dysfunction. METHODS: This narrative review analyzed studies published between 2015 and 2026 retrieved from PubMed, Scopus, Web of Science, and Google Scholar. The review critically examines the limitations of current neurological diagnostic methods, summarizes the available evidence on AI-based voice and speech biomarkers, discusses machine learning and deep learning approaches applied to speech analysis, and evaluates the methodological, ethical, and regulatory challenges that currently limit their clinical implementation. RESULTS: Current evidence indicates that AI-based voice biomarkers have considerable potential for screening, diagnostic support, and longitudinal monitoring of neurological disorders, including Parkinson's disease, Alzheimer's disease, multiple sclerosis, and other neurodegenerative conditions. Several studies report high diagnostic performance under controlled experimental settings. However, substantial heterogeneity in study design, sample size, languages, speech acquisition protocols, validation strategies, and reporting standards limits direct comparison between studies and hinders clinical translation. External validation and prospective multicenter studies remain scarce. CONCLUSION: AI-based voice analysis represents a promising, scalable, and non-invasive complement to conventional neurological assessment, with particular potential for remote screening and disease monitoring. Nevertheless, current evidence does not yet support routine clinical implementation. Future progress will depend on standardized speech acquisition protocols, robust external validation across diverse populations, explainable AI models, and regulatory frameworks capable of ensuring safety, reproducibility, and clinical reliability.",
+    "date": "2026 Nov 4",
+    "pmid": "42981649",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42981649/"
+  },
+  {
+    "title_en": "Association between functional connectome features and circulating amino acid levels in early-stage Parkinson's disease: An exploratory study.",
+    "title_zh": "Association between functional connectome features and circulating amino acid levels in early-stage Parkinson's disease: An exploratory study.",
+    "journal": "Neurobiology of disease",
+    "impact_factor": 5.6,
+    "abstract": "Parkinson's disease (PD) is characterized by early alterations in large-scale brain functional connectivity and possible disturbances in excitatory amino acid metabolism. However, it is unknown whether topological changes in functional connectome reflect disruptions in the homeostasis of circulating glutamate and aspartate levels. Resting-state fMRI and High-Performance Liquid Chromatography are used to correlate brain and blood measures in 74 early-stage PD patients (mean age +/- s.d. 63.5 +/- 8.6 years, 51 males, 37 drug-naive) and 20 healthy control (HC) volunteers (mean age +/- s.d. 60.2 +/- 5.6, 11 males). PD-relevant graph-theoretical metrics of fMRI connectomes are co-varied to serum-levels of N-Methyl-d-aspartate receptor (NMDAR)-related (L-/D-) amino acids (including precursors and related ratios). In male PD patients, compared to sex-matched HC subjects, strength of cortical sensorimotor nodes and clustering of subcortical nodes negatively correlate to D-/total aspartate ratio; clustering of temporal nodes positively correlates to l-aspartate; global characteristic path length negatively correlates to L-glutamate. Enlarging the panel of L-amino acids, l-serine markedly predicts metrics in treated male PD patients. Peripheral balance of excitatory amino acids and their precursors appear linked to large-scale brain network (re)organization in early-stage PD, supporting the potential value of these neuroactive biomolecules as circulating markers of functional brain integrity.",
+    "date": "2026 Nov 4",
+    "pmid": "42982204",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982204/"
+  },
+  {
+    "title_en": "Personalized Postoperative Pain Management and Therapies Based on Pharmacogenomics.",
+    "title_zh": "Personalized Postoperative Pain Management and Therapies Based on Pharmacogenomics.",
+    "journal": "Current neuropharmacology",
+    "impact_factor": 5.3,
+    "abstract": "Postoperative pain management must account for differences in drug metabolism, pain phenotype, prior opioid exposure, psychosocial vulnerability, and cognitive function. This narrative review proposes a staged precision-medicine framework separating clinically actionable pharmacogenomics from heterogeneous risk modifiers and investigational adjuncts. The strongest actionable guidance concerns CYP2D6-guided codeine and tramadol prescribing. Other genetic markers require interpretation alongside procedure-specific pain, comorbidities, medication exposure, and patient preferences rather than use as deterministic prescribing rules. Dopamine-related pathways provide a mechanistic link between pain, reward, motivation, and attention. Parkinson disease illustrates dopamine-pain interactions but is not a direct model of postoperative pain. Reward Deficiency Syndrome, the Genetic Addiction Risk Severity/Score, and the Reward Deficiency Syndrome Questionnaire-29 are considered exploratory constructs rather than validated tools for postoperative prescribing. The Continuous Visual Attention Test may offer objective neurocognitive monitoring through reaction time, response variability, and error measures. These measures are not pain-specific and require interpretation in the context of anesthesia, opioids, sedatives, sleep disruption, mood, delirium, baseline cognition, and pain intensity. Prospective studies should determine whether integrating clinical assessment, established pharmacogenomic guidance, and investigational behavioral and neurocognitive measures improves pain outcomes, opioid requirements, adherence, functional recovery, and safety. The framework defines research priorities and implementation endpoints while preserving multimodal analgesia, opioid stewardship, and clinical judgment as the foundation of care.",
+    "date": "2026 Oct 30",
+    "pmid": "42983932",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983932/"
+  }
+]
